@@ -221,15 +221,28 @@
     },
   };
 
+  /* The canvas is sized to exactly the area the game lays itself out in. iPad Safari's 100vh is taller than the
+     visible page while its toolbars show, which stretched the picture and made taps land off from where they looked. */
+  let viewW = 1, viewH = 1;
   function resize() {
+    const vv = window.visualViewport;
+    const cw = Math.max(1, Math.round(vv && vv.scale === 1 ? vv.width : window.innerWidth));
+    const ch = Math.max(1, Math.round(vv && vv.scale === 1 ? vv.height : window.innerHeight));
+    viewW = cw; viewH = ch;
+    canvas.style.width = cw + 'px'; canvas.style.height = ch + 'px';
     const dpr = Math.min(window.devicePixelRatio || 1, 2);
-    const w = Math.max(1, Math.round(window.innerWidth * dpr)), h = Math.max(1, Math.round(window.innerHeight * dpr));
+    const w = Math.max(1, Math.round(cw * dpr)), h = Math.max(1, Math.round(ch * dpr));
     if (canvas.width !== w || canvas.height !== h) { canvas.width = w; canvas.height = h; }
-    if (ex) ex.tp_resize(w, h, w / window.innerWidth);
+    if (ex) ex.tp_resize(w, h, w / cw);
   }
 
   function hookInput() {
-    const pos = e => { const r = canvas.getBoundingClientRect(); return [e.clientX - r.left, e.clientY - r.top]; };
+    /* map the touch into the game's own coordinates, whatever size the browser actually shows the canvas at */
+    const pos = e => {
+      const r = canvas.getBoundingClientRect();
+      const sx = r.width > 0 ? viewW / r.width : 1, sy = r.height > 0 ? viewH / r.height : 1;
+      return [(e.clientX - r.left) * sx, (e.clientY - r.top) * sy];
+    };
     canvas.addEventListener('pointerdown', e => {
       e.preventDefault();
       try { canvas.setPointerCapture(e.pointerId); } catch (_) {}
@@ -266,6 +279,9 @@
       else if (musicWanted && unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {});
     });
     window.addEventListener('resize', resize);
+    if (window.visualViewport) window.visualViewport.addEventListener('resize', resize);
+    /* iOS reports the new size a little after it rotates */
+    window.addEventListener('orientationchange', () => { resize(); setTimeout(resize, 120); setTimeout(resize, 400); });
   }
 
   /* WebAssembly first; a plain-JavaScript build of the same core covers hosts that block it */
