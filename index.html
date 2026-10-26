@@ -14,7 +14,7 @@
   :root.dark { --bg: #1b1916; --ink: #f1ede7; --soft: #9e968c; --hair: #37322d; }
   html, body { margin: 0; height: 100%; background: var(--bg); overflow: hidden; overscroll-behavior: none; }
   body { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; -webkit-tap-highlight-color: transparent; }
-  canvas { position: fixed; inset: 0; width: 100vw; height: 100vh; display: block; touch-action: none; outline: none; }
+  canvas { position: fixed; left: 0; top: 0; width: 100%; height: 100%; display: block; touch-action: none; outline: none; -webkit-user-select: none; }
   #loader { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px;
             background: var(--bg); color: var(--soft); font: 14px/1.4 -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
             transition: opacity .25s ease; }
