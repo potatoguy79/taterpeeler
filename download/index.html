@@ -131,7 +131,15 @@
         'On the iPad: <b>Settings → General → VPN &amp; Device Management</b>, tap your Apple Account and <b>Trust</b>. On iOS 16 or later, also turn on <b>Settings → Privacy &amp; Security → Developer Mode</b> and restart.',
         'With a free Apple Account the app works for 7 days; reinstall it with Sideloadly to keep playing. Your progress stays.'
       ] },
-    { id: 'deb', group: 'mobile', file: 'TaterPeeler-iOS-Cydia.deb', name: 'Jailbroken iPad 1', sub: 'iOS 5 or 6 with Cydia · also any jailbroken device',
+    { id: 'ipa5', group: 'mobile', file: 'TaterPeeler-iOS5.ipa', name: 'Jailbroken iPad 1 or old iPhone', sub: 'iOS 5 or 6 with AppSync · installed with 3uTools',
+      steps: [
+        'Download this on a computer. Old iPads can’t open today’s websites.',
+        'The iPad needs a jailbreak with <b>AppSync</b> installed from Cydia, so it accepts apps from outside the App Store.',
+        'On a Windows PC, install <a href="https://www.3u.com">3uTools</a> and connect the iPad with a cable.',
+        'In 3uTools open <b>Apps</b>, click <b>Install</b> (Import &amp; Install) and choose <b>TaterPeeler-iOS5.ipa</b>. If an older TaterPeeler is on the iPad, delete it first.',
+        'Open TaterPeeler. The first start shows a spinning wheel for a few seconds while the game loads.'
+      ] },
+    { id: 'deb', group: 'mobile', file: 'TaterPeeler-iOS-Cydia.deb', name: 'Cydia package', sub: 'any jailbroken iPad or iPhone, including the iPad 1',
       steps: [
         'Download this on a computer. Old iPads can’t open today’s websites.',
         'On the iPad, install <b>OpenSSH</b> from Cydia, and find its Wi-Fi address in <b>Settings → Wi-Fi</b> → the blue arrow by your network.',

@@ -224,13 +224,15 @@
   /* The canvas is sized to exactly the area the game lays itself out in. iPad Safari's 100vh is taller than the
      visible page while its toolbars show, which stretched the picture and made taps land off from where they looked. */
   let viewW = 1, viewH = 1;
+/* ?rs=0.75 draws at a fraction of the screen's resolution (for slow devices); the browser scales it up */
+const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).get('rs') || 1); return v >= 0.4 && v <= 1 ? v : 1; })();
   function resize() {
     const vv = window.visualViewport;
     const cw = Math.max(1, Math.round(vv && vv.scale === 1 ? vv.width : window.innerWidth));
     const ch = Math.max(1, Math.round(vv && vv.scale === 1 ? vv.height : window.innerHeight));
     viewW = cw; viewH = ch;
     canvas.style.width = cw + 'px'; canvas.style.height = ch + 'px';
-    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    const dpr = Math.min(window.devicePixelRatio || 1, 2) * RENDER_SCALE;
     const w = Math.max(1, Math.round(cw * dpr)), h = Math.max(1, Math.round(ch * dpr));
     if (canvas.width !== w || canvas.height !== h) { canvas.width = w; canvas.height = h; }
     if (ex) ex.tp_resize(w, h, w / cw);
