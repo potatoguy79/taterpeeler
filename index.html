@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="theme-color" content="#ffffff">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="TaterPeeler: peel photoscanned potatoes with a real Y-peeler. Made by Andres Campos.">
+<title>TaterPeeler</title>
+<link rel="icon" type="image/png" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-180.png">
+<style>
+  :root { --bg: #ffffff; --ink: #26221e; --soft: #8a8279; --hair: #e6e1da; }
+  :root.dark { --bg: #1b1916; --ink: #f1ede7; --soft: #9e968c; --hair: #37322d; }
+  html, body { margin: 0; height: 100%; background: var(--bg); overflow: hidden; overscroll-behavior: none; }
+  body { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; -webkit-tap-highlight-color: transparent; }
+  canvas { position: fixed; inset: 0; width: 100vw; height: 100vh; display: block; touch-action: none; outline: none; }
+  #loader { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px;
+            background: var(--bg); color: var(--soft); font: 14px/1.4 -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+            transition: opacity .25s ease; }
+  #loader.gone { opacity: 0; pointer-events: none; }
+  #loader .track { width: 140px; height: 2px; background: var(--hair); border-radius: 1px; overflow: hidden; }
+  #loader-bar { width: 100%; height: 100%; background: var(--ink); transform: scaleX(0); transform-origin: left center; transition: transform .2s ease; }
+  @media (prefers-reduced-motion: reduce) { #loader, #loader-bar { transition: none; } }
+</style>
+</head>
+<body>
+<canvas id="game" tabindex="0" aria-label="TaterPeeler game"></canvas>
+<div id="loader" role="status"><div class="track"><div id="loader-bar"></div></div><div class="msg">Loading potatoes</div></div>
+<script>window.TP_DOWNLOAD_PAGE = "download/";</script>
+<script src="tp.js"></script>
+</body>
+</html>
