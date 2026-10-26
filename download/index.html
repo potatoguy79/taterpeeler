@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Download TaterPeeler</title>
+<meta name="description" content="Download TaterPeeler for Mac, Windows, iPad and iPhone. Made by Andres Campos.">
+<link rel="icon" type="image/png" href="../icon-192.png">
+<link rel="apple-touch-icon" href="../icon-180.png">
+<style>
+  @font-face { font-family: "Archivo"; src: url("archivo.woff2") format("woff2"); font-weight: 100 900; font-stretch: 62% 125%; font-display: swap; }
+  :root {
+    --bg: #ffffff; --ink: #26221e; --soft: #6c645c; --hair: #dad3ca; --panel: #f5f2ee; --accent: #26221e; --accent-ink: #ffffff;
+    --ok: #2e7d32; --bad: #b3261e; color-scheme: light;
+  }
+  :root.dark { --bg: #1b1916; --ink: #f1ede7; --soft: #b0a89d; --hair: #433d37; --panel: #25221f; --accent: #f1ede7; --accent-ink: #1b1916; --ok: #81c784; --bad: #f2766b; color-scheme: dark; }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 "Archivo", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; font-stretch: 100%; }
+  main { max-width: 760px; margin: 0 auto; padding: max(28px, env(safe-area-inset-top)) 20px 56px; }
+  a { color: inherit; }
+  .top { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+  .back { display: inline-flex; align-items: center; gap: 8px; font-weight: 580; text-decoration: none; padding: 8px 0; }
+  .back svg { width: 18px; height: 18px; }
+  .back:hover span { text-decoration: underline; text-underline-offset: 3px; }
+  header { display: flex; align-items: center; gap: 18px; margin: 28px 0 8px; }
+  header img { width: 72px; height: 72px; border-radius: 16px; flex: none; box-shadow: 0 1px 0 var(--hair), 0 0 0 1px var(--hair); }
+  h1 { font-weight: 790; font-stretch: 72%; font-size: clamp(40px, 9vw, 60px); line-height: 0.95; margin: 0; letter-spacing: -0.01em; }
+  .lead { color: var(--soft); margin: 6px 0 0; }
+  h2 { font-weight: 580; font-size: 14px; color: var(--soft); margin: 40px 0 10px; letter-spacing: 0.02em; }
+  .list { border-top: 1px solid var(--hair); }
+  .row { border-bottom: 1px solid var(--hair); padding: 18px 0; }
+  .row.pick { border: 2px solid var(--accent); border-radius: 18px; padding: 18px 18px; margin: 10px -20px; background: var(--panel); }
+  .line { display: flex; align-items: center; gap: 16px; }
+  .info { flex: 1; min-width: 0; }
+  .name { font-weight: 580; font-size: 18px; display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .tag { font-size: 12px; font-weight: 580; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 2px 9px; position: relative; top: -1px; }
+  .sub { color: var(--soft); font-size: 14px; margin-top: 2px; }
+  .btn { flex: none; appearance: none; border: 0; cursor: pointer; font: inherit; font-weight: 580; font-size: 15px; text-decoration: none;
+         display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-width: 148px; height: 44px; padding: 0 20px; border-radius: 999px;
+         background: var(--accent); color: var(--accent-ink); transition: transform .12s ease, opacity .15s ease; }
+  .btn.ghost { background: transparent; color: var(--ink); box-shadow: inset 0 0 0 1.3px color-mix(in srgb, var(--ink) 30%, transparent); }
+  .btn:hover { opacity: 0.88; }
+  .btn:active { transform: scale(0.97); }
+  .btn[disabled] { cursor: default; opacity: 0.75; transform: none; }
+  .btn svg { width: 17px; height: 17px; }
+  .progress { height: 4px; background: var(--hair); border-radius: 2px; overflow: hidden; margin-top: 12px; display: none; }
+  .progress i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .2s ease; }
+  .status { font-size: 13px; margin-top: 6px; color: var(--soft); min-height: 0; }
+  .status.ok { color: var(--ok); } .status.bad { color: var(--bad); }
+  details { margin-top: 10px; }
+  summary { cursor: pointer; color: var(--soft); font-size: 14px; font-weight: 580; list-style: none; display: inline-flex; align-items: center; gap: 6px; }
+  summary::-webkit-details-marker { display: none; }
+  summary::before { content: ""; width: 7px; height: 7px; border-right: 1.6px solid currentColor; border-bottom: 1.6px solid currentColor; transform: rotate(-45deg); transition: transform .15s ease; margin-right: 2px; }
+  details[open] summary::before { transform: rotate(45deg); }
+  ol { margin: 10px 0 0; padding-left: 22px; font-size: 15px; }
+  ol li { margin: 4px 0; }
+  ol li::marker { color: var(--soft); font-weight: 580; }
+  code { font: 13.5px/1.4 ui-monospace, "SF Mono", Menlo, Consolas, monospace; background: var(--panel); border: 1px solid var(--hair); border-radius: 6px; padding: 1px 5px; word-break: break-all; }
+  .row.pick code { background: var(--bg); }
+  .note { color: var(--soft); font-size: 14px; margin-top: 28px; }
+  footer { margin-top: 48px; color: var(--soft); font-size: 14px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
+  @media (max-width: 560px) {
+    .line { flex-direction: column; align-items: stretch; gap: 12px; }
+    .btn { width: 100%; }
+    .row.pick { margin: 10px -10px; padding: 16px 14px; }
+  }
+  @media (prefers-reduced-motion: reduce) { .btn, .progress i, summary::before { transition: none; } }
+  :focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; border-radius: 6px; }
+</style>
+<script>
+  /* follow the game's own light/dark choice, or the system's when the game has never been opened here */
+  (function () {
+    var dark = false;
+    try { var s = localStorage.getItem('taterpeeler.save.v1'); if (s) dark = /(^|;)dark=1/.test(s); else dark = matchMedia('(prefers-color-scheme: dark)').matches; } catch (e) {}
+    if (dark) document.documentElement.classList.add('dark');
+  })();
+</script>
+</head>
+<body>
+<main>
+  <div class="top">
+    <a class="back" href="../"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.5 4.5 7 10l5.5 5.5"/></svg><span>Play in your browser</span></a>
+  </div>
+  <header>
+    <img src="../icon-192.png" alt="" width="72" height="72">
+    <div>
+      <h1>Get TaterPeeler</h1>
+      <p class="lead">The whole game, on your own device. Version 1.2.</p>
+    </div>
+  </header>
+
+  <h2 id="h-computers">Computers</h2>
+  <div class="list" id="computers"></div>
+  <h2 id="h-ipad">iPad and iPhone</h2>
+  <div class="list" id="mobile"></div>
+
+  <p class="note">Your progress is saved on each device separately, so a fresh install starts at 0 potatoes.</p>
+  <footer><span>Made by Andres Campos</span><span>TaterPeeler 1.2</span></footer>
+</main>
+
+<script src="files/manifest.js"></script>
+<script>
+(function () {
+  'use strict';
+  var F = window.TP_FILES || {};
+  var DL = '<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3.5v9M6 9l4 4 4-4M4 16.5h12"/></svg>';
+
+  var ITEMS = [
+    { id: 'mac-arm', group: 'computers', file: 'TaterPeeler-macOS-AppleSilicon.zip', name: 'Mac with Apple chip', sub: 'M1 or newer · macOS 13 Ventura or later',
+      steps: [
+        'Download the file, then open it from your Downloads folder. You get <b>TaterPeeler</b>.',
+        'Drag TaterPeeler into your <b>Applications</b> folder, then open it.',
+        'If macOS says it can’t open it, go to <b>System Settings → Privacy &amp; Security</b>, scroll down and click <b>Open Anyway</b>, then enter your password. You only do this once.',
+        'Still blocked, or it says the app is damaged? Open <b>Terminal</b>, paste <code>xattr -cr /Applications/TaterPeeler.app</code>, press Return, then open TaterPeeler again.'
+      ] },
+    { id: 'mac-intel', group: 'computers', file: 'TaterPeeler-macOS-Intel.zip', name: 'Mac with Intel chip', sub: 'macOS 13 Ventura or later',
+      steps: 'mac-arm' },
+    { id: 'win', group: 'computers', file: 'TaterPeeler-Windows-x64.zip', name: 'Windows', sub: 'Windows 10 or 11, 64-bit',
+      steps: [
+        'Download the file. In your Downloads folder, right-click it and choose <b>Extract All</b>, then <b>Extract</b>.',
+        'Open the new <b>TaterPeeler-Windows-x64</b> folder and double-click <b>TaterPeeler</b> (TaterPeeler.exe).',
+        'If a blue “Windows protected your PC” box appears, click <b>More info</b>, then <b>Run anyway</b>.',
+        'For a shortcut, right-click TaterPeeler.exe and choose <b>Send to → Desktop (create shortcut)</b> (on Windows 11, click Show more options first). Keep the whole folder together.'
+      ] },
+    { id: 'ipa', group: 'mobile', file: 'TaterPeeler.ipa', name: 'iPad or iPhone', sub: 'iOS 7 or later · installed with a computer',
+      steps: [
+        'On a Mac or Windows PC, install <a href="https://sideloadly.io">Sideloadly</a>. On Windows, also install iTunes and iCloud from Apple’s website, not the Microsoft Store.',
+        'Connect your iPad or iPhone with a cable, unlock it and tap <b>Trust</b>.',
+        'Drag <b>TaterPeeler.ipa</b> into Sideloadly, type your Apple Account email and click <b>Start</b>.',
+        'On the iPad: <b>Settings → General → VPN &amp; Device Management</b>, tap your Apple Account and <b>Trust</b>. On iOS 16 or later, also turn on <b>Settings → Privacy &amp; Security → Developer Mode</b> and restart.',
+        'With a free Apple Account the app works for 7 days; reinstall it with Sideloadly to keep playing. Your progress stays.'
+      ] },
+    { id: 'deb', group: 'mobile', file: 'TaterPeeler-iOS-Cydia.deb', name: 'Jailbroken iPad 1', sub: 'iOS 5 or 6 with Cydia · also any jailbroken device',
+      steps: [
+        'Download this on a computer. Old iPads can’t open today’s websites.',
+        'On the iPad, install <b>OpenSSH</b> from Cydia, and find its Wi-Fi address in <b>Settings → Wi-Fi</b> → the blue arrow by your network.',
+        'On the computer, open <a href="https://filezilla-project.org">FileZilla</a> (Mac or Windows) or <a href="https://winscp.net">WinSCP</a> (Windows), connect with SFTP to that address, user <code>root</code> and the iPad’s root password (<code>alpine</code> unless you changed it).',
+        'Copy the .deb into <code>/var/root/Media/Cydia/AutoInstall/</code> (make the AutoInstall folder if it isn’t there).',
+        'Restart the iPad. Cydia installs TaterPeeler while it starts up, and the icon appears on the Home Screen. Remove OpenSSH in Cydia afterwards if you don’t use it.'
+      ] }
+  ];
+
+  function fmtMB(n) { var mb = n / 1e6; return mb.toFixed(mb < 100 ? 1 : 0) + ' MB'; }
+
+  /* which row fits the device reading this page */
+  function detect() {
+    var ua = navigator.userAgent || '', plat = (navigator.userAgentData && navigator.userAgentData.platform) || navigator.platform || '';
+    var touchMac = /Mac/.test(plat) && navigator.maxTouchPoints > 1;
+    if (/iPad|iPhone|iPod/.test(ua) || touchMac) return ['ipa'];
+    if (/Win/.test(plat) || /Windows/.test(ua)) return ['win'];
+    if (/Mac/.test(plat) || /Macintosh/.test(ua)) {
+      try {
+        var g = document.createElement('canvas').getContext('webgl');
+        var e = g && g.getExtension('WEBGL_debug_renderer_info');
+        var r = e ? String(g.getParameter(e.UNMASKED_RENDERER_WEBGL)) : '';
+        if (/Apple M\d/i.test(r)) return ['mac-arm'];
+        if (/Intel|AMD|Radeon|NVIDIA/i.test(r)) return ['mac-intel'];
+      } catch (x) {}
+      return ['mac-arm', 'mac-intel'];
+    }
+    return [];
+  }
+
+  function save(blob, name) {
+    var url = URL.createObjectURL(blob), a = document.createElement('a');
+    a.href = url; a.download = name; document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(function () { URL.revokeObjectURL(url); }, 120000);
+  }
+  function hex(buf) { var b = new Uint8Array(buf), s = ''; for (var i = 0; i < b.length; i++) s += (b[i] < 16 ? '0' : '') + b[i].toString(16); return s; }
+
+  /* big files are stored in pieces so any free web host accepts them; the page joins them back together */
+  async function fetchJoined(f, onProgress) {
+    var parts = [], got = 0;
+    for (var i = 0; i < f.parts.length; i++) {
+      var r = await fetch('files/' + f.parts[i], { cache: 'no-cache' });
+      if (!r.ok) throw new Error('missing ' + f.parts[i]);
+      if (r.body && r.body.getReader) {
+        var rd = r.body.getReader(), bits = [];
+        for (;;) { var c = await rd.read(); if (c.done) break; bits.push(c.value); got += c.value.length; onProgress(got / f.size); }
+        parts.push(new Blob(bits));
+      } else {
+        var b = await r.arrayBuffer(); got += b.byteLength; onProgress(got / f.size); parts.push(new Blob([b]));
+      }
+    }
+    var blob = new Blob(parts, { type: 'application/zip' });
+    if (blob.size !== f.size) throw new Error('size');
+    if (window.crypto && crypto.subtle && f.sha256) {
+      try { var d = hex(await crypto.subtle.digest('SHA-256', await blob.arrayBuffer())); if (d !== f.sha256) throw new Error('checksum'); }
+      catch (e) { if (e.message === 'checksum') throw e; }   /* no room to check: keep the download */
+    }
+    return blob;
+  }
+
+  function render() {
+    var pick = detect();
+    if (pick[0] === 'ipa') {   /* on an iPad or iPhone, show those downloads first */
+      var main = document.querySelector('main'), hc = document.getElementById('h-computers'), lc = document.getElementById('computers');
+      var hm = document.getElementById('h-ipad'), lm = document.getElementById('mobile');
+      main.insertBefore(hm, hc); main.insertBefore(lm, hc);
+    }
+    ['computers', 'mobile'].forEach(function (g) {
+      var list = document.getElementById(g);
+      ITEMS.filter(function (it) { return it.group === g; }).forEach(function (it) {
+        var f = F[it.file]; if (!f) return;
+        var steps = typeof it.steps === 'string' ? ITEMS.filter(function (o) { return o.id === it.steps; })[0].steps : it.steps;
+        var row = document.createElement('div');
+        row.className = 'row' + (pick.indexOf(it.id) >= 0 ? ' pick' : '');
+        row.innerHTML =
+          '<div class="line"><div class="info"><div class="name">' + it.name + (pick.indexOf(it.id) >= 0 && pick.length === 1 ? ' <span class="tag">For this device</span>' : '') + '</div>' +
+          '<div class="sub">' + it.sub + ' · ' + fmtMB(f.size) + '</div></div>' +
+          (f.parts ? '<button class="btn" type="button">' + DL + '<span>Download</span></button>'
+                   : '<a class="btn" href="files/' + it.file + '" download="' + it.file + '">' + DL + '<span>Download</span></a>') +
+          '</div><div class="progress" aria-hidden="true"><i></i></div><div class="status" role="status"></div>' +
+          '<details' + (pick.indexOf(it.id) >= 0 ? ' open' : '') + '><summary>How to install</summary><ol>' +
+          steps.map(function (s) { return '<li>' + s + '</li>'; }).join('') + '</ol></details>';
+        list.appendChild(row);
+        if (pick.length === 2 && it.id === 'mac-intel') {
+          var hint = document.createElement('div'); hint.className = 'status';
+          hint.innerHTML = 'Not sure which Mac you have? Apple menu → <b>About This Mac</b> shows Chip (Apple) or Processor (Intel).';
+          row.appendChild(hint);
+        }
+        if (!f.parts) return;
+        var btn = row.querySelector('button'), label = btn.querySelector('span'), bar = row.querySelector('.progress'), fill = bar.querySelector('i'), st = row.querySelector('.status');
+        btn.addEventListener('click', async function () {
+          if (btn.disabled) return;
+          btn.disabled = true; bar.style.display = 'block'; st.className = 'status'; st.textContent = '';
+          try {
+            var blob = await fetchJoined(f, function (p) { var pc = Math.min(99, Math.floor(p * 100)); fill.style.width = pc + '%'; label.textContent = pc + '%'; });
+            fill.style.width = '100%'; label.textContent = 'Saving';
+            save(blob, it.file);
+            label.textContent = 'Downloaded'; st.className = 'status ok'; st.textContent = 'Saved to your Downloads folder.';
+            setTimeout(function () { btn.disabled = false; label.textContent = 'Download again'; bar.style.display = 'none'; }, 4000);
+          } catch (e) {
+            btn.disabled = false; label.textContent = 'Try again'; bar.style.display = 'none';
+            st.className = 'status bad';
+            st.textContent = location.protocol === 'file:' ? 'Downloads work once the site is online (opened from a web address, not a file).' : 'The download didn’t finish. Check your connection and try again.';
+          }
+        });
+      });
+    });
+  }
+  render();
+})();
+</script>
+</body>
+</html>
