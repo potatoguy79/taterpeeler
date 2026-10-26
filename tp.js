@@ -130,6 +130,7 @@
     enableVertexAttribArray: i => gl.enableVertexAttribArray(i),
     frontFace: m => gl.frontFace(m),
     genBuffer: () => add(objs.buf, gl.createBuffer()),
+    deleteTexture: x => { if (objs.tex[x]) gl.deleteTexture(objs.tex[x]); objs.tex[x] = null; },
     getProgramiv: (p, pn, out) => { views(); i32[out >> 2] = gl.getProgramParameter(objs.prog[p], pn) ? 1 : 0; },
     getShaderiv: (s, pn, out) => { views(); i32[out >> 2] = gl.getShaderParameter(objs.sh[s], pn) ? 1 : 0; },
     getShaderInfoLog: (s, max, lenp, bufp) => { const l = (gl.getShaderInfoLog(objs.sh[s]) || '').slice(0, max - 1); console.warn(l); views(); const b = te.encode(l); u8.set(b, bufp); u8[bufp + b.length] = 0; if (lenp) i32[lenp >> 2] = b.length; },
