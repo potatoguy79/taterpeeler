@@ -76,23 +76,29 @@ window.TP_FILES = {
   ]
  },
  "TaterPeeler.ipa": {
-  "size": 15136019,
-  "sha256": "02b4a94ec0db1c16054509b07dc784edd52dc3909534423921e43ba8976ab7a8",
+  "size": 16785412,
+  "sha256": "43b16675a1d28ca1db8e375257f0e33ad7baeb49248713d4b776e627195895e1",
   "parts": [
    "TaterPeeler.ipa.part01",
-   "TaterPeeler.ipa.part02"
+   "TaterPeeler.ipa.part02",
+   "TaterPeeler.ipa.part03"
   ]
  },
  "TaterPeeler-iOS5.ipa": {
-  "size": 8347256,
-  "sha256": "1db731828050b0fd4a423e6b1363f70e1591ca0f0e871256bca83a705837b539"
+  "size": 10344764,
+  "sha256": "1a35a8e0b72ed64a9e551cac414bff367cb491f5159d8e61800bbf2063de7345",
+  "parts": [
+   "TaterPeeler-iOS5.ipa.part01",
+   "TaterPeeler-iOS5.ipa.part02"
+  ]
  },
  "TaterPeeler-iOS-Cydia.deb": {
-  "size": 15131302,
-  "sha256": "71c05c86839e0a2ec9a0ace29e0803576be3275ad37b2aab6c07cb6f85829ceb",
+  "size": 16783224,
+  "sha256": "11e6f402a00408af40069a8d195877c696f634ed2e37dae7be6baefd94633942",
   "parts": [
    "TaterPeeler-iOS-Cydia.deb.part01",
-   "TaterPeeler-iOS-Cydia.deb.part02"
+   "TaterPeeler-iOS-Cydia.deb.part02",
+   "TaterPeeler-iOS-Cydia.deb.part03"
   ]
  }
 };
