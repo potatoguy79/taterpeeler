@@ -51,7 +51,7 @@
   details { margin-top: 10px; }
   summary { cursor: pointer; color: var(--soft); font-size: 14px; font-weight: 580; list-style: none; display: inline-flex; align-items: center; gap: 6px; }
   summary::-webkit-details-marker { display: none; }
-  summary::before { content: ""; width: 7px; height: 7px; border-right: 1.6px solid currentColor; border-bottom: 1.6px solid currentColor; transform: rotate(-45deg); transition: transform .15s ease; margin-right: 2px; }
+  summary::before { content: ""; width: 7px; height: 7px; border-right: 1.6px solid currentColor; border-bottom: 1.6px solid currentColor; transform: rotate(-45deg); transition: transform .15s ease; }
   details[open] summary::before { transform: rotate(45deg); }
   ol { margin: 10px 0 0; padding-left: 22px; font-size: 15px; }
   ol li { margin: 4px 0; }
@@ -86,6 +86,7 @@
     <img src="../icon-192.png" alt="" width="72" height="72">
     <div>
       <h1>Get TaterPeeler</h1>
+      <p class="lead">Last updated 10/27/26</p>
       <p class="lead">The whole game, on your own device. Version 1.2.</p>
     </div>
   </header>
@@ -128,7 +129,7 @@
         'On a Mac or Windows PC, install <a href="https://sideloadly.io">Sideloadly</a>. On Windows, also install iTunes and iCloud from Apple’s website, not the Microsoft Store.',
         'Connect your iPad or iPhone with a cable, unlock it and tap <b>Trust</b>.',
         'Drag <b>TaterPeeler.ipa</b> into Sideloadly, type your Apple Account email and click <b>Start</b>.',
-        'On the iPad: <b>Settings → General → VPN &amp; Device Management</b>, tap your Apple Account and <b>Trust</b>. On iOS 16 or later, also turn on <b>Settings → Privacy &amp; Security → Developer Mode</b> and restart.',
+        'On the iPad: <b>Settings → General → VPN &amp; Device Management</b>, tap your Apple Account and <b>Trust</b>. On iOS 16 or later, also turn on <b>Settings → Privacy &amp; Security → Developer Mode</b> and allow it when prompted.',
         'With a free Apple Account the app works for 7 days; reinstall it with Sideloadly to keep playing. Your progress stays.'
       ] },
     { id: 'ipa5', group: 'mobile', file: 'TaterPeeler-iOS5.ipa', name: 'Jailbroken iPad 1 or old iPhone', sub: 'iOS 5 or 6 with AppSync · installed with 3uTools',
@@ -143,7 +144,7 @@
       steps: [
         'Download this on a computer. Old iPads can’t open today’s websites.',
         'On the iPad, install <b>OpenSSH</b> from Cydia, and find its Wi-Fi address in <b>Settings → Wi-Fi</b> → the blue arrow by your network.',
-        'On the computer, open <a href="https://filezilla-project.org">FileZilla</a> (Mac or Windows) or <a href="https://winscp.net">WinSCP</a> (Windows), connect with SFTP to that address, user <code>root</code> and the iPad’s root password (<code>alpine</code> unless you changed it).',
+        'On the computer, open <a href="https://filezilla-project.org">FileZilla</a> (Mac or Windows) or <a href="https://winscp.net">WinSCP</a> (Windows), connect with SFTP to that address, username <b>root</b> and password <b>alpine</b>.',
         'Copy the .deb into <code>/var/root/Media/Cydia/AutoInstall/</code> (make the AutoInstall folder if it isn’t there).',
         'Restart the iPad. Cydia installs TaterPeeler while it starts up, and the icon appears on the Home Screen. Remove OpenSSH in Cydia afterwards if you don’t use it.'
       ] }
@@ -242,7 +243,7 @@
           } catch (e) {
             btn.disabled = false; label.textContent = 'Try again'; bar.style.display = 'none';
             st.className = 'status bad';
-            st.textContent = location.protocol === 'file:' ? 'Downloads work once the site is online (opened from a web address, not a file).' : 'The download didn’t finish. Check your connection and try again.';
+            st.textContent = location.protocol === 'file:' ? 'Downloads work once the site is online (opened from a web address, not a file).' : 'The download didn’t finish. Check your connection or try another browser.';
           }
         });
       });
