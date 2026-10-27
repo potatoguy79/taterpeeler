@@ -116,7 +116,7 @@
   const gl = canvas.getContext('webgl', { antialias: true, alpha: false, depth: true, stencil: false, powerPreference: 'high-performance' })
           || canvas.getContext('experimental-webgl', { antialias: true, alpha: false });
   if (!gl) {
-    loader.querySelector('.msg').textContent = 'TaterPeeler needs WebGL, which this browser has turned off.';
+    loader.querySelector('.msg').textContent = 'TaterPeeler needs WebGL, which this browser has turned off. Please try another broswer.';
     return;
   }
   const extUint = gl.getExtension('OES_element_index_uint');
@@ -457,7 +457,7 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
     window.__taterpeeler = { exports: ex };
   }).catch(err => {
     console.error(err);
-    loader.querySelector('.msg').textContent = 'TaterPeeler could not load its files. Reload the page to try again.';
+    loader.querySelector('.msg').textContent = 'TaterPeeler could not load its files. Reload the page to try again. If this persists please inform me.';
   });
 })();
 
