@@ -96,7 +96,7 @@
     overlay.innerHTML = `
       <div class="card" role="dialog" aria-modal="true" aria-labelledby="tp-nov2-title">
         <div class="eyebrow">TaterPeeler</div>
-        <h2 id="tp-nov2-title">Next update Novemeber 2nd</h2>
+        <h2 id="tp-nov2-title">Next update November 2nd</h2>
         <p>We’re polishing the next batch of fixes and additions. Keep peeling.</p>
         <button type="button">Dismiss</button>
       </div>
