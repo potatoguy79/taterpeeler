@@ -3,12 +3,114 @@
 (function () {
   'use strict';
   const SAVE_KEY = 'taterpeeler.save.v1';
+  const NOV2_UPDATE_KEY = 'seenNov2update';
   const canvas = document.getElementById('game');
   const loader = document.getElementById('loader');
   const bar = document.getElementById('loader-bar');
 
   function readSave() { try { return localStorage.getItem(SAVE_KEY) || ''; } catch (e) { return ''; } }
   function writeSave(s) { try { localStorage.setItem(SAVE_KEY, s); } catch (e) { /* storage unavailable */ } }
+  function readFlag(key, fallback) { try { const v = localStorage.getItem(key); return v == null ? fallback : v; } catch (e) { return fallback; } }
+  function writeFlag(key, value) { try { localStorage.setItem(key, String(value)); } catch (e) { /* storage unavailable */ } }
+
+  function showNov2Update() {
+    if (readFlag(NOV2_UPDATE_KEY, 'false') === 'true') return;
+
+    const style = document.createElement('style');
+    style.textContent = `
+      #tp-nov2-update {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 22px;
+        background: rgba(17, 17, 17, 0.34);
+        backdrop-filter: blur(3px);
+        z-index: 30;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity .2s ease;
+      }
+      #tp-nov2-update.visible {
+        opacity: 1;
+        pointer-events: auto;
+      }
+      #tp-nov2-update .card {
+        width: min(420px, 92vw);
+        background: rgba(255,255,255,0.9);
+        border: 1px solid var(--hair, #e6e1da);
+        border-radius: 18px;
+        box-shadow: 0 28px 60px rgba(0,0,0,0.18);
+        padding: 22px 22px 18px;
+        text-align: center;
+        color: var(--ink, #26221e);
+        font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+      }
+      :root.dark #tp-nov2-update .card {
+        background: rgba(38,34,30,0.94);
+        border-color: #4a4139;
+        color: var(--ink, #f1ede7);
+      }
+      #tp-nov2-update .eyebrow {
+        display: inline-block;
+        margin-bottom: 10px;
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.14em;
+        color: var(--soft, #8a8279);
+        font-weight: 800;
+      }
+      #tp-nov2-update h2 {
+        margin: 0 0 8px;
+        font-size: clamp(24px, 4vw, 34px);
+        line-height: 1.08;
+        letter-spacing: -0.05em;
+      }
+      #tp-nov2-update p {
+        margin: 0 0 18px;
+        font-size: 15px;
+        line-height: 1.55;
+        color: var(--soft, #8a8279);
+      }
+      #tp-nov2-update button {
+        appearance: none;
+        border: 0;
+        border-radius: 999px;
+        background: var(--ink, #26221e);
+        color: var(--bg, #ffffff);
+        font: inherit;
+        font-weight: 700;
+        padding: 10px 18px;
+        cursor: pointer;
+      }
+      :root.dark #tp-nov2-update button {
+        background: #f1ede7;
+        color: #1b1916;
+      }
+    `;
+    document.head.appendChild(style);
+
+    const overlay = document.createElement('div');
+    overlay.id = 'tp-nov2-update';
+    overlay.innerHTML = `
+      <div class="card" role="dialog" aria-modal="true" aria-labelledby="tp-nov2-title">
+        <div class="eyebrow">TaterPeeler</div>
+        <h2 id="tp-nov2-title">Next update Novemeber 2nd</h2>
+        <p>We’re polishing the next batch of fixes and additions. Keep peeling.</p>
+        <button type="button">Dismiss</button>
+      </div>
+    `;
+    const dismiss = overlay.querySelector('button');
+    dismiss.addEventListener('click', () => {
+      writeFlag(NOV2_UPDATE_KEY, 'true');
+      overlay.classList.remove('visible');
+      setTimeout(() => overlay.remove(), 180);
+    });
+    document.body.appendChild(overlay);
+    requestAnimationFrame(() => overlay.classList.add('visible'));
+  }
+
   if (/dark=1/.test(readSave())) document.documentElement.classList.add('dark');
 
   const gl = canvas.getContext('webgl', { antialias: true, alpha: false, depth: true, stencil: false, powerPreference: 'high-performance' })
@@ -247,26 +349,45 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
       const sx = r.width > 0 ? viewW / r.width : 1, sy = r.height > 0 ? viewH / r.height : 1;
       return [(e.clientX - r.left) * sx, (e.clientY - r.top) * sy];
     };
+    const safeCancel = (pointerId, x, y, button, touch) => {
+      if (!ex) return;
+      const cx = Math.max(0, Math.min(viewW, x));
+      const cy = Math.max(0, Math.min(viewH, y));
+      try { ex.tp_pointer(5, pointerId, cx, cy, button, touch); } catch (e) {}
+      try { ex.tp_pointer(3, pointerId, cx, cy, button, touch); } catch (e) {}
+    };
     canvas.addEventListener('pointerdown', e => {
       e.preventDefault();
       try { canvas.setPointerCapture(e.pointerId); } catch (_) {}
       const [x, y] = pos(e);
+      if (x < -10 || x > viewW + 10 || y < -10 || y > viewH + 10) {
+        safeCancel(e.pointerId, x, y, e.button === 2 ? 2 : 0, e.pointerType === 'touch' ? 1 : 0);
+        return;
+      }
       ex.tp_pointer(0, e.pointerId, x, y, e.button === 2 ? 2 : 0, e.pointerType === 'touch' ? 1 : 0);
     });
     canvas.addEventListener('pointermove', e => {
       const [x, y] = pos(e);
       const touch = e.pointerType === 'touch' ? 1 : 0;
+      if (x < -10 || x > viewW + 10 || y < -10 || y > viewH + 10) {
+        safeCancel(e.pointerId, x, y, e.buttons ? 0 : 0, touch);
+        return;
+      }
       const evs = e.getCoalescedEvents ? e.getCoalescedEvents() : null;
       const list = evs && evs.length ? evs : [e];
       for (const ce of list) {
         const [cx, cy] = ce === e ? [x, y] : pos(ce);
-        ex.tp_pointer(e.buttons ? 1 : 4, e.pointerId, cx, cy, 0, touch);
+        if (cx < -10 || cx > viewW + 10 || cy < -10 || cy > viewH + 10) {
+          safeCancel(ce.pointerId, cx, cy, 0, ce.pointerType === 'touch' ? 1 : 0);
+          return;
+        }
+        ex.tp_pointer(e.buttons ? 1 : 4, ce.pointerId, cx, cy, 0, ce.pointerType === 'touch' ? 1 : 0);
       }
     });
-    const up = t => e => { const [x, y] = pos(e); ex.tp_pointer(t, e.pointerId, x, y, e.button === 2 ? 2 : 0, e.pointerType === 'touch' ? 1 : 0); };
+    const up = t => e => { const [x, y] = pos(e); if (x < -10 || x > viewW + 10 || y < -10 || y > viewH + 10) { safeCancel(e.pointerId, x, y, e.button === 2 ? 2 : 0, e.pointerType === 'touch' ? 1 : 0); return; } ex.tp_pointer(t, e.pointerId, x, y, e.button === 2 ? 2 : 0, e.pointerType === 'touch' ? 1 : 0); };
     canvas.addEventListener('pointerup', up(2));
     canvas.addEventListener('pointercancel', up(3));
-    canvas.addEventListener('pointerleave', e => { if (e.pointerType === 'mouse' && !e.buttons) { const [x, y] = pos(e); ex.tp_pointer(5, e.pointerId, x, y, 0, 0); } });
+    canvas.addEventListener('pointerleave', e => { if (e.pointerType === 'mouse' && !e.buttons) { const [x, y] = pos(e); safeCancel(e.pointerId, x, y, 0, 0); } });
     canvas.addEventListener('contextmenu', e => e.preventDefault());
     canvas.addEventListener('wheel', e => {
       e.preventDefault();
@@ -286,6 +407,11 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
     if (window.visualViewport) window.visualViewport.addEventListener('resize', resize);
     /* iOS reports the new size a little after it rotates */
     window.addEventListener('orientationchange', () => { resize(); setTimeout(resize, 120); setTimeout(resize, 400); });
+    window.addEventListener('blur', () => {
+      if (!ex) return;
+      try { ex.tp_pointer(5, -1, 0, 0, 0, 0); } catch (_) {}
+      try { ex.tp_pointer(3, -1, 0, 0, 0, 0); } catch (_) {}
+    });
   }
 
   /* WebAssembly first; a plain-JavaScript build of the same core covers hosts that block it */
@@ -321,6 +447,7 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
     hookInput();
     loader.classList.add('gone');
     setTimeout(() => loader.remove(), 600);
+    setTimeout(showNov2Update, 650);
     const frame = t => {
       requestAnimationFrame(frame);
       if (t - lastFrameT < minFrameMs) return;
@@ -333,3 +460,4 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
     loader.querySelector('.msg').textContent = 'TaterPeeler could not load its files. Reload the page to try again.';
   });
 })();
+
