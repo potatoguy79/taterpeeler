@@ -21,12 +21,15 @@
   #loader.gone { opacity: 0; pointer-events: none; }
   #loader .track { width: 140px; height: 2px; background: var(--hair); border-radius: 1px; overflow: hidden; }
   #loader-bar { width: 100%; height: 100%; background: var(--ink); transform: scaleX(0); transform-origin: left center; transition: transform .2s ease; }
+  #loader .msg-stack { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; }
+  #loader .msg { color: var(--soft); }
+  #loader .msg-sub { color: var(--soft); font-size: 12px; margin-top: 4px; }
   @media (prefers-reduced-motion: reduce) { #loader, #loader-bar { transition: none; } }
 </style>
 </head>
 <body>
 <canvas id="game" tabindex="0" aria-label="TaterPeeler game"></canvas>
-<div id="loader" role="status"><div class="track"><div id="loader-bar"></div></div><div class="msg">Loading potatoes</div></div>
+<div id="loader" role="status"><div class="track"><div id="loader-bar"></div></div><div class="msg-stack"><div class="msg">Loading potatoes</div><div class="msg-sub">This may take a few minutes.</div></div></div>
 <script>window.TP_DOWNLOAD_PAGE = "download/";</script>
 <script src="tp.js"></script>
 </body>
