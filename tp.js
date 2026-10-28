@@ -20,169 +20,211 @@
     const hours = Math.floor((total % 86400) / 3600);
     const minutes = Math.floor((total % 3600) / 60);
     const seconds = total % 60;
-    const parts = [days + 'd', String(hours).padStart(2, '0') + 'h', String(minutes).padStart(2, '0') + 'm', String(seconds).padStart(2, '0') + 's'];
-    return parts.join(' ');
+    const parts = [
+      { value: days, label: 'd' },
+      { value: hours, label: 'h' },
+      { value: minutes, label: 'm' },
+      { value: seconds, label: 's' }
+    ];
+    return parts.map(part => `<span class="countdown-unit"><strong>${String(part.value).padStart(part.label === 'd' ? 1 : 2, '0')}</strong><span>${part.label}</span></span>`).join('');
+  }
+
+  function removeNov2Promo() {
+    const style = document.getElementById('tp-nov2-update-style');
+    if (style) style.remove();
+    const overlay = document.getElementById('tp-nov2-update');
+    if (overlay) overlay.remove();
+    const banner = document.getElementById('tp-nov2-banner');
+    if (banner) {
+      if (banner._tpCountdown) clearInterval(banner._tpCountdown);
+      banner.remove();
+    }
   }
 
   function showNov2Update() {
     if (readFlag(NOV2_UPDATE_KEY, 'false') === 'true') return;
+    if (document.getElementById('tp-nov2-update')) return;
 
-    const style = document.createElement('style');
-    style.textContent = `
-      #tp-nov2-update {
-        position: fixed;
-        inset: 0;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        padding: 22px;
-        background: rgba(17, 17, 17, 0.34);
-        backdrop-filter: blur(3px);
-        z-index: 30;
-        opacity: 0;
-        pointer-events: none;
-        transition: opacity .2s ease;
-      }
-      #tp-nov2-update.visible {
-        opacity: 1;
-        pointer-events: auto;
-      }
-      #tp-nov2-update .card {
-        width: min(420px, 92vw);
-        background: rgba(255,255,255,0.9);
-        border: 1px solid var(--hair, #e6e1da);
-        border-radius: 18px;
-        box-shadow: 0 28px 60px rgba(0,0,0,0.18);
-        padding: 22px 22px 18px;
-        text-align: center;
-        color: var(--ink, #26221e);
-        font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
-      }
-      :root.dark #tp-nov2-update .card {
-        background: rgba(38,34,30,0.94);
-        border-color: #4a4139;
-        color: var(--ink, #f1ede7);
-      }
-      #tp-nov2-update .eyebrow {
-        display: inline-block;
-        margin-bottom: 10px;
-        font-size: 11px;
-        text-transform: uppercase;
-        letter-spacing: 0.14em;
-        color: var(--soft, #8a8279);
-        font-weight: 800;
-      }
-      #tp-nov2-update h2 {
-        margin: 0 0 8px;
-        font-size: clamp(24px, 4vw, 34px);
-        line-height: 1.08;
-        letter-spacing: -0.05em;
-      }
-      #tp-nov2-update p {
-        margin: 0 0 10px;
-        font-size: 15px;
-        line-height: 1.55;
-        color: var(--soft, #8a8279);
-      }
-      #tp-nov2-update .countdown {
-        display: inline-block;
-        margin: 0 0 18px;
-        padding: 8px 12px;
-        border-radius: 999px;
-        background: rgba(120, 94, 52, 0.08);
-        border: 1px solid rgba(120, 94, 52, 0.12);
-        font-size: 12px;
-        line-height: 1.3;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        font-weight: 800;
-        color: var(--ink, #26221e);
-      }
-      :root.dark #tp-nov2-update .countdown {
-        background: rgba(220, 184, 106, 0.12);
-        border-color: rgba(220, 184, 106, 0.18);
-        color: #f1ede7;
-      }
-      #tp-nov2-update button {
-        appearance: none;
-        border: 0;
-        border-radius: 999px;
-        background: var(--ink, #26221e);
-        color: var(--bg, #ffffff);
-        font: inherit;
-        font-weight: 700;
-        padding: 10px 18px;
-        cursor: pointer;
-      }
-      :root.dark #tp-nov2-update button {
-        background: #f1ede7;
-        color: #1b1916;
-      }
-      #tp-nov2-banner {
-        position: fixed;
-        left: 50%;
-        top: 15vh;
-        transform: translateX(-50%);
-        z-index: 18;
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        width: min(460px, 92vw);
-        padding: 10px 14px;
-        border-radius: 999px;
-        background: rgba(255,255,255,0.86);
-        border: 1px solid var(--hair, #e6e1da);
-        box-shadow: 0 18px 40px rgba(0,0,0,0.12);
-        backdrop-filter: blur(4px);
-        color: var(--ink, #26221e);
-        font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
-      }
-      :root.dark #tp-nov2-banner {
-        background: rgba(38,34,30,0.9);
-        border-color: #4a4139;
-        color: var(--ink, #f1ede7);
-      }
-      #tp-nov2-banner .label {
-        font-size: 10px;
-        letter-spacing: 0.16em;
-        text-transform: uppercase;
-        font-weight: 800;
-        color: var(--soft, #8a8279);
-      }
-      #tp-nov2-banner .text {
-        font-size: 12px;
-        line-height: 1.2;
-        font-weight: 700;
-      }
-      #tp-nov2-banner .time {
-        margin-left: auto;
-        font-size: 12px;
-        line-height: 1.2;
-        font-weight: 800;
-        letter-spacing: 0.04em;
-      }
-      @media (max-width: 520px) {
-        #tp-nov2-banner {
-          top: 12vh;
-          gap: 8px;
-          padding: 10px 12px;
+    if (!document.getElementById('tp-nov2-update-style')) {
+      const style = document.createElement('style');
+      style.id = 'tp-nov2-update-style';
+      style.textContent = `
+        #tp-nov2-update {
+          position: fixed;
+          inset: 0;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          padding: 22px;
+          background: rgba(17, 17, 17, 0.34);
+          backdrop-filter: blur(3px);
+          z-index: 40;
+          opacity: 0;
+          pointer-events: none;
+          transition: opacity .2s ease;
         }
-        #tp-nov2-banner .label,
-        #tp-nov2-banner .text,
-        #tp-nov2-banner .time {
+        #tp-nov2-update.visible {
+          opacity: 1;
+          pointer-events: auto;
+        }
+        #tp-nov2-update .card {
+          width: min(440px, 92vw);
+          background: rgba(255,255,255,0.9);
+          border: 1px solid var(--hair, #e6e1da);
+          border-radius: 18px;
+          box-shadow: 0 28px 60px rgba(0,0,0,0.18);
+          padding: 22px 22px 18px;
+          text-align: center;
+          color: var(--ink, #26221e);
+          font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+        }
+        :root.dark #tp-nov2-update .card {
+          background: rgba(38,34,30,0.94);
+          border-color: #4a4139;
+          color: var(--ink, #f1ede7);
+        }
+        #tp-nov2-update .eyebrow {
+          display: inline-block;
+          margin-bottom: 10px;
           font-size: 11px;
+          text-transform: uppercase;
+          letter-spacing: 0.14em;
+          color: var(--soft, #8a8279);
+          font-weight: 800;
         }
-      }
-    `;
-    document.head.appendChild(style);
+        #tp-nov2-update h2 {
+          margin: 0 0 8px;
+          font-size: clamp(24px, 4vw, 34px);
+          line-height: 1.08;
+          letter-spacing: -0.05em;
+        }
+        #tp-nov2-update p {
+          margin: 0 0 10px;
+          font-size: 15px;
+          line-height: 1.55;
+          color: var(--soft, #8a8279);
+        }
+        #tp-nov2-update .countdown {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 8px;
+          margin: 0 0 18px;
+          flex-wrap: wrap;
+        }
+        #tp-nov2-update .countdown-unit {
+          display: inline-flex;
+          align-items: flex-end;
+          gap: 4px;
+          min-width: 52px;
+          padding: 8px 7px 7px;
+          border-radius: 10px;
+          background: rgba(120, 94, 52, 0.08);
+          border: 1px solid rgba(120, 94, 52, 0.12);
+          color: var(--ink, #26221e);
+        }
+        :root.dark #tp-nov2-update .countdown-unit {
+          background: rgba(220, 184, 106, 0.12);
+          border-color: rgba(220, 184, 106, 0.18);
+          color: #f1ede7;
+        }
+        #tp-nov2-update .countdown-unit strong {
+          font-size: 20px;
+          line-height: 1;
+          letter-spacing: -0.04em;
+        }
+        #tp-nov2-update .countdown-unit span {
+          font-size: 10px;
+          line-height: 1.2;
+          letter-spacing: 0.08em;
+          text-transform: uppercase;
+          opacity: 0.8;
+          margin-bottom: 2px;
+        }
+        #tp-nov2-update button {
+          appearance: none;
+          border: 0;
+          border-radius: 999px;
+          background: var(--ink, #26221e);
+          color: var(--bg, #ffffff);
+          font: inherit;
+          font-weight: 700;
+          padding: 10px 18px;
+          cursor: pointer;
+        }
+        :root.dark #tp-nov2-update button {
+          background: #f1ede7;
+          color: #1b1916;
+        }
+        #tp-nov2-banner {
+          position: fixed;
+          left: 50%;
+          top: clamp(66px, 11vh, 110px);
+          transform: translateX(-50%);
+          z-index: 18;
+          display: flex;
+          align-items: center;
+          gap: 10px;
+          width: min(460px, 92vw);
+          padding: 10px 14px;
+          border-radius: 999px;
+          background: rgba(255,255,255,0.86);
+          border: 1px solid var(--hair, #e6e1da);
+          box-shadow: 0 18px 40px rgba(0,0,0,0.12);
+          backdrop-filter: blur(4px);
+          color: var(--ink, #26221e);
+          font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+        }
+        :root.dark #tp-nov2-banner {
+          background: rgba(38,34,30,0.9);
+          border-color: #4a4139;
+          color: var(--ink, #f1ede7);
+        }
+        #tp-nov2-banner .label {
+          font-size: 10px;
+          letter-spacing: 0.16em;
+          text-transform: uppercase;
+          font-weight: 800;
+          color: var(--soft, #8a8279);
+        }
+        #tp-nov2-banner .text {
+          font-size: 12px;
+          line-height: 1.2;
+          font-weight: 700;
+        }
+        #tp-nov2-banner .time {
+          margin-left: auto;
+          font-size: 12px;
+          line-height: 1.2;
+          font-weight: 800;
+          letter-spacing: 0.04em;
+        }
+        @media (max-width: 520px) {
+          #tp-nov2-banner {
+            top: 82px;
+            gap: 8px;
+            padding: 10px 12px;
+          }
+          #tp-nov2-banner .label,
+          #tp-nov2-banner .text,
+          #tp-nov2-banner .time {
+            font-size: 11px;
+          }
+        }
+      `;
+      document.head.appendChild(style);
+    }
 
-    const banner = document.createElement('div');
-    banner.id = 'tp-nov2-banner';
-    banner.innerHTML = `
-      <span class="label">Update</span>
-      <span class="text">Nov 2nd 8:00AM</span>
-      <span class="time" id="tp-nov2-banner-time">--</span>
-    `;
+    const banner = document.getElementById('tp-nov2-banner') || document.createElement('div');
+    if (!banner.id) {
+      banner.id = 'tp-nov2-banner';
+      banner.innerHTML = `
+        <span class="label">Update</span>
+        <span class="text">Nov 2nd 8:00AM</span>
+        <span class="time" id="tp-nov2-banner-time">--</span>
+      `;
+      document.body.appendChild(banner);
+    }
 
     const overlay = document.createElement('div');
     overlay.id = 'tp-nov2-update';
@@ -197,41 +239,51 @@
     `;
 
     const countdown = overlay.querySelector('#tp-nov2-countdown');
-    const bannerTime = banner.querySelector('#tp-nov2-banner-time');
+    const bannerTime = document.getElementById('tp-nov2-banner-time');
     const tickCountdown = () => {
       const left = NOV2_UPDATE_TARGET.getTime() - Date.now();
       if (left <= 0) {
-        countdown.textContent = 'Live now';
+        countdown.innerHTML = '<span class="countdown-unit"><strong>Live</strong><span>now</span></span>';
         if (bannerTime) bannerTime.textContent = 'Live now';
         return;
       }
-      countdown.textContent = formatNov2Countdown(left);
-      if (bannerTime) bannerTime.textContent = formatNov2Countdown(left);
+      countdown.innerHTML = formatNov2Countdown(left);
+      if (bannerTime) bannerTime.textContent = formatNov2Countdown(left).replace(/<[^>]+>/g, '') || '--';
     };
     tickCountdown();
     const countdownTimer = setInterval(tickCountdown, 1000);
-
-    document.body.appendChild(banner);
-    document.body.appendChild(overlay);
 
     const dismiss = overlay.querySelector('button');
     dismiss.addEventListener('click', () => {
       clearInterval(countdownTimer);
       writeFlag(NOV2_UPDATE_KEY, 'true');
       overlay.classList.remove('visible');
-      banner.remove();
+      if (banner) {
+        if (banner._tpCountdown) clearInterval(banner._tpCountdown);
+        banner.remove();
+      }
       setTimeout(() => overlay.remove(), 180);
     });
 
+    document.body.appendChild(overlay);
     requestAnimationFrame(() => overlay.classList.add('visible'));
+
+    if (!banner._tpCountdown) {
+      const updateBanner = () => {
+        const left = NOV2_UPDATE_TARGET.getTime() - Date.now();
+        const timeEl = document.getElementById('tp-nov2-banner-time');
+        if (!timeEl) return;
+        if (left <= 0) timeEl.textContent = 'Live now';
+        else timeEl.textContent = formatNov2Countdown(left).replace(/<[^>]+>/g, '');
+      };
+      updateBanner();
+      banner._tpCountdown = setInterval(updateBanner, 1000);
+    }
   }
 
   window.__tpResetNov2Update = function () {
     writeFlag(NOV2_UPDATE_KEY, 'false');
-    const existing = document.getElementById('tp-nov2-update');
-    if (existing) existing.remove();
-    const existingBanner = document.getElementById('tp-nov2-banner');
-    if (existingBanner) existingBanner.remove();
+    removeNov2Promo();
     showNov2Update();
   };
   window.TP_RESET_NOV2_UPDATE = window.__tpResetNov2Update;
@@ -585,4 +637,3 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
     loader.querySelector('.msg').textContent = 'TaterPeeler could not load its files. Reload the page to try again. If this persists please inform me.';
   });
 })();
-
