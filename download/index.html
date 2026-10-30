@@ -76,11 +76,12 @@
     if (dark) document.documentElement.classList.add('dark');
   })();
 </script>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1fae86089035438f9578686b4e1ec83b"}'></script><!-- End Cloudflare Web Analytics -->
 </head>
 <body>
 <main>
   <div class="top">
-    <a class="back" href="../"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.5 4.5 7 10l5.5 5.5"/></svg><span>Play in your browser</span></a>
+    <a class="back" href="../"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12.5 4.5 7 10 12.5 15.5"/></svg><span>Back</span></a>
   </div>
   <header>
     <img src="../icon-192.png" alt="" width="72" height="72">
@@ -113,7 +114,7 @@
         'Download the file, then open it from your Downloads folder. You get <b>TaterPeeler</b>.',
         'Drag TaterPeeler into your <b>Applications</b> folder, then open it.',
         'If macOS says it can’t open it, go to <b>System Settings → Privacy &amp; Security</b>, scroll down and click <b>Open Anyway</b>, then enter your password. You only do this once.',
-        'Still blocked, or it says the app is damaged? Open <b>Terminal</b>, paste <code>xattr -cr /Applications/TaterPeeler.app</code>, press Return, then open TaterPeeler again. Make sure you have dragged the file to applications by placing it on your desktop first, then <b>dragging it to applications and double clicking.</b>'
+        'Still blocked, or it says the app is damaged? Open <b>Terminal</b>, paste <code>xattr -cr /Applications/TaterPeeler.app</code>, press Return, then open TaterPeeler again. Make sure you have not moved it after installation.'
       ] },
     { id: 'mac-intel', group: 'computers', file: 'TaterPeeler-macOS-Intel.zip', name: 'Mac with Intel chip', sub: 'macOS 13 Ventura or later',
       steps: 'mac-arm' },
@@ -129,7 +130,7 @@
         'On a Mac or Windows PC, install <a href="https://sideloadly.io">Sideloadly</a>. On Windows, also install iTunes and iCloud from Apple’s website, not the Microsoft Store.',
         'Connect your iPad or iPhone with a cable, unlock it and tap <b>Trust</b>.',
         'Drag <b>TaterPeeler.ipa</b> into Sideloadly, type your Apple Account email and click <b>Start</b>.',
-        'On the iPad: <b>Settings → General → VPN &amp; Device Management</b>, tap your Apple Account and <b>Trust</b>. On iOS 16 or later, also turn on <b>Settings → Privacy &amp; Security → Developer Mode</b> and allow it when prompted.',
+        'On the iPad: <b>Settings → General → VPN &amp; Device Management</b>, tap your Apple Account and <b>Trust</b>. On iOS 16 or later, also turn on <b>Settings → Privacy &amp; Security → Developer Mode</b> if you see the prompt.',
         'With a free Apple Account the app works for 7 days; reinstall it with Sideloadly to keep playing. Your progress stays.'
       ] },
     { id: 'ipa5', group: 'mobile', file: 'TaterPeeler-iOS5.ipa', name: 'Jailbroken iPad 1 or old iPhone', sub: 'iOS 5 or 6 with AppSync · installed with 3uTools',
@@ -144,7 +145,7 @@
       steps: [
         'Download this on a computer. Old iPads can’t open today’s websites.',
         'On the iPad, install <b>OpenSSH</b> from Cydia, and find its Wi-Fi address in <b>Settings → Wi-Fi</b> → the blue arrow by your network.',
-        'On the computer, open <a href="https://filezilla-project.org">FileZilla</a> (Mac or Windows) or <a href="https://winscp.net">WinSCP</a> (Windows), connect with SFTP to that address, username <b>root</b> and password <b>alpine</b>.',
+        'On the computer, open <a href="https://filezilla-project.org">FileZilla</a> (Mac or Windows) or <a href="https://winscp.net">WinSCP</a> (Windows), connect with SFTP to that address, user name <b>root</b> and the password from Cydia. There might be no password; set one in Cydia if needed.',
         'Copy the .deb into <code>/var/root/Media/Cydia/AutoInstall/</code> (make the AutoInstall folder if it isn’t there).',
         'Restart the iPad. Cydia installs TaterPeeler while it starts up, and the icon appears on the Home Screen. Remove OpenSSH in Cydia afterwards if you don’t use it.'
       ] }
@@ -152,7 +153,6 @@
 
   function fmtMB(n) { var mb = n / 1e6; return mb.toFixed(mb < 100 ? 1 : 0) + ' MB'; }
 
-  /* which row fits the device reading this page */
   function detect() {
     var ua = navigator.userAgent || '', plat = (navigator.userAgentData && navigator.userAgentData.platform) || navigator.platform || '';
     var touchMac = /Mac/.test(plat) && navigator.maxTouchPoints > 1;
@@ -178,7 +178,6 @@
   }
   function hex(buf) { var b = new Uint8Array(buf), s = ''; for (var i = 0; i < b.length; i++) s += (b[i] < 16 ? '0' : '') + b[i].toString(16); return s; }
 
-  /* big files are stored in pieces so any free web host accepts them; the page joins them back together */
   async function fetchJoined(f, onProgress) {
     var parts = [], got = 0;
     for (var i = 0; i < f.parts.length; i++) {
@@ -196,14 +195,14 @@
     if (blob.size !== f.size) throw new Error('size');
     if (window.crypto && crypto.subtle && f.sha256) {
       try { var d = hex(await crypto.subtle.digest('SHA-256', await blob.arrayBuffer())); if (d !== f.sha256) throw new Error('checksum'); }
-      catch (e) { if (e.message === 'checksum') throw e; }   /* no room to check: keep the download */
+      catch (e) { if (e.message === 'checksum') throw e; }
     }
     return blob;
   }
 
   function render() {
     var pick = detect();
-    if (pick[0] === 'ipa') {   /* on an iPad or iPhone, show those downloads first */
+    if (pick[0] === 'ipa') {
       var main = document.querySelector('main'), hc = document.getElementById('h-computers'), lc = document.getElementById('computers');
       var hm = document.getElementById('h-ipad'), lm = document.getElementById('mobile');
       main.insertBefore(hm, hc); main.insertBefore(lm, hc);
@@ -243,7 +242,7 @@
           } catch (e) {
             btn.disabled = false; label.textContent = 'Try again'; bar.style.display = 'none';
             st.className = 'status bad';
-            st.textContent = location.protocol === 'file:' ? 'Downloads work once the site is online (opened from a web address, not a file).' : 'The download didn’t finish. Check your connection or try another browser.';
+            st.textContent = location.protocol === 'file:' ? 'Downloads work once the site is online (opened from a web address, not a file).' : 'The download didn’t finish. Check your connection and try again.';
           }
         });
       });
