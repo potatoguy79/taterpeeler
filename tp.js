@@ -124,16 +124,16 @@
   const qp = new URLSearchParams(location.search).get('q');
   const quality = qp === null ? 2 : Math.max(0, Math.min(2, parseInt(qp, 10) || 0));
 
-  /* ---------------- assets ---------------- */
+  /* ---------------- random shit called assets ---------------- */
   const big = quality >= 2;
   const FILES = ['font.tpf', 'peeler.tpk', (big && extUint) ? 'potato_l3.tpm' : (quality === 0 ? 'potato_l1.tpm' : 'potato_l2.tpm')];
   const IMAGES = ['font_atlas.png', big ? 'potato_detail_2048.jpg' : 'potato_detail_1024.jpg'].concat(quality >= 1 ? [big ? 'potato_normal_2048.jpg' : 'potato_normal_1024.jpg'] : [])
     .concat([quality >= 1 ? 'logo_512.png' : 'logo_256.png', big ? 'wood_2048.jpg' : (quality >= 1 ? 'wood_1024.jpg' : 'wood_512.jpg')])
     .concat(quality === 0 ? ['potato_mix_1024.png'] : []);
-  /* index = SFX_* id in the core; slot 0 (the old synthesized loop) is unused */
+  /* index = SFX_* id in the core; slot 0 (the old synthesized loop) is unused -idk what that means chatgpt told me to fix that */
   const SOUNDS = [null, 'sfx_snap.wav', 'sfx_done.wav', 'sfx_land.wav', 'sfx_tap.wav', 'sfx_unlock.wav', 'sfx_tick.wav', 'sfx_timeup.wav', 'sfx_whoosh.wav']
     .concat([0, 1, 2, 3, 4, 5, 6, 7, 8].map(i => 'sfx_stroke' + i + '.wav'))
-    /* fry station */
+    /* fry station ouuu fries yum */
     .concat([0, 1, 2].map(i => 'sfx_cut' + i + '.wav'), [0, 1, 2, 3, 4, 5].map(i => 'sfx_thump' + i + '.wav'),
             [0, 1, 2].map(i => 'sfx_scrape' + i + '.wav'),
             ['sfx_woodtap.wav', 'sfx_plop.wav', 'sfx_fryin.wav', 'sfx_fryloop.wav', 'sfx_clink.wav', 'sfx_paper.wav']);
@@ -143,7 +143,7 @@
 
   function b64(s) { const bin = atob(s.replace(/\s+/g, '')); const out = new Uint8Array(bin.length); for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i); return out; }
   function loadBin(name) {
-    /* hosts that only serve common file types get the data as base64 text */
+    /* hosts that only serve common file types get the data as base64 text -#sounded so pro*/
     if (window.TP_DATA_B64) return fetch('data/' + name + '.txt').then(r => { if (!r.ok) throw new Error(name); return r.text(); }).then(t => { files[name] = b64(t); tick(); });
     return fetch('data/' + name).then(r => { if (!r.ok) throw new Error(name); return r.arrayBuffer(); }).then(b => { files[name] = new Uint8Array(b); tick(); });
   }
