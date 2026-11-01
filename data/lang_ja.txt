@@ -575,3 +575,5 @@ A gift arrived! Your stats went up	プレゼントが届きました！記録が
 Owner	オーナー
 Administrator	管理者
 Moderator	モデレーター
+Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	オンライン機能は、今のところ学校の端末以外でのみ使えます。学校の端末でも使えるように取り組んでいます。ご不便をおかけしてすみません。
+Continue	続ける

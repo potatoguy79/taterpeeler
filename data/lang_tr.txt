@@ -575,3 +575,5 @@ A gift arrived! Your stats went up	Bir hediye geldi! İstatistiklerin arttı
 Owner	Sahip
 Administrator	Yönetici
 Moderator	Moderatör
+Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	Çevrimiçi özellikler şu an sadece okul dışı cihazlarda çalışıyor. Okul cihazlarında da çalışması için uğraşıyorum. Verdiğim rahatsızlık için özür dilerim.
+Continue	Devam

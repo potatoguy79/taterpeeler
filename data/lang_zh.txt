@@ -575,3 +575,5 @@ A gift arrived! Your stats went up	收到礼物了！你的数据增加了
 Owner	所有者
 Administrator	管理员
 Moderator	版主
+Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	目前在线功能仅限非学校设备使用。我正在想办法让它在学校设备上也能用。给你带来不便，抱歉。
+Continue	继续
