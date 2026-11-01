@@ -562,3 +562,8 @@ Find the Baked Potato	Finde die Ofenkartoffel
 Careful, it's hot!	Vorsicht, heiß!
 Tin foil	Alufolie
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Super selten. Sie kommt noch in Alufolie eingewickelt, packt sich selbst aus und dampft. Die Schale ist knusprig, deshalb geht sie in Stückchen ab.
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	Weil dieses Gerät so alt ist und keine Verbindung zum heutigen Internet herstellen kann, kann ich hier im Moment keine Online-Funktionen anbieten. Entschuldige die Unannehmlichkeiten.
+Online features	Online-Funktionen
+OK	OK
+Try anyway	Trotzdem versuchen
+Staff PIN	Mitarbeiter-PIN

@@ -572,3 +572,8 @@ Find the Baked Potato	Znajdź pieczonego ziemniaka
 Careful, it's hot!	Uwaga, gorące!
 Tin foil	Folia aluminiowa
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Super rzadki. Spada jeszcze zawinięty w folię aluminiową, sam się rozpakowuje i paruje. Skórka jest chrupiąca, więc schodzi płatkami.
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	Ze względu na wiek tego urządzenia i brak możliwości połączenia z dzisiejszym internetem nie mogę na razie obsługiwać żadnych funkcji online. Przepraszam za utrudnienia.
+Online features	Funkcje online
+OK	OK
+Try anyway	Spróbuj mimo to
+Staff PIN	PIN zespołu

@@ -562,3 +562,8 @@ Find the Baked Potato	Encontre a batata assada
 Careful, it's hot!	Cuidado, está quente!
 Tin foil	Papel-alumínio
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Super rara. Ela cai ainda embrulhada em papel-alumínio, se desembrulha sozinha e solta vapor. A casca é crocante, então sai em lascas.
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	Por causa da idade deste aparelho, que não consegue se conectar à internet de hoje, não consigo oferecer nenhum recurso online no momento. Desculpe o transtorno.
+Online features	Recursos online
+OK	OK
+Try anyway	Tentar mesmo assim
+Staff PIN	PIN da equipe

@@ -572,3 +572,8 @@ Find the Baked Potato	Найди печёную картошку
 Careful, it's hot!	Осторожно, горячо!
 Tin foil	Фольга
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Супер редкая. Падает ещё в фольге, сама разворачивается, и от неё идёт пар. Кожура хрустящая, поэтому снимается кусочками.
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	Из-за возраста этого устройства и того, что оно не может подключиться к современному интернету, я пока не могу поддерживать онлайн-функции. Извини за неудобства.
+Online features	Онлайн-функции
+OK	ОК
+Try anyway	Всё равно попробовать
+Staff PIN	PIN сотрудника

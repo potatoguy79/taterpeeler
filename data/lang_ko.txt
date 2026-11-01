@@ -562,3 +562,8 @@ Find the Baked Potato	구운 감자 찾기
 Careful, it's hot!	조심해, 뜨거워!
 Tin foil	은박지
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	엄청 희귀해요. 은박지에 싸인 채로 떨어져서 스스로 풀리고 김이 나요. 껍질이 바삭해서 조각조각 벗겨져요.
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	이 기기는 오래되어 지금의 웹에 연결할 수 없기 때문에, 현재 온라인 기능을 지원할 수 없어요. 불편을 드려 죄송해요.
+Online features	온라인 기능
+OK	확인
+Try anyway	그래도 시도
+Staff PIN	스태프 PIN

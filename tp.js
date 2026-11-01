@@ -594,6 +594,7 @@
       const n = Math.min(b.length, cap - 1); u8.set(b.subarray(0, n), op); u8[op + n] = 0;
     },
     plat_utc_offset: () => -new Date().getTimezoneOffset(),
+    plat_old_web: () => /[?&]oldweb=1/.test(location.search) ? 1 : 0,   /* only old iPads say yes; ?oldweb=1 shows it here */
     plat_random: () => { try { return crypto.getRandomValues(new Uint32Array(1))[0]; } catch (e) { return (Math.random() * 4294967296) >>> 0; } },
     plat_text_input: (req, kind, tp, ip, maxlen) => openTextBox(req, kind, str(tp), str(ip), maxlen),
     plat_image: (kp, dp, wp, hp) => {

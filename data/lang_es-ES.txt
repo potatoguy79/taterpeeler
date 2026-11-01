@@ -562,3 +562,8 @@ Find the Baked Potato	Encuentra la patata asada
 Careful, it's hot!	¡Cuidado, que quema!
 Tin foil	Papel de aluminio
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Superrara. Cae todavía envuelta en papel de aluminio, se desenvuelve sola y echa vapor. La piel está crujiente, así que se pela a trocitos.
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	Por la antigüedad de este dispositivo y porque no puede conectarse a la web actual, de momento no puedo ofrecer ninguna función online. Perdona las molestias.
+Online features	Funciones online
+OK	Vale
+Try anyway	Intentarlo igualmente
+Staff PIN	PIN del equipo
