@@ -1,0 +1,574 @@
+# TaterPeeler: ru
+Common	Обычная
+Uncommon	Необычная
+Rare	Редкая
+Epic	Эпическая
+Legendary	Легендарная
+Potato #1,000	Картошка № 1000
+Sweet Potato	Батат
+Japanese Sweet	Японский батат
+Okinawan Sweet	Окинавский батат
+Rainbow Potato	Радужная картошка
+Golden Potato	Золотая картошка
+Screaming Potato	Кричащая картошка
+Black	Чёрная
+Red	Красная
+Yellow	Жёлтая
+Olive	Оливковая
+Lime	Лаймовая
+Golden	Золотая
+Wooden	Деревянная
+Wire Y	Проволочная Y
+Pro Grip	Pro Grip
+Julienne	Жюльен
+First Peel	Первая шкурка
+Spud Buddy	Картофельный дружище
+TaterPeeler Legend	Легенда TaterPeeler
+Long Peel	Длинная шкурка
+Speed Peeler	Быстрый чистильщик
+Rush Hour	Час пик
+Taste the Rainbow	Попробуй радугу
+Full Collection	Полная коллекция
+Nice	Nice
+Fry Cook	Повар фри
+Shoestring	Соломка
+Clean Station	Чистая станция
+Pure Tater	Чистая картошка
+Spud Century	Картофельный век
+Sack of Spuds	Мешок картошки
+Tater Titan	Картофельный титан
+Marathon	Марафон
+Variety Pack	Ассорти
+Epic Find	Эпическая находка
+Milestone	Рубеж
+Mega Peel	Мегашкурка
+Lightning Peeler	Молниеносный чистильщик
+Rush Royalty	Король Rush
+Expert Fryer	Опытный фритюрщик
+Fry Legend	Легенда фритюра
+Night Shift	Ночная смена
+New Kitchen	Новая кухня
+Peeler Collection	Коллекция овощечисток
+Online Champion	Чемпион онлайн
+That Could've Been for Starving Children	Это могло достаться голодающим детям
+Perfectly Seasoned	Идеальная приправа
+Scream Team	Команда крика
+Purple Reign	Фиолетовое царство
+Big Spender	Транжира
+Spud Banker	Картофельный банкир
+Head in the Clouds	Витаешь в облаках
+Knife Collector	Коллекционер ножей
+Your Own Spud	Своя картошка
+Peel your first potato	Почисти первую картошку
+Peel 25 potatoes	Почисти 25 картошек
+Peel 1,000 potatoes	Почисти 1000 картошек
+Peel one strip 25 cm long	Сними полоску длиной 25 см
+Peel a whole potato in under 12 seconds	Почисти целую картошку быстрее чем за 12 секунд
+Score 1,500 in one Rush	Набери 1500 очков за один Rush
+Find the Rainbow Potato	Найди радужную картошку
+Find every everyday variety	Найди все обычные сорта
+Peel potato number 69	Почисти картошку номер 69
+Serve your first fries	Подай свою первую картошку фри
+Cut 40 fries from one potato	Нарежь 40 брусков из одной картошки
+Scrape every crumb into the fryer, then serve	Смахни каждую крошку во фритюр, потом подавай
+Put a whole potato in the fryer	Брось во фритюр целую картошку
+Peel 100 potatoes	Почисти 100 картошек
+Peel 500 potatoes	Почисти 500 картошек
+Peel 2,500 potatoes	Почисти 2500 картошек
+Peel 25 potatoes without stopping	Почисти 25 картошек без остановки
+Find 20 different varieties	Найди 20 разных сортов
+Peel an Epic potato	Почисти эпическую картошку
+Peel a potato with a number carved in it	Почисти картошку с вырезанным номером
+Peel one strip 40 cm long	Сними полоску длиной 40 см
+Peel a whole potato in under 7 seconds	Почисти целую картошку быстрее чем за 7 секунд
+Score 3,000 in one Rush	Набери 3000 очков за один Rush
+Fry 25 potatoes	Пожарь 25 картошек
+Fry 100 potatoes	Пожарь 100 картошек
+Peel a potato in dark mode	Почисти картошку в тёмной теме
+Pick a new kitchen in Settings	Выбери новую кухню в Настройках
+Unlock every peeler	Открой все овощечистки
+Win a match online	Выиграй матч онлайн
+Knock a potato off the board	Столкни картошку с доски
+Season a batch of fries just right	Посоли порцию фри в самый раз
+Find the Screaming Potato	Найди кричащую картошку
+Find the Ube potato	Найди картошку убе
+Buy something in the shop	Купи что-нибудь в магазине
+Earn 1,000 TaterCoins	Заработай 1000 TaterCoins
+Save your progress to the cloud	Сохрани прогресс в облаке
+Unlock every knife	Открой все ножи
+Peel a potato made from your own photo	Почисти картошку из своего фото
+Warming Up	Разминка
+Half Hour Hero	Герой получаса
+Hour of Power	Час силы
+Couch Potato	Диванная картошка
+Spud Devotee	Фанат картошки
+Peel Machine	Чистильная машина
+Around the Clock	Круглые сутки
+Play for 10 minutes	Играй 10 минут
+Play for 30 minutes	Играй 30 минут
+Play for 1 hour	Играй 1 час
+Play for 2 hours	Играй 2 часа
+Play for 5 hours	Играй 5 часов
+Play for 10 hours	Играй 10 часов
+Play for 24 hours	Играй 24 часа
+Beginner-Peeler	Чистильщик-Новичок
+Rookie-Peeler	Чистильщик-Ученик
+Pro-Peeler	Чистильщик-Профи
+Expert-Peeler	Чистильщик-Эксперт
+Master-Peeler	Чистильщик-Мастер
+Legendary-Peeler	Чистильщик-Легенда
+Beginner-Fryer	Фритюрщик-Новичок
+Expert-Fryer	Фритюрщик-Эксперт
+Master-Fryer	Фритюрщик-Мастер
+Speed-Peeler	Скоростной-Чистильщик
+Rush-Champion	Чемпион-Rush
+Spud-Collector	Собиратель-Картошки
+Rainbow-Hunter	Охотник-за-Радугой
+Night-Owl	Ночная-Сова
+Couch-Potato	Диванная-Картошка
+Peel-Machine	Чистильная-Машина
+Long peel +{0}	Длинная шкурка +{0}
+Long peel, {0} cm	Длинная шкурка, {0} см
+You unlocked the Golden peeler	Ты открыл золотую овощечистку
+You unlocked the legendary Lime peeler	Ты открыл легендарную лаймовую овощечистку
+You unlocked the rare {0} peeler	Ты открыл редкую овощечистку «{0}»
+You unlocked the {0} peeler	Ты открыл овощечистку «{0}»
+potatoes peeled. You are a TaterPeeler legend.	картошек почищено. Ты легенда TaterPeeler.
+potatoes peeled! The fry station is open.	картошек почищено! Фритюр открыт.
+potatoes peeled!	картошек почищено!
+Potato number 1,000!	Картошка номер 1000!
+A rainbow potato!	Радужная картошка!
+Nice!	Nice!
+Achievement: {0}	Достижение: {0}
+Trophy: {0}	Трофей: {0}
+New title: {0}	Новое звание: {0}
+{0} cm	{0} см
+Fries	Картошка фри
+Cut and fry	Нарежь и пожарь
+Unlocks at {0}	Откроется на {0}
+Peel {0} more potato to open the fry station	Почисти ещё {0} картошку, чтобы открыть фритюр
+Peel {0} more potatoes to open the fry station	Почисти ещё {0} картошек, чтобы открыть фритюр
+Peel {0} more potatoes to open the fry station#few	Почисти ещё {0} картошки, чтобы открыть фритюр
+Made by Andres Campos	Сделал Andres Campos
+{0} potato peeled	{0} картошка почищена
+{0} potatoes peeled	{0} картошек почищено
+{0} potatoes peeled#few	{0} картошки почищены
+A potato, a peeler, and you	Картошка, овощечистка и ты
+New update! Click here for more info	Новое обновление! Нажми, чтобы узнать больше
+New update! Tap here for more info	Новое обновление! Коснись, чтобы узнать больше
+Download	Скачать
+Best {0}	Рекорд {0}
+60 seconds	60 секунд
+Peel	Чистить
+No timer	Без таймера
+Rush	Rush
+Collection	Коллекция
+Settings	Настройки
+Online	Онлайн
+Your potato	Твоя картошка
+Potato #{0}	Картошка № {0}
+From your photo	Из твоего фото
+potato, all time	картошка за всё время
+potatoes, all time	картошек за всё время
+potatoes, all time#few	картошки за всё время
+longest peel	самая длинная шкурка
+Drag across the potato to peel it	Проведи по картошке, чтобы почистить её
+Drag the empty space around it to turn it	Проведи по пустому месту, чтобы повернуть её
+Slice it into planks	Нарежь пластинами
+Slice the stack into fries	Нарежь стопку брусочками
+Scrape them into the fryer	Смахни их во фритюр
+Frying	Жарится
+Stacking the planks	Складываем пластины
+Here comes a potato	А вот и картошка
+Fries are up	Фри готова
+potato fried	картошка пожарена
+potatoes fried	картошек пожарено
+potatoes fried#few	картошки пожарено
+Swipe down to cut, or tap to chop. Move along for the next slice.	Проведи вниз, чтобы резать, или коснись, чтобы рубить. Двигайся к следующему ломтику.
+Click to chop where the knife is, or drag down to slice	Нажми, чтобы рубить там, где нож, или потяни вниз, чтобы резать
+{0} piece is still too thick	{0} кусок всё ещё слишком толстый
+{0} pieces are still too thick	{0} кусков всё ещё слишком толстые
+{0} pieces are still too thick#few	{0} куска всё ещё слишком толстые
+Lay the blade flat: swipe sideways to push everything off the right edge	Положи нож плашмя: проведи в сторону, чтобы столкнуть всё за правый край
+Drag sideways to sweep everything off the right edge	Потяни в сторону, чтобы смести всё за правый край
+Paused	Пауза
+Resume	Продолжить
+Restart	Заново
+Back to the lobby	Назад в лобби
+The match keeps going	Матч продолжается
+Quit to menu	Выйти в меню
+Music	Музыка
+Sound effects	Звуковые эффекты
+Time’s up	Время вышло
+New best	Новый рекорд
+potato	картошка
+potatoes	картошек
+potatoes#few	картошки
+Play again	Играть ещё
+Menu	Меню
+{0} h {1} min	{0} ч {1} мин
+{0} h	{0} ч
+{0} min	{0} мин
+Peelers	Овощечистки
+Peel more potatoes to unlock new ones. Wider blades peel faster.	Чисти больше картошки, чтобы открывать новые. Широкие лезвия чистят быстрее.
+In use	Используется
+Tap to use	Выбрать
+Your own potato	Своя картошка
+Your photo, wrapped round a potato	Твоё фото на картошке
+Pick a photo and it gets wrapped round a potato	Выбери фото, и оно обернётся вокруг картошки
+Change photo	Сменить фото
+Choose a photo	Выбрать фото
+Peel it	Почистить
+{0} of {1} found	Найдено {0} из {1}
+Potatoes	Картошка
+Not found yet	Ещё не найдена
+{0} peeled	Почищено: {0}
+{0} of {1} unlocked. Tap one to wear it under the logo.	Открыто {0} из {1}. Коснись одного, чтобы носить его под логотипом.
+Titles	Звания
+Wearing it. Tap to take it off	Ты его носишь. Коснись, чтобы снять
+{0} of {1} earned	Получено {0} из {1}
+Achievements	Достижения
+{0} of {1} earned. Time spent peeling and frying: {2}	Получено {0} из {1}. Время за чисткой и жаркой: {2}
+Trophies	Трофеи
+Pick where you peel. There are 12 kitchens, or you can use your own photo.	Выбери, где чистить. Есть 12 кухонь, или можно поставить своё фото.
+Dark mode, battery saver, and a screensaver with a bouncing logo if you leave it alone for a while.	Тёмная тема, экономия батареи и заставка с прыгающим логотипом, если оставить игру на время.
+Music and sound effects. You can set every single sound's volume, and keep YouTube or Music playing while you peel.	Музыка и звуковые эффекты. Можно настроить громкость каждого звука и не выключать YouTube или Музыку, пока чистишь.
+How peeling works for you: the peeler, turning speed, counters, carving shapes, and Accessibility.	Как ты чистишь: овощечистка, скорость поворота, счётчики, вырезанные фигурки и Специальные возможности.
+Save your progress to the cloud with a 6-character code, and send me your ideas in the Suggestions box.	Сохрани прогресс в облаке с 6-символьным кодом и присылай мне идеи через ящик идей.
+Your stats live here. Only reset if you really mean it, it can't be undone.	Здесь твоя статистика. Сбрасывай, только если правда хочешь, отменить нельзя.
+A little note from me. TaterPeeler stays free with no ads.	Небольшая записка от меня. TaterPeeler остаётся бесплатным и без рекламы.
+Credits for the music, the sounds and the art. That's everything, enjoy!	Благодарности за музыку, звуки и графику. Вот и всё, приятной игры!
+{0} of {1}	{0} из {1}
+Done	Готово
+Next	Дальше
+Exit tour	Закончить тур
+TaterPeeler is run by just one person. I've been told I should start running advertisements to make money off of this project. Do not fear, TaterPeeler will stay free and Ad Free for everyone. Including all versions of TaterPeeler. Thanks for supporting this project and me. Expect regular updates, to get notified, add this website to your home screen if not using the app to get notified. To suggest ideas please do submit ideas in the Suggestions box in settings. Thank you for playing.	TaterPeeler делает всего один человек. Мне сказали, что стоит начать показывать рекламу, чтобы зарабатывать на этом проекте. Не бойтесь, TaterPeeler останется бесплатным и без рекламы для всех. Включая все версии TaterPeeler. Спасибо, что поддерживаете этот проект и меня. Обновления будут регулярно; чтобы получать уведомления, добавьте этот сайт на главный экран, если не пользуетесь приложением. Идеи присылайте через ящик идей в настройках. Спасибо за игру.
+Peeling	Чистка
+Potato landing	Приземление картошки
+Taps and buttons	Касания и кнопки
+Rewards	Награды
+Rush clock	Часы Rush
+Knife	Нож
+Cutting board	Разделочная доска
+Fryer	Фритюр
+Salt shaker	Солонка
+Coins	Монеты
+Screaming potato	Кричащая картошка
+Show me around	Покажи всё
+A quick tour of everything in here	Быстрый тур по всему, что здесь есть
+Pick the game's language	Выбери язык игры
+Language	Язык
+Kitchen	Кухня
+Plain	Простой
+Your photo	Твоё фото
+Background	Фон
+Pick a kitchen, or use your own photo	Выбери кухню или поставь своё фото
+Display	Экран
+Dark mode	Тёмная тема
+Battery saver	Экономия батареи
+Runs at 30 frames a second	30 кадров в секунду
+Screensaver	Заставка
+A bouncing logo after 10 minutes of not playing	Прыгающий логотип после 10 минут без игры
+Sound	Звук
+Music volume	Громкость музыки
+Effects volume	Громкость эффектов
+Each sound's volume	Громкость каждого звука
+Turn any one sound up or down	Сделай любой звук громче или тише
+Hide	Скрыть
+Show	Показать
+Play alongside other apps	Играть вместе с другими приложениями
+Keep YouTube or Music playing while you peel	YouTube или Музыка не выключаются, пока ты чистишь
+Show the peeler	Показывать овощечистку
+Hide it to watch the skin come off	Скрой её, чтобы видеть, как сходит кожура
+Turning speed	Скорость поворота
+All-time counter	Счётчик за всё время
+Count every potato you've peeled, not just this session	Считает всю почищенную картошку, а не только за этот раз
+Carve shapes	Вырезать фигурки
+Each potato gets a little shape carved into it	На каждой картошке будет маленькая вырезанная фигурка
+Spin the potato on menus	Крутить картошку в меню
+Show tips	Показывать подсказки
+How to peel and turn the potato	Как чистить и поворачивать картошку
+Accessibility	Спец. возможности
+Left-handed, two fingers at once, Rush length	Для левшей, два пальца сразу, длина Rush
+Cloud save	Облачное сохранение
+Keep your progress and play on any device	Храни прогресс и играй на любом устройстве
+Off	Выкл.
+Suggestions box	Ящик идей
+Got an idea for TaterPeeler? Send it to me	Есть идея для TaterPeeler? Пришли мне
+Your idea for TaterPeeler	Твоя идея для TaterPeeler
+Progress	Прогресс
+Reset progress	Сбросить прогресс
+Tap again to erase	Нажми ещё раз, чтобы стереть
+Reset	Сбросить
+This resets this device. The cloud copy keeps your progress.	Это сбросит это устройство. Копия в облаке сохранит твой прогресс.
+potatoes peeled	картошек почищено
+best Rush score	лучший счёт в Rush
+fries made	порций фри
+What's new in 2.0	Что нового в 2.0
+Free forever, and no ads	Бесплатно навсегда и без рекламы
+License: CC BY-NC-ND 4.0	Лицензия: CC BY-NC-ND 4.0
+Licence	Лицензия
+Original track	Оригинальный трек
+Potato photoscan: Jan Martens, Poly Haven (CC0)	Скан картошки: Jan Martens, Poly Haven (CC0)
+Sound effects: Joseph Sardin, BigSoundBank (CC0)	Звуковые эффекты: Joseph Sardin, BigSoundBank (CC0)
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)	Дерево доски: Jenelle van Heerden, Poly Haven (CC0)
+Kitchens: Poly Haven textures and models (CC0)	Кухни: текстуры и модели Poly Haven (CC0)
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.	В игре используются ресурсы и звуки, свободные от авторских прав. Музыка используется по лицензии Creative Commons, указанной выше.
+Version {0}	Версия {0}
+Where you peel. The cutting board is always on the counter.	Где ты чистишь. Разделочная доска всегда лежит на столешнице.
+The original look	Изначальный вид
+Tap again to change it	Нажми ещё раз, чтобы сменить
+Tap to use it	Коснись, чтобы выбрать
+Tap to choose a photo	Коснись, чтобы выбрать фото
+This is the biggest update TaterPeeler has had so far. Here's everything that's new in 2.0. Thanks for 300 players!	Это самое большое обновление TaterPeeler на сегодня. Вот всё новое в 2.0. Спасибо за 300 игроков!
+Online (Beta)	Онлайн (бета)
+You can play with other people now. Do a quick 1v1, or make a lobby with up to 6 people, public or private. The host picks the mode: race to a number of potatoes, timed, or endless. If the host leaves, the next person who joined takes over. There's quick chat, and typed chat in private lobbies (it's filtered).	Теперь можно играть с другими людьми. Сыграй быстрый 1v1 или собери лобби до 6 человек, открытое или закрытое. Хост выбирает режим: гонка до нужного числа картошек, на время или без конца. Если хост уходит, управление переходит к следующему, кто зашёл. Есть быстрый чат, а в закрытых лобби ещё и обычный (с фильтром).
+Leaderboard	Таблица лидеров
+There's a live leaderboard for potatoes peeled, Rush, fries and time played. Save to the cloud to get on it.	Есть живая таблица лидеров по почищенной картошке, Rush, фри и времени в игре. Сохранись в облаке, чтобы в неё попасть.
+Cloud saves	Облачные сохранения
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts and everything adds up.	Выбери 6-символьный код, и твой прогресс сохранится онлайн. Введи код на другом устройстве и играй дальше там. Можно даже объединить два аккаунта, и всё сложится.
+Seasoning and TaterCoins	Приправа и TaterCoins
+When your fries land in the tray, grab the salt shaker and shake it over them. Not too little, not too much. You earn TaterCoins for how well you cut and seasoned, and rarer potatoes pay more.	Когда фри упадёт в лоток, бери солонку и потряси над ней. Не мало и не много. TaterCoins даются за то, как хорошо ты нарезал и посолил, а редкая картошка приносит больше.
+The Shop	Магазин
+Spend your TaterCoins in the shop (the coin button on the menu). There are 10 skins that go on any peeler, from Cherry all the way up to Diamond.	Трать TaterCoins в магазине (кнопка с монетой в меню). Там 10 скинов на любую овощечистку, от Вишни до Алмаза.
+Knives	Ножи
+New knives unlock the more fries you make. Different colours and looks, all the way to a gold one.	Чем больше фри делаешь, тем больше новых ножей открывается. Разные цвета и виды, вплоть до золотого.
+Kitchens	Кухни
+The game takes place in a kitchen now, with the cutting board on the counter. There are 12 kitchens to pick from in Settings, or you can use your own photo as the background.	Теперь игра проходит на кухне, а доска лежит на столешнице. В Настройках можно выбрать одну из 12 кухонь или поставить своё фото на фон.
+A ton of new potatoes to find, including Ube. There's also one super rare potato that looks totally normal... until you start peeling it. You'll know when you find it.	Куча новой картошки, включая убе. А ещё есть одна суперредкая картошка, которая выглядит совершенно обычно... пока не начнёшь её чистить. Ты поймёшь, когда её найдёшь.
+4 new peelers	4 новые овощечистки
+Wooden, Wire Y, Pro Grip and Julienne. Each one looks different, not just a new colour. The rare ones peel a little faster, nothing crazy.	Деревянная, Проволочная Y, Pro Grip и Жюльен. Каждая выглядит по-своему, а не просто другим цветом. Редкие чистят чуть быстрее, без перебора.
+Titles and trophies	Звания и трофеи
+Earn titles like Beginner-Peeler, Pro-Peeler and Master-Fryer, and wear one under the logo. There are trophies for time played too (only peeling and frying counts, not sitting on the menu), plus a bunch of new achievements.	Получай звания вроде Чистильщик-Новичок, Чистильщик-Профи и Фритюрщик-Мастер и носи одно под логотипом. Есть и трофеи за время в игре (считается только чистка и жарка, а не сидение в меню), плюс куча новых достижений.
+Take a photo and it gets wrapped around a potato. Find it in the Collection.	Сделай фото, и оно обернётся вокруг картошки. Ищи её в Коллекции.
+Left-handed mode, peeling with one finger while turning with another, your own Rush length (like 1:30), and lifetime counters for every peel and cut.	Режим для левшей, чистка одним пальцем с поворотом другим, своя длина Rush (например, 1:30) и счётчики каждой чистки и нарезки.
+Every sound has its own volume slider now. And if you're listening to YouTube or music, turn on Play alongside other apps so TaterPeeler doesn't stop it.	Теперь у каждого звука свой ползунок громкости. А если слушаешь YouTube или музыку, включи Играть вместе с другими приложениями, чтобы TaterPeeler её не останавливал.
+Languages	Языки
+TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish and Turkish now, plus a Pirate language.	Теперь TaterPeeler говорит по-китайски, по-испански (в обоих вариантах), по-русски, по-португальски, по-немецки, по-японски, по-французски, по-корейски, по-польски и по-турецки, а ещё по-пиратски.
+Other stuff	Разное
+A Show me around button in Settings, a Suggestions box so you can send me ideas, an all-time counter, carved shapes inside the potato if you want them, and a screensaver if you leave the game alone for a while.	Кнопка Покажи всё в Настройках, ящик идей, чтобы присылать мне идеи, счётчик за всё время, вырезанные фигурки в картошке, если хочешь, и заставка, если оставить игру на время.
+Fixes	Исправления
+Pushing the potato off the board at the fry station doesn't break it anymore, a new one just drops in. Text is easy to read on every background, the peeler doesn't go through the cutting board, and older iPads run smoother.	Если столкнуть картошку с доски у фритюра, больше ничего не ломается, просто падает новая. Текст хорошо читается на любом фоне, овощечистка не проходит сквозь доску, а старые iPad работают плавнее.
+Everything you had before is still there, nothing got reset. Thanks for playing.	Всё, что у тебя было, на месте, ничего не сбросилось. Спасибо за игру.
+What's new	Что нового
+IT HIT THE CORNER!	ПРЯМО В УГОЛ!
+Tap anywhere to keep peeling	Коснись где угодно, чтобы чистить дальше
++{0} fry	+{0} брусок фри
++{0} fries	+{0} брусков фри
++{0} fries#few	+{0} бруска фри
+Wait... is that potato SCREAMING?	Стоп... эта картошка что, КРИЧИТ?
+Classic White	Классическая белая
+Farmhouse	Фермерский дом
+Midnight	Полночь
+Retro Diner	Ретро-закусочная
+Tuscan Sun	Тосканское солнце
+Scandinavian	Скандинавская
+Industrial Loft	Индустриальный лофт
+Seaside	У моря
+Navy & Brass	Синий и латунь
+Garden Window	Окно в сад
+Pastel Pop	Пастельный поп
+Cozy Cabin	Уютный домик
+Race	Гонка
+Timed	На время
+Endless	Без конца
+Good luck!	Удачи!
+GG!	GG!
+Nice one!	Красиво!
+Ready?	Готовы?
+Wow!	Ого!
+Rematch?	Реванш?
+So close!	Почти!
+Let's go!	Погнали!
+Couldn't reach the server. Check your internet	Не удалось связаться с сервером. Проверь интернет
+No lobby with that code	Нет лобби с таким кодом
+That lobby is full	Это лобби заполнено
+That match already started. Try again when it's over	Этот матч уже начался. Попробуй, когда он закончится
+You can't play online right now	Сейчас нельзя играть онлайн
+Slow down a little and try again	Помедленнее, попробуй ещё раз
+Typed chat is only in private lobbies	Обычный чат есть только в закрытых лобби
+Something went wrong, try again	Что-то пошло не так, попробуй ещё раз
+Peeler	Чистильщик
+Your name in online games	Твоё имя в онлайн-играх
+You left the lobby	Ты вышел из лобби
+Lost the connection to the lobby	Связь с лобби потеряна
+Quick 1v1	Быстрый 1v1
+Create a lobby	Создать лобби
+Join with a code	Войти по коду
+The lobby's code	Код лобби
+Public lobbies	Открытые лобби
+None open right now. Make one, or try Quick 1v1	Сейчас открытых нет. Создай своё или попробуй быстрый 1v1
+Looking...	Ищем...
+{0}'s lobby	Лобби игрока {0}
+Race to {0}	Гонка до {0}
+Timed, {0}	На время, {0}
+Public lobby, code	Открытое лобби, код
+Private lobby. Share this code	Закрытое лобби. Поделись этим кодом
+Players	Игроки
+{0} (you)	{0} (ты)
+Match	Матч
+{0} potatoes	{0} картошек
+{0} potatoes#few	{0} картошки
+Public	Открытое
+Anyone can find it in the list	Любой может найти его в списке
+Start the match	Начать матч
+Waiting for someone to join...	Ждём, пока кто-нибудь зайдёт...
+Race: first to {0} potatoes wins	Гонка: побеждает тот, кто первым почистит {0} картошек
+Timed: most potatoes in {0}	На время: больше всех картошки за {0}
+Endless: peel until the host ends it	Без конца: чисть, пока хост не закончит
+Waiting for the host to start	Ждём, пока хост начнёт
+Match over	Матч окончен
+Starting...	Начинаем...
+Chat	Чат
+Say hi!	Поздоровайся!
+Type a message	Напиши сообщение
+Message	Сообщение
+Typed chat is only in private lobbies.	Обычный чат есть только в закрытых лобби.
+Leave lobby	Выйти из лобби
+Lobby	Лобби
+First to {0}	Первым до {0}
+You win!	Ты победил!
+{0} potato	{0} картошка
+Lobby codes are 5 letters	Коды лобби из 5 букв
+Update 2.0 is now out! Here's what's new!	Вышло обновление 2.0! Смотри, что нового!
+Thanks for 300 players! I'll keep updating this periodically.	Спасибо за 300 игроков! Я буду и дальше регулярно обновлять игру.
+View what's new	Что нового
+Dismiss	Закрыть
+Message from {0}	Сообщение от {0}
+Couldn't reach the server. Check your internet and try again	Не удалось связаться с сервером. Проверь интернет и попробуй ещё раз
+That code is already taken, try another one	Этот код уже занят, попробуй другой
+Codes are 6 letters or numbers	Код — это 6 букв или цифр
+Try a different name	Попробуй другое имя
+Too many tries. Wait a couple of minutes	Слишком много попыток. Подожди пару минут
+No progress is saved with that code	С этим кодом нет сохранённого прогресса
+That's this account's own code	Это код этого же аккаунта
+This device isn't linked anymore	Это устройство больше не привязано
+That save is too big	Это сохранение слишком большое
+That one's taken. Pick another 6-character code	Этот занят. Выбери другой 6-символьный код
+Saved to the cloud! Your code is {0}	Сохранено в облаке! Твой код {0}
+This device already has {0} potato peeled. Add this device's progress to the account, or switch to the account's progress?	На этом устройстве уже {0} почищенная картошка. Добавить прогресс этого устройства в аккаунт или переключиться на прогресс аккаунта?
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?	На этом устройстве уже {0} почищенных картошек. Добавить прогресс этого устройства в аккаунт или переключиться на прогресс аккаунта?
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?#few	На этом устройстве уже {0} почищенные картошки. Добавить прогресс этого устройства в аккаунт или переключиться на прогресс аккаунта?
+Combine progress?	Объединить прогресс?
+Combine	Объединить
+Use the account's	Взять из аккаунта
+Accounts combined! Everything adds up now	Аккаунты объединены! Теперь всё складывается
+Name changed	Имя изменено
+Thanks! Andres reads every suggestion	Спасибо! Andres читает каждую идею
+That's a lot of ideas! Try again in a bit	Многовато идей! Попробуй чуть позже
+Write a little more first	Напиши ещё немного
+Time played	Время в игре
+BETA	БЕТА
+Keep your progress safe and play on any device. You pick a 6-character code, and that code loads your potatoes, coins and everything else anywhere. Anyone with your code can load your progress, so keep it to yourself.	Сохрани прогресс и играй на любом устройстве. Ты выбираешь 6-символьный код, и этот код загружает твою картошку, монеты и всё остальное где угодно. Любой, у кого есть твой код, может загрузить твой прогресс, так что никому его не давай.
+Create my code	Создать мой код
+Pick a 6-character code (letters and numbers)	Выбери 6-символьный код (буквы и цифры)
+I have a code	У меня есть код
+Type your 6-character code	Введи свой 6-символьный код
+Your code	Твой код
+No name (Anonymous peeler on the leaderboard)	Без имени (Аноним в таблице лидеров)
+Offline right now. It syncs when you're back online	Сейчас нет сети. Синхронизируется, когда снова будешь онлайн
+Syncing...	Синхронизация...
+Synced just now	Только что синхронизировано
+Synced {0} ago	Синхронизировано {0} назад
+Sync now	Синхронизировать
+Change name	Сменить имя
+Add a name	Добавить имя
+Your name on the leaderboard	Твоё имя в таблице лидеров
+Combine another account	Объединить с другим аккаунтом
+The other account's 6-character code	6-символьный код другого аккаунта
+Unlink this device	Отвязать это устройство
+Unlink this device?	Отвязать это устройство?
+Your progress stays on this device and in the cloud. You can link again any time with your code.	Твой прогресс останется на этом устройстве и в облаке. Можно привязать снова в любой момент по коду.
+Unlink	Отвязать
+Cancel	Отмена
+Codes are exactly 6 letters or numbers	Код — это ровно 6 букв или цифр
+Your name for the leaderboard (optional)	Твоё имя для таблицы лидеров (необязательно)
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too.	Всё из {0} добавится в этот аккаунт (картошка, монеты, фри, всё). После этого тот код тоже будет открывать этот аккаунт.
+Combine accounts?	Объединить аккаунты?
+Linked! This device now uses {0}	Привязано! Это устройство теперь использует {0}
+This device is unlinked	Устройство отвязано
+{0} player online	{0} игрок онлайн
+{0} players online	{0} игроков онлайн
+{0} players online#few	{0} игрока онлайн
+Connecting...	Подключение...
+Offline. Online features need the internet	Нет сети. Для онлайна нужен интернет
+Play together	Играть вместе
+Loading...	Загрузка...
+Couldn't load the leaderboard	Не удалось загрузить таблицу лидеров
+Nobody's here yet. Be the first!	Здесь пока никого. Будь первым!
+You're #{0} with {1}	Ты на {0}-м месте с результатом {1}
+To get on the leaderboard, save your progress to the cloud. It only takes a code.	Чтобы попасть в таблицу лидеров, сохрани прогресс в облаке. Нужен только код.
+Save to the cloud	Сохранить в облаке
+Cherry	Вишня
+Ocean	Океан
+Mint	Мята
+Lavender	Лаванда
+Sunshine	Солнце
+Midnight Matte	Матовая полночь
+Bubblegum	Жвачка
+Chrome	Хром
+Rose Gold	Розовое золото
+Diamond	Алмаз
+Chef's Knife	Поварской нож
+Red Handle	Красная ручка
+Ocean Blue	Океанский синий
+Walnut	Орех
+Mint Pro	Мятный Pro
+Black Steel	Чёрная сталь
+Copper	Медь
+Gold	Золото
+No salt	Без соли
+A little more salt next time	В следующий раз чуть больше соли
+Way too salty!	Слишком солёно!
+Seasoned just right!	Посолено в самый раз!
++{0} TaterCoins. {1}	+{0} TaterCoins. {1}
+Salt	Соль
+Shake the salt over the fries	Потряси солонку над картошкой фри
+Serve	Подать
+Coming soon	Скоро
+TaterCoins. Earn them by frying: cut well, season just right, and rarer potatoes pay more.	TaterCoins. Зарабатывай их жаркой: режь хорошо, соли в самый раз, а редкая картошка приносит больше.
+Peeler skins	Скины овощечисток
+A skin changes the colour of whichever peeler you use.	Скин меняет цвет овощечистки, которой ты пользуешься.
+Buy {0} for {1} TaterCoins?	Купить «{0}» за {1} TaterCoins?
+It goes on whichever peeler you use, and you can switch any time.	Он ставится на ту овощечистку, которой ты пользуешься, и его можно сменить в любой момент.
+Buy it	Купить
+Not now	Не сейчас
+You need {0} more TaterCoins. Fry some potatoes!	Не хватает {0} TaterCoins. Пожарь немного картошки!
+Original	Обычный
+Wearing	Надет
+Tap to wear	Коснись, чтобы надеть
+New knives unlock as you make fries. You've made {0}.	Новые ножи открываются за картошку фри. Ты сделал уже {0}.
+Make {0} more fries to unlock it	Сделай ещё {0} фри, чтобы открыть его
+{0} fries	{0} фри
+Shop	Магазин
+{0} is yours!	«{0}» теперь твой!
+Playing	Игра
+Left-handed	Левша
+The buttons and the resting peeler move to the other side	Кнопки и овощечистка в покое переезжают на другую сторону
+Peel and turn at once	Чистить и вращать одновременно
+One finger peels while another turns the potato	Один палец чистит, а другой вращает картошку
+Rush length	Длина Rush
+Best scores are kept for every length together.	Рекорды общие для всех длин.
+Lifetime	За всё время
+peel strokes	движений чистки
+knife cuts	разрезов ножом
+Chinese (Simplified)	Китайский (упрощённый)
+Spanish (Latin America)	Испанский (Латинская Америка)
+Spanish (Spain)	Испанский (Испания)
+Russian	Русский
+Portuguese (Brazil)	Португальский (Бразилия)
+German	Немецкий
+Japanese	Японский
+French	Французский
+Korean	Корейский
+Polish	Польский
+Turkish	Турецкий
+Pirate, for fun	Пиратский, для смеха
+Names, chat and messages from other players stay the way they wrote them.	Имена, чат и сообщения других игроков остаются такими, как их написали.
+Music: “Echoes in Blue” by Tokyo Music Walker	Музыка: «Echoes in Blue», Tokyo Music Walker
+Baked Potato	Печёная картошка
+Who baked this?	Кто это испёк?
+Find the Baked Potato	Найди печёную картошку
+Careful, it's hot!	Осторожно, горячо!
+Tin foil	Фольга
+Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Супер редкая. Падает ещё в фольге, сама разворачивается, и от неё идёт пар. Кожура хрустящая, поэтому снимается кусочками.

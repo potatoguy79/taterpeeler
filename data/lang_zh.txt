@@ -1,0 +1,564 @@
+# TaterPeeler: zh
+Common	普通
+Uncommon	少见
+Rare	稀有
+Epic	史诗
+Legendary	传说
+Potato #1,000	第 1,000 个土豆
+Sweet Potato	红薯
+Japanese Sweet	日本红薯
+Okinawan Sweet	冲绳紫薯
+Rainbow Potato	彩虹土豆
+Golden Potato	黄金土豆
+Screaming Potato	尖叫土豆
+Black	黑色
+Red	红色
+Yellow	黄色
+Olive	橄榄绿
+Lime	青柠
+Golden	金色
+Wooden	木柄
+Wire Y	钢丝 Y
+Pro Grip	Pro Grip
+Julienne	切丝刨
+First Peel	第一次削皮
+Spud Buddy	土豆好伙伴
+TaterPeeler Legend	TaterPeeler 传奇
+Long Peel	长长的皮
+Speed Peeler	削皮快手
+Rush Hour	高峰时段
+Taste the Rainbow	尝尝彩虹
+Full Collection	全部收集
+Nice	Nice
+Fry Cook	薯条厨师
+Shoestring	细薯条
+Clean Station	干净灶台
+Pure Tater	纯正土豆
+Spud Century	土豆世纪
+Sack of Spuds	一袋土豆
+Tater Titan	土豆巨人
+Marathon	马拉松
+Variety Pack	品种大全
+Epic Find	史诗发现
+Milestone	里程碑
+Mega Peel	超长果皮
+Lightning Peeler	闪电削皮手
+Rush Royalty	Rush 王者
+Expert Fryer	油炸高手
+Fry Legend	油锅传奇
+Night Shift	夜班
+New Kitchen	新厨房
+Peeler Collection	削皮刀收藏家
+Online Champion	在线冠军
+That Could've Been for Starving Children	这本可以送给饥饿的孩子们
+Perfectly Seasoned	调味完美
+Scream Team	尖叫小队
+Purple Reign	紫色王朝
+Big Spender	大手笔
+Spud Banker	土豆银行家
+Head in the Clouds	头在云端
+Knife Collector	刀具收藏家
+Your Own Spud	专属土豆
+Peel your first potato	削你的第一个土豆
+Peel 25 potatoes	削 25 个土豆
+Peel 1,000 potatoes	削 1,000 个土豆
+Peel one strip 25 cm long	削出一条 25 厘米长的皮
+Peel a whole potato in under 12 seconds	在 12 秒内削完一整个土豆
+Score 1,500 in one Rush	一局 Rush 拿到 1,500 分
+Find the Rainbow Potato	找到彩虹土豆
+Find every everyday variety	找到所有常见品种
+Peel potato number 69	削第 69 个土豆
+Serve your first fries	端出你的第一份薯条
+Cut 40 fries from one potato	从一个土豆切出 40 根薯条
+Scrape every crumb into the fryer, then serve	把每一点碎屑都扫进油锅，然后上菜
+Put a whole potato in the fryer	把一整个土豆扔进油锅
+Peel 100 potatoes	削 100 个土豆
+Peel 500 potatoes	削 500 个土豆
+Peel 2,500 potatoes	削 2,500 个土豆
+Peel 25 potatoes without stopping	连续削 25 个土豆
+Find 20 different varieties	找到 20 个不同品种
+Peel an Epic potato	削一个史诗土豆
+Peel a potato with a number carved in it	削一个刻着数字的土豆
+Peel one strip 40 cm long	削出一条 40 厘米长的皮
+Peel a whole potato in under 7 seconds	在 7 秒内削完一整个土豆
+Score 3,000 in one Rush	一局 Rush 拿到 3,000 分
+Fry 25 potatoes	炸 25 个土豆
+Fry 100 potatoes	炸 100 个土豆
+Peel a potato in dark mode	在深色模式下削一个土豆
+Pick a new kitchen in Settings	在设置里选一个新厨房
+Unlock every peeler	解锁所有削皮刀
+Win a match online	赢一场在线比赛
+Knock a potato off the board	把土豆碰下砧板
+Season a batch of fries just right	给一份薯条撒上刚好的盐
+Find the Screaming Potato	找到尖叫土豆
+Find the Ube potato	找到 Ube 土豆
+Buy something in the shop	在商店买点东西
+Earn 1,000 TaterCoins	赚 1,000 TaterCoins
+Save your progress to the cloud	把进度存到云端
+Unlock every knife	解锁所有刀
+Peel a potato made from your own photo	削一个用你自己照片做的土豆
+Warming Up	热身中
+Half Hour Hero	半小时英雄
+Hour of Power	能量一小时
+Couch Potato	沙发土豆
+Spud Devotee	土豆铁粉
+Peel Machine	削皮机器
+Around the Clock	昼夜不停
+Play for 10 minutes	玩 10 分钟
+Play for 30 minutes	玩 30 分钟
+Play for 1 hour	玩 1 小时
+Play for 2 hours	玩 2 小时
+Play for 5 hours	玩 5 小时
+Play for 10 hours	玩 10 小时
+Play for 24 hours	玩 24 小时
+Beginner-Peeler	新手削皮师
+Rookie-Peeler	见习削皮师
+Pro-Peeler	专业削皮师
+Expert-Peeler	高级削皮师
+Master-Peeler	大师削皮师
+Legendary-Peeler	传奇削皮师
+Beginner-Fryer	新手炸薯师
+Expert-Fryer	高级炸薯师
+Master-Fryer	大师炸薯师
+Speed-Peeler	极速削皮师
+Rush-Champion	Rush 冠军
+Spud-Collector	土豆收藏家
+Rainbow-Hunter	彩虹猎人
+Night-Owl	夜猫子
+Couch-Potato	沙发土豆
+Peel-Machine	削皮机器
+Long peel +{0}	长皮 +{0}
+Long peel, {0} cm	长皮，{0} 厘米
+You unlocked the Golden peeler	你解锁了黄金削皮刀
+You unlocked the legendary Lime peeler	你解锁了传说中的青柠削皮刀
+You unlocked the rare {0} peeler	你解锁了稀有的{0}削皮刀
+You unlocked the {0} peeler	你解锁了{0}削皮刀
+potatoes peeled. You are a TaterPeeler legend.	个土豆已削皮。你就是 TaterPeeler 传奇。
+potatoes peeled! The fry station is open.	个土豆已削皮！炸薯条站开张了。
+potatoes peeled!	个土豆已削皮！
+Potato number 1,000!	第 1,000 个土豆！
+A rainbow potato!	彩虹土豆！
+Nice!	Nice！
+Achievement: {0}	成就：{0}
+Trophy: {0}	奖杯：{0}
+New title: {0}	新称号：{0}
+{0} cm	{0} 厘米
+Fries	薯条
+Cut and fry	切好再炸
+Unlocks at {0}	{0} 个解锁
+Peel {0} more potato to open the fry station	再削 {0} 个土豆就能开启炸薯条站
+Peel {0} more potatoes to open the fry station	再削 {0} 个土豆就能开启炸薯条站
+Made by Andres Campos	由 Andres Campos 制作
+{0} potato peeled	已削 {0} 个土豆
+{0} potatoes peeled	已削 {0} 个土豆
+A potato, a peeler, and you	一个土豆，一把削皮刀，还有你
+New update! Click here for more info	新更新！点这里了解更多
+New update! Tap here for more info	新更新！点这里了解更多
+Download	下载
+Best {0}	最佳 {0}
+60 seconds	60 秒
+Peel	削皮
+No timer	不计时
+Rush	Rush
+Collection	收藏
+Settings	设置
+Online	在线
+Your potato	你的土豆
+Potato #{0}	第 {0} 个土豆
+From your photo	来自你的照片
+potato, all time	个土豆（总计）
+potatoes, all time	个土豆（总计）
+longest peel	最长的皮
+Drag across the potato to peel it	在土豆上拖动来削皮
+Drag the empty space around it to turn it	在周围空白处拖动来转动它
+Slice it into planks	切成片
+Slice the stack into fries	把这摞切成条
+Scrape them into the fryer	扫进油锅
+Frying	正在油炸
+Stacking the planks	正在叠片
+Here comes a potato	土豆来了
+Fries are up	薯条好了
+potato fried	个土豆已炸
+potatoes fried	个土豆已炸
+Swipe down to cut, or tap to chop. Move along for the next slice.	向下滑动来切，或点一下来剁。往前移动切下一片。
+Click to chop where the knife is, or drag down to slice	点击在刀的位置剁下，或向下拖动来切
+{0} piece is still too thick	还有 {0} 块太厚了
+{0} pieces are still too thick	还有 {0} 块太厚了
+Lay the blade flat: swipe sideways to push everything off the right edge	把刀放平：横向滑动，把所有东西推出右边
+Drag sideways to sweep everything off the right edge	横向拖动，把所有东西扫出右边
+Paused	已暂停
+Resume	继续
+Restart	重新开始
+Back to the lobby	回到大厅
+The match keeps going	比赛还在继续
+Quit to menu	退出到菜单
+Music	音乐
+Sound effects	音效
+Time’s up	时间到
+New best	新纪录
+potato	个土豆
+potatoes	个土豆
+Play again	再玩一次
+Menu	菜单
+{0} h {1} min	{0} 小时 {1} 分钟
+{0} h	{0} 小时
+{0} min	{0} 分钟
+Peelers	削皮刀
+Peel more potatoes to unlock new ones. Wider blades peel faster.	多削些土豆来解锁新的削皮刀。刀片越宽，削得越快。
+In use	使用中
+Tap to use	点击使用
+Your own potato	专属土豆
+Your photo, wrapped round a potato	你的照片，包在土豆上
+Pick a photo and it gets wrapped round a potato	选一张照片，它会包在土豆上
+Change photo	换照片
+Choose a photo	选择照片
+Peel it	削它
+{0} of {1} found	已找到 {0}/{1}
+Potatoes	土豆
+Not found yet	还没找到
+{0} peeled	已削 {0} 个
+{0} of {1} unlocked. Tap one to wear it under the logo.	已解锁 {0}/{1}。点一个就能戴在标志下面。
+Titles	称号
+Wearing it. Tap to take it off	正在佩戴。点击取下
+{0} of {1} earned	已获得 {0}/{1}
+Achievements	成就
+{0} of {1} earned. Time spent peeling and frying: {2}	已获得 {0}/{1}。削皮和油炸用时：{2}
+Trophies	奖杯
+Pick where you peel. There are 12 kitchens, or you can use your own photo.	选择在哪儿削皮。共有 12 个厨房，也可以用你自己的照片。
+Dark mode, battery saver, and a screensaver with a bouncing logo if you leave it alone for a while.	深色模式、省电模式，还有一个屏保：放着不动一会儿，标志就会弹来弹去。
+Music and sound effects. You can set every single sound's volume, and keep YouTube or Music playing while you peel.	音乐和音效。每个声音的音量都能单独调，削皮时还能继续听 YouTube 或音乐。
+How peeling works for you: the peeler, turning speed, counters, carving shapes, and Accessibility.	你的削皮方式：削皮刀、转动速度、计数器、雕刻图案和辅助功能。
+Save your progress to the cloud with a 6-character code, and send me your ideas in the Suggestions box.	用 6 位代码把进度存到云端，还可以在建议箱里把想法发给我。
+Your stats live here. Only reset if you really mean it, it can't be undone.	这里是你的统计数据。确定了再重置，无法撤销。
+A little note from me. TaterPeeler stays free with no ads.	我的一点小心意。TaterPeeler 永远免费，没有广告。
+Credits for the music, the sounds and the art. That's everything, enjoy!	音乐、音效和美术的致谢。就这些，玩得开心！
+{0} of {1}	{0}/{1}
+Done	完成
+Next	下一步
+Exit tour	退出导览
+TaterPeeler is run by just one person. I've been told I should start running advertisements to make money off of this project. Do not fear, TaterPeeler will stay free and Ad Free for everyone. Including all versions of TaterPeeler. Thanks for supporting this project and me. Expect regular updates, to get notified, add this website to your home screen if not using the app to get notified. To suggest ideas please do submit ideas in the Suggestions box in settings. Thank you for playing.	TaterPeeler 只由一个人制作。有人跟我说，我应该开始放广告来靠这个项目赚钱。别担心，TaterPeeler 对所有人都会保持免费、没有广告。包括 TaterPeeler 的所有版本。感谢你支持这个项目和我。会定期更新；如果你没用 App，把这个网站添加到主屏幕就能收到通知。有想法的话，请在设置里的建议箱提交。感谢游玩。
+Peeling	削皮
+Potato landing	土豆落下
+Taps and buttons	点击和按钮
+Rewards	奖励
+Rush clock	Rush 计时
+Knife	刀
+Cutting board	砧板
+Fryer	油锅
+Salt shaker	盐瓶
+Coins	金币
+Screaming potato	尖叫土豆
+Show me around	带我逛逛
+A quick tour of everything in here	快速了解这里的一切
+Pick the game's language	选择游戏语言
+Language	语言
+Kitchen	厨房
+Plain	纯色
+Your photo	你的照片
+Background	背景
+Pick a kitchen, or use your own photo	选一个厨房，或用你自己的照片
+Display	显示
+Dark mode	深色模式
+Battery saver	省电模式
+Runs at 30 frames a second	每秒 30 帧
+Screensaver	屏保
+A bouncing logo after 10 minutes of not playing	10 分钟不玩就出现弹跳的标志
+Sound	声音
+Music volume	音乐音量
+Effects volume	音效音量
+Each sound's volume	每个声音的音量
+Turn any one sound up or down	单独调大或调小任意声音
+Hide	隐藏
+Show	显示
+Play alongside other apps	和其他 App 一起播放
+Keep YouTube or Music playing while you peel	削皮时继续播放 YouTube 或音乐
+Show the peeler	显示削皮刀
+Hide it to watch the skin come off	隐藏它，看果皮一点点削下来
+Turning speed	转动速度
+All-time counter	总计数器
+Count every potato you've peeled, not just this session	统计你削过的所有土豆，不只是这一局
+Carve shapes	雕刻图案
+Each potato gets a little shape carved into it	每个土豆上都会刻一个小图案
+Spin the potato on menus	在菜单里转动土豆
+Show tips	显示提示
+How to peel and turn the potato	怎么削皮和转动土豆
+Accessibility	辅助功能
+Left-handed, two fingers at once, Rush length	左手模式、双指同时操作、Rush 时长
+Cloud save	云存档
+Keep your progress and play on any device	保存你的进度，在任何设备上玩
+Off	关
+Suggestions box	建议箱
+Got an idea for TaterPeeler? Send it to me	对 TaterPeeler 有想法？发给我吧
+Your idea for TaterPeeler	你对 TaterPeeler 的想法
+Progress	进度
+Reset progress	重置进度
+Tap again to erase	再点一次来清除
+Reset	重置
+This resets this device. The cloud copy keeps your progress.	这会重置这台设备。云端的副本会保留你的进度。
+potatoes peeled	个土豆已削皮
+best Rush score	Rush 最高分
+fries made	份薯条
+What's new in 2.0	2.0 新内容
+Free forever, and no ads	永远免费，没有广告
+License: CC BY-NC-ND 4.0	许可：CC BY-NC-ND 4.0
+Licence	许可
+Original track	原曲
+Potato photoscan: Jan Martens, Poly Haven (CC0)	土豆扫描：Jan Martens，Poly Haven（CC0）
+Sound effects: Joseph Sardin, BigSoundBank (CC0)	音效：Joseph Sardin，BigSoundBank（CC0）
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)	砧板木纹：Jenelle van Heerden，Poly Haven（CC0）
+Kitchens: Poly Haven textures and models (CC0)	厨房：Poly Haven 的贴图和模型（CC0）
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.	本游戏使用无版权的素材和音效。音乐依据其知识共享（Creative Commons）许可使用，见上方署名。
+Version {0}	版本 {0}
+Where you peel. The cutting board is always on the counter.	你在哪儿削皮。砧板总是放在台面上。
+The original look	原始外观
+Tap again to change it	再点一次来更换
+Tap to use it	点击使用
+Tap to choose a photo	点击选择照片
+This is the biggest update TaterPeeler has had so far. Here's everything that's new in 2.0. Thanks for 300 players!	这是 TaterPeeler 迄今为止最大的更新。2.0 的所有新内容都在这里。感谢 300 位玩家！
+Online (Beta)	在线（测试版）
+You can play with other people now. Do a quick 1v1, or make a lobby with up to 6 people, public or private. The host picks the mode: race to a number of potatoes, timed, or endless. If the host leaves, the next person who joined takes over. There's quick chat, and typed chat in private lobbies (it's filtered).	现在可以和别人一起玩了。来一局快速 1v1，或者开一个最多 6 人的大厅，公开或私密都行。房主选模式：比谁先削到指定数量、限时，或无尽模式。房主离开的话，下一个加入的人接手。有快捷聊天，私密大厅里还能打字聊天（有过滤）。
+Leaderboard	排行榜
+There's a live leaderboard for potatoes peeled, Rush, fries and time played. Save to the cloud to get on it.	有实时排行榜，比削皮数量、Rush、薯条和游戏时长。存到云端就能上榜。
+Cloud saves	云存档
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts and everything adds up.	选一个 6 位代码，你的进度就会保存在线上。在另一台设备上输入代码，就能接着玩。甚至可以合并两个账号，所有数据都会加在一起。
+Seasoning and TaterCoins	调味和 TaterCoins
+When your fries land in the tray, grab the salt shaker and shake it over them. Not too little, not too much. You earn TaterCoins for how well you cut and seasoned, and rarer potatoes pay more.	薯条落进托盘后，拿起盐瓶在上面摇一摇。不能太少，也不能太多。切得好、调味好就能赚 TaterCoins，越稀有的土豆赚得越多。
+The Shop	商店
+Spend your TaterCoins in the shop (the coin button on the menu). There are 10 skins that go on any peeler, from Cherry all the way up to Diamond.	在商店里花 TaterCoins（菜单上的金币按钮）。有 10 款皮肤，任何削皮刀都能用，从樱桃一直到钻石。
+Knives	刀
+New knives unlock the more fries you make. Different colours and looks, all the way to a gold one.	薯条做得越多，解锁的新刀越多。不同的颜色和造型，最后还有一把金刀。
+Kitchens	厨房
+The game takes place in a kitchen now, with the cutting board on the counter. There are 12 kitchens to pick from in Settings, or you can use your own photo as the background.	游戏现在在厨房里进行，砧板放在台面上。设置里有 12 个厨房可选，也可以用你自己的照片做背景。
+A ton of new potatoes to find, including Ube. There's also one super rare potato that looks totally normal... until you start peeling it. You'll know when you find it.	一大堆新土豆等你发现，包括 Ube。还有一个超级稀有的土豆，看起来完全正常……直到你开始削它。找到的时候你就知道了。
+4 new peelers	4 把新削皮刀
+Wooden, Wire Y, Pro Grip and Julienne. Each one looks different, not just a new colour. The rare ones peel a little faster, nothing crazy.	木柄、钢丝 Y、Pro Grip 和切丝刨。每把外形都不一样，不只是换个颜色。稀有的削得稍微快一点，不夸张。
+Titles and trophies	称号和奖杯
+Earn titles like Beginner-Peeler, Pro-Peeler and Master-Fryer, and wear one under the logo. There are trophies for time played too (only peeling and frying counts, not sitting on the menu), plus a bunch of new achievements.	赢得新手削皮师、专业削皮师、大师炸薯师等称号，选一个戴在标志下面。还有游戏时长奖杯（只算削皮和油炸，待在菜单里不算），外加一大堆新成就。
+Take a photo and it gets wrapped around a potato. Find it in the Collection.	拍一张照片，它就会包在土豆上。去收藏里找它。
+Left-handed mode, peeling with one finger while turning with another, your own Rush length (like 1:30), and lifetime counters for every peel and cut.	左手模式，一根手指削皮另一根手指转动，自定义 Rush 时长（比如 1:30），还有每次削皮和切割的总计数。
+Every sound has its own volume slider now. And if you're listening to YouTube or music, turn on Play alongside other apps so TaterPeeler doesn't stop it.	现在每个声音都有自己的音量滑块。如果你在听 YouTube 或音乐，打开「和其他 App 一起播放」，TaterPeeler 就不会把它停掉。
+Languages	语言
+TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish and Turkish now, plus a Pirate language.	TaterPeeler 现在会说中文、西班牙语（两种都有）、俄语、葡萄牙语、德语、日语、法语、韩语、波兰语和土耳其语，还有海盗语。
+Other stuff	其他
+A Show me around button in Settings, a Suggestions box so you can send me ideas, an all-time counter, carved shapes inside the potato if you want them, and a screensaver if you leave the game alone for a while.	设置里的「带我逛逛」按钮、可以给我发想法的建议箱、总计数器、想要的话还能在土豆里刻图案，以及游戏放着不动时的屏保。
+Fixes	修复
+Pushing the potato off the board at the fry station doesn't break it anymore, a new one just drops in. Text is easy to read on every background, the peeler doesn't go through the cutting board, and older iPads run smoother.	在炸薯条站把土豆推下砧板不会再出问题了，会直接掉下来一个新的。文字在任何背景上都清楚易读，削皮刀不会再穿过砧板，旧款 iPad 也更流畅了。
+Everything you had before is still there, nothing got reset. Thanks for playing.	你之前的一切都还在，什么都没被重置。感谢游玩。
+What's new	新内容
+IT HIT THE CORNER!	撞到角落了！
+Tap anywhere to keep peeling	点击任意位置继续削皮
++{0} fry	+{0} 根薯条
++{0} fries	+{0} 根薯条
+Wait... is that potato SCREAMING?	等等……这个土豆在尖叫？
+Classic White	经典白
+Farmhouse	农舍
+Midnight	午夜
+Retro Diner	复古餐馆
+Tuscan Sun	托斯卡纳阳光
+Scandinavian	北欧风
+Industrial Loft	工业风阁楼
+Seaside	海边
+Navy & Brass	藏青与黄铜
+Garden Window	花园窗
+Pastel Pop	马卡龙
+Cozy Cabin	温馨小屋
+Race	竞速
+Timed	限时
+Endless	无尽
+Good luck!	祝你好运！
+GG!	GG！
+Nice one!	漂亮！
+Ready?	准备好了吗？
+Wow!	哇！
+Rematch?	再来一局？
+So close!	差一点！
+Let's go!	开始吧！
+Couldn't reach the server. Check your internet	连不上服务器。请检查网络
+No lobby with that code	没有这个代码的大厅
+That lobby is full	这个大厅满了
+That match already started. Try again when it's over	那场比赛已经开始了。结束后再试
+You can't play online right now	你现在不能在线玩
+Slow down a little and try again	慢一点，再试一次
+Typed chat is only in private lobbies	打字聊天只在私密大厅里可用
+Something went wrong, try again	出了点问题，再试一次
+Peeler	削皮师
+Your name in online games	你在线上游戏中的名字
+You left the lobby	你离开了大厅
+Lost the connection to the lobby	和大厅的连接断开了
+Quick 1v1	快速 1v1
+Create a lobby	创建大厅
+Join with a code	用代码加入
+The lobby's code	大厅代码
+Public lobbies	公开大厅
+None open right now. Make one, or try Quick 1v1	现在没有开放的大厅。自己开一个，或者试试快速 1v1
+Looking...	正在寻找……
+{0}'s lobby	{0} 的大厅
+Race to {0}	竞速到 {0}
+Timed, {0}	限时，{0}
+Public lobby, code	公开大厅，代码
+Private lobby. Share this code	私密大厅。分享这个代码
+Players	玩家
+{0} (you)	{0}（你）
+Match	比赛
+{0} potatoes	{0} 个土豆
+Public	公开
+Anyone can find it in the list	任何人都能在列表里找到它
+Start the match	开始比赛
+Waiting for someone to join...	等待有人加入……
+Race: first to {0} potatoes wins	竞速：谁先削完 {0} 个土豆谁赢
+Timed: most potatoes in {0}	限时：{0} 内削最多的土豆
+Endless: peel until the host ends it	无尽：一直削，直到房主结束
+Waiting for the host to start	等待房主开始
+Match over	比赛结束
+Starting...	开始中……
+Chat	聊天
+Say hi!	打个招呼！
+Type a message	输入消息
+Message	消息
+Typed chat is only in private lobbies.	打字聊天只在私密大厅里可用。
+Leave lobby	离开大厅
+Lobby	大厅
+First to {0}	先到 {0}
+You win!	你赢了！
+{0} potato	{0} 个土豆
+Lobby codes are 5 letters	大厅代码是 5 个字母
+Update 2.0 is now out! Here's what's new!	2.0 更新上线啦！来看看新内容！
+Thanks for 300 players! I'll keep updating this periodically.	感谢 300 位玩家！我会继续定期更新。
+View what's new	查看新内容
+Dismiss	关闭
+Message from {0}	来自 {0} 的消息
+Couldn't reach the server. Check your internet and try again	连不上服务器。请检查网络后再试
+That code is already taken, try another one	这个代码已经被用了，换一个吧
+Codes are 6 letters or numbers	代码是 6 个字母或数字
+Try a different name	换个名字试试
+Too many tries. Wait a couple of minutes	尝试次数太多。请等几分钟
+No progress is saved with that code	这个代码没有保存的进度
+That's this account's own code	这就是这个账号自己的代码
+This device isn't linked anymore	这台设备已不再关联
+That save is too big	这个存档太大了
+That one's taken. Pick another 6-character code	这个已经被用了。换一个 6 位代码
+Saved to the cloud! Your code is {0}	已存到云端！你的代码是 {0}
+This device already has {0} potato peeled. Add this device's progress to the account, or switch to the account's progress?	这台设备已经削了 {0} 个土豆。把这台设备的进度加到账号里，还是切换到账号的进度？
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?	这台设备已经削了 {0} 个土豆。把这台设备的进度加到账号里，还是切换到账号的进度？
+Combine progress?	合并进度？
+Combine	合并
+Use the account's	用账号的
+Accounts combined! Everything adds up now	账号已合并！现在所有数据都加在一起了
+Name changed	名字已修改
+Thanks! Andres reads every suggestion	谢谢！Andres 会看每一条建议
+That's a lot of ideas! Try again in a bit	想法好多！过一会儿再试
+Write a little more first	再多写一点
+Time played	游戏时长
+BETA	测试版
+Keep your progress safe and play on any device. You pick a 6-character code, and that code loads your potatoes, coins and everything else anywhere. Anyone with your code can load your progress, so keep it to yourself.	保护好你的进度，在任何设备上都能玩。你选一个 6 位代码，这个代码在哪儿都能加载你的土豆、金币和其他一切。任何拿到你代码的人都能加载你的进度，所以别告诉别人。
+Create my code	创建我的代码
+Pick a 6-character code (letters and numbers)	选一个 6 位代码（字母和数字）
+I have a code	我有代码
+Type your 6-character code	输入你的 6 位代码
+Your code	你的代码
+No name (Anonymous peeler on the leaderboard)	没有名字（排行榜上显示为匿名削皮师）
+Offline right now. It syncs when you're back online	现在离线。等你重新联网后会同步
+Syncing...	同步中……
+Synced just now	刚刚同步
+Synced {0} ago	{0}前同步
+Sync now	立即同步
+Change name	改名字
+Add a name	添加名字
+Your name on the leaderboard	你在排行榜上的名字
+Combine another account	合并另一个账号
+The other account's 6-character code	另一个账号的 6 位代码
+Unlink this device	取消关联这台设备
+Unlink this device?	取消关联这台设备？
+Your progress stays on this device and in the cloud. You can link again any time with your code.	你的进度会留在这台设备和云端。随时可以用你的代码重新关联。
+Unlink	取消关联
+Cancel	取消
+Codes are exactly 6 letters or numbers	代码必须正好是 6 个字母或数字
+Your name for the leaderboard (optional)	你在排行榜上的名字（可选）
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too.	{0} 里的所有东西都会加到这个账号里（土豆、金币、薯条，全部）。之后那个代码也能打开这个账号。
+Combine accounts?	合并账号？
+Linked! This device now uses {0}	已关联！这台设备现在使用 {0}
+This device is unlinked	这台设备已取消关联
+{0} player online	{0} 位玩家在线
+{0} players online	{0} 位玩家在线
+Connecting...	连接中……
+Offline. Online features need the internet	离线。在线功能需要联网
+Play together	一起玩
+Loading...	加载中……
+Couldn't load the leaderboard	排行榜加载失败
+Nobody's here yet. Be the first!	这里还没有人。来当第一个吧！
+You're #{0} with {1}	你排第 {0} 名，成绩 {1}
+To get on the leaderboard, save your progress to the cloud. It only takes a code.	想上排行榜，就把进度存到云端。只需要一个代码。
+Save to the cloud	存到云端
+Cherry	樱桃
+Ocean	海洋
+Mint	薄荷
+Lavender	薰衣草
+Sunshine	阳光
+Midnight Matte	午夜哑光
+Bubblegum	泡泡糖
+Chrome	铬银
+Rose Gold	玫瑰金
+Diamond	钻石
+Chef's Knife	主厨刀
+Red Handle	红柄
+Ocean Blue	海洋蓝
+Walnut	胡桃木
+Mint Pro	薄荷 Pro
+Black Steel	黑钢
+Copper	铜
+Gold	金
+No salt	没放盐
+A little more salt next time	下次多放点盐
+Way too salty!	太咸了！
+Seasoned just right!	咸淡刚刚好！
++{0} TaterCoins. {1}	+{0} TaterCoins。{1}
+Salt	盐
+Shake the salt over the fries	在薯条上撒盐
+Serve	上菜
+Coming soon	敬请期待
+TaterCoins. Earn them by frying: cut well, season just right, and rarer potatoes pay more.	TaterCoins。靠炸薯条赚：切得好、调味刚好，越稀有的土豆赚得越多。
+Peeler skins	削皮刀皮肤
+A skin changes the colour of whichever peeler you use.	皮肤会改变你正在用的削皮刀的颜色。
+Buy {0} for {1} TaterCoins?	花 {1} TaterCoins 买{0}？
+It goes on whichever peeler you use, and you can switch any time.	它会用在你正在用的削皮刀上，随时可以换。
+Buy it	购买
+Not now	先不了
+You need {0} more TaterCoins. Fry some potatoes!	还差 {0} TaterCoins。去炸点土豆吧！
+Original	原版
+Wearing	使用中
+Tap to wear	点击使用
+New knives unlock as you make fries. You've made {0}.	做薯条就能解锁新刀。你已经做了 {0} 份。
+Make {0} more fries to unlock it	再做 {0} 份薯条来解锁
+{0} fries	{0} 份薯条
+Shop	商店
+{0} is yours!	{0}归你了！
+Playing	游戏
+Left-handed	左手模式
+The buttons and the resting peeler move to the other side	按钮和闲置的削皮刀移到另一边
+Peel and turn at once	同时削皮和转动
+One finger peels while another turns the potato	一根手指削皮，另一根手指转动土豆
+Rush length	Rush 时长
+Best scores are kept for every length together.	所有时长共用一个最高分记录。
+Lifetime	总计
+peel strokes	次削皮
+knife cuts	次切割
+Chinese (Simplified)	简体中文
+Spanish (Latin America)	西班牙语（拉丁美洲）
+Spanish (Spain)	西班牙语（西班牙）
+Russian	俄语
+Portuguese (Brazil)	葡萄牙语（巴西）
+German	德语
+Japanese	日语
+French	法语
+Korean	韩语
+Polish	波兰语
+Turkish	土耳其语
+Pirate, for fun	海盗语，图个乐子
+Names, chat and messages from other players stay the way they wrote them.	其他玩家的名字、聊天和消息会保持他们写的原样。
+Music: “Echoes in Blue” by Tokyo Music Walker	音乐：《Echoes in Blue》，Tokyo Music Walker
+Baked Potato	烤土豆
+Who baked this?	这是谁烤的？
+Find the Baked Potato	找到烤土豆
+Careful, it's hot!	小心，很烫！
+Tin foil	锡纸
+Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	超级稀有。它掉下来的时候还裹着锡纸，会自己打开，还冒着热气。皮是脆的，所以会一片一片地掉下来。

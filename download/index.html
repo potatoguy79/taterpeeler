@@ -87,8 +87,8 @@
     <img src="../icon-192.png" alt="" width="72" height="72">
     <div>
       <h1>Get TaterPeeler</h1>
-      <p class="lead">Last updated 10/28/26 - 8:57PM</p>
-      <p class="lead">The whole game, on your own device. Version 1.2.</p>
+      <p class="lead">Last updated 11/1/26 - 12:35PM</p>
+      <p class="lead">The whole game, on your own device. Version 2.0 is on the website now, and the apps are getting it very soon.</p>
     </div>
   </header>
 
@@ -96,8 +96,10 @@
   <div class="list" id="computers"></div>
   <h2 id="h-ipad">iPad and iPhone</h2>
   <div class="list" id="mobile"></div>
+  <h2 id="h-android">Android</h2>
+  <div class="list" id="android"></div>
 
-  <p class="note">Your progress is saved on each device separately, so a fresh install starts at 0 potatoes.</p>
+  <p class="note">Each device keeps its own progress. To bring yours along, open <b>Settings → Cloud save</b> in the game, pick a code, then type the same code on the other device.</p>
   <footer><span>Made by Andres Campos</span><span>TaterPeeler 1.2</span></footer>
 </main>
 
@@ -141,6 +143,14 @@
         'In 3uTools open <b>Apps</b>, click <b>Install</b> (Import &amp; Install) and choose <b>TaterPeeler-iOS5.ipa</b>. If an older TaterPeeler is on the iPad, delete it first.',
         'Open TaterPeeler. The first start shows a spinning wheel for a few seconds while the game loads.'
       ] },
+    { id: 'apk', group: 'android', file: 'TaterPeeler-Android.apk', name: 'Android phone or tablet', sub: 'Android 7 or later', soon: true,
+      steps: [
+        'Download <b>TaterPeeler-Android.apk</b> on your phone or tablet.',
+        'Open it from the notification, or from the <b>Files</b> app in <b>Downloads</b>.',
+        'If Android asks, let your browser (or Files) install apps: tap <b>Settings</b>, turn on <b>Allow from this source</b>, then go back.',
+        'Tap <b>Install</b>, then <b>Open</b>. If Google Play Protect warns about an unknown app, tap <b>More details</b> and <b>Install anyway</b>.',
+        'To update later, install the new APK over the old one. Your progress stays.'
+      ] },
     { id: 'deb', group: 'mobile', file: 'TaterPeeler-iOS-Cydia.deb', name: 'Cydia package', sub: 'any jailbroken iPad or iPhone, including the iPad 1',
       steps: [
         'Download this on a computer. Old iPads can’t open today’s websites.',
@@ -156,6 +166,7 @@
   function detect() {
     var ua = navigator.userAgent || '', plat = (navigator.userAgentData && navigator.userAgentData.platform) || navigator.platform || '';
     var touchMac = /Mac/.test(plat) && navigator.maxTouchPoints > 1;
+    if (/Android/i.test(ua)) return ['apk'];
     if (/iPad|iPhone|iPod/.test(ua) || touchMac) return ['ipa'];
     if (/Win/.test(plat) || /Windows/.test(ua)) return ['win'];
     if (/Mac/.test(plat) || /Macintosh/.test(ua)) {
@@ -207,10 +218,26 @@
       var hm = document.getElementById('h-ipad'), lm = document.getElementById('mobile');
       main.insertBefore(hm, hc); main.insertBefore(lm, hc);
     }
-    ['computers', 'mobile'].forEach(function (g) {
+    if (pick[0] === 'apk') {   /* on Android, show its download first */
+      var main2 = document.querySelector('main'), first = document.getElementById('h-computers');
+      main2.insertBefore(document.getElementById('h-android'), first); main2.insertBefore(document.getElementById('android'), first);
+    }
+    ['computers', 'mobile', 'android'].forEach(function (g) {
       var list = document.getElementById(g);
       ITEMS.filter(function (it) { return it.group === g; }).forEach(function (it) {
-        var f = F[it.file]; if (!f) return;
+        var f = F[it.file];
+        if (!f && it.soon) {   /* listed before its file is ready */
+          var srow = document.createElement('div');
+          srow.className = 'row' + (pick.indexOf(it.id) >= 0 ? ' pick' : '');
+          srow.innerHTML =
+            '<div class="line"><div class="info"><div class="name">' + it.name + '</div><div class="sub">' + it.sub + ' · coming soon</div></div>' +
+            '<button class="btn" type="button" disabled><span>Coming soon</span></button></div>' +
+            '<details' + (pick.indexOf(it.id) >= 0 ? ' open' : '') + '><summary>How to install</summary><ol>' +
+            it.steps.map(function (st) { return '<li>' + st + '</li>'; }).join('') + '</ol></details>';
+          list.appendChild(srow);
+          return;
+        }
+        if (!f) return;
         var steps = typeof it.steps === 'string' ? ITEMS.filter(function (o) { return o.id === it.steps; })[0].steps : it.steps;
         var row = document.createElement('div');
         row.className = 'row' + (pick.indexOf(it.id) >= 0 ? ' pick' : '');

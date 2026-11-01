@@ -1,0 +1,564 @@
+# TaterPeeler: es
+Common	Común
+Uncommon	Poco común
+Rare	Rara
+Epic	Épica
+Legendary	Legendaria
+Potato #1,000	Papa n.º 1.000
+Sweet Potato	Camote
+Japanese Sweet	Camote japonés
+Okinawan Sweet	Camote de Okinawa
+Rainbow Potato	Papa arcoíris
+Golden Potato	Papa dorada
+Screaming Potato	Papa que grita
+Black	Negro
+Red	Rojo
+Yellow	Amarillo
+Olive	Oliva
+Lime	Lima
+Golden	Dorado
+Wooden	De madera
+Wire Y	Alambre Y
+Pro Grip	Pro Grip
+Julienne	Juliana
+First Peel	Primera pelada
+Spud Buddy	Amigo papero
+TaterPeeler Legend	Leyenda de TaterPeeler
+Long Peel	Cáscara larga
+Speed Peeler	Pelador veloz
+Rush Hour	Hora pico
+Taste the Rainbow	Prueba el arcoíris
+Full Collection	Colección completa
+Nice	Nice
+Fry Cook	Cocinero de papas fritas
+Shoestring	Papas pajita
+Clean Station	Estación limpia
+Pure Tater	Papa pura
+Spud Century	Siglo papero
+Sack of Spuds	Costal de papas
+Tater Titan	Titán de las papas
+Marathon	Maratón
+Variety Pack	Paquete variado
+Epic Find	Hallazgo épico
+Milestone	Hito
+Mega Peel	Megacáscara
+Lightning Peeler	Pelador relámpago
+Rush Royalty	Realeza del Rush
+Expert Fryer	Freidor experto
+Fry Legend	Leyenda de la freidora
+Night Shift	Turno nocturno
+New Kitchen	Cocina nueva
+Peeler Collection	Colección de peladores
+Online Champion	Campeón en línea
+That Could've Been for Starving Children	Eso pudo ser para los niños hambrientos
+Perfectly Seasoned	Sazón perfecta
+Scream Team	Equipo grito
+Purple Reign	Reinado morado
+Big Spender	Gastador
+Spud Banker	Banquero papero
+Head in the Clouds	En las nubes
+Knife Collector	Coleccionista de cuchillos
+Your Own Spud	Tu propia papa
+Peel your first potato	Pela tu primera papa
+Peel 25 potatoes	Pela 25 papas
+Peel 1,000 potatoes	Pela 1.000 papas
+Peel one strip 25 cm long	Pela una tira de 25 cm
+Peel a whole potato in under 12 seconds	Pela una papa entera en menos de 12 segundos
+Score 1,500 in one Rush	Consigue 1.500 en un Rush
+Find the Rainbow Potato	Encuentra la papa arcoíris
+Find every everyday variety	Encuentra todas las variedades comunes
+Peel potato number 69	Pela la papa número 69
+Serve your first fries	Sirve tus primeras papas fritas
+Cut 40 fries from one potato	Corta 40 papas fritas de una papa
+Scrape every crumb into the fryer, then serve	Echa cada migaja a la freidora y luego sirve
+Put a whole potato in the fryer	Mete una papa entera a la freidora
+Peel 100 potatoes	Pela 100 papas
+Peel 500 potatoes	Pela 500 papas
+Peel 2,500 potatoes	Pela 2.500 papas
+Peel 25 potatoes without stopping	Pela 25 papas sin parar
+Find 20 different varieties	Encuentra 20 variedades distintas
+Peel an Epic potato	Pela una papa épica
+Peel a potato with a number carved in it	Pela una papa con un número tallado
+Peel one strip 40 cm long	Pela una tira de 40 cm
+Peel a whole potato in under 7 seconds	Pela una papa entera en menos de 7 segundos
+Score 3,000 in one Rush	Consigue 3.000 en un Rush
+Fry 25 potatoes	Fríe 25 papas
+Fry 100 potatoes	Fríe 100 papas
+Peel a potato in dark mode	Pela una papa en modo oscuro
+Pick a new kitchen in Settings	Elige una cocina nueva en Ajustes
+Unlock every peeler	Desbloquea todos los peladores
+Win a match online	Gana una partida en línea
+Knock a potato off the board	Tira una papa de la tabla
+Season a batch of fries just right	Sazona una tanda de papas fritas en su punto
+Find the Screaming Potato	Encuentra la papa que grita
+Find the Ube potato	Encuentra la papa ube
+Buy something in the shop	Compra algo en la tienda
+Earn 1,000 TaterCoins	Gana 1.000 TaterCoins
+Save your progress to the cloud	Guarda tu progreso en la nube
+Unlock every knife	Desbloquea todos los cuchillos
+Peel a potato made from your own photo	Pela una papa hecha con tu propia foto
+Warming Up	Calentando
+Half Hour Hero	Héroe de media hora
+Hour of Power	Una hora con todo
+Couch Potato	Papa de sillón
+Spud Devotee	Fan de las papas
+Peel Machine	Máquina peladora
+Around the Clock	Todo el día
+Play for 10 minutes	Juega 10 minutos
+Play for 30 minutes	Juega 30 minutos
+Play for 1 hour	Juega 1 hora
+Play for 2 hours	Juega 2 horas
+Play for 5 hours	Juega 5 horas
+Play for 10 hours	Juega 10 horas
+Play for 24 hours	Juega 24 horas
+Beginner-Peeler	Pelador-Novato
+Rookie-Peeler	Pelador-Aprendiz
+Pro-Peeler	Pelador-Pro
+Expert-Peeler	Pelador-Experto
+Master-Peeler	Pelador-Maestro
+Legendary-Peeler	Pelador-Legendario
+Beginner-Fryer	Freidor-Novato
+Expert-Fryer	Freidor-Experto
+Master-Fryer	Freidor-Maestro
+Speed-Peeler	Pelador-Veloz
+Rush-Champion	Campeón-del-Rush
+Spud-Collector	Coleccionista-de-Papas
+Rainbow-Hunter	Cazador-de-Arcoíris
+Night-Owl	Búho-Nocturno
+Couch-Potato	Papa-de-Sillón
+Peel-Machine	Máquina-Peladora
+Long peel +{0}	Cáscara larga +{0}
+Long peel, {0} cm	Cáscara larga, {0} cm
+You unlocked the Golden peeler	Desbloqueaste el pelador dorado
+You unlocked the legendary Lime peeler	Desbloqueaste el legendario pelador lima
+You unlocked the rare {0} peeler	Desbloqueaste el raro pelador {0}
+You unlocked the {0} peeler	Desbloqueaste el pelador {0}
+potatoes peeled. You are a TaterPeeler legend.	papas peladas. Eres una leyenda de TaterPeeler.
+potatoes peeled! The fry station is open.	papas peladas. ¡La freidora ya está abierta!
+potatoes peeled!	papas peladas.
+Potato number 1,000!	¡Papa número 1.000!
+A rainbow potato!	¡Una papa arcoíris!
+Nice!	¡Nice!
+Achievement: {0}	Logro: {0}
+Trophy: {0}	Trofeo: {0}
+New title: {0}	Nuevo título: {0}
+{0} cm	{0} cm
+Fries	Papas fritas
+Cut and fry	Corta y fríe
+Unlocks at {0}	Se desbloquea en {0}
+Peel {0} more potato to open the fry station	Pela {0} papa más para abrir la freidora
+Peel {0} more potatoes to open the fry station	Pela {0} papas más para abrir la freidora
+Made by Andres Campos	Hecho por Andres Campos
+{0} potato peeled	{0} papa pelada
+{0} potatoes peeled	{0} papas peladas
+A potato, a peeler, and you	Una papa, un pelador y tú
+New update! Click here for more info	¡Nueva actualización! Haz clic para saber más
+New update! Tap here for more info	¡Nueva actualización! Toca para saber más
+Download	Descargar
+Best {0}	Récord {0}
+60 seconds	60 segundos
+Peel	Pelar
+No timer	Sin reloj
+Rush	Rush
+Collection	Colección
+Settings	Ajustes
+Online	En línea
+Your potato	Tu papa
+Potato #{0}	Papa n.º {0}
+From your photo	De tu foto
+potato, all time	papa en total
+potatoes, all time	papas en total
+longest peel	cáscara más larga
+Drag across the potato to peel it	Arrastra sobre la papa para pelarla
+Drag the empty space around it to turn it	Arrastra en el espacio vacío para girarla
+Slice it into planks	Córtala en láminas
+Slice the stack into fries	Corta la pila en bastones
+Scrape them into the fryer	Échalas a la freidora
+Frying	Friendo
+Stacking the planks	Apilando las láminas
+Here comes a potato	Ahí viene una papa
+Fries are up	¡Papas listas!
+potato fried	papa frita
+potatoes fried	papas fritas
+Swipe down to cut, or tap to chop. Move along for the next slice.	Desliza hacia abajo para cortar o toca para picar. Avanza para el siguiente corte.
+Click to chop where the knife is, or drag down to slice	Haz clic para picar donde está el cuchillo o arrastra hacia abajo para cortar
+{0} piece is still too thick	{0} pedazo sigue muy grueso
+{0} pieces are still too thick	{0} pedazos siguen muy gruesos
+Lay the blade flat: swipe sideways to push everything off the right edge	Pon la hoja plana: desliza hacia un lado para empujar todo por el borde derecho
+Drag sideways to sweep everything off the right edge	Arrastra hacia un lado para barrer todo por el borde derecho
+Paused	En pausa
+Resume	Seguir
+Restart	Reiniciar
+Back to the lobby	Volver al lobby
+The match keeps going	La partida sigue
+Quit to menu	Salir al menú
+Music	Música
+Sound effects	Efectos de sonido
+Time’s up	Se acabó el tiempo
+New best	Nuevo récord
+potato	papa
+potatoes	papas
+Play again	Jugar otra vez
+Menu	Menú
+{0} h {1} min	{0} h {1} min
+{0} h	{0} h
+{0} min	{0} min
+Peelers	Peladores
+Peel more potatoes to unlock new ones. Wider blades peel faster.	Pela más papas para desbloquear nuevos. Las hojas más anchas pelan más rápido.
+In use	En uso
+Tap to use	Usar
+Your own potato	Tu propia papa
+Your photo, wrapped round a potato	Tu foto, envuelta en una papa
+Pick a photo and it gets wrapped round a potato	Elige una foto y se envuelve en una papa
+Change photo	Cambiar foto
+Choose a photo	Elegir una foto
+Peel it	Pelarla
+{0} of {1} found	{0} de {1} encontradas
+Potatoes	Papas
+Not found yet	Aún no encontrada
+{0} peeled	{0} peladas
+{0} of {1} unlocked. Tap one to wear it under the logo.	{0} de {1} desbloqueados. Toca uno para llevarlo bajo el logo.
+Titles	Títulos
+Wearing it. Tap to take it off	Lo llevas puesto. Toca para quitártelo
+{0} of {1} earned	{0} de {1} conseguidos
+Achievements	Logros
+{0} of {1} earned. Time spent peeling and frying: {2}	{0} de {1} conseguidos. Tiempo pelando y friendo: {2}
+Trophies	Trofeos
+Pick where you peel. There are 12 kitchens, or you can use your own photo.	Elige dónde pelar. Hay 12 cocinas, o puedes usar tu propia foto.
+Dark mode, battery saver, and a screensaver with a bouncing logo if you leave it alone for a while.	Modo oscuro, ahorro de batería y un protector de pantalla con un logo que rebota si lo dejas un rato.
+Music and sound effects. You can set every single sound's volume, and keep YouTube or Music playing while you peel.	Música y efectos de sonido. Puedes ajustar el volumen de cada sonido y seguir escuchando YouTube o Música mientras pelas.
+How peeling works for you: the peeler, turning speed, counters, carving shapes, and Accessibility.	Cómo pelas tú: el pelador, la velocidad de giro, los contadores, las figuras talladas y Accesibilidad.
+Save your progress to the cloud with a 6-character code, and send me your ideas in the Suggestions box.	Guarda tu progreso en la nube con un código de 6 caracteres y mándame tus ideas en el buzón de sugerencias.
+Your stats live here. Only reset if you really mean it, it can't be undone.	Aquí están tus estadísticas. Reinicia solo si de verdad quieres, no se puede deshacer.
+A little note from me. TaterPeeler stays free with no ads.	Una notita mía. TaterPeeler sigue gratis y sin anuncios.
+Credits for the music, the sounds and the art. That's everything, enjoy!	Créditos de la música, los sonidos y el arte. Eso es todo, ¡disfruta!
+{0} of {1}	{0} de {1}
+Done	Listo
+Next	Siguiente
+Exit tour	Salir del recorrido
+TaterPeeler is run by just one person. I've been told I should start running advertisements to make money off of this project. Do not fear, TaterPeeler will stay free and Ad Free for everyone. Including all versions of TaterPeeler. Thanks for supporting this project and me. Expect regular updates, to get notified, add this website to your home screen if not using the app to get notified. To suggest ideas please do submit ideas in the Suggestions box in settings. Thank you for playing.	TaterPeeler lo hace una sola persona. Me han dicho que debería empezar a poner anuncios para ganar dinero con este proyecto. No te preocupes, TaterPeeler seguirá siendo gratis y sin anuncios para todos. Incluidas todas las versiones de TaterPeeler. Gracias por apoyar este proyecto y a mí. Espera actualizaciones seguido; para enterarte, agrega este sitio a tu pantalla de inicio si no usas la app. Para sugerir ideas, mándalas en el buzón de sugerencias en Ajustes. Gracias por jugar.
+Peeling	Pelar
+Potato landing	Papa al caer
+Taps and buttons	Toques y botones
+Rewards	Premios
+Rush clock	Reloj del Rush
+Knife	Cuchillo
+Cutting board	Tabla de cortar
+Fryer	Freidora
+Salt shaker	Salero
+Coins	Monedas
+Screaming potato	Papa que grita
+Show me around	Dame un recorrido
+A quick tour of everything in here	Un tour rápido por todo lo que hay aquí
+Pick the game's language	Elige el idioma del juego
+Language	Idioma
+Kitchen	Cocina
+Plain	Liso
+Your photo	Tu foto
+Background	Fondo
+Pick a kitchen, or use your own photo	Elige una cocina o usa tu propia foto
+Display	Pantalla
+Dark mode	Modo oscuro
+Battery saver	Ahorro de batería
+Runs at 30 frames a second	Funciona a 30 cuadros por segundo
+Screensaver	Protector de pantalla
+A bouncing logo after 10 minutes of not playing	Un logo que rebota tras 10 minutos sin jugar
+Sound	Sonido
+Music volume	Volumen de la música
+Effects volume	Volumen de efectos
+Each sound's volume	Volumen de cada sonido
+Turn any one sound up or down	Sube o baja cualquier sonido
+Hide	Ocultar
+Show	Mostrar
+Play alongside other apps	Sonar junto con otras apps
+Keep YouTube or Music playing while you peel	Sigue escuchando YouTube o Música mientras pelas
+Show the peeler	Mostrar el pelador
+Hide it to watch the skin come off	Ocúltalo para ver cómo sale la cáscara
+Turning speed	Velocidad de giro
+All-time counter	Contador total
+Count every potato you've peeled, not just this session	Cuenta todas las papas que has pelado, no solo las de esta sesión
+Carve shapes	Tallar figuras
+Each potato gets a little shape carved into it	Cada papa trae una figurita tallada
+Spin the potato on menus	Girar la papa en los menús
+Show tips	Mostrar consejos
+How to peel and turn the potato	Cómo pelar y girar la papa
+Accessibility	Accesibilidad
+Left-handed, two fingers at once, Rush length	Zurdo, dos dedos a la vez, duración del Rush
+Cloud save	Guardado en la nube
+Keep your progress and play on any device	Conserva tu progreso y juega en cualquier dispositivo
+Off	Desactivado
+Suggestions box	Buzón de sugerencias
+Got an idea for TaterPeeler? Send it to me	¿Tienes una idea para TaterPeeler? Mándamela
+Your idea for TaterPeeler	Tu idea para TaterPeeler
+Progress	Progreso
+Reset progress	Borrar progreso
+Tap again to erase	Toca otra vez para borrar
+Reset	Borrar
+This resets this device. The cloud copy keeps your progress.	Esto borra este dispositivo. La copia en la nube conserva tu progreso.
+potatoes peeled	papas peladas
+best Rush score	mejor puntaje en Rush
+fries made	papas fritas hechas
+What's new in 2.0	Novedades de la 2.0
+Free forever, and no ads	Gratis para siempre y sin anuncios
+License: CC BY-NC-ND 4.0	Licencia: CC BY-NC-ND 4.0
+Licence	Licencia
+Original track	Pista original
+Potato photoscan: Jan Martens, Poly Haven (CC0)	Escaneo de la papa: Jan Martens, Poly Haven (CC0)
+Sound effects: Joseph Sardin, BigSoundBank (CC0)	Efectos de sonido: Joseph Sardin, BigSoundBank (CC0)
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)	Madera de la tabla: Jenelle van Heerden, Poly Haven (CC0)
+Kitchens: Poly Haven textures and models (CC0)	Cocinas: texturas y modelos de Poly Haven (CC0)
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.	Este juego usa recursos y sonidos libres de derechos de autor. La música se usa bajo su licencia Creative Commons, citada arriba.
+Version {0}	Versión {0}
+Where you peel. The cutting board is always on the counter.	Dónde pelas. La tabla de cortar siempre está sobre la barra.
+The original look	El look original
+Tap again to change it	Toca otra vez para cambiarla
+Tap to use it	Toca para usarla
+Tap to choose a photo	Toca para elegir una foto
+This is the biggest update TaterPeeler has had so far. Here's everything that's new in 2.0. Thanks for 300 players!	Es la actualización más grande que ha tenido TaterPeeler. Aquí está todo lo nuevo de la 2.0. ¡Gracias por los 300 jugadores!
+Online (Beta)	En línea (Beta)
+You can play with other people now. Do a quick 1v1, or make a lobby with up to 6 people, public or private. The host picks the mode: race to a number of potatoes, timed, or endless. If the host leaves, the next person who joined takes over. There's quick chat, and typed chat in private lobbies (it's filtered).	Ahora puedes jugar con otras personas. Haz un 1v1 rápido o arma un lobby de hasta 6 personas, público o privado. El anfitrión elige el modo: carrera a un número de papas, por tiempo o sin fin. Si el anfitrión se va, el siguiente que entró toma el mando. Hay chat rápido, y chat escrito en los lobbies privados (con filtro).
+Leaderboard	Clasificación
+There's a live leaderboard for potatoes peeled, Rush, fries and time played. Save to the cloud to get on it.	Hay una clasificación en vivo de papas peladas, Rush, papas fritas y tiempo jugado. Guarda en la nube para aparecer.
+Cloud saves	Guardado en la nube
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts and everything adds up.	Elige un código de 6 caracteres y tu progreso se guarda en línea. Escribe el código en otro dispositivo y sigue jugando ahí. Hasta puedes juntar dos cuentas y todo se suma.
+Seasoning and TaterCoins	Sazón y TaterCoins
+When your fries land in the tray, grab the salt shaker and shake it over them. Not too little, not too much. You earn TaterCoins for how well you cut and seasoned, and rarer potatoes pay more.	Cuando tus papas caigan en la charola, agarra el salero y sacúdelo encima. Ni muy poca ni demasiada. Ganas TaterCoins según qué tan bien cortaste y sazonaste, y las papas más raras pagan más.
+The Shop	La tienda
+Spend your TaterCoins in the shop (the coin button on the menu). There are 10 skins that go on any peeler, from Cherry all the way up to Diamond.	Gasta tus TaterCoins en la tienda (el botón de la moneda en el menú). Hay 10 skins para cualquier pelador, desde Cereza hasta Diamante.
+Knives	Cuchillos
+New knives unlock the more fries you make. Different colours and looks, all the way to a gold one.	Se desbloquean cuchillos nuevos mientras más papas fritas hagas. Distintos colores y estilos, hasta uno de oro.
+Kitchens	Cocinas
+The game takes place in a kitchen now, with the cutting board on the counter. There are 12 kitchens to pick from in Settings, or you can use your own photo as the background.	Ahora el juego pasa en una cocina, con la tabla sobre la barra. Hay 12 cocinas para elegir en Ajustes, o puedes usar tu propia foto de fondo.
+A ton of new potatoes to find, including Ube. There's also one super rare potato that looks totally normal... until you start peeling it. You'll know when you find it.	Un montón de papas nuevas por encontrar, incluida la ube. También hay una papa súper rara que se ve totalmente normal... hasta que empiezas a pelarla. Vas a saber cuando la encuentres.
+4 new peelers	4 peladores nuevos
+Wooden, Wire Y, Pro Grip and Julienne. Each one looks different, not just a new colour. The rare ones peel a little faster, nothing crazy.	De madera, Alambre Y, Pro Grip y Juliana. Cada uno se ve distinto, no solo de otro color. Los raros pelan un poco más rápido, nada exagerado.
+Titles and trophies	Títulos y trofeos
+Earn titles like Beginner-Peeler, Pro-Peeler and Master-Fryer, and wear one under the logo. There are trophies for time played too (only peeling and frying counts, not sitting on the menu), plus a bunch of new achievements.	Gana títulos como Pelador-Novato, Pelador-Pro y Freidor-Maestro, y lleva uno bajo el logo. También hay trofeos por tiempo jugado (solo cuenta pelar y freír, no estar en el menú), y un montón de logros nuevos.
+Take a photo and it gets wrapped around a potato. Find it in the Collection.	Toma una foto y se envuelve en una papa. Búscala en la Colección.
+Left-handed mode, peeling with one finger while turning with another, your own Rush length (like 1:30), and lifetime counters for every peel and cut.	Modo zurdo, pelar con un dedo mientras giras con otro, tu propia duración del Rush (como 1:30) y contadores de por vida de cada pelada y corte.
+Every sound has its own volume slider now. And if you're listening to YouTube or music, turn on Play alongside other apps so TaterPeeler doesn't stop it.	Ahora cada sonido tiene su propio control de volumen. Y si escuchas YouTube o música, activa Sonar junto con otras apps para que TaterPeeler no lo pare.
+Languages	Idiomas
+TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish and Turkish now, plus a Pirate language.	TaterPeeler ya habla chino, español (los dos), ruso, portugués, alemán, japonés, francés, coreano, polaco y turco, y además idioma pirata.
+Other stuff	Otras cosas
+A Show me around button in Settings, a Suggestions box so you can send me ideas, an all-time counter, carved shapes inside the potato if you want them, and a screensaver if you leave the game alone for a while.	Un botón de Dame un recorrido en Ajustes, un buzón de sugerencias para mandarme ideas, un contador total, figuras talladas en la papa si las quieres y un protector de pantalla si dejas el juego un rato.
+Fixes	Arreglos
+Pushing the potato off the board at the fry station doesn't break it anymore, a new one just drops in. Text is easy to read on every background, the peeler doesn't go through the cutting board, and older iPads run smoother.	Tirar la papa de la tabla en la freidora ya no rompe nada, simplemente cae una nueva. El texto se lee bien en cualquier fondo, el pelador ya no atraviesa la tabla y los iPads viejos van más fluidos.
+Everything you had before is still there, nothing got reset. Thanks for playing.	Todo lo que tenías sigue ahí, no se borró nada. Gracias por jugar.
+What's new	Novedades
+IT HIT THE CORNER!	¡LE DIO A LA ESQUINA!
+Tap anywhere to keep peeling	Toca donde sea para seguir pelando
++{0} fry	+{0} papa frita
++{0} fries	+{0} papas fritas
+Wait... is that potato SCREAMING?	Espera... ¿esa papa está GRITANDO?
+Classic White	Blanco clásico
+Farmhouse	Granja
+Midnight	Medianoche
+Retro Diner	Diner retro
+Tuscan Sun	Sol toscano
+Scandinavian	Escandinava
+Industrial Loft	Loft industrial
+Seaside	Junto al mar
+Navy & Brass	Marino y latón
+Garden Window	Ventana al jardín
+Pastel Pop	Pastel pop
+Cozy Cabin	Cabaña acogedora
+Race	Carrera
+Timed	Por tiempo
+Endless	Sin fin
+Good luck!	¡Suerte!
+GG!	¡GG!
+Nice one!	¡Buena esa!
+Ready?	¿Listos?
+Wow!	¡Guau!
+Rematch?	¿Revancha?
+So close!	¡Casi!
+Let's go!	¡Vamos!
+Couldn't reach the server. Check your internet	No se pudo conectar al servidor. Revisa tu internet
+No lobby with that code	No hay ningún lobby con ese código
+That lobby is full	Ese lobby está lleno
+That match already started. Try again when it's over	Esa partida ya empezó. Intenta cuando termine
+You can't play online right now	Ahora no puedes jugar en línea
+Slow down a little and try again	Más despacio, intenta de nuevo
+Typed chat is only in private lobbies	El chat escrito solo está en lobbies privados
+Something went wrong, try again	Algo salió mal, intenta de nuevo
+Peeler	Pelador
+Your name in online games	Tu nombre en partidas en línea
+You left the lobby	Saliste del lobby
+Lost the connection to the lobby	Se perdió la conexión con el lobby
+Quick 1v1	1v1 rápido
+Create a lobby	Crear un lobby
+Join with a code	Unirse con código
+The lobby's code	El código del lobby
+Public lobbies	Lobbies públicos
+None open right now. Make one, or try Quick 1v1	No hay ninguno abierto. Crea uno o prueba un 1v1 rápido
+Looking...	Buscando...
+{0}'s lobby	Lobby de {0}
+Race to {0}	Carrera a {0}
+Timed, {0}	Por tiempo, {0}
+Public lobby, code	Lobby público, código
+Private lobby. Share this code	Lobby privado. Comparte este código
+Players	Jugadores
+{0} (you)	{0} (tú)
+Match	Partida
+{0} potatoes	{0} papas
+Public	Público
+Anyone can find it in the list	Cualquiera lo puede encontrar en la lista
+Start the match	Empezar la partida
+Waiting for someone to join...	Esperando a que alguien se una...
+Race: first to {0} potatoes wins	Carrera: gana el primero en llegar a {0} papas
+Timed: most potatoes in {0}	Por tiempo: más papas en {0}
+Endless: peel until the host ends it	Sin fin: pela hasta que el anfitrión termine
+Waiting for the host to start	Esperando a que el anfitrión empiece
+Match over	Fin de la partida
+Starting...	Empezando...
+Chat	Chat
+Say hi!	¡Saluda!
+Type a message	Escribe un mensaje
+Message	Mensaje
+Typed chat is only in private lobbies.	El chat escrito solo está en lobbies privados.
+Leave lobby	Salir del lobby
+Lobby	Lobby
+First to {0}	Primero a {0}
+You win!	¡Ganaste!
+{0} potato	{0} papa
+Lobby codes are 5 letters	Los códigos de lobby tienen 5 letras
+Update 2.0 is now out! Here's what's new!	¡Ya salió la actualización 2.0! ¡Mira lo nuevo!
+Thanks for 300 players! I'll keep updating this periodically.	¡Gracias por los 300 jugadores! Voy a seguir actualizando esto seguido.
+View what's new	Ver lo nuevo
+Dismiss	Cerrar
+Message from {0}	Mensaje de {0}
+Couldn't reach the server. Check your internet and try again	No se pudo conectar al servidor. Revisa tu internet e intenta de nuevo
+That code is already taken, try another one	Ese código ya está ocupado, prueba otro
+Codes are 6 letters or numbers	Los códigos tienen 6 letras o números
+Try a different name	Prueba otro nombre
+Too many tries. Wait a couple of minutes	Demasiados intentos. Espera un par de minutos
+No progress is saved with that code	No hay progreso guardado con ese código
+That's this account's own code	Ese es el código de esta misma cuenta
+This device isn't linked anymore	Este dispositivo ya no está vinculado
+That save is too big	Ese guardado es demasiado grande
+That one's taken. Pick another 6-character code	Ese ya está ocupado. Elige otro código de 6 caracteres
+Saved to the cloud! Your code is {0}	¡Guardado en la nube! Tu código es {0}
+This device already has {0} potato peeled. Add this device's progress to the account, or switch to the account's progress?	Este dispositivo ya tiene {0} papa pelada. ¿Sumar el progreso de este dispositivo a la cuenta, o cambiar al progreso de la cuenta?
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?	Este dispositivo ya tiene {0} papas peladas. ¿Sumar el progreso de este dispositivo a la cuenta, o cambiar al progreso de la cuenta?
+Combine progress?	¿Juntar el progreso?
+Combine	Juntar
+Use the account's	Usar el de la cuenta
+Accounts combined! Everything adds up now	¡Cuentas juntadas! Ahora todo se suma
+Name changed	Nombre cambiado
+Thanks! Andres reads every suggestion	¡Gracias! Andres lee cada sugerencia
+That's a lot of ideas! Try again in a bit	¡Son muchas ideas! Intenta en un rato
+Write a little more first	Escribe un poco más primero
+Time played	Tiempo jugado
+BETA	BETA
+Keep your progress safe and play on any device. You pick a 6-character code, and that code loads your potatoes, coins and everything else anywhere. Anyone with your code can load your progress, so keep it to yourself.	Mantén tu progreso a salvo y juega en cualquier dispositivo. Eliges un código de 6 caracteres y ese código carga tus papas, monedas y todo lo demás donde sea. Cualquiera con tu código puede cargar tu progreso, así que no lo compartas.
+Create my code	Crear mi código
+Pick a 6-character code (letters and numbers)	Elige un código de 6 caracteres (letras y números)
+I have a code	Tengo un código
+Type your 6-character code	Escribe tu código de 6 caracteres
+Your code	Tu código
+No name (Anonymous peeler on the leaderboard)	Sin nombre (Pelador anónimo en la clasificación)
+Offline right now. It syncs when you're back online	Sin conexión. Se sincroniza cuando vuelvas a estar en línea
+Syncing...	Sincronizando...
+Synced just now	Sincronizado hace un momento
+Synced {0} ago	Sincronizado hace {0}
+Sync now	Sincronizar ahora
+Change name	Cambiar nombre
+Add a name	Agregar un nombre
+Your name on the leaderboard	Tu nombre en la clasificación
+Combine another account	Juntar otra cuenta
+The other account's 6-character code	El código de 6 caracteres de la otra cuenta
+Unlink this device	Desvincular este dispositivo
+Unlink this device?	¿Desvincular este dispositivo?
+Your progress stays on this device and in the cloud. You can link again any time with your code.	Tu progreso se queda en este dispositivo y en la nube. Puedes volver a vincularlo cuando quieras con tu código.
+Unlink	Desvincular
+Cancel	Cancelar
+Codes are exactly 6 letters or numbers	Los códigos tienen exactamente 6 letras o números
+Your name for the leaderboard (optional)	Tu nombre para la clasificación (opcional)
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too.	Todo lo de {0} se suma a esta cuenta (papas, monedas, papas fritas, todo). Después, ese código también abre esta cuenta.
+Combine accounts?	¿Juntar cuentas?
+Linked! This device now uses {0}	¡Vinculado! Este dispositivo ahora usa {0}
+This device is unlinked	Este dispositivo está desvinculado
+{0} player online	{0} jugador en línea
+{0} players online	{0} jugadores en línea
+Connecting...	Conectando...
+Offline. Online features need the internet	Sin conexión. Las funciones en línea necesitan internet
+Play together	Jugar juntos
+Loading...	Cargando...
+Couldn't load the leaderboard	No se pudo cargar la clasificación
+Nobody's here yet. Be the first!	Todavía no hay nadie. ¡Sé el primero!
+You're #{0} with {1}	Vas en el puesto {0} con {1}
+To get on the leaderboard, save your progress to the cloud. It only takes a code.	Para salir en la clasificación, guarda tu progreso en la nube. Solo hace falta un código.
+Save to the cloud	Guardar en la nube
+Cherry	Cereza
+Ocean	Océano
+Mint	Menta
+Lavender	Lavanda
+Sunshine	Sol
+Midnight Matte	Medianoche mate
+Bubblegum	Chicle
+Chrome	Cromo
+Rose Gold	Oro rosa
+Diamond	Diamante
+Chef's Knife	Cuchillo de chef
+Red Handle	Mango rojo
+Ocean Blue	Azul océano
+Walnut	Nogal
+Mint Pro	Menta Pro
+Black Steel	Acero negro
+Copper	Cobre
+Gold	Oro
+No salt	Sin sal
+A little more salt next time	Un poco más de sal la próxima
+Way too salty!	¡Demasiado saladas!
+Seasoned just right!	¡Sazón perfecta!
++{0} TaterCoins. {1}	+{0} TaterCoins. {1}
+Salt	Sal
+Shake the salt over the fries	Sacude la sal sobre las papas fritas
+Serve	Servir
+Coming soon	Próximamente
+TaterCoins. Earn them by frying: cut well, season just right, and rarer potatoes pay more.	TaterCoins. Gánalas friendo: corta bien, sazona en su punto, y las papas más raras pagan más.
+Peeler skins	Skins de pelador
+A skin changes the colour of whichever peeler you use.	Una skin cambia el color del pelador que uses.
+Buy {0} for {1} TaterCoins?	¿Comprar {0} por {1} TaterCoins?
+It goes on whichever peeler you use, and you can switch any time.	Va en el pelador que uses, y puedes cambiarla cuando quieras.
+Buy it	Comprar
+Not now	Ahora no
+You need {0} more TaterCoins. Fry some potatoes!	Te faltan {0} TaterCoins. ¡Fríe unas papas!
+Original	Original
+Wearing	Puesta
+Tap to wear	Toca para ponerla
+New knives unlock as you make fries. You've made {0}.	Se desbloquean cuchillos nuevos al hacer papas fritas. Llevas {0}.
+Make {0} more fries to unlock it	Haz {0} papas fritas más para desbloquearlo
+{0} fries	{0} papas fritas
+Shop	Tienda
+{0} is yours!	¡Ya tienes {0}!
+Playing	Al jugar
+Left-handed	Zurdo
+The buttons and the resting peeler move to the other side	Los botones y el pelador en reposo pasan al otro lado
+Peel and turn at once	Pelar y girar a la vez
+One finger peels while another turns the potato	Un dedo pela mientras otro gira la papa
+Rush length	Duración del Rush
+Best scores are kept for every length together.	Los récords se guardan juntos para todas las duraciones.
+Lifetime	De por vida
+peel strokes	peladas
+knife cuts	cortes de cuchillo
+Chinese (Simplified)	Chino (simplificado)
+Spanish (Latin America)	Español (Latinoamérica)
+Spanish (Spain)	Español (España)
+Russian	Ruso
+Portuguese (Brazil)	Portugués (Brasil)
+German	Alemán
+Japanese	Japonés
+French	Francés
+Korean	Coreano
+Polish	Polaco
+Turkish	Turco
+Pirate, for fun	Pirata, por diversión
+Names, chat and messages from other players stay the way they wrote them.	Los nombres, el chat y los mensajes de otros jugadores se quedan como los escribieron.
+Music: “Echoes in Blue” by Tokyo Music Walker	Música: “Echoes in Blue” de Tokyo Music Walker
+Baked Potato	Papa al horno
+Who baked this?	¿Quién horneó esto?
+Find the Baked Potato	Encuentra la papa al horno
+Careful, it's hot!	¡Cuidado, está caliente!
+Tin foil	Papel aluminio
+Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Súper rara. Cae todavía envuelta en papel aluminio, se desenvuelve sola y echa vapor. La cáscara está crujiente, así que se pela en pedacitos.

@@ -1,0 +1,564 @@
+# TaterPeeler: fr
+Common	Commune
+Uncommon	Peu commune
+Rare	Rare
+Epic	Épique
+Legendary	Légendaire
+Potato #1,000	Patate n° 1 000
+Sweet Potato	Patate douce
+Japanese Sweet	Patate douce japonaise
+Okinawan Sweet	Patate douce d'Okinawa
+Rainbow Potato	Patate arc-en-ciel
+Golden Potato	Patate dorée
+Screaming Potato	Patate qui crie
+Black	Noir
+Red	Rouge
+Yellow	Jaune
+Olive	Olive
+Lime	Citron vert
+Golden	Doré
+Wooden	En bois
+Wire Y	Fil Y
+Pro Grip	Pro Grip
+Julienne	Julienne
+First Peel	Premier épluchage
+Spud Buddy	Pote patate
+TaterPeeler Legend	Légende de TaterPeeler
+Long Peel	Longue pelure
+Speed Peeler	Éplucheur rapide
+Rush Hour	Heure de pointe
+Taste the Rainbow	Goûte l'arc-en-ciel
+Full Collection	Collection complète
+Nice	Nice
+Fry Cook	Cuistot frites
+Shoestring	Allumettes
+Clean Station	Plan de travail nickel
+Pure Tater	Patate pure
+Spud Century	Siècle de patates
+Sack of Spuds	Sac de patates
+Tater Titan	Titan de la patate
+Marathon	Marathon
+Variety Pack	Assortiment
+Epic Find	Trouvaille épique
+Milestone	Cap franchi
+Mega Peel	Méga pelure
+Lightning Peeler	Éplucheur éclair
+Rush Royalty	Royauté du Rush
+Expert Fryer	Friteur expert
+Fry Legend	Légende de la friteuse
+Night Shift	Équipe de nuit
+New Kitchen	Nouvelle cuisine
+Peeler Collection	Collection d'éplucheurs
+Online Champion	Champion en ligne
+That Could've Been for Starving Children	Ça aurait pu nourrir des enfants affamés
+Perfectly Seasoned	Parfaitement assaisonné
+Scream Team	Team cri
+Purple Reign	Règne violet
+Big Spender	Grand dépensier
+Spud Banker	Banquier de la patate
+Head in the Clouds	La tête dans les nuages
+Knife Collector	Collectionneur de couteaux
+Your Own Spud	Ta propre patate
+Peel your first potato	Épluche ta première patate
+Peel 25 potatoes	Épluche 25 patates
+Peel 1,000 potatoes	Épluche 1 000 patates
+Peel one strip 25 cm long	Épluche une pelure de 25 cm
+Peel a whole potato in under 12 seconds	Épluche une patate entière en moins de 12 secondes
+Score 1,500 in one Rush	Fais 1 500 points en un Rush
+Find the Rainbow Potato	Trouve la patate arc-en-ciel
+Find every everyday variety	Trouve toutes les variétés courantes
+Peel potato number 69	Épluche la patate numéro 69
+Serve your first fries	Sers tes premières frites
+Cut 40 fries from one potato	Coupe 40 frites dans une patate
+Scrape every crumb into the fryer, then serve	Pousse chaque miette dans la friteuse, puis sers
+Put a whole potato in the fryer	Mets une patate entière dans la friteuse
+Peel 100 potatoes	Épluche 100 patates
+Peel 500 potatoes	Épluche 500 patates
+Peel 2,500 potatoes	Épluche 2 500 patates
+Peel 25 potatoes without stopping	Épluche 25 patates sans t'arrêter
+Find 20 different varieties	Trouve 20 variétés différentes
+Peel an Epic potato	Épluche une patate épique
+Peel a potato with a number carved in it	Épluche une patate avec un numéro gravé
+Peel one strip 40 cm long	Épluche une pelure de 40 cm
+Peel a whole potato in under 7 seconds	Épluche une patate entière en moins de 7 secondes
+Score 3,000 in one Rush	Fais 3 000 points en un Rush
+Fry 25 potatoes	Fais frire 25 patates
+Fry 100 potatoes	Fais frire 100 patates
+Peel a potato in dark mode	Épluche une patate en mode sombre
+Pick a new kitchen in Settings	Choisis une nouvelle cuisine dans les Réglages
+Unlock every peeler	Débloque tous les éplucheurs
+Win a match online	Gagne une partie en ligne
+Knock a potato off the board	Fais tomber une patate de la planche
+Season a batch of fries just right	Assaisonne une fournée de frites pile comme il faut
+Find the Screaming Potato	Trouve la patate qui crie
+Find the Ube potato	Trouve la patate ube
+Buy something in the shop	Achète quelque chose dans la boutique
+Earn 1,000 TaterCoins	Gagne 1 000 TaterCoins
+Save your progress to the cloud	Sauvegarde ta progression dans le cloud
+Unlock every knife	Débloque tous les couteaux
+Peel a potato made from your own photo	Épluche une patate faite avec ta propre photo
+Warming Up	Échauffement
+Half Hour Hero	Héros de la demi-heure
+Hour of Power	Une heure à fond
+Couch Potato	Patate de canapé
+Spud Devotee	Fan de patates
+Peel Machine	Machine à éplucher
+Around the Clock	Non-stop
+Play for 10 minutes	Joue 10 minutes
+Play for 30 minutes	Joue 30 minutes
+Play for 1 hour	Joue 1 heure
+Play for 2 hours	Joue 2 heures
+Play for 5 hours	Joue 5 heures
+Play for 10 hours	Joue 10 heures
+Play for 24 hours	Joue 24 heures
+Beginner-Peeler	Éplucheur-Débutant
+Rookie-Peeler	Éplucheur-Novice
+Pro-Peeler	Éplucheur-Pro
+Expert-Peeler	Éplucheur-Expert
+Master-Peeler	Éplucheur-Maître
+Legendary-Peeler	Éplucheur-Légendaire
+Beginner-Fryer	Friteur-Débutant
+Expert-Fryer	Friteur-Expert
+Master-Fryer	Friteur-Maître
+Speed-Peeler	Éplucheur-Éclair
+Rush-Champion	Champion-du-Rush
+Spud-Collector	Collectionneur-de-Patates
+Rainbow-Hunter	Chasseur-d'Arc-en-ciel
+Night-Owl	Oiseau-de-Nuit
+Couch-Potato	Patate-de-Canapé
+Peel-Machine	Machine-à-Éplucher
+Long peel +{0}	Longue pelure +{0}
+Long peel, {0} cm	Longue pelure, {0} cm
+You unlocked the Golden peeler	Tu as débloqué l'éplucheur doré
+You unlocked the legendary Lime peeler	Tu as débloqué le légendaire éplucheur citron vert
+You unlocked the rare {0} peeler	Tu as débloqué le rare éplucheur {0}
+You unlocked the {0} peeler	Tu as débloqué l'éplucheur {0}
+potatoes peeled. You are a TaterPeeler legend.	patates épluchées. Tu es une légende de TaterPeeler.
+potatoes peeled! The fry station is open.	patates épluchées ! La friterie est ouverte.
+potatoes peeled!	patates épluchées !
+Potato number 1,000!	Patate numéro 1 000 !
+A rainbow potato!	Une patate arc-en-ciel !
+Nice!	Nice !
+Achievement: {0}	Succès : {0}
+Trophy: {0}	Trophée : {0}
+New title: {0}	Nouveau titre : {0}
+{0} cm	{0} cm
+Fries	Frites
+Cut and fry	Couper et frire
+Unlocks at {0}	Débloqué à {0}
+Peel {0} more potato to open the fry station	Épluche encore {0} patate pour ouvrir la friterie
+Peel {0} more potatoes to open the fry station	Épluche encore {0} patates pour ouvrir la friterie
+Made by Andres Campos	Fait par Andres Campos
+{0} potato peeled	{0} patate épluchée
+{0} potatoes peeled	{0} patates épluchées
+A potato, a peeler, and you	Une patate, un éplucheur et toi
+New update! Click here for more info	Nouvelle mise à jour ! Clique ici pour en savoir plus
+New update! Tap here for more info	Nouvelle mise à jour ! Touche ici pour en savoir plus
+Download	Télécharger
+Best {0}	Record {0}
+60 seconds	60 secondes
+Peel	Éplucher
+No timer	Sans chrono
+Rush	Rush
+Collection	Collection
+Settings	Réglages
+Online	En ligne
+Your potato	Ta patate
+Potato #{0}	Patate n° {0}
+From your photo	Depuis ta photo
+potato, all time	patate au total
+potatoes, all time	patates au total
+longest peel	plus longue pelure
+Drag across the potato to peel it	Glisse sur la patate pour l'éplucher
+Drag the empty space around it to turn it	Glisse à côté pour la tourner
+Slice it into planks	Coupe-la en tranches
+Slice the stack into fries	Coupe la pile en frites
+Scrape them into the fryer	Pousse-les dans la friteuse
+Frying	Friture
+Stacking the planks	On empile les tranches
+Here comes a potato	Voilà une patate
+Fries are up	Les frites sont prêtes
+potato fried	patate frite
+potatoes fried	patates frites
+Swipe down to cut, or tap to chop. Move along for the next slice.	Glisse vers le bas pour couper, ou touche pour hacher. Avance pour la tranche suivante.
+Click to chop where the knife is, or drag down to slice	Clique pour hacher là où est le couteau, ou fais glisser vers le bas pour trancher
+{0} piece is still too thick	{0} morceau est encore trop épais
+{0} pieces are still too thick	{0} morceaux sont encore trop épais
+Lay the blade flat: swipe sideways to push everything off the right edge	Mets la lame à plat : glisse sur le côté pour tout pousser par le bord droit
+Drag sideways to sweep everything off the right edge	Fais glisser sur le côté pour tout balayer par le bord droit
+Paused	Pause
+Resume	Reprendre
+Restart	Recommencer
+Back to the lobby	Retour au lobby
+The match keeps going	La partie continue
+Quit to menu	Quitter vers le menu
+Music	Musique
+Sound effects	Effets sonores
+Time’s up	Temps écoulé
+New best	Nouveau record
+potato	patate
+potatoes	patates
+Play again	Rejouer
+Menu	Menu
+{0} h {1} min	{0} h {1} min
+{0} h	{0} h
+{0} min	{0} min
+Peelers	Éplucheurs
+Peel more potatoes to unlock new ones. Wider blades peel faster.	Épluche plus de patates pour en débloquer de nouveaux. Les lames plus larges épluchent plus vite.
+In use	Utilisé
+Tap to use	Choisir
+Your own potato	Ta propre patate
+Your photo, wrapped round a potato	Ta photo, enroulée autour d'une patate
+Pick a photo and it gets wrapped round a potato	Choisis une photo et elle s'enroule autour d'une patate
+Change photo	Changer de photo
+Choose a photo	Choisir une photo
+Peel it	L'éplucher
+{0} of {1} found	{0} sur {1} trouvées
+Potatoes	Patates
+Not found yet	Pas encore trouvée
+{0} peeled	{0} épluchées
+{0} of {1} unlocked. Tap one to wear it under the logo.	{0} sur {1} débloqués. Touches-en un pour le porter sous le logo.
+Titles	Titres
+Wearing it. Tap to take it off	Tu le portes. Touche pour l'enlever
+{0} of {1} earned	{0} sur {1} obtenus
+Achievements	Succès
+{0} of {1} earned. Time spent peeling and frying: {2}	{0} sur {1} obtenus. Temps passé à éplucher et frire : {2}
+Trophies	Trophées
+Pick where you peel. There are 12 kitchens, or you can use your own photo.	Choisis où tu épluches. Il y a 12 cuisines, ou tu peux utiliser ta propre photo.
+Dark mode, battery saver, and a screensaver with a bouncing logo if you leave it alone for a while.	Mode sombre, économie de batterie, et un économiseur d'écran avec un logo qui rebondit si tu laisses le jeu un moment.
+Music and sound effects. You can set every single sound's volume, and keep YouTube or Music playing while you peel.	Musique et effets sonores. Tu peux régler le volume de chaque son et garder YouTube ou Musique pendant que tu épluches.
+How peeling works for you: the peeler, turning speed, counters, carving shapes, and Accessibility.	Ta façon d'éplucher : l'éplucheur, la vitesse de rotation, les compteurs, les formes gravées et l'Accessibilité.
+Save your progress to the cloud with a 6-character code, and send me your ideas in the Suggestions box.	Sauvegarde ta progression dans le cloud avec un code de 6 caractères, et envoie-moi tes idées dans la boîte à idées.
+Your stats live here. Only reset if you really mean it, it can't be undone.	Tes stats sont ici. Ne réinitialise que si tu le veux vraiment, c'est irréversible.
+A little note from me. TaterPeeler stays free with no ads.	Un petit mot de ma part. TaterPeeler reste gratuit et sans pub.
+Credits for the music, the sounds and the art. That's everything, enjoy!	Les crédits pour la musique, les sons et les visuels. C'est tout, amuse-toi bien !
+{0} of {1}	{0} sur {1}
+Done	Terminé
+Next	Suivant
+Exit tour	Quitter la visite
+TaterPeeler is run by just one person. I've been told I should start running advertisements to make money off of this project. Do not fear, TaterPeeler will stay free and Ad Free for everyone. Including all versions of TaterPeeler. Thanks for supporting this project and me. Expect regular updates, to get notified, add this website to your home screen if not using the app to get notified. To suggest ideas please do submit ideas in the Suggestions box in settings. Thank you for playing.	TaterPeeler est fait par une seule personne. On m'a dit que je devrais commencer à mettre des publicités pour gagner de l'argent avec ce projet. Pas d'inquiétude, TaterPeeler restera gratuit et sans pub pour tout le monde. Y compris toutes les versions de TaterPeeler. Merci de soutenir ce projet et de me soutenir. Attends-toi à des mises à jour régulières ; pour être prévenu, ajoute ce site à ton écran d'accueil si tu n'utilises pas l'app. Pour proposer des idées, envoie-les dans la boîte à idées des réglages. Merci d'avoir joué.
+Peeling	Épluchage
+Potato landing	Patate qui atterrit
+Taps and buttons	Touches et boutons
+Rewards	Récompenses
+Rush clock	Chrono du Rush
+Knife	Couteau
+Cutting board	Planche à découper
+Fryer	Friteuse
+Salt shaker	Salière
+Coins	Pièces
+Screaming potato	Patate qui crie
+Show me around	Fais-moi visiter
+A quick tour of everything in here	Un tour rapide de tout ce qu'il y a ici
+Pick the game's language	Choisis la langue du jeu
+Language	Langue
+Kitchen	Cuisine
+Plain	Uni
+Your photo	Ta photo
+Background	Fond
+Pick a kitchen, or use your own photo	Choisis une cuisine, ou utilise ta propre photo
+Display	Affichage
+Dark mode	Mode sombre
+Battery saver	Économie de batterie
+Runs at 30 frames a second	Tourne à 30 images par seconde
+Screensaver	Économiseur d'écran
+A bouncing logo after 10 minutes of not playing	Un logo qui rebondit après 10 minutes sans jouer
+Sound	Son
+Music volume	Volume de la musique
+Effects volume	Volume des effets
+Each sound's volume	Volume de chaque son
+Turn any one sound up or down	Monte ou baisse n'importe quel son
+Hide	Masquer
+Show	Afficher
+Play alongside other apps	Jouer avec d'autres apps
+Keep YouTube or Music playing while you peel	Garde YouTube ou Musique pendant que tu épluches
+Show the peeler	Afficher l'éplucheur
+Hide it to watch the skin come off	Cache-le pour voir la peau partir
+Turning speed	Vitesse de rotation
+All-time counter	Compteur total
+Count every potato you've peeled, not just this session	Compte toutes les patates que tu as épluchées, pas seulement cette session
+Carve shapes	Graver des formes
+Each potato gets a little shape carved into it	Chaque patate a une petite forme gravée
+Spin the potato on menus	Faire tourner la patate dans les menus
+Show tips	Afficher les astuces
+How to peel and turn the potato	Comment éplucher et tourner la patate
+Accessibility	Accessibilité
+Left-handed, two fingers at once, Rush length	Gaucher, deux doigts à la fois, durée du Rush
+Cloud save	Sauvegarde cloud
+Keep your progress and play on any device	Garde ta progression et joue sur n'importe quel appareil
+Off	Désactivé
+Suggestions box	Boîte à idées
+Got an idea for TaterPeeler? Send it to me	Une idée pour TaterPeeler ? Envoie-la-moi
+Your idea for TaterPeeler	Ton idée pour TaterPeeler
+Progress	Progression
+Reset progress	Réinitialiser la progression
+Tap again to erase	Touche encore pour effacer
+Reset	Réinitialiser
+This resets this device. The cloud copy keeps your progress.	Ça réinitialise cet appareil. La copie dans le cloud garde ta progression.
+potatoes peeled	patates épluchées
+best Rush score	meilleur score Rush
+fries made	frites faites
+What's new in 2.0	Nouveautés de la 2.0
+Free forever, and no ads	Gratuit pour toujours, et sans pub
+License: CC BY-NC-ND 4.0	Licence : CC BY-NC-ND 4.0
+Licence	Licence
+Original track	Morceau original
+Potato photoscan: Jan Martens, Poly Haven (CC0)	Scan de la patate : Jan Martens, Poly Haven (CC0)
+Sound effects: Joseph Sardin, BigSoundBank (CC0)	Effets sonores : Joseph Sardin, BigSoundBank (CC0)
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)	Bois de la planche : Jenelle van Heerden, Poly Haven (CC0)
+Kitchens: Poly Haven textures and models (CC0)	Cuisines : textures et modèles Poly Haven (CC0)
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.	Ce jeu utilise des ressources et des sons libres de droits. La musique est utilisée sous sa licence Creative Commons, créditée ci-dessus.
+Version {0}	Version {0}
+Where you peel. The cutting board is always on the counter.	Là où tu épluches. La planche est toujours sur le plan de travail.
+The original look	Le look d'origine
+Tap again to change it	Touche encore pour la changer
+Tap to use it	Touche pour l'utiliser
+Tap to choose a photo	Touche pour choisir une photo
+This is the biggest update TaterPeeler has had so far. Here's everything that's new in 2.0. Thanks for 300 players!	C'est la plus grosse mise à jour de TaterPeeler jusqu'ici. Voici tout ce qui est nouveau dans la 2.0. Merci pour les 300 joueurs !
+Online (Beta)	En ligne (Bêta)
+You can play with other people now. Do a quick 1v1, or make a lobby with up to 6 people, public or private. The host picks the mode: race to a number of potatoes, timed, or endless. If the host leaves, the next person who joined takes over. There's quick chat, and typed chat in private lobbies (it's filtered).	Tu peux maintenant jouer avec d'autres personnes. Fais un 1v1 rapide, ou crée un lobby jusqu'à 6 personnes, public ou privé. L'hôte choisit le mode : course à un nombre de patates, chrono ou sans fin. Si l'hôte part, la personne arrivée juste après prend le relais. Il y a un chat rapide, et un chat écrit dans les lobbys privés (filtré).
+Leaderboard	Classement
+There's a live leaderboard for potatoes peeled, Rush, fries and time played. Save to the cloud to get on it.	Il y a un classement en direct des patates épluchées, du Rush, des frites et du temps de jeu. Sauvegarde dans le cloud pour y apparaître.
+Cloud saves	Sauvegardes cloud
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts and everything adds up.	Choisis un code de 6 caractères et ta progression est sauvegardée en ligne. Tape le code sur un autre appareil et continue d'y jouer. Tu peux même fusionner deux comptes, et tout s'additionne.
+Seasoning and TaterCoins	Assaisonnement et TaterCoins
+When your fries land in the tray, grab the salt shaker and shake it over them. Not too little, not too much. You earn TaterCoins for how well you cut and seasoned, and rarer potatoes pay more.	Quand tes frites tombent dans le plateau, prends la salière et secoue-la au-dessus. Ni trop peu, ni trop. Tu gagnes des TaterCoins selon la qualité de ta coupe et de ton assaisonnement, et les patates rares rapportent plus.
+The Shop	La boutique
+Spend your TaterCoins in the shop (the coin button on the menu). There are 10 skins that go on any peeler, from Cherry all the way up to Diamond.	Dépense tes TaterCoins dans la boutique (le bouton pièce du menu). Il y a 10 skins pour n'importe quel éplucheur, de Cerise jusqu'à Diamant.
+Knives	Couteaux
+New knives unlock the more fries you make. Different colours and looks, all the way to a gold one.	Plus tu fais de frites, plus tu débloques de couteaux. Couleurs et styles différents, jusqu'à un en or.
+Kitchens	Cuisines
+The game takes place in a kitchen now, with the cutting board on the counter. There are 12 kitchens to pick from in Settings, or you can use your own photo as the background.	Le jeu se passe maintenant dans une cuisine, avec la planche sur le plan de travail. Il y a 12 cuisines au choix dans les Réglages, ou tu peux mettre ta propre photo en fond.
+A ton of new potatoes to find, including Ube. There's also one super rare potato that looks totally normal... until you start peeling it. You'll know when you find it.	Plein de nouvelles patates à trouver, dont l'ube. Il y a aussi une patate super rare qui a l'air totalement normale... jusqu'à ce que tu commences à l'éplucher. Tu sauras quand tu l'auras trouvée.
+4 new peelers	4 nouveaux éplucheurs
+Wooden, Wire Y, Pro Grip and Julienne. Each one looks different, not just a new colour. The rare ones peel a little faster, nothing crazy.	En bois, Fil Y, Pro Grip et Julienne. Chacun a son propre look, pas juste une nouvelle couleur. Les rares épluchent un peu plus vite, rien de fou.
+Titles and trophies	Titres et trophées
+Earn titles like Beginner-Peeler, Pro-Peeler and Master-Fryer, and wear one under the logo. There are trophies for time played too (only peeling and frying counts, not sitting on the menu), plus a bunch of new achievements.	Gagne des titres comme Éplucheur-Débutant, Éplucheur-Pro et Friteur-Maître, et porte-en un sous le logo. Il y a aussi des trophées pour le temps de jeu (seuls l'épluchage et la friture comptent, pas le temps dans le menu), plus plein de nouveaux succès.
+Take a photo and it gets wrapped around a potato. Find it in the Collection.	Prends une photo et elle s'enroule autour d'une patate. Tu la trouveras dans la Collection.
+Left-handed mode, peeling with one finger while turning with another, your own Rush length (like 1:30), and lifetime counters for every peel and cut.	Mode gaucher, éplucher avec un doigt en tournant avec un autre, ta propre durée de Rush (comme 1:30), et des compteurs de chaque épluchage et coupe.
+Every sound has its own volume slider now. And if you're listening to YouTube or music, turn on Play alongside other apps so TaterPeeler doesn't stop it.	Chaque son a maintenant son propre curseur de volume. Et si tu écoutes YouTube ou de la musique, active Jouer avec d'autres apps pour que TaterPeeler ne la coupe pas.
+Languages	Langues
+TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish and Turkish now, plus a Pirate language.	TaterPeeler parle maintenant chinois, espagnol (les deux), russe, portugais, allemand, japonais, français, coréen, polonais et turc, plus une langue pirate.
+Other stuff	Autres trucs
+A Show me around button in Settings, a Suggestions box so you can send me ideas, an all-time counter, carved shapes inside the potato if you want them, and a screensaver if you leave the game alone for a while.	Un bouton Fais-moi visiter dans les Réglages, une boîte à idées pour m'envoyer tes idées, un compteur total, des formes gravées dans la patate si tu veux, et un économiseur d'écran si tu laisses le jeu un moment.
+Fixes	Corrections
+Pushing the potato off the board at the fry station doesn't break it anymore, a new one just drops in. Text is easy to read on every background, the peeler doesn't go through the cutting board, and older iPads run smoother.	Pousser la patate hors de la planche à la friterie ne casse plus rien, une nouvelle tombe simplement. Le texte se lit bien sur tous les fonds, l'éplucheur ne traverse plus la planche, et les vieux iPad tournent plus fluide.
+Everything you had before is still there, nothing got reset. Thanks for playing.	Tout ce que tu avais est toujours là, rien n'a été effacé. Merci de jouer.
+What's new	Nouveautés
+IT HIT THE CORNER!	IL A TOUCHÉ LE COIN !
+Tap anywhere to keep peeling	Touche n'importe où pour continuer à éplucher
++{0} fry	+{0} frite
++{0} fries	+{0} frites
+Wait... is that potato SCREAMING?	Attends... cette patate est en train de CRIER ?
+Classic White	Blanc classique
+Farmhouse	Ferme
+Midnight	Minuit
+Retro Diner	Diner rétro
+Tuscan Sun	Soleil de Toscane
+Scandinavian	Scandinave
+Industrial Loft	Loft industriel
+Seaside	Bord de mer
+Navy & Brass	Marine et laiton
+Garden Window	Fenêtre sur jardin
+Pastel Pop	Pastel pop
+Cozy Cabin	Chalet douillet
+Race	Course
+Timed	Chrono
+Endless	Sans fin
+Good luck!	Bonne chance !
+GG!	GG !
+Nice one!	Bien joué !
+Ready?	Prêts ?
+Wow!	Waouh !
+Rematch?	Revanche ?
+So close!	C'était serré !
+Let's go!	C'est parti !
+Couldn't reach the server. Check your internet	Impossible de joindre le serveur. Vérifie ta connexion
+No lobby with that code	Aucun lobby avec ce code
+That lobby is full	Ce lobby est plein
+That match already started. Try again when it's over	Cette partie a déjà commencé. Réessaie quand elle sera finie
+You can't play online right now	Tu ne peux pas jouer en ligne pour l'instant
+Slow down a little and try again	Doucement, réessaie
+Typed chat is only in private lobbies	Le chat écrit est réservé aux lobbys privés
+Something went wrong, try again	Un problème est survenu, réessaie
+Peeler	Éplucheur
+Your name in online games	Ton nom dans les parties en ligne
+You left the lobby	Tu as quitté le lobby
+Lost the connection to the lobby	Connexion au lobby perdue
+Quick 1v1	1v1 rapide
+Create a lobby	Créer un lobby
+Join with a code	Rejoindre avec un code
+The lobby's code	Le code du lobby
+Public lobbies	Lobbys publics
+None open right now. Make one, or try Quick 1v1	Aucun ouvert pour l'instant. Crée-en un, ou essaie un 1v1 rapide
+Looking...	Recherche...
+{0}'s lobby	Lobby de {0}
+Race to {0}	Course à {0}
+Timed, {0}	Chrono, {0}
+Public lobby, code	Lobby public, code
+Private lobby. Share this code	Lobby privé. Partage ce code
+Players	Joueurs
+{0} (you)	{0} (toi)
+Match	Partie
+{0} potatoes	{0} patates
+Public	Public
+Anyone can find it in the list	Tout le monde peut le trouver dans la liste
+Start the match	Lancer la partie
+Waiting for someone to join...	En attente de quelqu'un...
+Race: first to {0} potatoes wins	Course : le premier à {0} patates gagne
+Timed: most potatoes in {0}	Chrono : le plus de patates en {0}
+Endless: peel until the host ends it	Sans fin : épluche jusqu'à ce que l'hôte arrête
+Waiting for the host to start	En attente du lancement par l'hôte
+Match over	Partie terminée
+Starting...	Ça commence...
+Chat	Chat
+Say hi!	Dis bonjour !
+Type a message	Écris un message
+Message	Message
+Typed chat is only in private lobbies.	Le chat écrit est réservé aux lobbys privés.
+Leave lobby	Quitter le lobby
+Lobby	Lobby
+First to {0}	Premier à {0}
+You win!	Tu as gagné !
+{0} potato	{0} patate
+Lobby codes are 5 letters	Les codes de lobby font 5 lettres
+Update 2.0 is now out! Here's what's new!	La mise à jour 2.0 est sortie ! Voici les nouveautés !
+Thanks for 300 players! I'll keep updating this periodically.	Merci pour les 300 joueurs ! Je continuerai à mettre le jeu à jour régulièrement.
+View what's new	Voir les nouveautés
+Dismiss	Fermer
+Message from {0}	Message de {0}
+Couldn't reach the server. Check your internet and try again	Impossible de joindre le serveur. Vérifie ta connexion et réessaie
+That code is already taken, try another one	Ce code est déjà pris, essaie-en un autre
+Codes are 6 letters or numbers	Les codes font 6 lettres ou chiffres
+Try a different name	Essaie un autre nom
+Too many tries. Wait a couple of minutes	Trop d'essais. Attends quelques minutes
+No progress is saved with that code	Aucune progression n'est sauvegardée avec ce code
+That's this account's own code	C'est le code de ce compte-ci
+This device isn't linked anymore	Cet appareil n'est plus lié
+That save is too big	Cette sauvegarde est trop grosse
+That one's taken. Pick another 6-character code	Celui-là est pris. Choisis un autre code de 6 caractères
+Saved to the cloud! Your code is {0}	Sauvegardé dans le cloud ! Ton code est {0}
+This device already has {0} potato peeled. Add this device's progress to the account, or switch to the account's progress?	Cet appareil a déjà {0} patate épluchée. Ajouter la progression de cet appareil au compte, ou passer à la progression du compte ?
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?	Cet appareil a déjà {0} patates épluchées. Ajouter la progression de cet appareil au compte, ou passer à la progression du compte ?
+Combine progress?	Fusionner la progression ?
+Combine	Fusionner
+Use the account's	Prendre celle du compte
+Accounts combined! Everything adds up now	Comptes fusionnés ! Tout s'additionne maintenant
+Name changed	Nom modifié
+Thanks! Andres reads every suggestion	Merci ! Andres lit chaque idée
+That's a lot of ideas! Try again in a bit	Ça fait beaucoup d'idées ! Réessaie dans un moment
+Write a little more first	Écris-en un peu plus d'abord
+Time played	Temps de jeu
+BETA	BÊTA
+Keep your progress safe and play on any device. You pick a 6-character code, and that code loads your potatoes, coins and everything else anywhere. Anyone with your code can load your progress, so keep it to yourself.	Garde ta progression en sécurité et joue sur n'importe quel appareil. Tu choisis un code de 6 caractères, et ce code charge tes patates, tes pièces et tout le reste partout. Toute personne qui a ton code peut charger ta progression, alors garde-le pour toi.
+Create my code	Créer mon code
+Pick a 6-character code (letters and numbers)	Choisis un code de 6 caractères (lettres et chiffres)
+I have a code	J'ai un code
+Type your 6-character code	Tape ton code de 6 caractères
+Your code	Ton code
+No name (Anonymous peeler on the leaderboard)	Sans nom (Éplucheur anonyme dans le classement)
+Offline right now. It syncs when you're back online	Hors ligne pour l'instant. Ça se synchronise quand tu reviens en ligne
+Syncing...	Synchronisation...
+Synced just now	Synchronisé à l'instant
+Synced {0} ago	Synchronisé il y a {0}
+Sync now	Synchroniser
+Change name	Changer de nom
+Add a name	Ajouter un nom
+Your name on the leaderboard	Ton nom dans le classement
+Combine another account	Fusionner un autre compte
+The other account's 6-character code	Le code à 6 caractères de l'autre compte
+Unlink this device	Délier cet appareil
+Unlink this device?	Délier cet appareil ?
+Your progress stays on this device and in the cloud. You can link again any time with your code.	Ta progression reste sur cet appareil et dans le cloud. Tu peux le relier quand tu veux avec ton code.
+Unlink	Délier
+Cancel	Annuler
+Codes are exactly 6 letters or numbers	Les codes font exactement 6 lettres ou chiffres
+Your name for the leaderboard (optional)	Ton nom pour le classement (facultatif)
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too.	Tout ce qu'il y a sur {0} s'ajoute à ce compte (patates, pièces, frites, tout). Ensuite, ce code ouvre aussi ce compte.
+Combine accounts?	Fusionner les comptes ?
+Linked! This device now uses {0}	Lié ! Cet appareil utilise maintenant {0}
+This device is unlinked	Cet appareil n'est plus lié
+{0} player online	{0} joueur en ligne
+{0} players online	{0} joueurs en ligne
+Connecting...	Connexion...
+Offline. Online features need the internet	Hors ligne. Les fonctions en ligne ont besoin d'internet
+Play together	Jouer ensemble
+Loading...	Chargement...
+Couldn't load the leaderboard	Impossible de charger le classement
+Nobody's here yet. Be the first!	Personne pour l'instant. Sois le premier !
+You're #{0} with {1}	Tu es n° {0} avec {1}
+To get on the leaderboard, save your progress to the cloud. It only takes a code.	Pour apparaître au classement, sauvegarde ta progression dans le cloud. Il suffit d'un code.
+Save to the cloud	Sauvegarder dans le cloud
+Cherry	Cerise
+Ocean	Océan
+Mint	Menthe
+Lavender	Lavande
+Sunshine	Soleil
+Midnight Matte	Minuit mat
+Bubblegum	Chewing-gum
+Chrome	Chrome
+Rose Gold	Or rose
+Diamond	Diamant
+Chef's Knife	Couteau de chef
+Red Handle	Manche rouge
+Ocean Blue	Bleu océan
+Walnut	Noyer
+Mint Pro	Menthe Pro
+Black Steel	Acier noir
+Copper	Cuivre
+Gold	Or
+No salt	Pas de sel
+A little more salt next time	Un peu plus de sel la prochaine fois
+Way too salty!	Beaucoup trop salé !
+Seasoned just right!	Assaisonné pile comme il faut !
++{0} TaterCoins. {1}	+{0} TaterCoins. {1}
+Salt	Sel
+Shake the salt over the fries	Secoue le sel au-dessus des frites
+Serve	Servir
+Coming soon	Bientôt
+TaterCoins. Earn them by frying: cut well, season just right, and rarer potatoes pay more.	TaterCoins. Gagne-les en faisant des frites : coupe bien, sale pile comme il faut, et les patates rares rapportent plus.
+Peeler skins	Skins d'éplucheur
+A skin changes the colour of whichever peeler you use.	Un skin change la couleur de l'éplucheur que tu utilises.
+Buy {0} for {1} TaterCoins?	Acheter {0} pour {1} TaterCoins ?
+It goes on whichever peeler you use, and you can switch any time.	Il va sur l'éplucheur que tu utilises, et tu peux en changer quand tu veux.
+Buy it	L'acheter
+Not now	Pas maintenant
+You need {0} more TaterCoins. Fry some potatoes!	Il te manque {0} TaterCoins. Fais frire quelques patates !
+Original	Original
+Wearing	Porté
+Tap to wear	Touche pour le porter
+New knives unlock as you make fries. You've made {0}.	Les nouveaux couteaux se débloquent en faisant des frites. Tu en as fait {0}.
+Make {0} more fries to unlock it	Fais encore {0} frites pour le débloquer
+{0} fries	{0} frites
+Shop	Boutique
+{0} is yours!	{0} est à toi !
+Playing	En jeu
+Left-handed	Gaucher
+The buttons and the resting peeler move to the other side	Les boutons et l'éplucheur au repos passent de l'autre côté
+Peel and turn at once	Éplucher et tourner en même temps
+One finger peels while another turns the potato	Un doigt épluche pendant qu'un autre tourne la patate
+Rush length	Durée du Rush
+Best scores are kept for every length together.	Les records sont gardés pour toutes les durées ensemble.
+Lifetime	Au total
+peel strokes	coups d'éplucheur
+knife cuts	coups de couteau
+Chinese (Simplified)	Chinois (simplifié)
+Spanish (Latin America)	Espagnol (Amérique latine)
+Spanish (Spain)	Espagnol (Espagne)
+Russian	Russe
+Portuguese (Brazil)	Portugais (Brésil)
+German	Allemand
+Japanese	Japonais
+French	Français
+Korean	Coréen
+Polish	Polonais
+Turkish	Turc
+Pirate, for fun	Pirate, pour rire
+Names, chat and messages from other players stay the way they wrote them.	Les noms, le chat et les messages des autres joueurs restent tels qu'ils les ont écrits.
+Music: “Echoes in Blue” by Tokyo Music Walker	Musique : « Echoes in Blue » de Tokyo Music Walker
+Baked Potato	Patate au four
+Who baked this?	Qui a cuit ça ?
+Find the Baked Potato	Trouve la patate au four
+Careful, it's hot!	Attention, ça brûle !
+Tin foil	Papier alu
+Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Super rare. Elle arrive encore emballée dans du papier alu, se déballe toute seule et fume. La peau est croustillante, alors elle part en petits morceaux.

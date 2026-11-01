@@ -1,0 +1,574 @@
+# TaterPeeler: pl
+Common	Zwykły
+Uncommon	Niezwykły
+Rare	Rzadki
+Epic	Epicki
+Legendary	Legendarny
+Potato #1,000	Ziemniak nr 1000
+Sweet Potato	Batat
+Japanese Sweet	Batat japoński
+Okinawan Sweet	Batat z Okinawy
+Rainbow Potato	Tęczowy ziemniak
+Golden Potato	Złoty ziemniak
+Screaming Potato	Krzyczący ziemniak
+Black	Czarna
+Red	Czerwona
+Yellow	Żółta
+Olive	Oliwkowa
+Lime	Limonkowa
+Golden	Złota
+Wooden	Drewniana
+Wire Y	Druciana Y
+Pro Grip	Pro Grip
+Julienne	Julienne
+First Peel	Pierwsza skórka
+Spud Buddy	Ziemniaczany kumpel
+TaterPeeler Legend	Legenda TaterPeelera
+Long Peel	Długa skórka
+Speed Peeler	Szybki obieracz
+Rush Hour	Godzina szczytu
+Taste the Rainbow	Posmakuj tęczy
+Full Collection	Pełna kolekcja
+Nice	Nice
+Fry Cook	Kucharz frytek
+Shoestring	Słomka
+Clean Station	Czyste stanowisko
+Pure Tater	Czysty ziemniak
+Spud Century	Ziemniaczany wiek
+Sack of Spuds	Worek ziemniaków
+Tater Titan	Ziemniaczany tytan
+Marathon	Maraton
+Variety Pack	Mieszanka odmian
+Epic Find	Epickie znalezisko
+Milestone	Kamień milowy
+Mega Peel	Megaskórka
+Lightning Peeler	Błyskawiczny obieracz
+Rush Royalty	Królewski Rush
+Expert Fryer	Ekspert od smażenia
+Fry Legend	Legenda frytkownicy
+Night Shift	Nocna zmiana
+New Kitchen	Nowa kuchnia
+Peeler Collection	Kolekcja obieraczek
+Online Champion	Mistrz online
+That Could've Been for Starving Children	To mogło trafić do głodnych dzieci
+Perfectly Seasoned	Idealnie przyprawione
+Scream Team	Drużyna krzyku
+Purple Reign	Fioletowe królestwo
+Big Spender	Rozrzutnik
+Spud Banker	Ziemniaczany bankier
+Head in the Clouds	Głowa w chmurach
+Knife Collector	Kolekcjoner noży
+Your Own Spud	Twój własny ziemniak
+Peel your first potato	Obierz swojego pierwszego ziemniaka
+Peel 25 potatoes	Obierz 25 ziemniaków
+Peel 1,000 potatoes	Obierz 1000 ziemniaków
+Peel one strip 25 cm long	Obierz pasek długości 25 cm
+Peel a whole potato in under 12 seconds	Obierz całego ziemniaka w mniej niż 12 sekund
+Score 1,500 in one Rush	Zdobądź 1500 punktów w jednym Rushu
+Find the Rainbow Potato	Znajdź tęczowego ziemniaka
+Find every everyday variety	Znajdź każdą zwykłą odmianę
+Peel potato number 69	Obierz ziemniaka numer 69
+Serve your first fries	Podaj swoje pierwsze frytki
+Cut 40 fries from one potato	Pokrój 40 frytek z jednego ziemniaka
+Scrape every crumb into the fryer, then serve	Zgarnij każdy okruszek do frytkownicy, potem podaj
+Put a whole potato in the fryer	Wrzuć całego ziemniaka do frytkownicy
+Peel 100 potatoes	Obierz 100 ziemniaków
+Peel 500 potatoes	Obierz 500 ziemniaków
+Peel 2,500 potatoes	Obierz 2500 ziemniaków
+Peel 25 potatoes without stopping	Obierz 25 ziemniaków bez przerwy
+Find 20 different varieties	Znajdź 20 różnych odmian
+Peel an Epic potato	Obierz epickiego ziemniaka
+Peel a potato with a number carved in it	Obierz ziemniaka z wyrytym numerem
+Peel one strip 40 cm long	Obierz pasek długości 40 cm
+Peel a whole potato in under 7 seconds	Obierz całego ziemniaka w mniej niż 7 sekund
+Score 3,000 in one Rush	Zdobądź 3000 punktów w jednym Rushu
+Fry 25 potatoes	Usmaż 25 ziemniaków
+Fry 100 potatoes	Usmaż 100 ziemniaków
+Peel a potato in dark mode	Obierz ziemniaka w trybie ciemnym
+Pick a new kitchen in Settings	Wybierz nową kuchnię w Ustawieniach
+Unlock every peeler	Odblokuj każdą obieraczkę
+Win a match online	Wygraj mecz online
+Knock a potato off the board	Strąć ziemniaka z deski
+Season a batch of fries just right	Przypraw porcję frytek idealnie
+Find the Screaming Potato	Znajdź krzyczącego ziemniaka
+Find the Ube potato	Znajdź ziemniaka ube
+Buy something in the shop	Kup coś w sklepie
+Earn 1,000 TaterCoins	Zdobądź 1000 TaterCoins
+Save your progress to the cloud	Zapisz postęp w chmurze
+Unlock every knife	Odblokuj każdy nóż
+Peel a potato made from your own photo	Obierz ziemniaka zrobionego z własnego zdjęcia
+Warming Up	Rozgrzewka
+Half Hour Hero	Bohater pół godziny
+Hour of Power	Godzina mocy
+Couch Potato	Kanapowy ziemniak
+Spud Devotee	Fan ziemniaków
+Peel Machine	Maszyna do obierania
+Around the Clock	Całą dobę
+Play for 10 minutes	Graj przez 10 minut
+Play for 30 minutes	Graj przez 30 minut
+Play for 1 hour	Graj przez 1 godzinę
+Play for 2 hours	Graj przez 2 godziny
+Play for 5 hours	Graj przez 5 godzin
+Play for 10 hours	Graj przez 10 godzin
+Play for 24 hours	Graj przez 24 godziny
+Beginner-Peeler	Początkujący-Obieracz
+Rookie-Peeler	Nowicjusz-Obieracz
+Pro-Peeler	Pro-Obieracz
+Expert-Peeler	Ekspert-Obieracz
+Master-Peeler	Mistrz-Obieracz
+Legendary-Peeler	Legendarny-Obieracz
+Beginner-Fryer	Początkujący-Smażacz
+Expert-Fryer	Ekspert-Smażacz
+Master-Fryer	Mistrz-Smażacz
+Speed-Peeler	Szybki-Obieracz
+Rush-Champion	Mistrz-Rusha
+Spud-Collector	Kolekcjoner-Ziemniaków
+Rainbow-Hunter	Łowca-Tęczy
+Night-Owl	Nocny-Marek
+Couch-Potato	Kanapowy-Ziemniak
+Peel-Machine	Maszyna-do-Obierania
+Long peel +{0}	Długa skórka +{0}
+Long peel, {0} cm	Długa skórka, {0} cm
+You unlocked the Golden peeler	Odblokowano złotą obieraczkę
+You unlocked the legendary Lime peeler	Odblokowano legendarną limonkową obieraczkę
+You unlocked the rare {0} peeler	Odblokowano rzadką obieraczkę: {0}
+You unlocked the {0} peeler	Odblokowano obieraczkę: {0}
+potatoes peeled. You are a TaterPeeler legend.	obranych ziemniaków. Jesteś legendą TaterPeelera.
+potatoes peeled! The fry station is open.	obranych ziemniaków! Smażalnia jest otwarta.
+potatoes peeled!	obranych ziemniaków!
+Potato number 1,000!	Ziemniak numer 1000!
+A rainbow potato!	Tęczowy ziemniak!
+Nice!	Nice!
+Achievement: {0}	Osiągnięcie: {0}
+Trophy: {0}	Trofeum: {0}
+New title: {0}	Nowy tytuł: {0}
+{0} cm	{0} cm
+Fries	Frytki
+Cut and fry	Pokrój i usmaż
+Unlocks at {0}	Odblokowanie przy {0}
+Peel {0} more potato to open the fry station	Obierz jeszcze {0} ziemniaka, aby otworzyć smażalnię
+Peel {0} more potatoes to open the fry station	Obierz jeszcze {0} ziemniaków, aby otworzyć smażalnię
+Peel {0} more potatoes to open the fry station#few	Obierz jeszcze {0} ziemniaki, aby otworzyć smażalnię
+Made by Andres Campos	Autor: Andres Campos
+{0} potato peeled	{0} obrany ziemniak
+{0} potatoes peeled	{0} obranych ziemniaków
+{0} potatoes peeled#few	{0} obrane ziemniaki
+A potato, a peeler, and you	Ziemniak, obieraczka i ty
+New update! Click here for more info	Nowa aktualizacja! Kliknij, aby dowiedzieć się więcej
+New update! Tap here for more info	Nowa aktualizacja! Dotknij, aby dowiedzieć się więcej
+Download	Pobierz
+Best {0}	Rekord {0}
+60 seconds	60 sekund
+Peel	Obieraj
+No timer	Bez czasu
+Rush	Rush
+Collection	Kolekcja
+Settings	Ustawienia
+Online	Online
+Your potato	Twój ziemniak
+Potato #{0}	Ziemniak nr {0}
+From your photo	Z twojego zdjęcia
+potato, all time	ziemniak łącznie
+potatoes, all time	ziemniaków łącznie
+potatoes, all time#few	ziemniaki łącznie
+longest peel	najdłuższa skórka
+Drag across the potato to peel it	Przeciągnij po ziemniaku, aby go obrać
+Drag the empty space around it to turn it	Przeciągnij obok, aby go obrócić
+Slice it into planks	Pokrój w plastry
+Slice the stack into fries	Pokrój stos w frytki
+Scrape them into the fryer	Zgarnij je do frytkownicy
+Frying	Smażenie
+Stacking the planks	Układanie plastrów
+Here comes a potato	Nadchodzi ziemniak
+Fries are up	Frytki gotowe
+potato fried	usmażony ziemniak
+potatoes fried	usmażonych ziemniaków
+potatoes fried#few	usmażone ziemniaki
+Swipe down to cut, or tap to chop. Move along for the next slice.	Przesuń w dół, aby kroić, albo dotknij, aby siekać. Przesuń się do następnego plastra.
+Click to chop where the knife is, or drag down to slice	Kliknij, aby siekać tam, gdzie jest nóż, albo przeciągnij w dół, aby kroić
+{0} piece is still too thick	{0} kawałek jest wciąż za gruby
+{0} pieces are still too thick	{0} kawałków jest wciąż za grubych
+{0} pieces are still too thick#few	{0} kawałki są wciąż za grube
+Lay the blade flat: swipe sideways to push everything off the right edge	Połóż ostrze płasko: przesuń w bok, aby zepchnąć wszystko za prawą krawędź
+Drag sideways to sweep everything off the right edge	Przeciągnij w bok, aby zmieść wszystko za prawą krawędź
+Paused	Pauza
+Resume	Wznów
+Restart	Od nowa
+Back to the lobby	Wróć do lobby
+The match keeps going	Mecz trwa dalej
+Quit to menu	Wyjdź do menu
+Music	Muzyka
+Sound effects	Efekty dźwiękowe
+Time’s up	Koniec czasu
+New best	Nowy rekord
+potato	ziemniak
+potatoes	ziemniaków
+potatoes#few	ziemniaki
+Play again	Zagraj jeszcze raz
+Menu	Menu
+{0} h {1} min	{0} godz. {1} min
+{0} h	{0} godz.
+{0} min	{0} min
+Peelers	Obieraczki
+Peel more potatoes to unlock new ones. Wider blades peel faster.	Obieraj więcej ziemniaków, aby odblokować nowe. Szersze ostrza obierają szybciej.
+In use	W użyciu
+Tap to use	Użyj
+Your own potato	Twój własny ziemniak
+Your photo, wrapped round a potato	Twoje zdjęcie owinięte wokół ziemniaka
+Pick a photo and it gets wrapped round a potato	Wybierz zdjęcie, a owinie się wokół ziemniaka
+Change photo	Zmień zdjęcie
+Choose a photo	Wybierz zdjęcie
+Peel it	Obierz go
+{0} of {1} found	Znaleziono {0} z {1}
+Potatoes	Ziemniaki
+Not found yet	Jeszcze nie znaleziony
+{0} peeled	Obrano: {0}
+{0} of {1} unlocked. Tap one to wear it under the logo.	Odblokowano {0} z {1}. Dotknij jednego, aby nosić go pod logo.
+Titles	Tytuły
+Wearing it. Tap to take it off	Nosisz go. Dotknij, aby zdjąć
+{0} of {1} earned	Zdobyto {0} z {1}
+Achievements	Osiągnięcia
+{0} of {1} earned. Time spent peeling and frying: {2}	Zdobyto {0} z {1}. Czas obierania i smażenia: {2}
+Trophies	Trofea
+Pick where you peel. There are 12 kitchens, or you can use your own photo.	Wybierz, gdzie obierasz. Jest 12 kuchni albo możesz użyć własnego zdjęcia.
+Dark mode, battery saver, and a screensaver with a bouncing logo if you leave it alone for a while.	Tryb ciemny, oszczędzanie baterii i wygaszacz ekranu z odbijającym się logo, jeśli zostawisz grę na chwilę.
+Music and sound effects. You can set every single sound's volume, and keep YouTube or Music playing while you peel.	Muzyka i efekty dźwiękowe. Możesz ustawić głośność każdego dźwięku i słuchać YouTube'a albo Muzyki podczas obierania.
+How peeling works for you: the peeler, turning speed, counters, carving shapes, and Accessibility.	Jak obierasz: obieraczka, szybkość obracania, liczniki, wyryte kształty i Dostępność.
+Save your progress to the cloud with a 6-character code, and send me your ideas in the Suggestions box.	Zapisz postęp w chmurze z 6-znakowym kodem i wysyłaj mi pomysły przez skrzynkę pomysłów.
+Your stats live here. Only reset if you really mean it, it can't be undone.	Tu są twoje statystyki. Resetuj tylko, jeśli naprawdę chcesz, nie da się tego cofnąć.
+A little note from me. TaterPeeler stays free with no ads.	Mała notka ode mnie. TaterPeeler zostaje darmowy i bez reklam.
+Credits for the music, the sounds and the art. That's everything, enjoy!	Podziękowania za muzykę, dźwięki i grafikę. To wszystko, baw się dobrze!
+{0} of {1}	{0} z {1}
+Done	Gotowe
+Next	Dalej
+Exit tour	Zakończ przewodnik
+TaterPeeler is run by just one person. I've been told I should start running advertisements to make money off of this project. Do not fear, TaterPeeler will stay free and Ad Free for everyone. Including all versions of TaterPeeler. Thanks for supporting this project and me. Expect regular updates, to get notified, add this website to your home screen if not using the app to get notified. To suggest ideas please do submit ideas in the Suggestions box in settings. Thank you for playing.	TaterPeelera robi tylko jedna osoba. Słyszałem, że powinienem zacząć wyświetlać reklamy, żeby zarabiać na tym projekcie. Spokojnie, TaterPeeler zostanie darmowy i bez reklam dla wszystkich. Wliczając wszystkie wersje TaterPeelera. Dzięki, że wspierasz ten projekt i mnie. Aktualizacje będą regularnie; żeby dostawać powiadomienia, dodaj tę stronę do ekranu głównego, jeśli nie używasz aplikacji. Pomysły wysyłaj przez skrzynkę pomysłów w ustawieniach. Dzięki za grę.
+Peeling	Obieranie
+Potato landing	Lądowanie ziemniaka
+Taps and buttons	Dotknięcia i przyciski
+Rewards	Nagrody
+Rush clock	Zegar Rusha
+Knife	Nóż
+Cutting board	Deska do krojenia
+Fryer	Frytkownica
+Salt shaker	Solniczka
+Coins	Monety
+Screaming potato	Krzyczący ziemniak
+Show me around	Oprowadź mnie
+A quick tour of everything in here	Szybki przegląd wszystkiego, co tu jest
+Pick the game's language	Wybierz język gry
+Language	Język
+Kitchen	Kuchnia
+Plain	Gładkie
+Your photo	Twoje zdjęcie
+Background	Tło
+Pick a kitchen, or use your own photo	Wybierz kuchnię albo użyj własnego zdjęcia
+Display	Ekran
+Dark mode	Tryb ciemny
+Battery saver	Oszczędzanie baterii
+Runs at 30 frames a second	Działa w 30 klatkach na sekundę
+Screensaver	Wygaszacz ekranu
+A bouncing logo after 10 minutes of not playing	Odbijające się logo po 10 minutach bez grania
+Sound	Dźwięk
+Music volume	Głośność muzyki
+Effects volume	Głośność efektów
+Each sound's volume	Głośność każdego dźwięku
+Turn any one sound up or down	Podgłośnij albo przycisz dowolny dźwięk
+Hide	Ukryj
+Show	Pokaż
+Play alongside other apps	Graj razem z innymi aplikacjami
+Keep YouTube or Music playing while you peel	YouTube albo Muzyka gra dalej, gdy obierasz
+Show the peeler	Pokaż obieraczkę
+Hide it to watch the skin come off	Ukryj ją, aby widzieć, jak schodzi skórka
+Turning speed	Szybkość obracania
+All-time counter	Licznik całkowity
+Count every potato you've peeled, not just this session	Liczy każdego obranego ziemniaka, nie tylko z tej sesji
+Carve shapes	Wycinaj kształty
+Each potato gets a little shape carved into it	W każdym ziemniaku pojawia się mały wyryty kształt
+Spin the potato on menus	Obracaj ziemniaka w menu
+Show tips	Pokazuj wskazówki
+How to peel and turn the potato	Jak obierać i obracać ziemniaka
+Accessibility	Dostępność
+Left-handed, two fingers at once, Rush length	Leworęczność, dwa palce naraz, długość Rusha
+Cloud save	Zapis w chmurze
+Keep your progress and play on any device	Zachowaj postęp i graj na każdym urządzeniu
+Off	Wył.
+Suggestions box	Skrzynka pomysłów
+Got an idea for TaterPeeler? Send it to me	Masz pomysł na TaterPeelera? Wyślij mi go
+Your idea for TaterPeeler	Twój pomysł na TaterPeelera
+Progress	Postęp
+Reset progress	Zresetuj postęp
+Tap again to erase	Dotknij ponownie, aby wymazać
+Reset	Resetuj
+This resets this device. The cloud copy keeps your progress.	To resetuje to urządzenie. Kopia w chmurze zachowuje twój postęp.
+potatoes peeled	obranych ziemniaków
+best Rush score	najlepszy wynik w Rushu
+fries made	zrobionych frytek
+What's new in 2.0	Nowości w 2.0
+Free forever, and no ads	Za darmo na zawsze i bez reklam
+License: CC BY-NC-ND 4.0	Licencja: CC BY-NC-ND 4.0
+Licence	Licencja
+Original track	Oryginalny utwór
+Potato photoscan: Jan Martens, Poly Haven (CC0)	Skan ziemniaka: Jan Martens, Poly Haven (CC0)
+Sound effects: Joseph Sardin, BigSoundBank (CC0)	Efekty dźwiękowe: Joseph Sardin, BigSoundBank (CC0)
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)	Drewno deski: Jenelle van Heerden, Poly Haven (CC0)
+Kitchens: Poly Haven textures and models (CC0)	Kuchnie: tekstury i modele z Poly Haven (CC0)
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.	Ta gra korzysta z zasobów i dźwięków wolnych od praw autorskich. Muzyka jest używana na licencji Creative Commons, podanej wyżej.
+Version {0}	Wersja {0}
+Where you peel. The cutting board is always on the counter.	Gdzie obierasz. Deska zawsze leży na blacie.
+The original look	Oryginalny wygląd
+Tap again to change it	Dotknij ponownie, aby zmienić
+Tap to use it	Dotknij, aby użyć
+Tap to choose a photo	Dotknij, aby wybrać zdjęcie
+This is the biggest update TaterPeeler has had so far. Here's everything that's new in 2.0. Thanks for 300 players!	To największa aktualizacja TaterPeelera do tej pory. Oto wszystko, co nowego w 2.0. Dzięki za 300 graczy!
+Online (Beta)	Online (Beta)
+You can play with other people now. Do a quick 1v1, or make a lobby with up to 6 people, public or private. The host picks the mode: race to a number of potatoes, timed, or endless. If the host leaves, the next person who joined takes over. There's quick chat, and typed chat in private lobbies (it's filtered).	Możesz teraz grać z innymi. Zagraj szybkie 1v1 albo stwórz lobby do 6 osób, publiczne lub prywatne. Gospodarz wybiera tryb: wyścig do liczby ziemniaków, na czas albo bez końca. Jeśli gospodarz wyjdzie, przejmuje następna osoba, która dołączyła. Jest szybki czat, a w prywatnych lobby też pisany (filtrowany).
+Leaderboard	Ranking
+There's a live leaderboard for potatoes peeled, Rush, fries and time played. Save to the cloud to get on it.	Jest ranking na żywo za obrane ziemniaki, Rush, frytki i czas gry. Zapisz w chmurze, aby się w nim znaleźć.
+Cloud saves	Zapisy w chmurze
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts and everything adds up.	Wybierz 6-znakowy kod, a twój postęp zapisze się online. Wpisz kod na innym urządzeniu i graj dalej. Możesz nawet połączyć dwa konta i wszystko się zsumuje.
+Seasoning and TaterCoins	Przyprawianie i TaterCoins
+When your fries land in the tray, grab the salt shaker and shake it over them. Not too little, not too much. You earn TaterCoins for how well you cut and seasoned, and rarer potatoes pay more.	Gdy frytki wylądują na tacce, chwyć solniczkę i potrząśnij nad nimi. Nie za mało, nie za dużo. Dostajesz TaterCoins za to, jak dobrze kroisz i przyprawiasz, a rzadsze ziemniaki płacą więcej.
+The Shop	Sklep
+Spend your TaterCoins in the shop (the coin button on the menu). There are 10 skins that go on any peeler, from Cherry all the way up to Diamond.	Wydawaj TaterCoins w sklepie (przycisk z monetą w menu). Jest 10 skórek na dowolną obieraczkę, od Wiśni aż po Diament.
+Knives	Noże
+New knives unlock the more fries you make. Different colours and looks, all the way to a gold one.	Im więcej frytek zrobisz, tym więcej nowych noży odblokujesz. Różne kolory i wygląd, aż do złotego.
+Kitchens	Kuchnie
+The game takes place in a kitchen now, with the cutting board on the counter. There are 12 kitchens to pick from in Settings, or you can use your own photo as the background.	Gra dzieje się teraz w kuchni, z deską na blacie. W Ustawieniach jest 12 kuchni do wyboru albo możesz dać własne zdjęcie jako tło.
+A ton of new potatoes to find, including Ube. There's also one super rare potato that looks totally normal... until you start peeling it. You'll know when you find it.	Mnóstwo nowych ziemniaków do znalezienia, w tym ube. Jest też jeden superrzadki ziemniak, który wygląda zupełnie normalnie... dopóki nie zaczniesz go obierać. Poznasz, kiedy go znajdziesz.
+4 new peelers	4 nowe obieraczki
+Wooden, Wire Y, Pro Grip and Julienne. Each one looks different, not just a new colour. The rare ones peel a little faster, nothing crazy.	Drewniana, Druciana Y, Pro Grip i Julienne. Każda wygląda inaczej, to nie tylko nowy kolor. Rzadkie obierają trochę szybciej, nic szalonego.
+Titles and trophies	Tytuły i trofea
+Earn titles like Beginner-Peeler, Pro-Peeler and Master-Fryer, and wear one under the logo. There are trophies for time played too (only peeling and frying counts, not sitting on the menu), plus a bunch of new achievements.	Zdobywaj tytuły jak Początkujący-Obieracz, Pro-Obieracz i Mistrz-Smażacz, i noś jeden pod logo. Są też trofea za czas gry (liczy się tylko obieranie i smażenie, nie siedzenie w menu) i masa nowych osiągnięć.
+Take a photo and it gets wrapped around a potato. Find it in the Collection.	Zrób zdjęcie, a owinie się wokół ziemniaka. Znajdziesz go w Kolekcji.
+Left-handed mode, peeling with one finger while turning with another, your own Rush length (like 1:30), and lifetime counters for every peel and cut.	Tryb dla leworęcznych, obieranie jednym palcem i obracanie drugim, własna długość Rusha (np. 1:30) i liczniki każdego obierania i cięcia.
+Every sound has its own volume slider now. And if you're listening to YouTube or music, turn on Play alongside other apps so TaterPeeler doesn't stop it.	Każdy dźwięk ma teraz własny suwak głośności. A jeśli słuchasz YouTube'a albo muzyki, włącz Graj razem z innymi aplikacjami, żeby TaterPeeler jej nie zatrzymywał.
+Languages	Języki
+TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish and Turkish now, plus a Pirate language.	TaterPeeler mówi teraz po chińsku, hiszpańsku (w obu wersjach), rosyjsku, portugalsku, niemiecku, japońsku, francusku, koreańsku, polsku i turecku, a do tego po piracku.
+Other stuff	Inne rzeczy
+A Show me around button in Settings, a Suggestions box so you can send me ideas, an all-time counter, carved shapes inside the potato if you want them, and a screensaver if you leave the game alone for a while.	Przycisk Oprowadź mnie w Ustawieniach, skrzynka pomysłów, żebyś mógł wysyłać mi pomysły, licznik całkowity, wyryte kształty w ziemniaku, jeśli chcesz, i wygaszacz ekranu, gdy zostawisz grę na chwilę.
+Fixes	Poprawki
+Pushing the potato off the board at the fry station doesn't break it anymore, a new one just drops in. Text is easy to read on every background, the peeler doesn't go through the cutting board, and older iPads run smoother.	Zepchnięcie ziemniaka z deski przy smażalni już niczego nie psuje, po prostu spada nowy. Tekst jest czytelny na każdym tle, obieraczka nie przechodzi przez deskę, a starsze iPady działają płynniej.
+Everything you had before is still there, nothing got reset. Thanks for playing.	Wszystko, co miałeś, nadal tu jest, nic nie zostało zresetowane. Dzięki za grę.
+What's new	Co nowego
+IT HIT THE CORNER!	TRAFIŁO W RÓG!
+Tap anywhere to keep peeling	Dotknij gdziekolwiek, aby dalej obierać
++{0} fry	+{0} frytka
++{0} fries	+{0} frytek
++{0} fries#few	+{0} frytki
+Wait... is that potato SCREAMING?	Chwila... czy ten ziemniak KRZYCZY?
+Classic White	Klasyczna biel
+Farmhouse	Wiejski dom
+Midnight	Północ
+Retro Diner	Retro bar
+Tuscan Sun	Toskańskie słońce
+Scandinavian	Skandynawska
+Industrial Loft	Industrialny loft
+Seaside	Nad morzem
+Navy & Brass	Granat i mosiądz
+Garden Window	Okno na ogród
+Pastel Pop	Pastelowy pop
+Cozy Cabin	Przytulna chatka
+Race	Wyścig
+Timed	Na czas
+Endless	Bez końca
+Good luck!	Powodzenia!
+GG!	GG!
+Nice one!	Nieźle!
+Ready?	Gotowi?
+Wow!	Wow!
+Rematch?	Rewanż?
+So close!	Było blisko!
+Let's go!	Jedziemy!
+Couldn't reach the server. Check your internet	Nie można połączyć się z serwerem. Sprawdź internet
+No lobby with that code	Nie ma lobby z tym kodem
+That lobby is full	To lobby jest pełne
+That match already started. Try again when it's over	Ten mecz już się zaczął. Spróbuj, gdy się skończy
+You can't play online right now	Nie możesz teraz grać online
+Slow down a little and try again	Zwolnij trochę i spróbuj ponownie
+Typed chat is only in private lobbies	Pisany czat jest tylko w prywatnych lobby
+Something went wrong, try again	Coś poszło nie tak, spróbuj ponownie
+Peeler	Obieracz
+Your name in online games	Twoje imię w grach online
+You left the lobby	Wyszedłeś z lobby
+Lost the connection to the lobby	Utracono połączenie z lobby
+Quick 1v1	Szybkie 1v1
+Create a lobby	Stwórz lobby
+Join with a code	Dołącz kodem
+The lobby's code	Kod lobby
+Public lobbies	Publiczne lobby
+None open right now. Make one, or try Quick 1v1	Teraz żadne nie jest otwarte. Stwórz własne albo spróbuj szybkiego 1v1
+Looking...	Szukam...
+{0}'s lobby	Lobby gracza {0}
+Race to {0}	Wyścig do {0}
+Timed, {0}	Na czas, {0}
+Public lobby, code	Publiczne lobby, kod
+Private lobby. Share this code	Prywatne lobby. Udostępnij ten kod
+Players	Gracze
+{0} (you)	{0} (ty)
+Match	Mecz
+{0} potatoes	{0} ziemniaków
+{0} potatoes#few	{0} ziemniaki
+Public	Publiczne
+Anyone can find it in the list	Każdy może je znaleźć na liście
+Start the match	Rozpocznij mecz
+Waiting for someone to join...	Czekam, aż ktoś dołączy...
+Race: first to {0} potatoes wins	Wyścig: wygrywa pierwszy, kto obierze {0} ziemniaków
+Timed: most potatoes in {0}	Na czas: najwięcej ziemniaków w {0}
+Endless: peel until the host ends it	Bez końca: obieraj, aż gospodarz zakończy
+Waiting for the host to start	Czekam, aż gospodarz zacznie
+Match over	Koniec meczu
+Starting...	Start...
+Chat	Czat
+Say hi!	Przywitaj się!
+Type a message	Napisz wiadomość
+Message	Wiadomość
+Typed chat is only in private lobbies.	Pisany czat jest tylko w prywatnych lobby.
+Leave lobby	Opuść lobby
+Lobby	Lobby
+First to {0}	Pierwszy do {0}
+You win!	Wygrywasz!
+{0} potato	{0} ziemniak
+Lobby codes are 5 letters	Kody lobby mają 5 liter
+Update 2.0 is now out! Here's what's new!	Aktualizacja 2.0 już jest! Zobacz, co nowego!
+Thanks for 300 players! I'll keep updating this periodically.	Dzięki za 300 graczy! Będę to dalej regularnie aktualizować.
+View what's new	Zobacz nowości
+Dismiss	Zamknij
+Message from {0}	Wiadomość od {0}
+Couldn't reach the server. Check your internet and try again	Nie można połączyć się z serwerem. Sprawdź internet i spróbuj ponownie
+That code is already taken, try another one	Ten kod jest już zajęty, spróbuj innego
+Codes are 6 letters or numbers	Kody mają 6 liter lub cyfr
+Try a different name	Spróbuj innego imienia
+Too many tries. Wait a couple of minutes	Za dużo prób. Poczekaj kilka minut
+No progress is saved with that code	Pod tym kodem nie ma zapisanego postępu
+That's this account's own code	To kod tego samego konta
+This device isn't linked anymore	To urządzenie nie jest już połączone
+That save is too big	Ten zapis jest za duży
+That one's taken. Pick another 6-character code	Ten jest zajęty. Wybierz inny 6-znakowy kod
+Saved to the cloud! Your code is {0}	Zapisano w chmurze! Twój kod to {0}
+This device already has {0} potato peeled. Add this device's progress to the account, or switch to the account's progress?	To urządzenie ma już {0} obranego ziemniaka. Dodać postęp z tego urządzenia do konta czy przełączyć się na postęp konta?
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?	To urządzenie ma już {0} obranych ziemniaków. Dodać postęp z tego urządzenia do konta czy przełączyć się na postęp konta?
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?#few	To urządzenie ma już {0} obrane ziemniaki. Dodać postęp z tego urządzenia do konta czy przełączyć się na postęp konta?
+Combine progress?	Połączyć postęp?
+Combine	Połącz
+Use the account's	Użyj postępu konta
+Accounts combined! Everything adds up now	Konta połączone! Teraz wszystko się sumuje
+Name changed	Imię zmienione
+Thanks! Andres reads every suggestion	Dzięki! Andres czyta każdą propozycję
+That's a lot of ideas! Try again in a bit	To dużo pomysłów! Spróbuj za chwilę
+Write a little more first	Napisz najpierw trochę więcej
+Time played	Czas gry
+BETA	BETA
+Keep your progress safe and play on any device. You pick a 6-character code, and that code loads your potatoes, coins and everything else anywhere. Anyone with your code can load your progress, so keep it to yourself.	Zabezpiecz postęp i graj na każdym urządzeniu. Wybierasz 6-znakowy kod, a ten kod wczytuje twoje ziemniaki, monety i całą resztę wszędzie. Każdy, kto ma twój kod, może wczytać twój postęp, więc zachowaj go dla siebie.
+Create my code	Utwórz mój kod
+Pick a 6-character code (letters and numbers)	Wybierz 6-znakowy kod (litery i cyfry)
+I have a code	Mam kod
+Type your 6-character code	Wpisz swój 6-znakowy kod
+Your code	Twój kod
+No name (Anonymous peeler on the leaderboard)	Bez imienia (Anonimowy obieracz w rankingu)
+Offline right now. It syncs when you're back online	Teraz offline. Zsynchronizuje się, gdy wrócisz do sieci
+Syncing...	Synchronizacja...
+Synced just now	Zsynchronizowano przed chwilą
+Synced {0} ago	Zsynchronizowano {0} temu
+Sync now	Synchronizuj teraz
+Change name	Zmień imię
+Add a name	Dodaj imię
+Your name on the leaderboard	Twoje imię w rankingu
+Combine another account	Połącz inne konto
+The other account's 6-character code	6-znakowy kod drugiego konta
+Unlink this device	Odłącz to urządzenie
+Unlink this device?	Odłączyć to urządzenie?
+Your progress stays on this device and in the cloud. You can link again any time with your code.	Twój postęp zostaje na tym urządzeniu i w chmurze. Możesz połączyć je ponownie kiedy chcesz swoim kodem.
+Unlink	Odłącz
+Cancel	Anuluj
+Codes are exactly 6 letters or numbers	Kody mają dokładnie 6 liter lub cyfr
+Your name for the leaderboard (optional)	Twoje imię do rankingu (opcjonalne)
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too.	Wszystko z {0} zostanie dodane do tego konta (ziemniaki, monety, frytki, wszystko). Potem ten kod też otwiera to konto.
+Combine accounts?	Połączyć konta?
+Linked! This device now uses {0}	Połączono! To urządzenie używa teraz {0}
+This device is unlinked	To urządzenie jest odłączone
+{0} player online	{0} gracz online
+{0} players online	{0} graczy online
+{0} players online#few	{0} gracze online
+Connecting...	Łączenie...
+Offline. Online features need the internet	Offline. Funkcje online potrzebują internetu
+Play together	Grajcie razem
+Loading...	Wczytywanie...
+Couldn't load the leaderboard	Nie udało się wczytać rankingu
+Nobody's here yet. Be the first!	Nikogo tu jeszcze nie ma. Bądź pierwszy!
+You're #{0} with {1}	Jesteś na miejscu {0} z wynikiem {1}
+To get on the leaderboard, save your progress to the cloud. It only takes a code.	Aby trafić do rankingu, zapisz postęp w chmurze. Wystarczy kod.
+Save to the cloud	Zapisz w chmurze
+Cherry	Wiśnia
+Ocean	Ocean
+Mint	Mięta
+Lavender	Lawenda
+Sunshine	Słońce
+Midnight Matte	Matowa północ
+Bubblegum	Guma balonowa
+Chrome	Chrom
+Rose Gold	Różowe złoto
+Diamond	Diament
+Chef's Knife	Nóż szefa kuchni
+Red Handle	Czerwona rączka
+Ocean Blue	Oceaniczny błękit
+Walnut	Orzech
+Mint Pro	Mięta Pro
+Black Steel	Czarna stal
+Copper	Miedź
+Gold	Złoto
+No salt	Bez soli
+A little more salt next time	Następnym razem trochę więcej soli
+Way too salty!	O wiele za słone!
+Seasoned just right!	Idealnie przyprawione!
++{0} TaterCoins. {1}	+{0} TaterCoins. {1}
+Salt	Sól
+Shake the salt over the fries	Potrząśnij solą nad frytkami
+Serve	Podaj
+Coming soon	Wkrótce
+TaterCoins. Earn them by frying: cut well, season just right, and rarer potatoes pay more.	TaterCoins. Zdobywasz je przy smażeniu: dobrze kroisz, idealnie przyprawiasz, a rzadsze ziemniaki płacą więcej.
+Peeler skins	Skórki obieraczek
+A skin changes the colour of whichever peeler you use.	Skórka zmienia kolor obieraczki, której używasz.
+Buy {0} for {1} TaterCoins?	Kupić {0} za {1} TaterCoins?
+It goes on whichever peeler you use, and you can switch any time.	Trafia na obieraczkę, której używasz, i możesz ją zmienić kiedy chcesz.
+Buy it	Kup
+Not now	Nie teraz
+You need {0} more TaterCoins. Fry some potatoes!	Brakuje ci {0} TaterCoins. Usmaż trochę ziemniaków!
+Original	Oryginalna
+Wearing	Założona
+Tap to wear	Dotknij, aby założyć
+New knives unlock as you make fries. You've made {0}.	Nowe noże odblokowujesz, robiąc frytki. Zrobiono już: {0}.
+Make {0} more fries to unlock it	Zrób jeszcze {0} frytek, aby go odblokować
+{0} fries	{0} frytek
+Shop	Sklep
+{0} is yours!	{0} jest twoja!
+Playing	Granie
+Left-handed	Leworęczny
+The buttons and the resting peeler move to the other side	Przyciski i obieraczka w spoczynku przechodzą na drugą stronę
+Peel and turn at once	Obieraj i obracaj naraz
+One finger peels while another turns the potato	Jeden palec obiera, a drugi obraca ziemniaka
+Rush length	Długość Rusha
+Best scores are kept for every length together.	Rekordy są wspólne dla wszystkich długości.
+Lifetime	Łącznie
+peel strokes	ruchów obieraczki
+knife cuts	cięć nożem
+Chinese (Simplified)	Chiński (uproszczony)
+Spanish (Latin America)	Hiszpański (Ameryka Łacińska)
+Spanish (Spain)	Hiszpański (Hiszpania)
+Russian	Rosyjski
+Portuguese (Brazil)	Portugalski (Brazylia)
+German	Niemiecki
+Japanese	Japoński
+French	Francuski
+Korean	Koreański
+Polish	Polski
+Turkish	Turecki
+Pirate, for fun	Piracki, dla zabawy
+Names, chat and messages from other players stay the way they wrote them.	Imiona, czat i wiadomości innych graczy zostają tak, jak je napisali.
+Music: “Echoes in Blue” by Tokyo Music Walker	Muzyka: „Echoes in Blue” – Tokyo Music Walker
+Baked Potato	Pieczony ziemniak
+Who baked this?	Kto to upiekł?
+Find the Baked Potato	Znajdź pieczonego ziemniaka
+Careful, it's hot!	Uwaga, gorące!
+Tin foil	Folia aluminiowa
+Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Super rzadki. Spada jeszcze zawinięty w folię aluminiową, sam się rozpakowuje i paruje. Skórka jest chrupiąca, więc schodzi płatkami.

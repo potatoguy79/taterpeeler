@@ -1,0 +1,564 @@
+# TaterPeeler: pirate
+Common	Common
+Uncommon	Uncommon
+Rare	Rare
+Epic	Epic
+Legendary	Legendary
+Potato #1,000	Spud #1,000
+Sweet Potato	Sweet Spud
+Japanese Sweet	Japanese Sweet
+Okinawan Sweet	Okinawan Sweet
+Rainbow Potato	Rainbow Spud
+Golden Potato	Golden Spud
+Screaming Potato	Screamin' Spud
+Black	Black as Pitch
+Red	Red as Rum
+Yellow	Yeller
+Olive	Olive
+Lime	Lime (fer scurvy)
+Golden	Golden
+Wooden	Driftwood
+Wire Y	Wire Y
+Pro Grip	Pro Grip
+Julienne	Julienne
+First Peel	First Skinnin'
+Spud Buddy	Spud Matey
+TaterPeeler Legend	TaterPeeler Legend o' the Seas
+Long Peel	Long Peel
+Speed Peeler	Swift Peeler
+Rush Hour	Rush Hour
+Taste the Rainbow	Taste the Rainbow
+Full Collection	Full Treasure Chest
+Nice	Nice
+Fry Cook	Galley Fry Cook
+Shoestring	Shoestring
+Clean Station	Swabbed Deck
+Pure Tater	Pure Tater
+Spud Century	Spud Century
+Sack of Spuds	Sack o' Spuds
+Tater Titan	Tater Titan
+Marathon	Marathon
+Variety Pack	Variety Plunder
+Epic Find	Epic Booty
+Milestone	Milestone
+Mega Peel	Mega Peel
+Lightning Peeler	Lightnin' Peeler
+Rush Royalty	Rush Royalty
+Expert Fryer	Seasoned Fryer
+Fry Legend	Fryer Legend
+Night Shift	Night Watch
+New Kitchen	New Galley
+Peeler Collection	Peeler Hoard
+Online Champion	Online Cap'n
+That Could've Been for Starving Children	That Could've Fed the Hungry Wee Ones
+Perfectly Seasoned	Perfectly Seasoned
+Scream Team	Scream Crew
+Purple Reign	Purple Reign
+Big Spender	Big Spender
+Spud Banker	Spud Banker
+Head in the Clouds	Head in the Crow's Nest
+Knife Collector	Cutlass Collector
+Your Own Spud	Yer Own Spud
+Peel your first potato	Skin yer first spud
+Peel 25 potatoes	Skin 25 spuds
+Peel 1,000 potatoes	Skin 1,000 spuds
+Peel one strip 25 cm long	Peel one strip 25 cm long
+Peel a whole potato in under 12 seconds	Skin a whole spud in under 12 seconds
+Score 1,500 in one Rush	Plunder 1,500 in one Rush
+Find the Rainbow Potato	Find the Rainbow Spud
+Find every everyday variety	Find every everyday spud
+Peel potato number 69	Skin spud number 69
+Serve your first fries	Serve yer first fries
+Cut 40 fries from one potato	Cut 40 fries from one spud
+Scrape every crumb into the fryer, then serve	Swab every crumb into the fryer, then serve
+Put a whole potato in the fryer	Toss a whole spud in the fryer
+Peel 100 potatoes	Skin 100 spuds
+Peel 500 potatoes	Skin 500 spuds
+Peel 2,500 potatoes	Skin 2,500 spuds
+Peel 25 potatoes without stopping	Skin 25 spuds without stoppin'
+Find 20 different varieties	Find 20 different spuds
+Peel an Epic potato	Skin an Epic spud
+Peel a potato with a number carved in it	Skin a spud with a number carved in it
+Peel one strip 40 cm long	Peel one strip 40 cm long
+Peel a whole potato in under 7 seconds	Skin a whole spud in under 7 seconds
+Score 3,000 in one Rush	Plunder 3,000 in one Rush
+Fry 25 potatoes	Fry 25 spuds
+Fry 100 potatoes	Fry 100 spuds
+Peel a potato in dark mode	Skin a spud in the dark o' night
+Pick a new kitchen in Settings	Pick a new galley in Settings
+Unlock every peeler	Plunder every peeler
+Win a match online	Win a battle online
+Knock a potato off the board	Make a spud walk the plank
+Season a batch of fries just right	Season a batch o' fries just right
+Find the Screaming Potato	Find the Screamin' Spud
+Find the Ube potato	Find the Ube spud
+Buy something in the shop	Buy somethin' at the tradin' post
+Earn 1,000 TaterCoins	Hoard 1,000 TaterCoins
+Save your progress to the cloud	Stow yer progress in the clouds
+Unlock every knife	Plunder every cutlass
+Peel a potato made from your own photo	Skin a spud made from yer own portrait
+Warming Up	Hoistin' the Sails
+Half Hour Hero	Half Hour Hero
+Hour of Power	Hour o' Power
+Couch Potato	Deck Chair Spud
+Spud Devotee	Spud Devotee
+Peel Machine	Peelin' Machine
+Around the Clock	Round the Clock
+Play for 10 minutes	Sail fer 10 minutes
+Play for 30 minutes	Sail fer 30 minutes
+Play for 1 hour	Sail fer 1 hour
+Play for 2 hours	Sail fer 2 hours
+Play for 5 hours	Sail fer 5 hours
+Play for 10 hours	Sail fer 10 hours
+Play for 24 hours	Sail fer 24 hours
+Beginner-Peeler	Cabin-Boy-Peeler
+Rookie-Peeler	Deckhand-Peeler
+Pro-Peeler	Bosun-Peeler
+Expert-Peeler	First-Mate-Peeler
+Master-Peeler	Cap'n-Peeler
+Legendary-Peeler	Dread-Pirate-Peeler
+Beginner-Fryer	Galley-Fryer
+Expert-Fryer	Bosun-Fryer
+Master-Fryer	Cap'n-Fryer
+Speed-Peeler	Swift-Peeler
+Rush-Champion	Rush-Champion
+Spud-Collector	Spud-Hoarder
+Rainbow-Hunter	Rainbow-Hunter
+Night-Owl	Night-Watch
+Couch-Potato	Deck-Chair-Spud
+Peel-Machine	Peelin'-Machine
+Long peel +{0}	Long peel +{0}
+Long peel, {0} cm	Long peel, {0} cm
+You unlocked the Golden peeler	Ye plundered the Golden peeler!
+You unlocked the legendary Lime peeler	Ye plundered the legendary Lime peeler!
+You unlocked the rare {0} peeler	Ye plundered the rare {0} peeler!
+You unlocked the {0} peeler	Ye plundered the {0} peeler!
+potatoes peeled. You are a TaterPeeler legend.	spuds skinned. Ye be a TaterPeeler legend o' the seas.
+potatoes peeled! The fry station is open.	spuds skinned! The fry galley be open.
+potatoes peeled!	spuds skinned!
+Potato number 1,000!	Spud number 1,000! Yo ho ho!
+A rainbow potato!	A rainbow spud! Shiver me timbers!
+Nice!	Nice!
+Achievement: {0}	Booty: {0}
+Trophy: {0}	Trophy: {0}
+New title: {0}	New rank: {0}
+{0} cm	{0} cm
+Fries	Fries
+Cut and fry	Chop 'n' fry
+Unlocks at {0}	Unlocks at {0}
+Peel {0} more potato to open the fry station	Skin {0} more spud to open the fry galley
+Peel {0} more potatoes to open the fry station	Skin {0} more spuds to open the fry galley
+Made by Andres Campos	Made by Cap'n Andres Campos
+{0} potato peeled	{0} spud skinned
+{0} potatoes peeled	{0} spuds skinned
+A potato, a peeler, and you	A spud, a peeler, an' ye
+New update! Click here for more info	New update, matey! Click here fer more
+New update! Tap here for more info	New update, matey! Tap here fer more
+Download	Download
+Best {0}	Best {0}
+60 seconds	60 seconds
+Peel	Peel
+No timer	No hourglass
+Rush	Rush
+Collection	Treasure Chest
+Settings	Settings
+Online	Online
+Your potato	Yer spud
+Potato #{0}	Spud #{0}
+From your photo	From yer portrait
+potato, all time	spud, all time
+potatoes, all time	spuds, all time
+longest peel	longest peel
+Drag across the potato to peel it	Drag across the spud to skin it
+Drag the empty space around it to turn it	Drag the open sea around it to turn it
+Slice it into planks	Slice it into planks
+Slice the stack into fries	Slice the stack into fries
+Scrape them into the fryer	Swab 'em into the fryer
+Frying	Fryin'
+Stacking the planks	Stackin' the planks
+Here comes a potato	Spud ho!
+Fries are up	Fries be ready
+potato fried	spud fried
+potatoes fried	spuds fried
+Swipe down to cut, or tap to chop. Move along for the next slice.	Swipe down to cut, or tap to chop. Move along fer the next slice.
+Click to chop where the knife is, or drag down to slice	Click to chop where the blade be, or drag down to slice
+{0} piece is still too thick	{0} piece be still too thick
+{0} pieces are still too thick	{0} pieces be still too thick
+Lay the blade flat: swipe sideways to push everything off the right edge	Lay the blade flat: swipe sideways to push it all off the starboard edge
+Drag sideways to sweep everything off the right edge	Drag sideways to sweep it all off the starboard edge
+Paused	Anchored
+Resume	Set sail
+Restart	Start o'er
+Back to the lobby	Back to the tavern
+The match keeps going	The battle rages on
+Quit to menu	Abandon ship to menu
+Music	Shanties
+Sound effects	Sound effects
+Time’s up	Time be up
+New best	New best!
+potato	spud
+potatoes	spuds
+Play again	Sail again
+Menu	Menu
+{0} h {1} min	{0} h {1} min
+{0} h	{0} h
+{0} min	{0} min
+Peelers	Peelers
+Peel more potatoes to unlock new ones. Wider blades peel faster.	Skin more spuds to plunder new ones. Wider blades skin faster.
+In use	In yer hand
+Tap to use	Tap to wield
+Your own potato	Yer own spud
+Your photo, wrapped round a potato	Yer portrait, wrapped round a spud
+Pick a photo and it gets wrapped round a potato	Pick a portrait an' it gets wrapped round a spud
+Change photo	Change portrait
+Choose a photo	Pick a portrait
+Peel it	Skin it
+{0} of {1} found	{0} o' {1} found
+Potatoes	Spuds
+Not found yet	Not found yet
+{0} peeled	{0} skinned
+{0} of {1} unlocked. Tap one to wear it under the logo.	{0} o' {1} earned. Tap one to wear it under the flag.
+Titles	Ranks
+Wearing it. Tap to take it off	Wearin' it. Tap to take it off
+{0} of {1} earned	{0} o' {1} plundered
+Achievements	Booty
+{0} of {1} earned. Time spent peeling and frying: {2}	{0} o' {1} earned. Time spent skinnin' an' fryin': {2}
+Trophies	Trophies
+Pick where you peel. There are 12 kitchens, or you can use your own photo.	Pick where ye peel. There be 12 galleys, or ye can use yer own portrait.
+Dark mode, battery saver, and a screensaver with a bouncing logo if you leave it alone for a while.	Dark o' night, battery saver, an' a screensaver with a bouncin' logo if ye leave her be fer a while.
+Music and sound effects. You can set every single sound's volume, and keep YouTube or Music playing while you peel.	Shanties an' sound effects. Ye can set every single sound's volume, an' keep YouTube or Music playin' while ye peel.
+How peeling works for you: the peeler, turning speed, counters, carving shapes, and Accessibility.	How ye peel: the peeler, turnin' speed, counters, carvin' shapes, an' Accessibility.
+Save your progress to the cloud with a 6-character code, and send me your ideas in the Suggestions box.	Stow yer progress in the clouds with a 6-character code, an' send me yer ideas in the Suggestions barrel.
+Your stats live here. Only reset if you really mean it, it can't be undone.	Yer logbook lives here. Only reset if ye truly mean it, there be no turnin' back.
+A little note from me. TaterPeeler stays free with no ads.	A wee note from me. TaterPeeler stays free with no ads, savvy?
+Credits for the music, the sounds and the art. That's everything, enjoy!	Credits fer the shanties, the sounds an' the art. That be everythin', enjoy!
+{0} of {1}	{0} o' {1}
+Done	Done
+Next	Next
+Exit tour	Leave the tour
+TaterPeeler is run by just one person. I've been told I should start running advertisements to make money off of this project. Do not fear, TaterPeeler will stay free and Ad Free for everyone. Including all versions of TaterPeeler. Thanks for supporting this project and me. Expect regular updates, to get notified, add this website to your home screen if not using the app to get notified. To suggest ideas please do submit ideas in the Suggestions box in settings. Thank you for playing.	TaterPeeler be crewed by just one soul. I've been told I should start hoistin' advertisements to make doubloons off o' this ship. Fear not, TaterPeeler will stay free an' Ad Free fer every hand aboard. Includin' all versions o' TaterPeeler. Thanks fer supportin' this ship an' me. Expect regular updates; to get word of 'em, add this website to yer home screen if ye ain't usin' the app. To suggest ideas, drop 'em in the Suggestions barrel in settings. Thank ye fer playin'.
+Peeling	Peelin'
+Potato landing	Spud landin'
+Taps and buttons	Taps an' buttons
+Rewards	Booty
+Rush clock	Rush hourglass
+Knife	Cutlass
+Cutting board	Cuttin' board
+Fryer	Fryer
+Salt shaker	Salt shaker
+Coins	Doubloons
+Screaming potato	Screamin' spud
+Show me around	Show me the ship
+A quick tour of everything in here	A quick tour o' everythin' aboard
+Pick the game's language	Pick the game's tongue
+Language	Language
+Kitchen	Galley
+Plain	Plain
+Your photo	Yer portrait
+Background	Background
+Pick a kitchen, or use your own photo	Pick a galley, or use yer own portrait
+Display	Display
+Dark mode	Dark o' night
+Battery saver	Battery saver
+Runs at 30 frames a second	Runs at 30 frames a second
+Screensaver	Screensaver
+A bouncing logo after 10 minutes of not playing	A bouncin' logo after 10 minutes o' no plunderin'
+Sound	Sound
+Music volume	Shanty volume
+Effects volume	Effects volume
+Each sound's volume	Each sound's volume
+Turn any one sound up or down	Turn any one sound up or down
+Hide	Hide
+Show	Show
+Play alongside other apps	Play alongside other apps
+Keep YouTube or Music playing while you peel	Keep YouTube or Music playin' while ye peel
+Show the peeler	Show the peeler
+Hide it to watch the skin come off	Hide it to watch the skin come off
+Turning speed	Turnin' speed
+All-time counter	All-time tally
+Count every potato you've peeled, not just this session	Count every spud ye've skinned, not just this voyage
+Carve shapes	Carve shapes
+Each potato gets a little shape carved into it	Each spud gets a wee shape carved into it
+Spin the potato on menus	Spin the spud on menus
+Show tips	Show tips
+How to peel and turn the potato	How to skin an' turn the spud
+Accessibility	Accessibility
+Left-handed, two fingers at once, Rush length	Left-handed, two fingers at once, Rush length
+Cloud save	Cloud stash
+Keep your progress and play on any device	Keep yer progress an' sail on any device
+Off	Off
+Suggestions box	Suggestions barrel
+Got an idea for TaterPeeler? Send it to me	Got an idea fer TaterPeeler? Send it to me
+Your idea for TaterPeeler	Yer idea fer TaterPeeler
+Progress	Progress
+Reset progress	Scuttle progress
+Tap again to erase	Tap again to scuttle
+Reset	Scuttle
+This resets this device. The cloud copy keeps your progress.	This scuttles this device. The cloud stash keeps yer progress.
+potatoes peeled	spuds skinned
+best Rush score	best Rush plunder
+fries made	fries made
+What's new in 2.0	What be new in 2.0
+Free forever, and no ads	Free ferever, an' no ads
+License: CC BY-NC-ND 4.0	License: CC BY-NC-ND 4.0
+Licence	Licence
+Original track	Original shanty
+Potato photoscan: Jan Martens, Poly Haven (CC0)	Spud photoscan: Jan Martens, Poly Haven (CC0)
+Sound effects: Joseph Sardin, BigSoundBank (CC0)	Sound effects: Joseph Sardin, BigSoundBank (CC0)
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)	Cuttin' board wood: Jenelle van Heerden, Poly Haven (CC0)
+Kitchens: Poly Haven textures and models (CC0)	Galleys: Poly Haven textures an' models (CC0)
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.	This game uses copyright-free assets an' sounds. The music be used under its Creative Commons license, credited above.
+Version {0}	Version {0}
+Where you peel. The cutting board is always on the counter.	Where ye peel. The cuttin' board always be on the counter.
+The original look	The original look
+Tap again to change it	Tap again to change it
+Tap to use it	Tap to use it
+Tap to choose a photo	Tap to pick a portrait
+This is the biggest update TaterPeeler has had so far. Here's everything that's new in 2.0. Thanks for 300 players!	This be the biggest update TaterPeeler has had so far. Here be everythin' new in 2.0. Thanks fer 300 sailors!
+Online (Beta)	Online (Beta)
+You can play with other people now. Do a quick 1v1, or make a lobby with up to 6 people, public or private. The host picks the mode: race to a number of potatoes, timed, or endless. If the host leaves, the next person who joined takes over. There's quick chat, and typed chat in private lobbies (it's filtered).	Ye can sail with other pirates now. Do a quick 1v1, or make a tavern with up to 6 hands, public or private. The cap'n picks the mode: race to a number o' spuds, timed, or endless. If the cap'n leaves, the next pirate who joined takes the wheel. There be quick chat, an' typed chat in private taverns (it's filtered).
+Leaderboard	Leaderboard
+There's a live leaderboard for potatoes peeled, Rush, fries and time played. Save to the cloud to get on it.	There be a live leaderboard fer spuds skinned, Rush, fries an' time played. Stow yer progress in the clouds to get on it.
+Cloud saves	Cloud stashes
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts and everything adds up.	Pick a 6-character code an' yer progress be stashed online. Type the code on another device an' keep sailin' there. Ye can even combine two accounts an' everythin' adds up.
+Seasoning and TaterCoins	Seasonin' an' TaterCoins
+When your fries land in the tray, grab the salt shaker and shake it over them. Not too little, not too much. You earn TaterCoins for how well you cut and seasoned, and rarer potatoes pay more.	When yer fries land in the tray, grab the salt shaker an' shake it over 'em. Not too little, not too much. Ye earn TaterCoins fer how well ye cut an' seasoned, an' rarer spuds pay more.
+The Shop	The Tradin' Post
+Spend your TaterCoins in the shop (the coin button on the menu). There are 10 skins that go on any peeler, from Cherry all the way up to Diamond.	Spend yer TaterCoins at the tradin' post (the coin button on the menu). There be 10 skins fer any peeler, from Cherry all the way up to Diamond.
+Knives	Cutlasses
+New knives unlock the more fries you make. Different colours and looks, all the way to a gold one.	New cutlasses unlock the more fries ye make. Different colours an' looks, all the way to a gold one.
+Kitchens	Galleys
+The game takes place in a kitchen now, with the cutting board on the counter. There are 12 kitchens to pick from in Settings, or you can use your own photo as the background.	The game takes place in a galley now, with the cuttin' board on the counter. There be 12 galleys to pick from in Settings, or ye can use yer own portrait as the background.
+A ton of new potatoes to find, including Ube. There's also one super rare potato that looks totally normal... until you start peeling it. You'll know when you find it.	A ton o' new spuds to find, includin' Ube. There be also one super rare spud that looks totally normal... until ye start skinnin' it. Ye'll know when ye find it.
+4 new peelers	4 new peelers
+Wooden, Wire Y, Pro Grip and Julienne. Each one looks different, not just a new colour. The rare ones peel a little faster, nothing crazy.	Driftwood, Wire Y, Pro Grip an' Julienne. Each one looks different, not just a new colour. The rare ones skin a wee bit faster, nothin' crazy.
+Titles and trophies	Ranks an' trophies
+Earn titles like Beginner-Peeler, Pro-Peeler and Master-Fryer, and wear one under the logo. There are trophies for time played too (only peeling and frying counts, not sitting on the menu), plus a bunch of new achievements.	Earn ranks like Cabin-Boy-Peeler, Bosun-Peeler an' Cap'n-Fryer, an' wear one under the flag. There be trophies fer time played too (only peelin' an' fryin' counts, not lazin' on the menu), plus a bunch o' new booty.
+Take a photo and it gets wrapped around a potato. Find it in the Collection.	Paint a portrait an' it gets wrapped round a spud. Find it in the Treasure Chest.
+Left-handed mode, peeling with one finger while turning with another, your own Rush length (like 1:30), and lifetime counters for every peel and cut.	Left-handed mode, peelin' with one finger while turnin' with another, yer own Rush length (like 1:30), an' lifetime tallies fer every peel an' cut.
+Every sound has its own volume slider now. And if you're listening to YouTube or music, turn on Play alongside other apps so TaterPeeler doesn't stop it.	Every sound has its own volume slider now. An' if ye be listenin' to YouTube or music, turn on Play alongside other apps so TaterPeeler don't stop it.
+Languages	Tongues
+TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish and Turkish now, plus a Pirate language.	TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish an' Turkish now, plus Pirate, which ye be readin' right now.
+Other stuff	Other loot
+A Show me around button in Settings, a Suggestions box so you can send me ideas, an all-time counter, carved shapes inside the potato if you want them, and a screensaver if you leave the game alone for a while.	A Show me the ship button in Settings, a Suggestions barrel so ye can send me ideas, an all-time tally, carved shapes inside the spud if ye want 'em, an' a screensaver if ye leave the game be fer a while.
+Fixes	Patched hulls
+Pushing the potato off the board at the fry station doesn't break it anymore, a new one just drops in. Text is easy to read on every background, the peeler doesn't go through the cutting board, and older iPads run smoother.	Pushin' the spud off the board at the fry galley don't break it anymore, a new one just drops in. Text be easy to read on every background, the peeler don't go through the cuttin' board, an' older iPads sail smoother.
+Everything you had before is still there, nothing got reset. Thanks for playing.	Everythin' ye had before be still there, nothin' got scuttled. Thanks fer playin'.
+What's new	What be new
+IT HIT THE CORNER!	IT HIT THE CORNER! ARRR!
+Tap anywhere to keep peeling	Tap anywhere to keep peelin'
++{0} fry	+{0} fry
++{0} fries	+{0} fries
+Wait... is that potato SCREAMING?	Wait... be that spud SCREAMIN'?
+Classic White	Classic White
+Farmhouse	Farmhouse
+Midnight	Midnight
+Retro Diner	Retro Diner
+Tuscan Sun	Tuscan Sun
+Scandinavian	Scandinavian
+Industrial Loft	Industrial Loft
+Seaside	Seaside
+Navy & Brass	Navy & Brass
+Garden Window	Garden Window
+Pastel Pop	Pastel Pop
+Cozy Cabin	Cozy Cabin
+Race	Race
+Timed	Timed
+Endless	Endless
+Good luck!	Fair winds!
+GG!	GG!
+Nice one!	Nice one, matey!
+Ready?	Ready, ye scallywags?
+Wow!	Blimey!
+Rematch?	Rematch?
+So close!	So close!
+Let's go!	Hoist the sails!
+Couldn't reach the server. Check your internet	Couldn't reach the server. Check yer internet
+No lobby with that code	No tavern with that code
+That lobby is full	That tavern be full
+That match already started. Try again when it's over	That battle already started. Try again when it's over
+You can't play online right now	Ye can't sail online right now
+Slow down a little and try again	Slow down, matey, an' try again
+Typed chat is only in private lobbies	Typed chat be only in private taverns
+Something went wrong, try again	Somethin' went wrong, try again
+Peeler	Peeler
+Your name in online games	Yer name on the high seas
+You left the lobby	Ye left the tavern
+Lost the connection to the lobby	Lost the line to the tavern
+Quick 1v1	Quick 1v1
+Create a lobby	Open a tavern
+Join with a code	Join with a code
+The lobby's code	The tavern's code
+Public lobbies	Public taverns
+None open right now. Make one, or try Quick 1v1	None open right now. Make one, or try Quick 1v1
+Looking...	Spyin' the horizon...
+{0}'s lobby	{0}'s tavern
+Race to {0}	Race to {0}
+Timed, {0}	Timed, {0}
+Public lobby, code	Public tavern, code
+Private lobby. Share this code	Private tavern. Share this code
+Players	Crew
+{0} (you)	{0} (ye)
+Match	Battle
+{0} potatoes	{0} spuds
+Public	Public
+Anyone can find it in the list	Any pirate can find it in the list
+Start the match	Start the battle
+Waiting for someone to join...	Waitin' fer someone to come aboard...
+Race: first to {0} potatoes wins	Race: first to {0} spuds wins
+Timed: most potatoes in {0}	Timed: most spuds in {0}
+Endless: peel until the host ends it	Endless: peel 'til the cap'n ends it
+Waiting for the host to start	Waitin' fer the cap'n to start
+Match over	Battle over
+Starting...	Startin'...
+Chat	Chat
+Say hi!	Say ahoy!
+Type a message	Type a message
+Message	Message
+Typed chat is only in private lobbies.	Typed chat be only in private taverns.
+Leave lobby	Leave the tavern
+Lobby	Tavern
+First to {0}	First to {0}
+You win!	Ye win! Arrr!
+{0} potato	{0} spud
+Lobby codes are 5 letters	Tavern codes be 5 letters
+Update 2.0 is now out! Here's what's new!	Update 2.0 be out! Here be what's new!
+Thanks for 300 players! I'll keep updating this periodically.	Thanks fer 300 sailors! I'll keep updatin' this now an' then.
+View what's new	See what be new
+Dismiss	Dismiss
+Message from {0}	Message from {0}
+Couldn't reach the server. Check your internet and try again	Couldn't reach the server. Check yer internet an' try again
+That code is already taken, try another one	That code be taken already, try another
+Codes are 6 letters or numbers	Codes be 6 letters or numbers
+Try a different name	Try a different name
+Too many tries. Wait a couple of minutes	Too many tries. Wait a couple o' minutes
+No progress is saved with that code	No progress be stashed with that code
+That's this account's own code	That be this account's own code
+This device isn't linked anymore	This device ain't linked anymore
+That save is too big	That stash be too big
+That one's taken. Pick another 6-character code	That one be taken. Pick another 6-character code
+Saved to the cloud! Your code is {0}	Stashed in the clouds! Yer code be {0}
+This device already has {0} potato peeled. Add this device's progress to the account, or switch to the account's progress?	This device already has {0} spud skinned. Add this device's progress to the account, or switch to the account's progress?
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?	This device already has {0} spuds skinned. Add this device's progress to the account, or switch to the account's progress?
+Combine progress?	Combine progress?
+Combine	Combine
+Use the account's	Use the account's
+Accounts combined! Everything adds up now	Accounts combined! Everythin' adds up now
+Name changed	Name changed
+Thanks! Andres reads every suggestion	Thanks! Cap'n Andres reads every suggestion
+That's a lot of ideas! Try again in a bit	That be a lot o' ideas! Try again in a bit
+Write a little more first	Write a wee bit more first
+Time played	Time at sea
+BETA	BETA
+Keep your progress safe and play on any device. You pick a 6-character code, and that code loads your potatoes, coins and everything else anywhere. Anyone with your code can load your progress, so keep it to yourself.	Keep yer progress safe an' sail on any device. Ye pick a 6-character code, an' that code loads yer spuds, doubloons an' everythin' else anywhere. Any pirate with yer code can load yer progress, so keep it to yerself.
+Create my code	Make me code
+Pick a 6-character code (letters and numbers)	Pick a 6-character code (letters an' numbers)
+I have a code	I have a code
+Type your 6-character code	Type yer 6-character code
+Your code	Yer code
+No name (Anonymous peeler on the leaderboard)	No name (Nameless pirate on the leaderboard)
+Offline right now. It syncs when you're back online	Lost at sea right now. It syncs when ye be back online
+Syncing...	Syncin'...
+Synced just now	Synced just now
+Synced {0} ago	Synced {0} ago
+Sync now	Sync now
+Change name	Change name
+Add a name	Add a name
+Your name on the leaderboard	Yer name on the leaderboard
+Combine another account	Combine another account
+The other account's 6-character code	The other account's 6-character code
+Unlink this device	Unlink this device
+Unlink this device?	Unlink this device?
+Your progress stays on this device and in the cloud. You can link again any time with your code.	Yer progress stays on this device an' in the clouds. Ye can link again any time with yer code.
+Unlink	Unlink
+Cancel	Belay that
+Codes are exactly 6 letters or numbers	Codes be exactly 6 letters or numbers
+Your name for the leaderboard (optional)	Yer name fer the leaderboard (optional)
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too.	Everythin' from {0} gets added to this account (spuds, doubloons, fries, everythin'). After that, that code opens this account too.
+Combine accounts?	Combine accounts?
+Linked! This device now uses {0}	Linked! This device now uses {0}
+This device is unlinked	This device be unlinked
+{0} player online	{0} pirate online
+{0} players online	{0} pirates online
+Connecting...	Hailin'...
+Offline. Online features need the internet	Lost at sea. Online features need the internet
+Play together	Sail together
+Loading...	Loadin'...
+Couldn't load the leaderboard	Couldn't load the leaderboard
+Nobody's here yet. Be the first!	No pirates here yet. Be the first!
+You're #{0} with {1}	Ye be #{0} with {1}
+To get on the leaderboard, save your progress to the cloud. It only takes a code.	To get on the leaderboard, stow yer progress in the clouds. It only takes a code.
+Save to the cloud	Stow it in the clouds
+Cherry	Cherry
+Ocean	Ocean
+Mint	Mint
+Lavender	Lavender
+Sunshine	Sunshine
+Midnight Matte	Midnight Matte
+Bubblegum	Bubblegum
+Chrome	Chrome
+Rose Gold	Rose Gold
+Diamond	Diamond
+Chef's Knife	Cook's Cutlass
+Red Handle	Red Handle
+Ocean Blue	Ocean Blue
+Walnut	Walnut
+Mint Pro	Mint Pro
+Black Steel	Black Steel
+Copper	Copper
+Gold	Gold
+No salt	No salt, ye landlubber
+A little more salt next time	A wee bit more salt next time
+Way too salty!	Saltier than the sea!
+Seasoned just right!	Seasoned just right!
++{0} TaterCoins. {1}	+{0} TaterCoins. {1}
+Salt	Salt
+Shake the salt over the fries	Shake the salt o'er the fries
+Serve	Serve
+Coming soon	Comin' soon
+TaterCoins. Earn them by frying: cut well, season just right, and rarer potatoes pay more.	TaterCoins. Earn 'em by fryin': cut well, season just right, an' rarer spuds pay more.
+Peeler skins	Peeler skins
+A skin changes the colour of whichever peeler you use.	A skin changes the colour o' whichever peeler ye wield.
+Buy {0} for {1} TaterCoins?	Buy {0} fer {1} TaterCoins?
+It goes on whichever peeler you use, and you can switch any time.	It goes on whichever peeler ye wield, an' ye can switch any time.
+Buy it	Buy it
+Not now	Not now
+You need {0} more TaterCoins. Fry some potatoes!	Ye need {0} more TaterCoins. Fry some spuds!
+Original	Original
+Wearing	Wearin'
+Tap to wear	Tap to wear
+New knives unlock as you make fries. You've made {0}.	New cutlasses unlock as ye make fries. Ye've made {0}.
+Make {0} more fries to unlock it	Make {0} more fries to unlock it
+{0} fries	{0} fries
+Shop	Tradin' Post
+{0} is yours!	{0} be yers!
+Playing	Sailin'
+Left-handed	Left-handed
+The buttons and the resting peeler move to the other side	The buttons an' the restin' peeler move to the port side
+Peel and turn at once	Peel an' turn at once
+One finger peels while another turns the potato	One finger peels while another turns the spud
+Rush length	Rush length
+Best scores are kept for every length together.	Best plunder be kept fer every length together.
+Lifetime	Lifetime
+peel strokes	peel strokes
+knife cuts	cutlass cuts
+Chinese (Simplified)	Chinese (Simplified)
+Spanish (Latin America)	Spanish (Latin America)
+Spanish (Spain)	Spanish (Spain)
+Russian	Russian
+Portuguese (Brazil)	Portuguese (Brazil)
+German	German
+Japanese	Japanese
+French	French
+Korean	Korean
+Polish	Polish
+Turkish	Turkish
+Pirate, for fun	Pirate, fer fun
+Names, chat and messages from other players stay the way they wrote them.	Names, chat an' messages from other pirates stay the way they wrote 'em.
+Music: “Echoes in Blue” by Tokyo Music Walker	Shanty: “Echoes in Blue” by Tokyo Music Walker
+Baked Potato	Baked Spud
+Who baked this?	Who be bakin' this?
+Find the Baked Potato	Find the Baked Spud
+Careful, it's hot!	Careful, she be hot!
+Tin foil	Tin foil
+Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Rarer than a calm sea. She drops in still wrapped in tin foil, unwraps herself an' steams. The skin be crispy, so it comes off in flakes.

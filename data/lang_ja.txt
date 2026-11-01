@@ -1,0 +1,564 @@
+# TaterPeeler: ja
+Common	コモン
+Uncommon	アンコモン
+Rare	レア
+Epic	エピック
+Legendary	レジェンド
+Potato #1,000	1,000個目のじゃがいも
+Sweet Potato	さつまいも
+Japanese Sweet	和のさつまいも
+Okinawan Sweet	沖縄紅いも
+Rainbow Potato	レインボーポテト
+Golden Potato	ゴールデンポテト
+Screaming Potato	叫ぶじゃがいも
+Black	ブラック
+Red	レッド
+Yellow	イエロー
+Olive	オリーブ
+Lime	ライム
+Golden	ゴールド
+Wooden	ウッド
+Wire Y	ワイヤーY
+Pro Grip	プログリップ
+Julienne	ジュリエンヌ
+First Peel	はじめての皮むき
+Spud Buddy	じゃがいも仲間
+TaterPeeler Legend	TaterPeelerレジェンド
+Long Peel	ロングピール
+Speed Peeler	スピードピーラー
+Rush Hour	ラッシュアワー
+Taste the Rainbow	虹を味わえ
+Full Collection	コンプリート
+Nice	Nice
+Fry Cook	ポテト職人
+Shoestring	細切りポテト
+Clean Station	きれいなキッチン
+Pure Tater	ピュアポテト
+Spud Century	じゃがいもの世紀
+Sack of Spuds	じゃがいも一袋
+Tater Titan	じゃがいもの巨人
+Marathon	マラソン
+Variety Pack	バラエティパック
+Epic Find	エピックな発見
+Milestone	節目
+Mega Peel	メガピール
+Lightning Peeler	電光石火のピーラー
+Rush Royalty	Rushの王者
+Expert Fryer	揚げ物の達人
+Fry Legend	フライヤーの伝説
+Night Shift	夜勤
+New Kitchen	新しいキッチン
+Peeler Collection	ピーラーコレクション
+Online Champion	オンライン王者
+That Could've Been for Starving Children	飢えた子どもたちにあげられたのに
+Perfectly Seasoned	完璧な味付け
+Scream Team	チーム絶叫
+Purple Reign	紫の治世
+Big Spender	太っ腹
+Spud Banker	じゃがいも銀行家
+Head in the Clouds	雲の上
+Knife Collector	包丁コレクター
+Your Own Spud	自分だけのいも
+Peel your first potato	はじめてのじゃがいもをむく
+Peel 25 potatoes	じゃがいもを25個むく
+Peel 1,000 potatoes	じゃがいもを1,000個むく
+Peel one strip 25 cm long	25cmの皮を1本でむく
+Peel a whole potato in under 12 seconds	じゃがいも1個を12秒以内にむききる
+Score 1,500 in one Rush	1回のRushで1,500点
+Find the Rainbow Potato	レインボーポテトを見つける
+Find every everyday variety	ふつうの品種をすべて見つける
+Peel potato number 69	69番目のじゃがいもをむく
+Serve your first fries	はじめてのフライドポテトを出す
+Cut 40 fries from one potato	じゃがいも1個から40本切る
+Scrape every crumb into the fryer, then serve	くずを全部フライヤーに入れてから出す
+Put a whole potato in the fryer	じゃがいもを丸ごとフライヤーに入れる
+Peel 100 potatoes	じゃがいもを100個むく
+Peel 500 potatoes	じゃがいもを500個むく
+Peel 2,500 potatoes	じゃがいもを2,500個むく
+Peel 25 potatoes without stopping	休まずにじゃがいもを25個むく
+Find 20 different varieties	20種類の品種を見つける
+Peel an Epic potato	エピックのじゃがいもをむく
+Peel a potato with a number carved in it	数字が彫られたじゃがいもをむく
+Peel one strip 40 cm long	40cmの皮を1本でむく
+Peel a whole potato in under 7 seconds	じゃがいも1個を7秒以内にむききる
+Score 3,000 in one Rush	1回のRushで3,000点
+Fry 25 potatoes	じゃがいもを25個揚げる
+Fry 100 potatoes	じゃがいもを100個揚げる
+Peel a potato in dark mode	ダークモードでじゃがいもをむく
+Pick a new kitchen in Settings	設定で新しいキッチンを選ぶ
+Unlock every peeler	すべてのピーラーを解放する
+Win a match online	オンライン対戦で勝つ
+Knock a potato off the board	じゃがいもをまな板から落とす
+Season a batch of fries just right	フライドポテトをちょうどいい塩加減にする
+Find the Screaming Potato	叫ぶじゃがいもを見つける
+Find the Ube potato	Ubeのじゃがいもを見つける
+Buy something in the shop	ショップで何か買う
+Earn 1,000 TaterCoins	1,000 TaterCoinsを稼ぐ
+Save your progress to the cloud	進行状況をクラウドに保存する
+Unlock every knife	すべての包丁を解放する
+Peel a potato made from your own photo	自分の写真でできたじゃがいもをむく
+Warming Up	ウォーミングアップ
+Half Hour Hero	30分ヒーロー
+Hour of Power	パワーアワー
+Couch Potato	カウチポテト
+Spud Devotee	じゃがいも愛好家
+Peel Machine	皮むきマシーン
+Around the Clock	24時間営業
+Play for 10 minutes	10分遊ぶ
+Play for 30 minutes	30分遊ぶ
+Play for 1 hour	1時間遊ぶ
+Play for 2 hours	2時間遊ぶ
+Play for 5 hours	5時間遊ぶ
+Play for 10 hours	10時間遊ぶ
+Play for 24 hours	24時間遊ぶ
+Beginner-Peeler	見習いピーラー
+Rookie-Peeler	新米ピーラー
+Pro-Peeler	プロピーラー
+Expert-Peeler	熟練ピーラー
+Master-Peeler	マスターピーラー
+Legendary-Peeler	伝説のピーラー
+Beginner-Fryer	見習いフライヤー
+Expert-Fryer	熟練フライヤー
+Master-Fryer	マスターフライヤー
+Speed-Peeler	スピードピーラー
+Rush-Champion	Rushチャンピオン
+Spud-Collector	じゃがいも収集家
+Rainbow-Hunter	レインボーハンター
+Night-Owl	夜ふかし
+Couch-Potato	カウチポテト
+Peel-Machine	皮むきマシーン
+Long peel +{0}	ロングピール +{0}
+Long peel, {0} cm	ロングピール {0}cm
+You unlocked the Golden peeler	ゴールドのピーラーを解放しました
+You unlocked the legendary Lime peeler	伝説のライムピーラーを解放しました
+You unlocked the rare {0} peeler	レアの{0}ピーラーを解放しました
+You unlocked the {0} peeler	{0}ピーラーを解放しました
+potatoes peeled. You are a TaterPeeler legend.	個のじゃがいもをむきました。あなたはTaterPeelerの伝説です。
+potatoes peeled! The fry station is open.	個のじゃがいもをむきました！フライ屋がオープン。
+potatoes peeled!	個のじゃがいもをむきました！
+Potato number 1,000!	1,000個目のじゃがいも！
+A rainbow potato!	レインボーポテト！
+Nice!	Nice！
+Achievement: {0}	実績：{0}
+Trophy: {0}	トロフィー：{0}
+New title: {0}	新しい称号：{0}
+{0} cm	{0}cm
+Fries	フライドポテト
+Cut and fry	切って揚げる
+Unlocks at {0}	{0}個で解放
+Peel {0} more potato to open the fry station	あと{0}個むくとフライ屋がオープン
+Peel {0} more potatoes to open the fry station	あと{0}個むくとフライ屋がオープン
+Made by Andres Campos	作者 Andres Campos
+{0} potato peeled	{0}個のじゃがいもをむいた
+{0} potatoes peeled	{0}個のじゃがいもをむいた
+A potato, a peeler, and you	じゃがいもと、ピーラーと、あなた
+New update! Click here for more info	アップデート！クリックで詳しく
+New update! Tap here for more info	アップデート！タップで詳しく
+Download	ダウンロード
+Best {0}	ベスト {0}
+60 seconds	60秒
+Peel	むく
+No timer	時間制限なし
+Rush	Rush
+Collection	コレクション
+Settings	設定
+Online	オンライン
+Your potato	あなたのじゃがいも
+Potato #{0}	じゃがいも #{0}
+From your photo	あなたの写真から
+potato, all time	個（通算）
+potatoes, all time	個（通算）
+longest peel	最長の皮
+Drag across the potato to peel it	じゃがいもの上をドラッグしてむく
+Drag the empty space around it to turn it	まわりの空いた所をドラッグして回す
+Slice it into planks	薄切りにする
+Slice the stack into fries	重ねて細切りにする
+Scrape them into the fryer	フライヤーに入れる
+Frying	揚げ中
+Stacking the planks	スライスを重ねています
+Here comes a potato	じゃがいもが来たよ
+Fries are up	フライドポテトのできあがり
+potato fried	個揚げた
+potatoes fried	個揚げた
+Swipe down to cut, or tap to chop. Move along for the next slice.	下にスワイプで切る、タップで刻む。進んで次の一切れへ。
+Click to chop where the knife is, or drag down to slice	クリックで包丁の位置を刻む、下にドラッグで切る
+{0} piece is still too thick	まだ{0}本が太すぎます
+{0} pieces are still too thick	まだ{0}本が太すぎます
+Lay the blade flat: swipe sideways to push everything off the right edge	刃を寝かせて：横にスワイプして全部を右端から押し出す
+Drag sideways to sweep everything off the right edge	横にドラッグして全部を右端から払い出す
+Paused	一時停止
+Resume	再開
+Restart	やり直す
+Back to the lobby	ロビーに戻る
+The match keeps going	試合は続いています
+Quit to menu	メニューに戻る
+Music	音楽
+Sound effects	効果音
+Time’s up	タイムアップ
+New best	ベスト更新
+potato	個
+potatoes	個
+Play again	もう一回
+Menu	メニュー
+{0} h {1} min	{0}時間{1}分
+{0} h	{0}時間
+{0} min	{0}分
+Peelers	ピーラー
+Peel more potatoes to unlock new ones. Wider blades peel faster.	じゃがいもをもっとむくと新しいピーラーが解放されます。刃が広いほど速くむけます。
+In use	使用中
+Tap to use	タップで使う
+Your own potato	自分だけのじゃがいも
+Your photo, wrapped round a potato	あなたの写真をじゃがいもに巻いたもの
+Pick a photo and it gets wrapped round a potato	写真を選ぶとじゃがいもに巻きつきます
+Change photo	写真を変える
+Choose a photo	写真を選ぶ
+Peel it	むく
+{0} of {1} found	{0}/{1} 発見
+Potatoes	じゃがいも
+Not found yet	まだ見つかっていない
+{0} peeled	{0}個むいた
+{0} of {1} unlocked. Tap one to wear it under the logo.	{0}/{1} 解放済み。タップするとロゴの下に表示できます。
+Titles	称号
+Wearing it. Tap to take it off	表示中。タップで外す
+{0} of {1} earned	{0}/{1} 達成
+Achievements	実績
+{0} of {1} earned. Time spent peeling and frying: {2}	{0}/{1} 達成。皮むきと揚げ物の時間：{2}
+Trophies	トロフィー
+Pick where you peel. There are 12 kitchens, or you can use your own photo.	むく場所を選ぼう。キッチンは12種類、自分の写真も使えます。
+Dark mode, battery saver, and a screensaver with a bouncing logo if you leave it alone for a while.	ダークモード、バッテリーセーバー、それにしばらく放っておくとロゴが跳ね回るスクリーンセーバー。
+Music and sound effects. You can set every single sound's volume, and keep YouTube or Music playing while you peel.	音楽と効果音。音ごとに音量を調整でき、むいている間もYouTubeやミュージックを流したままにできます。
+How peeling works for you: the peeler, turning speed, counters, carving shapes, and Accessibility.	あなたのむき方：ピーラー、回転速度、カウンター、彫る形、アクセシビリティ。
+Save your progress to the cloud with a 6-character code, and send me your ideas in the Suggestions box.	6文字のコードで進行状況をクラウドに保存。アイデアは提案ボックスから送ってね。
+Your stats live here. Only reset if you really mean it, it can't be undone.	ここにあなたの記録があります。リセットは本当にいいときだけ。元に戻せません。
+A little note from me. TaterPeeler stays free with no ads.	ちょっとしたメッセージ。TaterPeelerはずっと無料で広告なしです。
+Credits for the music, the sounds and the art. That's everything, enjoy!	音楽、効果音、アートのクレジット。以上です、楽しんでね！
+{0} of {1}	{0}/{1}
+Done	完了
+Next	次へ
+Exit tour	ツアーを終了
+TaterPeeler is run by just one person. I've been told I should start running advertisements to make money off of this project. Do not fear, TaterPeeler will stay free and Ad Free for everyone. Including all versions of TaterPeeler. Thanks for supporting this project and me. Expect regular updates, to get notified, add this website to your home screen if not using the app to get notified. To suggest ideas please do submit ideas in the Suggestions box in settings. Thank you for playing.	TaterPeelerはたった一人で作っています。このプロジェクトで稼ぐために広告を入れるべきだと言われました。心配しないでください、TaterPeelerはみんなのためにずっと無料で広告なしのままです。TaterPeelerのすべてのバージョンを含みます。このプロジェクトと私を応援してくれてありがとう。アップデートは定期的にあります。通知を受け取るには、アプリを使っていない場合はこのサイトをホーム画面に追加してください。アイデアは設定の提案ボックスからぜひ送ってください。遊んでくれてありがとう。
+Peeling	皮むき
+Potato landing	じゃがいもの着地
+Taps and buttons	タップとボタン
+Rewards	ごほうび
+Rush clock	Rushの時計
+Knife	包丁
+Cutting board	まな板
+Fryer	フライヤー
+Salt shaker	塩入れ
+Coins	コイン
+Screaming potato	叫ぶじゃがいも
+Show me around	案内して
+A quick tour of everything in here	ここにあるすべてをざっと紹介
+Pick the game's language	ゲームの言語を選ぶ
+Language	言語
+Kitchen	キッチン
+Plain	無地
+Your photo	あなたの写真
+Background	背景
+Pick a kitchen, or use your own photo	キッチンを選ぶか、自分の写真を使う
+Display	表示
+Dark mode	ダークモード
+Battery saver	バッテリーセーバー
+Runs at 30 frames a second	30フレーム/秒で動作
+Screensaver	スクリーンセーバー
+A bouncing logo after 10 minutes of not playing	10分遊ばないとロゴが跳ね回る
+Sound	サウンド
+Music volume	音楽の音量
+Effects volume	効果音の音量
+Each sound's volume	音ごとの音量
+Turn any one sound up or down	どの音でも大きくしたり小さくしたり
+Hide	隠す
+Show	表示
+Play alongside other apps	ほかのアプリと一緒に再生
+Keep YouTube or Music playing while you peel	むいている間もYouTubeやミュージックを流す
+Show the peeler	ピーラーを表示
+Hide it to watch the skin come off	隠すと皮がむけていく様子が見える
+Turning speed	回転速度
+All-time counter	通算カウンター
+Count every potato you've peeled, not just this session	このセッションだけでなく、今までむいたじゃがいもを全部数える
+Carve shapes	形を彫る
+Each potato gets a little shape carved into it	じゃがいもに小さな形が彫られる
+Spin the potato on menus	メニューでじゃがいもを回す
+Show tips	ヒントを表示
+How to peel and turn the potato	じゃがいものむき方と回し方
+Accessibility	アクセシビリティ
+Left-handed, two fingers at once, Rush length	左利き、2本指同時操作、Rushの長さ
+Cloud save	クラウド保存
+Keep your progress and play on any device	進行状況を守って、どの端末でも遊べる
+Off	オフ
+Suggestions box	提案ボックス
+Got an idea for TaterPeeler? Send it to me	TaterPeelerのアイデアある？送ってね
+Your idea for TaterPeeler	TaterPeelerへのアイデア
+Progress	進行状況
+Reset progress	進行状況をリセット
+Tap again to erase	もう一度タップで消去
+Reset	リセット
+This resets this device. The cloud copy keeps your progress.	この端末をリセットします。クラウドのコピーには進行状況が残ります。
+potatoes peeled	個むいた
+best Rush score	Rushのベストスコア
+fries made	フライドポテトを作った
+What's new in 2.0	2.0の新機能
+Free forever, and no ads	ずっと無料、広告なし
+License: CC BY-NC-ND 4.0	ライセンス：CC BY-NC-ND 4.0
+Licence	ライセンス
+Original track	オリジナル曲
+Potato photoscan: Jan Martens, Poly Haven (CC0)	じゃがいものスキャン：Jan Martens、Poly Haven（CC0）
+Sound effects: Joseph Sardin, BigSoundBank (CC0)	効果音：Joseph Sardin、BigSoundBank（CC0）
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)	まな板の木目：Jenelle van Heerden、Poly Haven（CC0）
+Kitchens: Poly Haven textures and models (CC0)	キッチン：Poly Havenのテクスチャとモデル（CC0）
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.	このゲームは著作権フリーの素材と音を使っています。音楽は上記のクリエイティブ・コモンズ・ライセンスのもとで使用しています。
+Version {0}	バージョン {0}
+Where you peel. The cutting board is always on the counter.	むく場所。まな板はいつもカウンターの上です。
+The original look	元のデザイン
+Tap again to change it	もう一度タップで変更
+Tap to use it	タップで使う
+Tap to choose a photo	タップで写真を選ぶ
+This is the biggest update TaterPeeler has had so far. Here's everything that's new in 2.0. Thanks for 300 players!	TaterPeeler史上いちばん大きなアップデートです。2.0の新しいところを全部紹介します。300人のプレイヤーに感謝！
+Online (Beta)	オンライン（ベータ）
+You can play with other people now. Do a quick 1v1, or make a lobby with up to 6 people, public or private. The host picks the mode: race to a number of potatoes, timed, or endless. If the host leaves, the next person who joined takes over. There's quick chat, and typed chat in private lobbies (it's filtered).	ほかの人と一緒に遊べるようになりました。手軽に1v1をするか、最大6人のロビーを公開・非公開で作れます。モードはホストが選びます：じゃがいもの数の先取り、時間制、エンドレス。ホストが抜けたら、次に入った人が引き継ぎます。クイックチャットがあり、非公開ロビーでは文字チャットもできます（フィルターあり）。
+Leaderboard	ランキング
+There's a live leaderboard for potatoes peeled, Rush, fries and time played. Save to the cloud to get on it.	むいた数、Rush、フライドポテト、プレイ時間のリアルタイムランキングがあります。クラウドに保存すると載ります。
+Cloud saves	クラウド保存
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts and everything adds up.	6文字のコードを選ぶと進行状況がオンラインに保存されます。別の端末でコードを入力すれば、そこで続きが遊べます。2つのアカウントを合体させて、全部を合計することもできます。
+Seasoning and TaterCoins	味付けとTaterCoins
+When your fries land in the tray, grab the salt shaker and shake it over them. Not too little, not too much. You earn TaterCoins for how well you cut and seasoned, and rarer potatoes pay more.	フライドポテトがトレーに落ちたら、塩入れを持って上で振ってください。少なすぎず、多すぎず。切り方と味付けのうまさでTaterCoinsがもらえて、レアなじゃがいもほど多くもらえます。
+The Shop	ショップ
+Spend your TaterCoins in the shop (the coin button on the menu). There are 10 skins that go on any peeler, from Cherry all the way up to Diamond.	TaterCoinsはショップで使えます（メニューのコインボタン）。どのピーラーにも付けられるスキンが10種類、チェリーからダイヤモンドまで。
+Knives	包丁
+New knives unlock the more fries you make. Different colours and looks, all the way to a gold one.	フライドポテトを作るほど新しい包丁が解放されます。色や見た目もいろいろ、最後は金の包丁まで。
+Kitchens	キッチン
+The game takes place in a kitchen now, with the cutting board on the counter. There are 12 kitchens to pick from in Settings, or you can use your own photo as the background.	ゲームの舞台がキッチンになり、まな板はカウンターの上に。設定で12種類のキッチンから選べるほか、自分の写真を背景にもできます。
+A ton of new potatoes to find, including Ube. There's also one super rare potato that looks totally normal... until you start peeling it. You'll know when you find it.	Ubeを含む新しいじゃがいもがたくさん。それに、見た目はまったく普通なのに超レアなじゃがいもが1つ…むき始めるまでは。見つけたらすぐわかります。
+4 new peelers	新しいピーラー4種
+Wooden, Wire Y, Pro Grip and Julienne. Each one looks different, not just a new colour. The rare ones peel a little faster, nothing crazy.	ウッド、ワイヤーY、プログリップ、ジュリエンヌ。色違いではなく、それぞれ形が違います。レアなものは少しだけ速くむけます、ほんの少し。
+Titles and trophies	称号とトロフィー
+Earn titles like Beginner-Peeler, Pro-Peeler and Master-Fryer, and wear one under the logo. There are trophies for time played too (only peeling and frying counts, not sitting on the menu), plus a bunch of new achievements.	見習いピーラー、プロピーラー、マスターフライヤーなどの称号を手に入れて、ロゴの下に表示しよう。プレイ時間のトロフィーもあります（数えるのは皮むきと揚げ物だけ、メニュー画面は含みません）。新しい実績もたくさん。
+Take a photo and it gets wrapped around a potato. Find it in the Collection.	写真を撮るとじゃがいもに巻きつきます。コレクションで見つけてね。
+Left-handed mode, peeling with one finger while turning with another, your own Rush length (like 1:30), and lifetime counters for every peel and cut.	左利きモード、1本の指でむきながら別の指で回す操作、自分好みのRushの長さ（1:30など）、すべての皮むきとカットの通算カウンター。
+Every sound has its own volume slider now. And if you're listening to YouTube or music, turn on Play alongside other apps so TaterPeeler doesn't stop it.	すべての音に音量スライダーが付きました。YouTubeや音楽を聴いているなら、「ほかのアプリと一緒に再生」をオンにすれば止まりません。
+Languages	言語
+TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish and Turkish now, plus a Pirate language.	TaterPeelerは中国語、スペイン語（2種類）、ロシア語、ポルトガル語、ドイツ語、日本語、フランス語、韓国語、ポーランド語、トルコ語を話せるようになりました。海賊語もあります。
+Other stuff	その他
+A Show me around button in Settings, a Suggestions box so you can send me ideas, an all-time counter, carved shapes inside the potato if you want them, and a screensaver if you leave the game alone for a while.	設定の「案内して」ボタン、アイデアを送れる提案ボックス、通算カウンター、お好みでじゃがいもに彫る形、それにしばらく放っておくと出てくるスクリーンセーバー。
+Fixes	修正
+Pushing the potato off the board at the fry station doesn't break it anymore, a new one just drops in. Text is easy to read on every background, the peeler doesn't go through the cutting board, and older iPads run smoother.	フライ屋でじゃがいもをまな板から押し出しても、もう壊れません。新しいのが落ちてくるだけです。どの背景でも文字が読みやすくなり、ピーラーがまな板を突き抜けなくなり、古いiPadでもなめらかに動きます。
+Everything you had before is still there, nothing got reset. Thanks for playing.	これまでのデータはすべて残っています。何もリセットされていません。遊んでくれてありがとう。
+What's new	新機能
+IT HIT THE CORNER!	角に当たった！
+Tap anywhere to keep peeling	どこかをタップして皮むきを続ける
++{0} fry	+{0}本
++{0} fries	+{0}本
+Wait... is that potato SCREAMING?	待って…このじゃがいも、叫んでる？
+Classic White	クラシックホワイト
+Farmhouse	ファームハウス
+Midnight	ミッドナイト
+Retro Diner	レトロダイナー
+Tuscan Sun	トスカーナの太陽
+Scandinavian	北欧風
+Industrial Loft	インダストリアルロフト
+Seaside	海辺
+Navy & Brass	ネイビー＆ブラス
+Garden Window	ガーデンウィンドウ
+Pastel Pop	パステルポップ
+Cozy Cabin	くつろぎの山小屋
+Race	レース
+Timed	時間制
+Endless	エンドレス
+Good luck!	がんばって！
+GG!	GG！
+Nice one!	ナイス！
+Ready?	準備OK？
+Wow!	すごい！
+Rematch?	再戦？
+So close!	惜しい！
+Let's go!	いくぞ！
+Couldn't reach the server. Check your internet	サーバーにつながりません。ネット接続を確認してください
+No lobby with that code	そのコードのロビーはありません
+That lobby is full	そのロビーは満員です
+That match already started. Try again when it's over	その試合はもう始まっています。終わってからもう一度
+You can't play online right now	いまはオンラインで遊べません
+Slow down a little and try again	少しゆっくり、もう一度どうぞ
+Typed chat is only in private lobbies	文字チャットは非公開ロビーだけです
+Something went wrong, try again	問題が発生しました。もう一度試してください
+Peeler	ピーラー
+Your name in online games	オンライン対戦での名前
+You left the lobby	ロビーを出ました
+Lost the connection to the lobby	ロビーとの接続が切れました
+Quick 1v1	クイック1v1
+Create a lobby	ロビーを作る
+Join with a code	コードで参加
+The lobby's code	ロビーのコード
+Public lobbies	公開ロビー
+None open right now. Make one, or try Quick 1v1	いま開いているロビーはありません。作るか、クイック1v1を試してね
+Looking...	さがしています…
+{0}'s lobby	{0}のロビー
+Race to {0}	{0}個先取レース
+Timed, {0}	時間制、{0}
+Public lobby, code	公開ロビー、コード
+Private lobby. Share this code	非公開ロビー。このコードを共有してね
+Players	プレイヤー
+{0} (you)	{0}（あなた）
+Match	試合
+{0} potatoes	{0}個
+Public	公開
+Anyone can find it in the list	だれでもリストで見つけられる
+Start the match	試合を始める
+Waiting for someone to join...	だれかが入るのを待っています…
+Race: first to {0} potatoes wins	レース：先に{0}個むいた人の勝ち
+Timed: most potatoes in {0}	時間制：{0}でいちばん多くむいた人
+Endless: peel until the host ends it	エンドレス：ホストが終えるまでむく
+Waiting for the host to start	ホストが始めるのを待っています
+Match over	試合終了
+Starting...	スタート…
+Chat	チャット
+Say hi!	あいさつしよう！
+Type a message	メッセージを入力
+Message	メッセージ
+Typed chat is only in private lobbies.	文字チャットは非公開ロビーだけです。
+Leave lobby	ロビーを出る
+Lobby	ロビー
+First to {0}	{0}個先取
+You win!	あなたの勝ち！
+{0} potato	{0}個
+Lobby codes are 5 letters	ロビーのコードは5文字です
+Update 2.0 is now out! Here's what's new!	アップデート2.0が出ました！新しいところを見てね！
+Thanks for 300 players! I'll keep updating this periodically.	300人のプレイヤーに感謝！これからも定期的にアップデートしていきます。
+View what's new	新機能を見る
+Dismiss	閉じる
+Message from {0}	{0}からのメッセージ
+Couldn't reach the server. Check your internet and try again	サーバーにつながりません。ネット接続を確認してもう一度試してください
+That code is already taken, try another one	そのコードはもう使われています。別のを試してね
+Codes are 6 letters or numbers	コードは6文字の英数字です
+Try a different name	別の名前を試してね
+Too many tries. Wait a couple of minutes	試行回数が多すぎます。数分待ってください
+No progress is saved with that code	そのコードで保存された進行状況はありません
+That's this account's own code	それはこのアカウント自身のコードです
+This device isn't linked anymore	この端末はもう連携されていません
+That save is too big	そのセーブデータは大きすぎます
+That one's taken. Pick another 6-character code	それは使われています。別の6文字コードを選んでね
+Saved to the cloud! Your code is {0}	クラウドに保存しました！あなたのコードは{0}
+This device already has {0} potato peeled. Add this device's progress to the account, or switch to the account's progress?	この端末にはすでに{0}個むいた記録があります。この端末の進行状況をアカウントに足しますか、それともアカウントの進行状況に切り替えますか？
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?	この端末にはすでに{0}個むいた記録があります。この端末の進行状況をアカウントに足しますか、それともアカウントの進行状況に切り替えますか？
+Combine progress?	進行状況を合体する？
+Combine	合体
+Use the account's	アカウントのを使う
+Accounts combined! Everything adds up now	アカウントを合体しました！全部が合計されます
+Name changed	名前を変更しました
+Thanks! Andres reads every suggestion	ありがとう！Andresは提案を全部読んでいます
+That's a lot of ideas! Try again in a bit	アイデアがいっぱい！少ししてからもう一度
+Write a little more first	もう少し書いてね
+Time played	プレイ時間
+BETA	ベータ
+Keep your progress safe and play on any device. You pick a 6-character code, and that code loads your potatoes, coins and everything else anywhere. Anyone with your code can load your progress, so keep it to yourself.	進行状況を安全に保って、どの端末でも遊べます。6文字のコードを選ぶと、そのコードでじゃがいもやコインなど全部をどこでも読み込めます。コードを知っている人はだれでもあなたの進行状況を読み込めるので、人に教えないでね。
+Create my code	コードを作る
+Pick a 6-character code (letters and numbers)	6文字のコードを選ぶ（英字と数字）
+I have a code	コードを持っている
+Type your 6-character code	6文字のコードを入力
+Your code	あなたのコード
+No name (Anonymous peeler on the leaderboard)	名前なし（ランキングでは匿名ピーラー）
+Offline right now. It syncs when you're back online	いまはオフライン。オンラインに戻ったら同期します
+Syncing...	同期中…
+Synced just now	たった今同期しました
+Synced {0} ago	{0}前に同期
+Sync now	今すぐ同期
+Change name	名前を変える
+Add a name	名前を追加
+Your name on the leaderboard	ランキングでの名前
+Combine another account	別のアカウントを合体
+The other account's 6-character code	もう一方のアカウントの6文字コード
+Unlink this device	この端末の連携を解除
+Unlink this device?	この端末の連携を解除しますか？
+Your progress stays on this device and in the cloud. You can link again any time with your code.	進行状況はこの端末とクラウドに残ります。コードでいつでも連携し直せます。
+Unlink	解除
+Cancel	キャンセル
+Codes are exactly 6 letters or numbers	コードはちょうど6文字の英数字です
+Your name for the leaderboard (optional)	ランキング用の名前（任意）
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too.	{0}の中身がすべてこのアカウントに足されます（じゃがいも、コイン、フライドポテト、全部）。その後は、そのコードでもこのアカウントが開きます。
+Combine accounts?	アカウントを合体しますか？
+Linked! This device now uses {0}	連携しました！この端末は{0}を使います
+This device is unlinked	この端末の連携を解除しました
+{0} player online	{0}人がオンライン
+{0} players online	{0}人がオンライン
+Connecting...	接続中…
+Offline. Online features need the internet	オフライン。オンライン機能にはインターネットが必要です
+Play together	一緒に遊ぶ
+Loading...	読み込み中…
+Couldn't load the leaderboard	ランキングを読み込めませんでした
+Nobody's here yet. Be the first!	まだだれもいません。一番乗りしよう！
+You're #{0} with {1}	あなたは{0}位、記録{1}
+To get on the leaderboard, save your progress to the cloud. It only takes a code.	ランキングに載るには、進行状況をクラウドに保存してね。コードひとつでOK。
+Save to the cloud	クラウドに保存
+Cherry	チェリー
+Ocean	オーシャン
+Mint	ミント
+Lavender	ラベンダー
+Sunshine	サンシャイン
+Midnight Matte	ミッドナイトマット
+Bubblegum	バブルガム
+Chrome	クローム
+Rose Gold	ローズゴールド
+Diamond	ダイヤモンド
+Chef's Knife	牛刀
+Red Handle	赤い柄
+Ocean Blue	オーシャンブルー
+Walnut	ウォールナット
+Mint Pro	ミントPro
+Black Steel	ブラックスチール
+Copper	コッパー
+Gold	ゴールド
+No salt	塩なし
+A little more salt next time	次はもう少し塩を
+Way too salty!	しょっぱすぎ！
+Seasoned just right!	ちょうどいい塩加減！
++{0} TaterCoins. {1}	+{0} TaterCoins。{1}
+Salt	塩
+Shake the salt over the fries	フライドポテトに塩を振る
+Serve	提供
+Coming soon	近日公開
+TaterCoins. Earn them by frying: cut well, season just right, and rarer potatoes pay more.	TaterCoins。揚げて稼ごう：上手に切って、ちょうどいい塩加減で。レアなじゃがいもほど多くもらえます。
+Peeler skins	ピーラースキン
+A skin changes the colour of whichever peeler you use.	スキンは使っているピーラーの色を変えます。
+Buy {0} for {1} TaterCoins?	{0}を{1} TaterCoinsで買いますか？
+It goes on whichever peeler you use, and you can switch any time.	使っているピーラーに付きます。いつでも付け替えられます。
+Buy it	買う
+Not now	今はいい
+You need {0} more TaterCoins. Fry some potatoes!	あと{0} TaterCoins必要です。じゃがいもを揚げよう！
+Original	オリジナル
+Wearing	着用中
+Tap to wear	タップで着ける
+New knives unlock as you make fries. You've made {0}.	新しい包丁はフライドポテトを作ると解放されます。これまでに{0}本作りました。
+Make {0} more fries to unlock it	あと{0}本作ると解放
+{0} fries	{0}本
+Shop	ショップ
+{0} is yours!	{0}を手に入れた！
+Playing	プレイ
+Left-handed	左利き
+The buttons and the resting peeler move to the other side	ボタンと置いてあるピーラーが反対側に移動
+Peel and turn at once	むきながら回す
+One finger peels while another turns the potato	1本の指でむき、別の指でじゃがいもを回す
+Rush length	Rushの長さ
+Best scores are kept for every length together.	ベストスコアはすべての長さで共通です。
+Lifetime	通算
+peel strokes	皮むき回数
+knife cuts	包丁のカット数
+Chinese (Simplified)	中国語（簡体字）
+Spanish (Latin America)	スペイン語（ラテンアメリカ）
+Spanish (Spain)	スペイン語（スペイン）
+Russian	ロシア語
+Portuguese (Brazil)	ポルトガル語（ブラジル）
+German	ドイツ語
+Japanese	日本語
+French	フランス語
+Korean	韓国語
+Polish	ポーランド語
+Turkish	トルコ語
+Pirate, for fun	海賊語（おふざけ）
+Names, chat and messages from other players stay the way they wrote them.	ほかのプレイヤーの名前、チャット、メッセージは書かれたままで表示されます。
+Music: “Echoes in Blue” by Tokyo Music Walker	音楽：「Echoes in Blue」Tokyo Music Walker
+Baked Potato	ベイクドポテト
+Who baked this?	誰が焼いたの？
+Find the Baked Potato	ベイクドポテトを見つける
+Careful, it's hot!	熱いから気をつけて！
+Tin foil	アルミホイル
+Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	超レア。アルミホイルに包まれたまま落ちてきて、自分で開いて湯気が出ます。皮がパリパリだから、かけらになってむけるよ。
