@@ -562,3 +562,8 @@ Find the Baked Potato	Find the Baked Spud
 Careful, it's hot!	Careful, she be hot!
 Tin foil	Tin foil
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Rarer than a calm sea. She drops in still wrapped in tin foil, unwraps herself an' steams. The skin be crispy, so it comes off in flakes.
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	This here vessel be too old to sail today's web, so I can't offer any online features at the moment. Sorry fer the trouble, matey.
+Online features	Online doings
+OK	Aye
+Try anyway	Try anyhow
+Staff PIN	Crew PIN

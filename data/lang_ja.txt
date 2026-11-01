@@ -562,3 +562,8 @@ Find the Baked Potato	ベイクドポテトを見つける
 Careful, it's hot!	熱いから気をつけて！
 Tin foil	アルミホイル
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	超レア。アルミホイルに包まれたまま落ちてきて、自分で開いて湯気が出ます。皮がパリパリだから、かけらになってむけるよ。
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	このデバイスは古く、今のウェブに接続できないため、現在オンライン機能には対応できません。ご不便をおかけしてすみません。
+Online features	オンライン機能
+OK	OK
+Try anyway	それでも試す
+Staff PIN	スタッフPIN

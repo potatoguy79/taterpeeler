@@ -562,3 +562,8 @@ Find the Baked Potato	Fırın Patates'i bul
 Careful, it's hot!	Dikkat, sıcak!
 Tin foil	Alüminyum folyo
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Çok nadir. Hâlâ alüminyum folyoya sarılı düşer, kendi kendine açılır ve buharı tüter. Kabuğu çıtır olduğu için parça parça soyulur.
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	Bu cihaz eski olduğu ve günümüz internetine bağlanamadığı için şu an hiçbir çevrimiçi özelliği destekleyemiyorum. Verdiğim rahatsızlık için üzgünüm.
+Online features	Çevrimiçi özellikler
+OK	Tamam
+Try anyway	Yine de dene
+Staff PIN	Ekip PIN'i

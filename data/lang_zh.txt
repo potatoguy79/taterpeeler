@@ -562,3 +562,8 @@ Find the Baked Potato	找到烤土豆
 Careful, it's hot!	小心，很烫！
 Tin foil	锡纸
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	超级稀有。它掉下来的时候还裹着锡纸，会自己打开，还冒着热气。皮是脆的，所以会一片一片地掉下来。
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	由于这台设备太旧，无法连接到现在的网络，目前我无法支持任何在线功能。给你带来不便，很抱歉。
+Online features	在线功能
+OK	确定
+Try anyway	仍然尝试
+Staff PIN	工作人员 PIN

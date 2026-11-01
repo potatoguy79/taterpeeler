@@ -562,3 +562,8 @@ Find the Baked Potato	Encuentra la papa al horno
 Careful, it's hot!	¡Cuidado, está caliente!
 Tin foil	Papel aluminio
 Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Súper rara. Cae todavía envuelta en papel aluminio, se desenvuelve sola y echa vapor. La cáscara está crujiente, así que se pela en pedacitos.
+Due to this device's age and its inability to connect to the modern web, I'm unable to support any online features at the moment. Sorry for the inconvenience.	Por la antigüedad de este dispositivo y porque no puede conectarse a la web actual, por ahora no puedo ofrecer ninguna función en línea. Perdón por las molestias.
+Online features	Funciones en línea
+OK	OK
+Try anyway	Intentar de todos modos
+Staff PIN	PIN del equipo
