@@ -567,3 +567,11 @@ Online features	オンライン機能
 OK	OK
 Try anyway	それでも試す
 Staff PIN	スタッフPIN
+Send a message	メッセージを送る
+Shows up for everyone online	オンラインの全員に表示されます
+Peels land on the board	皮がまな板に落ちる
+Turn off and they fall away out of sight	オフにすると見えないところへ落ちていきます
+A gift arrived! Your stats went up	プレゼントが届きました！記録が増えました
+Owner	オーナー
+Administrator	管理者
+Moderator	モデレーター

@@ -577,3 +577,11 @@ Online features	Онлайн-функции
 OK	ОК
 Try anyway	Всё равно попробовать
 Staff PIN	PIN сотрудника
+Send a message	Отправить сообщение
+Shows up for everyone online	Увидят все, кто онлайн
+Peels land on the board	Очистки падают на доску
+Turn off and they fall away out of sight	Выключи, и они улетают из виду
+A gift arrived! Your stats went up	Пришёл подарок! Твоя статистика выросла
+Owner	Владелец
+Administrator	Администратор
+Moderator	Модератор

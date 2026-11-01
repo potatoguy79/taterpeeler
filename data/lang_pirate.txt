@@ -567,3 +567,11 @@ Online features	Online doings
 OK	Aye
 Try anyway	Try anyhow
 Staff PIN	Crew PIN
+Send a message	Send a message
+Shows up for everyone online	Every sailor online sees it
+Peels land on the board	Peels land on the deck
+Turn off and they fall away out of sight	Turn it off an' they fall overboard
+A gift arrived! Your stats went up	A treasure arrived! Yer stats went up
+Owner	Cap'n
+Administrator	Quartermaster
+Moderator	Bosun

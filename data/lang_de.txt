@@ -567,3 +567,11 @@ Online features	Online-Funktionen
 OK	OK
 Try anyway	Trotzdem versuchen
 Staff PIN	Mitarbeiter-PIN
+Send a message	Nachricht senden
+Shows up for everyone online	Erscheint für alle, die online sind
+Peels land on the board	Schalen landen auf dem Brett
+Turn off and they fall away out of sight	Ausschalten, dann fallen sie aus dem Bild
+A gift arrived! Your stats went up	Ein Geschenk ist da! Deine Werte sind gestiegen
+Owner	Besitzer
+Administrator	Administrator
+Moderator	Moderator

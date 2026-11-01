@@ -567,3 +567,11 @@ Online features	Recursos online
 OK	OK
 Try anyway	Tentar mesmo assim
 Staff PIN	PIN da equipe
+Send a message	Enviar uma mensagem
+Shows up for everyone online	Aparece para todos que estão online
+Peels land on the board	As cascas caem na tábua
+Turn off and they fall away out of sight	Desligue e elas caem fora de vista
+A gift arrived! Your stats went up	Chegou um presente! Suas estatísticas subiram
+Owner	Dono
+Administrator	Administrador
+Moderator	Moderador

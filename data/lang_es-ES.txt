@@ -567,3 +567,11 @@ Online features	Funciones online
 OK	Vale
 Try anyway	Intentarlo igualmente
 Staff PIN	PIN del equipo
+Send a message	Enviar un mensaje
+Shows up for everyone online	Lo ven todos los que están conectados
+Peels land on the board	Las pieles caen en la tabla
+Turn off and they fall away out of sight	Desactívalo y caen fuera de la vista
+A gift arrived! Your stats went up	¡Ha llegado un regalo! Tus estadísticas han subido
+Owner	Propietario
+Administrator	Administrador
+Moderator	Moderador
