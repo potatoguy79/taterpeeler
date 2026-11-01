@@ -577,3 +577,11 @@ Online features	Funkcje online
 OK	OK
 Try anyway	Spróbuj mimo to
 Staff PIN	PIN zespołu
+Send a message	Wyślij wiadomość
+Shows up for everyone online	Pojawi się u wszystkich online
+Peels land on the board	Obierki lądują na desce
+Turn off and they fall away out of sight	Wyłącz, a spadną poza widok
+A gift arrived! Your stats went up	Przyszedł prezent! Twoje statystyki wzrosły
+Owner	Właściciel
+Administrator	Administrator
+Moderator	Moderator

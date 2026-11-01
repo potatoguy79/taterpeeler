@@ -567,3 +567,11 @@ Online features	Funciones en línea
 OK	OK
 Try anyway	Intentar de todos modos
 Staff PIN	PIN del equipo
+Send a message	Enviar un mensaje
+Shows up for everyone online	Lo ven todos los que están en línea
+Peels land on the board	Las cáscaras caen en la tabla
+Turn off and they fall away out of sight	Desactívalo y caen fuera de la vista
+A gift arrived! Your stats went up	¡Llegó un regalo! Tus estadísticas subieron
+Owner	Dueño
+Administrator	Administrador
+Moderator	Moderador

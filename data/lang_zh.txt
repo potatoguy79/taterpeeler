@@ -567,3 +567,11 @@ Online features	在线功能
 OK	确定
 Try anyway	仍然尝试
 Staff PIN	工作人员 PIN
+Send a message	发送消息
+Shows up for everyone online	所有在线的人都会看到
+Peels land on the board	果皮落在砧板上
+Turn off and they fall away out of sight	关掉后果皮会落出画面
+A gift arrived! Your stats went up	收到礼物了！你的数据增加了
+Owner	所有者
+Administrator	管理员
+Moderator	版主

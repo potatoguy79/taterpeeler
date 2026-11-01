@@ -567,3 +567,11 @@ Online features	Çevrimiçi özellikler
 OK	Tamam
 Try anyway	Yine de dene
 Staff PIN	Ekip PIN'i
+Send a message	Mesaj gönder
+Shows up for everyone online	Çevrimiçi herkes görür
+Peels land on the board	Kabuklar tahtaya düşsün
+Turn off and they fall away out of sight	Kapatırsan görünmeden düşüp kaybolurlar
+A gift arrived! Your stats went up	Bir hediye geldi! İstatistiklerin arttı
+Owner	Sahip
+Administrator	Yönetici
+Moderator	Moderatör

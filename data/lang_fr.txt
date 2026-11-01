@@ -567,3 +567,11 @@ Online features	Fonctions en ligne
 OK	OK
 Try anyway	Essayer quand même
 Staff PIN	Code PIN de l'équipe
+Send a message	Envoyer un message
+Shows up for everyone online	S'affiche pour tous ceux en ligne
+Peels land on the board	Les épluchures tombent sur la planche
+Turn off and they fall away out of sight	Désactive-le et elles tombent hors de vue
+A gift arrived! Your stats went up	Un cadeau est arrivé ! Tes stats ont augmenté
+Owner	Propriétaire
+Administrator	Administrateur
+Moderator	Modérateur
