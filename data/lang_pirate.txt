@@ -575,3 +575,5 @@ A gift arrived! Your stats went up	A treasure arrived! Yer stats went up
 Owner	Cap'n
 Administrator	Quartermaster
 Moderator	Bosun
+Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	Online features be limited to non-school devices fer now. I be figurin' out how to get 'em workin' on school devices. Sorry fer any trouble, matey.
+Continue	Onward

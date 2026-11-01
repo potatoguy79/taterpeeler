@@ -575,3 +575,5 @@ A gift arrived! Your stats went up	Un cadeau est arrivé ! Tes stats ont augmen
 Owner	Propriétaire
 Administrator	Administrateur
 Moderator	Modérateur
+Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	Pour l'instant, les fonctions en ligne ne marchent que sur les appareils qui ne sont pas ceux de l'école. Je cherche comment les faire marcher sur les appareils scolaires. Désolé pour la gêne.
+Continue	Continuer

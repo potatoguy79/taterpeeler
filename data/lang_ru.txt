@@ -585,3 +585,5 @@ A gift arrived! Your stats went up	Пришёл подарок! Твоя ста�
 Owner	Владелец
 Administrator	Администратор
 Moderator	Модератор
+Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	Пока что онлайн-функции работают только на нешкольных устройствах. Я разбираюсь, как заставить их работать на школьных устройствах. Извините за неудобства.
+Continue	Продолжить

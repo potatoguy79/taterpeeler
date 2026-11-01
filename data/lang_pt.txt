@@ -575,3 +575,5 @@ A gift arrived! Your stats went up	Chegou um presente! Suas estatísticas subira
 Owner	Dono
 Administrator	Administrador
 Moderator	Moderador
+Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	Por enquanto, os recursos online só funcionam em aparelhos que não são da escola. Estou descobrindo como fazer funcionarem nos aparelhos da escola. Desculpe o transtorno.
+Continue	Continuar

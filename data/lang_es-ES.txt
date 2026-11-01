@@ -575,3 +575,5 @@ A gift arrived! Your stats went up	¡Ha llegado un regalo! Tus estadísticas han
 Owner	Propietario
 Administrator	Administrador
 Moderator	Moderador
+Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	De momento, las funciones online solo van en dispositivos que no son del colegio. Estoy viendo cómo hacer que funcionen en los dispositivos del cole. Perdón por las molestias.
+Continue	Continuar

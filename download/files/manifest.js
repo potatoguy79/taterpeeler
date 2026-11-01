@@ -79,8 +79,8 @@ window.TP_FILES = {
   ]
  },
  "TaterPeeler.ipa": {
-  "size": 44833406,
-  "sha256": "8487541161842aa26962b2b45cac0a01af281d9a412fbce7d8c77c5c201a6dd5",
+  "size": 44845186,
+  "sha256": "c384e53fbb978c7f5b22479129a9c358d523c114053f5a77617c3836f9d1a4e8",
   "parts": [
    "TaterPeeler.ipa.part01",
    "TaterPeeler.ipa.part02",
@@ -91,8 +91,8 @@ window.TP_FILES = {
   ]
  },
  "TaterPeeler-iOS5.ipa": {
-  "size": 38267652,
-  "sha256": "d06cda1d93b619208a9905bf7671be276143bc5cc1adec949ed9ce7e5d07e7c9",
+  "size": 38278733,
+  "sha256": "72ff57a0a2866ccc5e94595dabaee30404f86679204978876748b37853c3e5bd",
   "parts": [
    "TaterPeeler-iOS5.ipa.part01",
    "TaterPeeler-iOS5.ipa.part02",
@@ -102,8 +102,8 @@ window.TP_FILES = {
   ]
  },
  "TaterPeeler-iOS-Cydia.deb": {
-  "size": 44813626,
-  "sha256": "99038a1a561e10ee48a005370a9d6fac47ec2a0848e81ac9989dc49f9348e1b6",
+  "size": 44827770,
+  "sha256": "e2f93e472697cd0410531df9d5e6f328e985874b461314c55b2a851d0e31cd92",
   "parts": [
    "TaterPeeler-iOS-Cydia.deb.part01",
    "TaterPeeler-iOS-Cydia.deb.part02",
@@ -114,8 +114,8 @@ window.TP_FILES = {
   ]
  },
  "TaterPeeler-Android.apk": {
-  "size": 26146284,
-  "sha256": "ebda613f61bef529b605a424a2b3bafec401631dbed01829835c4678c6336074",
+  "size": 26158572,
+  "sha256": "cfeb7d0228a3d1d94a1eeae559e58b916c1c556b1ec35115e13b0aafd17b0881",
   "parts": [
    "TaterPeeler-Android.apk.part01",
    "TaterPeeler-Android.apk.part02",
