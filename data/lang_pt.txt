@@ -1,0 +1,564 @@
+# TaterPeeler: pt
+Common	Comum
+Uncommon	Incomum
+Rare	Rara
+Epic	Épica
+Legendary	Lendária
+Potato #1,000	Batata nº 1.000
+Sweet Potato	Batata-doce
+Japanese Sweet	Batata-doce japonesa
+Okinawan Sweet	Batata-doce de Okinawa
+Rainbow Potato	Batata arco-íris
+Golden Potato	Batata dourada
+Screaming Potato	Batata que grita
+Black	Preto
+Red	Vermelho
+Yellow	Amarelo
+Olive	Oliva
+Lime	Limão
+Golden	Dourado
+Wooden	De madeira
+Wire Y	Arame Y
+Pro Grip	Pro Grip
+Julienne	Julienne
+First Peel	Primeira descascada
+Spud Buddy	Parça da batata
+TaterPeeler Legend	Lenda do TaterPeeler
+Long Peel	Casca longa
+Speed Peeler	Descascador veloz
+Rush Hour	Hora do rush
+Taste the Rainbow	Prove o arco-íris
+Full Collection	Coleção completa
+Nice	Nice
+Fry Cook	Mestre da fritura
+Shoestring	Batata palha
+Clean Station	Bancada limpa
+Pure Tater	Batata pura
+Spud Century	Século da batata
+Sack of Spuds	Saco de batatas
+Tater Titan	Titã da batata
+Marathon	Maratona
+Variety Pack	Pacote variado
+Epic Find	Achado épico
+Milestone	Marco
+Mega Peel	Megacasca
+Lightning Peeler	Descascador relâmpago
+Rush Royalty	Realeza do Rush
+Expert Fryer	Fritador experiente
+Fry Legend	Lenda da fritadeira
+Night Shift	Turno da noite
+New Kitchen	Cozinha nova
+Peeler Collection	Coleção de descascadores
+Online Champion	Campeão online
+That Could've Been for Starving Children	Isso podia ter ido para as crianças com fome
+Perfectly Seasoned	Tempero perfeito
+Scream Team	Time do grito
+Purple Reign	Reinado roxo
+Big Spender	Gastador
+Spud Banker	Banqueiro da batata
+Head in the Clouds	Com a cabeça nas nuvens
+Knife Collector	Colecionador de facas
+Your Own Spud	Sua própria batata
+Peel your first potato	Descasque sua primeira batata
+Peel 25 potatoes	Descasque 25 batatas
+Peel 1,000 potatoes	Descasque 1.000 batatas
+Peel one strip 25 cm long	Descasque uma tira de 25 cm
+Peel a whole potato in under 12 seconds	Descasque uma batata inteira em menos de 12 segundos
+Score 1,500 in one Rush	Faça 1.500 pontos em um Rush
+Find the Rainbow Potato	Encontre a batata arco-íris
+Find every everyday variety	Encontre todas as variedades comuns
+Peel potato number 69	Descasque a batata número 69
+Serve your first fries	Sirva suas primeiras batatas fritas
+Cut 40 fries from one potato	Corte 40 palitos de uma batata
+Scrape every crumb into the fryer, then serve	Jogue cada farelo na fritadeira e depois sirva
+Put a whole potato in the fryer	Coloque uma batata inteira na fritadeira
+Peel 100 potatoes	Descasque 100 batatas
+Peel 500 potatoes	Descasque 500 batatas
+Peel 2,500 potatoes	Descasque 2.500 batatas
+Peel 25 potatoes without stopping	Descasque 25 batatas sem parar
+Find 20 different varieties	Encontre 20 variedades diferentes
+Peel an Epic potato	Descasque uma batata épica
+Peel a potato with a number carved in it	Descasque uma batata com um número entalhado
+Peel one strip 40 cm long	Descasque uma tira de 40 cm
+Peel a whole potato in under 7 seconds	Descasque uma batata inteira em menos de 7 segundos
+Score 3,000 in one Rush	Faça 3.000 pontos em um Rush
+Fry 25 potatoes	Frite 25 batatas
+Fry 100 potatoes	Frite 100 batatas
+Peel a potato in dark mode	Descasque uma batata no modo escuro
+Pick a new kitchen in Settings	Escolha uma cozinha nova nas Configurações
+Unlock every peeler	Desbloqueie todos os descascadores
+Win a match online	Vença uma partida online
+Knock a potato off the board	Derrube uma batata da tábua
+Season a batch of fries just right	Tempere uma leva de batatas fritas no ponto
+Find the Screaming Potato	Encontre a batata que grita
+Find the Ube potato	Encontre a batata ube
+Buy something in the shop	Compre algo na loja
+Earn 1,000 TaterCoins	Ganhe 1.000 TaterCoins
+Save your progress to the cloud	Salve seu progresso na nuvem
+Unlock every knife	Desbloqueie todas as facas
+Peel a potato made from your own photo	Descasque uma batata feita com sua própria foto
+Warming Up	Aquecendo
+Half Hour Hero	Herói da meia hora
+Hour of Power	Uma hora de poder
+Couch Potato	Batata de sofá
+Spud Devotee	Fã de batata
+Peel Machine	Máquina de descascar
+Around the Clock	O dia inteiro
+Play for 10 minutes	Jogue por 10 minutos
+Play for 30 minutes	Jogue por 30 minutos
+Play for 1 hour	Jogue por 1 hora
+Play for 2 hours	Jogue por 2 horas
+Play for 5 hours	Jogue por 5 horas
+Play for 10 hours	Jogue por 10 horas
+Play for 24 hours	Jogue por 24 horas
+Beginner-Peeler	Descascador-Iniciante
+Rookie-Peeler	Descascador-Novato
+Pro-Peeler	Descascador-Pro
+Expert-Peeler	Descascador-Experiente
+Master-Peeler	Descascador-Mestre
+Legendary-Peeler	Descascador-Lendário
+Beginner-Fryer	Fritador-Iniciante
+Expert-Fryer	Fritador-Experiente
+Master-Fryer	Fritador-Mestre
+Speed-Peeler	Descascador-Veloz
+Rush-Champion	Campeão-do-Rush
+Spud-Collector	Colecionador-de-Batatas
+Rainbow-Hunter	Caçador-de-Arco-íris
+Night-Owl	Coruja-Noturna
+Couch-Potato	Batata-de-Sofá
+Peel-Machine	Máquina-de-Descascar
+Long peel +{0}	Casca longa +{0}
+Long peel, {0} cm	Casca longa, {0} cm
+You unlocked the Golden peeler	Você desbloqueou o descascador dourado
+You unlocked the legendary Lime peeler	Você desbloqueou o lendário descascador limão
+You unlocked the rare {0} peeler	Você desbloqueou o raro descascador {0}
+You unlocked the {0} peeler	Você desbloqueou o descascador {0}
+potatoes peeled. You are a TaterPeeler legend.	batatas descascadas. Você é uma lenda do TaterPeeler.
+potatoes peeled! The fry station is open.	batatas descascadas! A fritadeira está liberada.
+potatoes peeled!	batatas descascadas!
+Potato number 1,000!	Batata número 1.000!
+A rainbow potato!	Uma batata arco-íris!
+Nice!	Nice!
+Achievement: {0}	Conquista: {0}
+Trophy: {0}	Troféu: {0}
+New title: {0}	Novo título: {0}
+{0} cm	{0} cm
+Fries	Batata frita
+Cut and fry	Corte e frite
+Unlocks at {0}	Libera com {0}
+Peel {0} more potato to open the fry station	Descasque mais {0} batata para liberar a fritadeira
+Peel {0} more potatoes to open the fry station	Descasque mais {0} batatas para liberar a fritadeira
+Made by Andres Campos	Feito por Andres Campos
+{0} potato peeled	{0} batata descascada
+{0} potatoes peeled	{0} batatas descascadas
+A potato, a peeler, and you	Uma batata, um descascador e você
+New update! Click here for more info	Nova atualização! Clique aqui para saber mais
+New update! Tap here for more info	Nova atualização! Toque aqui para saber mais
+Download	Baixar
+Best {0}	Recorde {0}
+60 seconds	60 segundos
+Peel	Descascar
+No timer	Sem tempo
+Rush	Rush
+Collection	Coleção
+Settings	Configurações
+Online	Online
+Your potato	Sua batata
+Potato #{0}	Batata nº {0}
+From your photo	Da sua foto
+potato, all time	batata no total
+potatoes, all time	batatas no total
+longest peel	maior casca
+Drag across the potato to peel it	Arraste sobre a batata para descascar
+Drag the empty space around it to turn it	Arraste no espaço vazio para girar
+Slice it into planks	Fatie em lâminas
+Slice the stack into fries	Corte a pilha em palitos
+Scrape them into the fryer	Jogue tudo na fritadeira
+Frying	Fritando
+Stacking the planks	Empilhando as lâminas
+Here comes a potato	Lá vem uma batata
+Fries are up	Batata frita na mesa!
+potato fried	batata frita
+potatoes fried	batatas fritas
+Swipe down to cut, or tap to chop. Move along for the next slice.	Deslize para baixo para cortar ou toque para picar. Avance para a próxima fatia.
+Click to chop where the knife is, or drag down to slice	Clique para picar onde está a faca ou arraste para baixo para fatiar
+{0} piece is still too thick	{0} pedaço ainda está grosso demais
+{0} pieces are still too thick	{0} pedaços ainda estão grossos demais
+Lay the blade flat: swipe sideways to push everything off the right edge	Deite a lâmina: deslize para o lado para empurrar tudo pela borda direita
+Drag sideways to sweep everything off the right edge	Arraste para o lado para varrer tudo pela borda direita
+Paused	Pausado
+Resume	Continuar
+Restart	Recomeçar
+Back to the lobby	Voltar ao lobby
+The match keeps going	A partida continua
+Quit to menu	Sair para o menu
+Music	Música
+Sound effects	Efeitos sonoros
+Time’s up	Acabou o tempo
+New best	Novo recorde
+potato	batata
+potatoes	batatas
+Play again	Jogar de novo
+Menu	Menu
+{0} h {1} min	{0} h {1} min
+{0} h	{0} h
+{0} min	{0} min
+Peelers	Descascadores
+Peel more potatoes to unlock new ones. Wider blades peel faster.	Descasque mais batatas para desbloquear novos. Lâminas mais largas descascam mais rápido.
+In use	Em uso
+Tap to use	Usar
+Your own potato	Sua própria batata
+Your photo, wrapped round a potato	Sua foto, envolvendo uma batata
+Pick a photo and it gets wrapped round a potato	Escolha uma foto e ela envolve uma batata
+Change photo	Trocar foto
+Choose a photo	Escolher uma foto
+Peel it	Descascar
+{0} of {1} found	{0} de {1} encontradas
+Potatoes	Batatas
+Not found yet	Ainda não encontrada
+{0} peeled	{0} descascadas
+{0} of {1} unlocked. Tap one to wear it under the logo.	{0} de {1} desbloqueados. Toque em um para usar embaixo do logo.
+Titles	Títulos
+Wearing it. Tap to take it off	Em uso. Toque para tirar
+{0} of {1} earned	{0} de {1} conquistadas
+Achievements	Conquistas
+{0} of {1} earned. Time spent peeling and frying: {2}	{0} de {1} conquistados. Tempo descascando e fritando: {2}
+Trophies	Troféus
+Pick where you peel. There are 12 kitchens, or you can use your own photo.	Escolha onde descascar. São 12 cozinhas, ou você pode usar sua própria foto.
+Dark mode, battery saver, and a screensaver with a bouncing logo if you leave it alone for a while.	Modo escuro, economia de bateria e um protetor de tela com um logo quicando se você deixar o jogo parado um tempo.
+Music and sound effects. You can set every single sound's volume, and keep YouTube or Music playing while you peel.	Música e efeitos sonoros. Dá para ajustar o volume de cada som e continuar ouvindo YouTube ou Música enquanto descasca.
+How peeling works for you: the peeler, turning speed, counters, carving shapes, and Accessibility.	Como você descasca: o descascador, a velocidade de giro, os contadores, as formas entalhadas e Acessibilidade.
+Save your progress to the cloud with a 6-character code, and send me your ideas in the Suggestions box.	Salve seu progresso na nuvem com um código de 6 caracteres e me mande suas ideias na caixa de sugestões.
+Your stats live here. Only reset if you really mean it, it can't be undone.	Suas estatísticas ficam aqui. Só apague se tiver certeza, não dá para desfazer.
+A little note from me. TaterPeeler stays free with no ads.	Um recadinho meu. O TaterPeeler continua grátis e sem anúncios.
+Credits for the music, the sounds and the art. That's everything, enjoy!	Créditos da música, dos sons e da arte. É isso, divirta-se!
+{0} of {1}	{0} de {1}
+Done	Pronto
+Next	Próximo
+Exit tour	Sair do tour
+TaterPeeler is run by just one person. I've been told I should start running advertisements to make money off of this project. Do not fear, TaterPeeler will stay free and Ad Free for everyone. Including all versions of TaterPeeler. Thanks for supporting this project and me. Expect regular updates, to get notified, add this website to your home screen if not using the app to get notified. To suggest ideas please do submit ideas in the Suggestions box in settings. Thank you for playing.	O TaterPeeler é feito por uma pessoa só. Me disseram que eu deveria começar a colocar anúncios para ganhar dinheiro com este projeto. Pode ficar tranquilo, o TaterPeeler vai continuar grátis e sem anúncios para todo mundo. Incluindo todas as versões do TaterPeeler. Obrigado por apoiar este projeto e a mim. Espere atualizações frequentes; para ser avisado, adicione este site à sua tela inicial se não estiver usando o app. Para sugerir ideias, mande na caixa de sugestões nas configurações. Obrigado por jogar.
+Peeling	Descascar
+Potato landing	Batata caindo
+Taps and buttons	Toques e botões
+Rewards	Recompensas
+Rush clock	Relógio do Rush
+Knife	Faca
+Cutting board	Tábua de corte
+Fryer	Fritadeira
+Salt shaker	Saleiro
+Coins	Moedas
+Screaming potato	Batata que grita
+Show me around	Me mostra tudo
+A quick tour of everything in here	Um tour rápido por tudo que tem aqui
+Pick the game's language	Escolha o idioma do jogo
+Language	Idioma
+Kitchen	Cozinha
+Plain	Lisa
+Your photo	Sua foto
+Background	Fundo
+Pick a kitchen, or use your own photo	Escolha uma cozinha ou use sua própria foto
+Display	Tela
+Dark mode	Modo escuro
+Battery saver	Economia de bateria
+Runs at 30 frames a second	Roda a 30 quadros por segundo
+Screensaver	Protetor de tela
+A bouncing logo after 10 minutes of not playing	Um logo quicando depois de 10 minutos sem jogar
+Sound	Som
+Music volume	Volume da música
+Effects volume	Volume dos efeitos
+Each sound's volume	Volume de cada som
+Turn any one sound up or down	Aumente ou diminua qualquer som
+Hide	Esconder
+Show	Mostrar
+Play alongside other apps	Tocar junto com outros apps
+Keep YouTube or Music playing while you peel	Continue ouvindo YouTube ou Música enquanto descasca
+Show the peeler	Mostrar o descascador
+Hide it to watch the skin come off	Esconda para ver a casca saindo
+Turning speed	Velocidade de giro
+All-time counter	Contador total
+Count every potato you've peeled, not just this session	Conta todas as batatas que você já descascou, não só desta sessão
+Carve shapes	Entalhar formas
+Each potato gets a little shape carved into it	Cada batata ganha uma forminha entalhada
+Spin the potato on menus	Girar a batata nos menus
+Show tips	Mostrar dicas
+How to peel and turn the potato	Como descascar e girar a batata
+Accessibility	Acessibilidade
+Left-handed, two fingers at once, Rush length	Canhoto, dois dedos ao mesmo tempo, duração do Rush
+Cloud save	Salvar na nuvem
+Keep your progress and play on any device	Guarde seu progresso e jogue em qualquer aparelho
+Off	Desligado
+Suggestions box	Caixa de sugestões
+Got an idea for TaterPeeler? Send it to me	Tem uma ideia para o TaterPeeler? Me manda
+Your idea for TaterPeeler	Sua ideia para o TaterPeeler
+Progress	Progresso
+Reset progress	Apagar progresso
+Tap again to erase	Toque de novo para apagar
+Reset	Apagar
+This resets this device. The cloud copy keeps your progress.	Isso apaga este aparelho. A cópia na nuvem guarda seu progresso.
+potatoes peeled	batatas descascadas
+best Rush score	melhor pontuação no Rush
+fries made	batatas fritas feitas
+What's new in 2.0	Novidades da 2.0
+Free forever, and no ads	Grátis para sempre e sem anúncios
+License: CC BY-NC-ND 4.0	Licença: CC BY-NC-ND 4.0
+Licence	Licença
+Original track	Faixa original
+Potato photoscan: Jan Martens, Poly Haven (CC0)	Escaneamento da batata: Jan Martens, Poly Haven (CC0)
+Sound effects: Joseph Sardin, BigSoundBank (CC0)	Efeitos sonoros: Joseph Sardin, BigSoundBank (CC0)
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)	Madeira da tábua: Jenelle van Heerden, Poly Haven (CC0)
+Kitchens: Poly Haven textures and models (CC0)	Cozinhas: texturas e modelos do Poly Haven (CC0)
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.	Este jogo usa recursos e sons livres de direitos autorais. A música é usada sob a licença Creative Commons dela, creditada acima.
+Version {0}	Versão {0}
+Where you peel. The cutting board is always on the counter.	Onde você descasca. A tábua fica sempre na bancada.
+The original look	O visual original
+Tap again to change it	Toque de novo para trocar
+Tap to use it	Toque para usar
+Tap to choose a photo	Toque para escolher uma foto
+This is the biggest update TaterPeeler has had so far. Here's everything that's new in 2.0. Thanks for 300 players!	Esta é a maior atualização que o TaterPeeler já teve. Aqui está tudo que tem de novo na 2.0. Valeu pelos 300 jogadores!
+Online (Beta)	Online (Beta)
+You can play with other people now. Do a quick 1v1, or make a lobby with up to 6 people, public or private. The host picks the mode: race to a number of potatoes, timed, or endless. If the host leaves, the next person who joined takes over. There's quick chat, and typed chat in private lobbies (it's filtered).	Agora dá para jogar com outras pessoas. Faça um 1v1 rápido ou crie um lobby com até 6 pessoas, público ou privado. Quem cria escolhe o modo: corrida até um número de batatas, por tempo ou sem fim. Se o anfitrião sair, o próximo que entrou assume. Tem chat rápido, e chat digitado nos lobbies privados (com filtro).
+Leaderboard	Ranking
+There's a live leaderboard for potatoes peeled, Rush, fries and time played. Save to the cloud to get on it.	Tem um ranking ao vivo de batatas descascadas, Rush, batatas fritas e tempo de jogo. Salve na nuvem para entrar.
+Cloud saves	Salvar na nuvem
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts and everything adds up.	Escolha um código de 6 caracteres e seu progresso fica salvo online. Digite o código em outro aparelho e continue jogando lá. Dá até para juntar duas contas e tudo se soma.
+Seasoning and TaterCoins	Tempero e TaterCoins
+When your fries land in the tray, grab the salt shaker and shake it over them. Not too little, not too much. You earn TaterCoins for how well you cut and seasoned, and rarer potatoes pay more.	Quando as batatas fritas caírem na bandeja, pegue o saleiro e chacoalhe por cima. Nem pouco, nem demais. Você ganha TaterCoins pelo corte e pelo tempero, e batatas mais raras rendem mais.
+The Shop	A loja
+Spend your TaterCoins in the shop (the coin button on the menu). There are 10 skins that go on any peeler, from Cherry all the way up to Diamond.	Gaste suas TaterCoins na loja (o botão da moeda no menu). São 10 skins para qualquer descascador, de Cereja até Diamante.
+Knives	Facas
+New knives unlock the more fries you make. Different colours and looks, all the way to a gold one.	Facas novas são liberadas conforme você faz batatas fritas. Cores e estilos diferentes, até uma de ouro.
+Kitchens	Cozinhas
+The game takes place in a kitchen now, with the cutting board on the counter. There are 12 kitchens to pick from in Settings, or you can use your own photo as the background.	Agora o jogo acontece numa cozinha, com a tábua na bancada. São 12 cozinhas para escolher nas Configurações, ou você pode usar sua própria foto de fundo.
+A ton of new potatoes to find, including Ube. There's also one super rare potato that looks totally normal... until you start peeling it. You'll know when you find it.	Um monte de batatas novas para encontrar, incluindo a ube. Também tem uma batata super rara que parece totalmente normal... até você começar a descascar. Você vai saber quando encontrar.
+4 new peelers	4 descascadores novos
+Wooden, Wire Y, Pro Grip and Julienne. Each one looks different, not just a new colour. The rare ones peel a little faster, nothing crazy.	De madeira, Arame Y, Pro Grip e Julienne. Cada um tem um visual próprio, não só uma cor nova. Os raros descascam um pouco mais rápido, nada exagerado.
+Titles and trophies	Títulos e troféus
+Earn titles like Beginner-Peeler, Pro-Peeler and Master-Fryer, and wear one under the logo. There are trophies for time played too (only peeling and frying counts, not sitting on the menu), plus a bunch of new achievements.	Ganhe títulos como Descascador-Iniciante, Descascador-Pro e Fritador-Mestre, e use um embaixo do logo. Também tem troféus por tempo de jogo (só conta descascar e fritar, não ficar no menu), e várias conquistas novas.
+Take a photo and it gets wrapped around a potato. Find it in the Collection.	Tire uma foto e ela envolve uma batata. Procure na Coleção.
+Left-handed mode, peeling with one finger while turning with another, your own Rush length (like 1:30), and lifetime counters for every peel and cut.	Modo canhoto, descascar com um dedo enquanto gira com outro, sua própria duração do Rush (tipo 1:30) e contadores de todas as descascadas e cortes.
+Every sound has its own volume slider now. And if you're listening to YouTube or music, turn on Play alongside other apps so TaterPeeler doesn't stop it.	Agora cada som tem seu próprio controle de volume. E se você estiver ouvindo YouTube ou música, ative Tocar junto com outros apps para o TaterPeeler não parar.
+Languages	Idiomas
+TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish and Turkish now, plus a Pirate language.	O TaterPeeler agora fala chinês, espanhol (os dois), russo, português, alemão, japonês, francês, coreano, polonês e turco, e ainda um idioma pirata.
+Other stuff	Outras coisas
+A Show me around button in Settings, a Suggestions box so you can send me ideas, an all-time counter, carved shapes inside the potato if you want them, and a screensaver if you leave the game alone for a while.	Um botão Me mostra tudo nas Configurações, uma caixa de sugestões para você me mandar ideias, um contador total, formas entalhadas na batata se quiser e um protetor de tela se deixar o jogo parado um tempo.
+Fixes	Correções
+Pushing the potato off the board at the fry station doesn't break it anymore, a new one just drops in. Text is easy to read on every background, the peeler doesn't go through the cutting board, and older iPads run smoother.	Derrubar a batata da tábua na fritadeira não quebra mais nada, só cai uma nova. O texto fica legível em qualquer fundo, o descascador não atravessa mais a tábua e iPads mais antigos rodam mais liso.
+Everything you had before is still there, nothing got reset. Thanks for playing.	Tudo que você tinha continua lá, nada foi apagado. Valeu por jogar.
+What's new	Novidades
+IT HIT THE CORNER!	BATEU NO CANTO!
+Tap anywhere to keep peeling	Toque em qualquer lugar para continuar descascando
++{0} fry	+{0} batata frita
++{0} fries	+{0} batatas fritas
+Wait... is that potato SCREAMING?	Peraí... essa batata está GRITANDO?
+Classic White	Branco clássico
+Farmhouse	Casa de fazenda
+Midnight	Meia-noite
+Retro Diner	Lanchonete retrô
+Tuscan Sun	Sol da Toscana
+Scandinavian	Escandinava
+Industrial Loft	Loft industrial
+Seaside	Beira-mar
+Navy & Brass	Marinho e latão
+Garden Window	Janela do jardim
+Pastel Pop	Pastel pop
+Cozy Cabin	Cabana aconchegante
+Race	Corrida
+Timed	Por tempo
+Endless	Sem fim
+Good luck!	Boa sorte!
+GG!	GG!
+Nice one!	Mandou bem!
+Ready?	Prontos?
+Wow!	Uau!
+Rematch?	Revanche?
+So close!	Foi por pouco!
+Let's go!	Bora!
+Couldn't reach the server. Check your internet	Não deu para conectar ao servidor. Confira sua internet
+No lobby with that code	Nenhum lobby com esse código
+That lobby is full	Esse lobby está cheio
+That match already started. Try again when it's over	Essa partida já começou. Tente quando acabar
+You can't play online right now	Você não pode jogar online agora
+Slow down a little and try again	Calma, tente de novo
+Typed chat is only in private lobbies	Chat digitado só nos lobbies privados
+Something went wrong, try again	Algo deu errado, tente de novo
+Peeler	Descascador
+Your name in online games	Seu nome nas partidas online
+You left the lobby	Você saiu do lobby
+Lost the connection to the lobby	A conexão com o lobby caiu
+Quick 1v1	1v1 rápido
+Create a lobby	Criar um lobby
+Join with a code	Entrar com código
+The lobby's code	O código do lobby
+Public lobbies	Lobbies públicos
+None open right now. Make one, or try Quick 1v1	Nenhum aberto agora. Crie um ou tente um 1v1 rápido
+Looking...	Procurando...
+{0}'s lobby	Lobby de {0}
+Race to {0}	Corrida até {0}
+Timed, {0}	Por tempo, {0}
+Public lobby, code	Lobby público, código
+Private lobby. Share this code	Lobby privado. Compartilhe este código
+Players	Jogadores
+{0} (you)	{0} (você)
+Match	Partida
+{0} potatoes	{0} batatas
+Public	Público
+Anyone can find it in the list	Qualquer um pode achar na lista
+Start the match	Começar a partida
+Waiting for someone to join...	Esperando alguém entrar...
+Race: first to {0} potatoes wins	Corrida: vence quem chegar primeiro a {0} batatas
+Timed: most potatoes in {0}	Por tempo: mais batatas em {0}
+Endless: peel until the host ends it	Sem fim: descasque até o anfitrião encerrar
+Waiting for the host to start	Esperando o anfitrião começar
+Match over	Fim da partida
+Starting...	Começando...
+Chat	Chat
+Say hi!	Dá um oi!
+Type a message	Digite uma mensagem
+Message	Mensagem
+Typed chat is only in private lobbies.	Chat digitado só nos lobbies privados.
+Leave lobby	Sair do lobby
+Lobby	Lobby
+First to {0}	Primeiro a {0}
+You win!	Você venceu!
+{0} potato	{0} batata
+Lobby codes are 5 letters	Códigos de lobby têm 5 letras
+Update 2.0 is now out! Here's what's new!	A atualização 2.0 chegou! Veja as novidades!
+Thanks for 300 players! I'll keep updating this periodically.	Valeu pelos 300 jogadores! Vou continuar atualizando de tempos em tempos.
+View what's new	Ver novidades
+Dismiss	Fechar
+Message from {0}	Mensagem de {0}
+Couldn't reach the server. Check your internet and try again	Não deu para conectar ao servidor. Confira sua internet e tente de novo
+That code is already taken, try another one	Esse código já está em uso, tente outro
+Codes are 6 letters or numbers	Códigos têm 6 letras ou números
+Try a different name	Tente outro nome
+Too many tries. Wait a couple of minutes	Tentativas demais. Espere uns minutinhos
+No progress is saved with that code	Nenhum progresso salvo com esse código
+That's this account's own code	Esse é o código desta mesma conta
+This device isn't linked anymore	Este aparelho não está mais vinculado
+That save is too big	Esse save é grande demais
+That one's taken. Pick another 6-character code	Esse já está em uso. Escolha outro código de 6 caracteres
+Saved to the cloud! Your code is {0}	Salvo na nuvem! Seu código é {0}
+This device already has {0} potato peeled. Add this device's progress to the account, or switch to the account's progress?	Este aparelho já tem {0} batata descascada. Somar o progresso deste aparelho à conta, ou trocar para o progresso da conta?
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?	Este aparelho já tem {0} batatas descascadas. Somar o progresso deste aparelho à conta, ou trocar para o progresso da conta?
+Combine progress?	Juntar o progresso?
+Combine	Juntar
+Use the account's	Usar o da conta
+Accounts combined! Everything adds up now	Contas juntadas! Agora tudo se soma
+Name changed	Nome alterado
+Thanks! Andres reads every suggestion	Valeu! O Andres lê cada sugestão
+That's a lot of ideas! Try again in a bit	Quanta ideia! Tente de novo daqui a pouco
+Write a little more first	Escreva um pouco mais antes
+Time played	Tempo de jogo
+BETA	BETA
+Keep your progress safe and play on any device. You pick a 6-character code, and that code loads your potatoes, coins and everything else anywhere. Anyone with your code can load your progress, so keep it to yourself.	Proteja seu progresso e jogue em qualquer aparelho. Você escolhe um código de 6 caracteres, e esse código carrega suas batatas, moedas e todo o resto em qualquer lugar. Quem tiver seu código pode carregar seu progresso, então guarde só para você.
+Create my code	Criar meu código
+Pick a 6-character code (letters and numbers)	Escolha um código de 6 caracteres (letras e números)
+I have a code	Já tenho um código
+Type your 6-character code	Digite seu código de 6 caracteres
+Your code	Seu código
+No name (Anonymous peeler on the leaderboard)	Sem nome (Descascador anônimo no ranking)
+Offline right now. It syncs when you're back online	Offline agora. Sincroniza quando você voltar a ficar online
+Syncing...	Sincronizando...
+Synced just now	Sincronizado agora mesmo
+Synced {0} ago	Sincronizado há {0}
+Sync now	Sincronizar agora
+Change name	Mudar nome
+Add a name	Adicionar um nome
+Your name on the leaderboard	Seu nome no ranking
+Combine another account	Juntar outra conta
+The other account's 6-character code	O código de 6 caracteres da outra conta
+Unlink this device	Desvincular este aparelho
+Unlink this device?	Desvincular este aparelho?
+Your progress stays on this device and in the cloud. You can link again any time with your code.	Seu progresso continua neste aparelho e na nuvem. Dá para vincular de novo quando quiser com seu código.
+Unlink	Desvincular
+Cancel	Cancelar
+Codes are exactly 6 letters or numbers	Códigos têm exatamente 6 letras ou números
+Your name for the leaderboard (optional)	Seu nome para o ranking (opcional)
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too.	Tudo de {0} é somado a esta conta (batatas, moedas, batatas fritas, tudo). Depois disso, aquele código também abre esta conta.
+Combine accounts?	Juntar contas?
+Linked! This device now uses {0}	Vinculado! Este aparelho agora usa {0}
+This device is unlinked	Este aparelho foi desvinculado
+{0} player online	{0} jogador online
+{0} players online	{0} jogadores online
+Connecting...	Conectando...
+Offline. Online features need the internet	Offline. Os recursos online precisam de internet
+Play together	Jogar junto
+Loading...	Carregando...
+Couldn't load the leaderboard	Não deu para carregar o ranking
+Nobody's here yet. Be the first!	Ninguém aqui ainda. Seja o primeiro!
+You're #{0} with {1}	Você está em #{0} com {1}
+To get on the leaderboard, save your progress to the cloud. It only takes a code.	Para entrar no ranking, salve seu progresso na nuvem. Só precisa de um código.
+Save to the cloud	Salvar na nuvem
+Cherry	Cereja
+Ocean	Oceano
+Mint	Menta
+Lavender	Lavanda
+Sunshine	Sol
+Midnight Matte	Meia-noite fosco
+Bubblegum	Chiclete
+Chrome	Cromado
+Rose Gold	Ouro rosé
+Diamond	Diamante
+Chef's Knife	Faca de chef
+Red Handle	Cabo vermelho
+Ocean Blue	Azul oceano
+Walnut	Nogueira
+Mint Pro	Menta Pro
+Black Steel	Aço preto
+Copper	Cobre
+Gold	Ouro
+No salt	Sem sal
+A little more salt next time	Um pouco mais de sal da próxima vez
+Way too salty!	Salgado demais!
+Seasoned just right!	Tempero no ponto!
++{0} TaterCoins. {1}	+{0} TaterCoins. {1}
+Salt	Sal
+Shake the salt over the fries	Chacoalhe o sal sobre as batatas fritas
+Serve	Servir
+Coming soon	Em breve
+TaterCoins. Earn them by frying: cut well, season just right, and rarer potatoes pay more.	TaterCoins. Ganhe fritando: corte bem, tempere no ponto, e batatas mais raras rendem mais.
+Peeler skins	Skins de descascador
+A skin changes the colour of whichever peeler you use.	Uma skin muda a cor do descascador que você estiver usando.
+Buy {0} for {1} TaterCoins?	Comprar {0} por {1} TaterCoins?
+It goes on whichever peeler you use, and you can switch any time.	Ela vai no descascador que você usar, e dá para trocar quando quiser.
+Buy it	Comprar
+Not now	Agora não
+You need {0} more TaterCoins. Fry some potatoes!	Faltam {0} TaterCoins. Frite umas batatas!
+Original	Original
+Wearing	Em uso
+Tap to wear	Toque para usar
+New knives unlock as you make fries. You've made {0}.	Facas novas são liberadas conforme você faz batatas fritas. Você já fez {0}.
+Make {0} more fries to unlock it	Faça mais {0} batatas fritas para liberar
+{0} fries	{0} batatas fritas
+Shop	Loja
+{0} is yours!	{0} é sua!
+Playing	Jogando
+Left-handed	Canhoto
+The buttons and the resting peeler move to the other side	Os botões e o descascador em repouso vão para o outro lado
+Peel and turn at once	Descascar e girar ao mesmo tempo
+One finger peels while another turns the potato	Um dedo descasca enquanto outro gira a batata
+Rush length	Duração do Rush
+Best scores are kept for every length together.	Os recordes valem para todas as durações juntas.
+Lifetime	Total
+peel strokes	descascadas
+knife cuts	cortes de faca
+Chinese (Simplified)	Chinês (simplificado)
+Spanish (Latin America)	Espanhol (América Latina)
+Spanish (Spain)	Espanhol (Espanha)
+Russian	Russo
+Portuguese (Brazil)	Português (Brasil)
+German	Alemão
+Japanese	Japonês
+French	Francês
+Korean	Coreano
+Polish	Polonês
+Turkish	Turco
+Pirate, for fun	Pirata, só de brincadeira
+Names, chat and messages from other players stay the way they wrote them.	Nomes, chat e mensagens de outros jogadores ficam do jeito que foram escritos.
+Music: “Echoes in Blue” by Tokyo Music Walker	Música: “Echoes in Blue” de Tokyo Music Walker
+Baked Potato	Batata assada
+Who baked this?	Quem assou isso?
+Find the Baked Potato	Encontre a batata assada
+Careful, it's hot!	Cuidado, está quente!
+Tin foil	Papel-alumínio
+Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Super rara. Ela cai ainda embrulhada em papel-alumínio, se desembrulha sozinha e solta vapor. A casca é crocante, então sai em lascas.

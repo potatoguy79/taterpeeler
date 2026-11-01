@@ -1,0 +1,564 @@
+# TaterPeeler: tr
+Common	Sıradan
+Uncommon	Nadir olmayan
+Rare	Nadir
+Epic	Epik
+Legendary	Efsanevi
+Potato #1,000	1.000. Patates
+Sweet Potato	Tatlı Patates
+Japanese Sweet	Japon Tatlı Patatesi
+Okinawan Sweet	Okinawa Tatlı Patatesi
+Rainbow Potato	Gökkuşağı Patatesi
+Golden Potato	Altın Patates
+Screaming Potato	Çığlık Atan Patates
+Black	Siyah
+Red	Kırmızı
+Yellow	Sarı
+Olive	Zeytin
+Lime	Misket Limonu
+Golden	Altın
+Wooden	Ahşap
+Wire Y	Tel Y
+Pro Grip	Pro Grip
+Julienne	Jülyen
+First Peel	İlk Soyma
+Spud Buddy	Patates Kankası
+TaterPeeler Legend	TaterPeeler Efsanesi
+Long Peel	Uzun Kabuk
+Speed Peeler	Hızlı Soyucu
+Rush Hour	Yoğun Saat
+Taste the Rainbow	Gökkuşağını Tat
+Full Collection	Tam Koleksiyon
+Nice	Nice
+Fry Cook	Kızartmacı
+Shoestring	Kibrit Patates
+Clean Station	Tertemiz Tezgâh
+Pure Tater	Saf Patates
+Spud Century	Patates Asrı
+Sack of Spuds	Bir Çuval Patates
+Tater Titan	Patates Titanı
+Marathon	Maraton
+Variety Pack	Çeşit Paketi
+Epic Find	Epik Bulgu
+Milestone	Dönüm Noktası
+Mega Peel	Mega Kabuk
+Lightning Peeler	Şimşek Soyucu
+Rush Royalty	Rush Kraliyeti
+Expert Fryer	Usta Kızartmacı
+Fry Legend	Fritöz Efsanesi
+Night Shift	Gece Vardiyası
+New Kitchen	Yeni Mutfak
+Peeler Collection	Soyacak Koleksiyonu
+Online Champion	Online Şampiyon
+That Could've Been for Starving Children	O Patates Aç Çocuklara Gidebilirdi
+Perfectly Seasoned	Tam Kıvamında
+Scream Team	Çığlık Takımı
+Purple Reign	Mor Saltanat
+Big Spender	Savurgan
+Spud Banker	Patates Bankacısı
+Head in the Clouds	Kafası Bulutlarda
+Knife Collector	Bıçak Koleksiyoncusu
+Your Own Spud	Kendi Patatesin
+Peel your first potato	İlk patatesini soy
+Peel 25 potatoes	25 patates soy
+Peel 1,000 potatoes	1.000 patates soy
+Peel one strip 25 cm long	25 cm uzunluğunda tek şerit soy
+Peel a whole potato in under 12 seconds	Bir patatesin tamamını 12 saniyeden kısa sürede soy
+Score 1,500 in one Rush	Tek Rush'ta 1.500 puan yap
+Find the Rainbow Potato	Gökkuşağı Patatesi'ni bul
+Find every everyday variety	Tüm sıradan çeşitleri bul
+Peel potato number 69	69 numaralı patatesi soy
+Serve your first fries	İlk patates kızartmanı servis et
+Cut 40 fries from one potato	Tek patatesten 40 parmak kes
+Scrape every crumb into the fryer, then serve	Her kırıntıyı fritöze süpür, sonra servis et
+Put a whole potato in the fryer	Fritöze bütün bir patates at
+Peel 100 potatoes	100 patates soy
+Peel 500 potatoes	500 patates soy
+Peel 2,500 potatoes	2.500 patates soy
+Peel 25 potatoes without stopping	Durmadan 25 patates soy
+Find 20 different varieties	20 farklı çeşit bul
+Peel an Epic potato	Epik bir patates soy
+Peel a potato with a number carved in it	Üzerine numara oyulmuş bir patates soy
+Peel one strip 40 cm long	40 cm uzunluğunda tek şerit soy
+Peel a whole potato in under 7 seconds	Bir patatesin tamamını 7 saniyeden kısa sürede soy
+Score 3,000 in one Rush	Tek Rush'ta 3.000 puan yap
+Fry 25 potatoes	25 patates kızart
+Fry 100 potatoes	100 patates kızart
+Peel a potato in dark mode	Karanlık modda bir patates soy
+Pick a new kitchen in Settings	Ayarlar'dan yeni bir mutfak seç
+Unlock every peeler	Tüm soyacakların kilidini aç
+Win a match online	Online bir maç kazan
+Knock a potato off the board	Bir patatesi tahtadan düşür
+Season a batch of fries just right	Bir porsiyon patates kızartmasını tam kıvamında tuzla
+Find the Screaming Potato	Çığlık Atan Patates'i bul
+Find the Ube potato	Ube patatesini bul
+Buy something in the shop	Mağazadan bir şey satın al
+Earn 1,000 TaterCoins	1.000 TaterCoin kazan
+Save your progress to the cloud	İlerlemeni buluta kaydet
+Unlock every knife	Tüm bıçakların kilidini aç
+Peel a potato made from your own photo	Kendi fotoğrafından yapılmış bir patates soy
+Warming Up	Isınma
+Half Hour Hero	Yarım Saat Kahramanı
+Hour of Power	Güç Saati
+Couch Potato	Kanepe Patatesi
+Spud Devotee	Patates Tutkunu
+Peel Machine	Soyma Makinesi
+Around the Clock	Gece Gündüz
+Play for 10 minutes	10 dakika oyna
+Play for 30 minutes	30 dakika oyna
+Play for 1 hour	1 saat oyna
+Play for 2 hours	2 saat oyna
+Play for 5 hours	5 saat oyna
+Play for 10 hours	10 saat oyna
+Play for 24 hours	24 saat oyna
+Beginner-Peeler	Acemi-Soyucu
+Rookie-Peeler	Çaylak-Soyucu
+Pro-Peeler	Pro-Soyucu
+Expert-Peeler	Uzman-Soyucu
+Master-Peeler	Usta-Soyucu
+Legendary-Peeler	Efsane-Soyucu
+Beginner-Fryer	Acemi-Kızartmacı
+Expert-Fryer	Uzman-Kızartmacı
+Master-Fryer	Usta-Kızartmacı
+Speed-Peeler	Hızlı-Soyucu
+Rush-Champion	Rush-Şampiyonu
+Spud-Collector	Patates-Koleksiyoncusu
+Rainbow-Hunter	Gökkuşağı-Avcısı
+Night-Owl	Gece-Kuşu
+Couch-Potato	Kanepe-Patatesi
+Peel-Machine	Soyma-Makinesi
+Long peel +{0}	Uzun kabuk +{0}
+Long peel, {0} cm	Uzun kabuk, {0} cm
+You unlocked the Golden peeler	Altın soyacağın kilidini açtın
+You unlocked the legendary Lime peeler	Efsanevi misket limonu soyacağın kilidini açtın
+You unlocked the rare {0} peeler	Nadir {0} soyacağın kilidini açtın
+You unlocked the {0} peeler	{0} soyacağın kilidini açtın
+potatoes peeled. You are a TaterPeeler legend.	patates soyuldu. Sen bir TaterPeeler efsanesisin.
+potatoes peeled! The fry station is open.	patates soyuldu! Kızartma istasyonu açıldı.
+potatoes peeled!	patates soyuldu!
+Potato number 1,000!	1.000. patates!
+A rainbow potato!	Bir gökkuşağı patatesi!
+Nice!	Nice!
+Achievement: {0}	Başarım: {0}
+Trophy: {0}	Kupa: {0}
+New title: {0}	Yeni unvan: {0}
+{0} cm	{0} cm
+Fries	Kızartma
+Cut and fry	Kes ve kızart
+Unlocks at {0}	{0} ile açılır
+Peel {0} more potato to open the fry station	Kızartma istasyonunu açmak için {0} patates daha soy
+Peel {0} more potatoes to open the fry station	Kızartma istasyonunu açmak için {0} patates daha soy
+Made by Andres Campos	Andres Campos tarafından yapıldı
+{0} potato peeled	{0} patates soyuldu
+{0} potatoes peeled	{0} patates soyuldu
+A potato, a peeler, and you	Bir patates, bir soyacak ve sen
+New update! Click here for more info	Yeni güncelleme! Daha fazlası için tıkla
+New update! Tap here for more info	Yeni güncelleme! Daha fazlası için dokun
+Download	İndir
+Best {0}	En iyi {0}
+60 seconds	60 saniye
+Peel	Soy
+No timer	Süresiz
+Rush	Rush
+Collection	Koleksiyon
+Settings	Ayarlar
+Online	Online
+Your potato	Senin patatesin
+Potato #{0}	Patates #{0}
+From your photo	Fotoğrafından
+potato, all time	patates, toplam
+potatoes, all time	patates, toplam
+longest peel	en uzun kabuk
+Drag across the potato to peel it	Soymak için patatesin üzerinde sürükle
+Drag the empty space around it to turn it	Çevirmek için etrafındaki boşlukta sürükle
+Slice it into planks	Dilimlere ayır
+Slice the stack into fries	Yığını parmak parmak kes
+Scrape them into the fryer	Fritöze süpür
+Frying	Kızarıyor
+Stacking the planks	Dilimler diziliyor
+Here comes a potato	İşte bir patates geliyor
+Fries are up	Kızartmalar hazır
+potato fried	patates kızartıldı
+potatoes fried	patates kızartıldı
+Swipe down to cut, or tap to chop. Move along for the next slice.	Kesmek için aşağı kaydır ya da doğramak için dokun. Sonraki dilim için ilerle.
+Click to chop where the knife is, or drag down to slice	Bıçağın olduğu yeri doğramak için tıkla ya da dilimlemek için aşağı sürükle
+{0} piece is still too thick	{0} parça hâlâ çok kalın
+{0} pieces are still too thick	{0} parça hâlâ çok kalın
+Lay the blade flat: swipe sideways to push everything off the right edge	Bıçağı yatır: her şeyi sağ kenardan itmek için yana kaydır
+Drag sideways to sweep everything off the right edge	Her şeyi sağ kenardan süpürmek için yana sürükle
+Paused	Duraklatıldı
+Resume	Devam et
+Restart	Yeniden başla
+Back to the lobby	Lobiye dön
+The match keeps going	Maç devam ediyor
+Quit to menu	Menüye çık
+Music	Müzik
+Sound effects	Ses efektleri
+Time’s up	Süre doldu
+New best	Yeni rekor
+potato	patates
+potatoes	patates
+Play again	Tekrar oyna
+Menu	Menü
+{0} h {1} min	{0} sa {1} dk
+{0} h	{0} sa
+{0} min	{0} dk
+Peelers	Soyacaklar
+Peel more potatoes to unlock new ones. Wider blades peel faster.	Yenilerini açmak için daha çok patates soy. Geniş bıçaklar daha hızlı soyar.
+In use	Kullanılıyor
+Tap to use	Kullan
+Your own potato	Kendi patatesin
+Your photo, wrapped round a potato	Fotoğrafın, bir patatese sarılı
+Pick a photo and it gets wrapped round a potato	Bir fotoğraf seç, bir patatese sarılsın
+Change photo	Fotoğrafı değiştir
+Choose a photo	Fotoğraf seç
+Peel it	Soy onu
+{0} of {1} found	{1} içinden {0} bulundu
+Potatoes	Patatesler
+Not found yet	Henüz bulunmadı
+{0} peeled	{0} soyuldu
+{0} of {1} unlocked. Tap one to wear it under the logo.	{1} içinden {0} açıldı. Logonun altında taşımak için birine dokun.
+Titles	Unvanlar
+Wearing it. Tap to take it off	Taşıyorsun. Çıkarmak için dokun
+{0} of {1} earned	{1} içinden {0} kazanıldı
+Achievements	Başarımlar
+{0} of {1} earned. Time spent peeling and frying: {2}	{1} içinden {0} kazanıldı. Soyarak ve kızartarak geçen süre: {2}
+Trophies	Kupalar
+Pick where you peel. There are 12 kitchens, or you can use your own photo.	Nerede soyacağını seç. 12 mutfak var ya da kendi fotoğrafını kullanabilirsin.
+Dark mode, battery saver, and a screensaver with a bouncing logo if you leave it alone for a while.	Karanlık mod, pil tasarrufu ve oyunu bir süre bırakırsan zıplayan logolu bir ekran koruyucu.
+Music and sound effects. You can set every single sound's volume, and keep YouTube or Music playing while you peel.	Müzik ve ses efektleri. Her bir sesin seviyesini ayarlayabilir, soyarken YouTube'u ya da Müzik'i çalmaya devam ettirebilirsin.
+How peeling works for you: the peeler, turning speed, counters, carving shapes, and Accessibility.	Nasıl soyduğun: soyacak, dönme hızı, sayaçlar, oyulmuş şekiller ve Erişilebilirlik.
+Save your progress to the cloud with a 6-character code, and send me your ideas in the Suggestions box.	İlerlemeni 6 karakterli bir kodla buluta kaydet ve fikirlerini Öneri kutusundan bana gönder.
+Your stats live here. Only reset if you really mean it, it can't be undone.	İstatistiklerin burada. Gerçekten istiyorsan sıfırla, geri alınamaz.
+A little note from me. TaterPeeler stays free with no ads.	Benden küçük bir not. TaterPeeler ücretsiz ve reklamsız kalacak.
+Credits for the music, the sounds and the art. That's everything, enjoy!	Müzik, sesler ve görseller için teşekkürler. Hepsi bu, iyi eğlenceler!
+{0} of {1}	{0} / {1}
+Done	Bitti
+Next	İleri
+Exit tour	Turdan çık
+TaterPeeler is run by just one person. I've been told I should start running advertisements to make money off of this project. Do not fear, TaterPeeler will stay free and Ad Free for everyone. Including all versions of TaterPeeler. Thanks for supporting this project and me. Expect regular updates, to get notified, add this website to your home screen if not using the app to get notified. To suggest ideas please do submit ideas in the Suggestions box in settings. Thank you for playing.	TaterPeeler'ı tek bir kişi yapıyor. Bu projeden para kazanmak için reklam koymam gerektiği söylendi. Endişelenme, TaterPeeler herkes için ücretsiz ve reklamsız kalacak. TaterPeeler'ın tüm sürümleri dahil. Bu projeyi ve beni desteklediğin için teşekkürler. Düzenli güncellemeler bekle; haberdar olmak için uygulamayı kullanmıyorsan bu siteyi ana ekranına ekle. Fikir önermek için lütfen ayarlardaki Öneri kutusunu kullan. Oynadığın için teşekkürler.
+Peeling	Soyma
+Potato landing	Patatesin düşüşü
+Taps and buttons	Dokunuşlar ve düğmeler
+Rewards	Ödüller
+Rush clock	Rush saati
+Knife	Bıçak
+Cutting board	Kesme tahtası
+Fryer	Fritöz
+Salt shaker	Tuzluk
+Coins	Paralar
+Screaming potato	Çığlık atan patates
+Show me around	Bana etrafı göster
+A quick tour of everything in here	Buradaki her şeyin hızlı bir turu
+Pick the game's language	Oyunun dilini seç
+Language	Dil
+Kitchen	Mutfak
+Plain	Sade
+Your photo	Fotoğrafın
+Background	Arka plan
+Pick a kitchen, or use your own photo	Bir mutfak seç ya da kendi fotoğrafını kullan
+Display	Görünüm
+Dark mode	Karanlık mod
+Battery saver	Pil tasarrufu
+Runs at 30 frames a second	Saniyede 30 karede çalışır
+Screensaver	Ekran koruyucu
+A bouncing logo after 10 minutes of not playing	10 dakika oynamayınca zıplayan bir logo
+Sound	Ses
+Music volume	Müzik sesi
+Effects volume	Efekt sesi
+Each sound's volume	Her sesin seviyesi
+Turn any one sound up or down	Herhangi bir sesi aç ya da kıs
+Hide	Gizle
+Show	Göster
+Play alongside other apps	Diğer uygulamalarla birlikte çal
+Keep YouTube or Music playing while you peel	Soyarken YouTube ya da Müzik çalmaya devam etsin
+Show the peeler	Soyacağı göster
+Hide it to watch the skin come off	Kabuğun çıkışını izlemek için gizle
+Turning speed	Dönme hızı
+All-time counter	Tüm zamanlar sayacı
+Count every potato you've peeled, not just this session	Sadece bu oturumu değil, soyduğun her patatesi sayar
+Carve shapes	Şekil oy
+Each potato gets a little shape carved into it	Her patatese küçük bir şekil oyulur
+Spin the potato on menus	Menülerde patatesi döndür
+Show tips	İpuçlarını göster
+How to peel and turn the potato	Patates nasıl soyulur ve çevrilir
+Accessibility	Erişilebilirlik
+Left-handed, two fingers at once, Rush length	Solak, aynı anda iki parmak, Rush süresi
+Cloud save	Bulut kaydı
+Keep your progress and play on any device	İlerlemeni koru ve her cihazda oyna
+Off	Kapalı
+Suggestions box	Öneri kutusu
+Got an idea for TaterPeeler? Send it to me	TaterPeeler için bir fikrin mi var? Bana gönder
+Your idea for TaterPeeler	TaterPeeler için fikrin
+Progress	İlerleme
+Reset progress	İlerlemeyi sıfırla
+Tap again to erase	Silmek için tekrar dokun
+Reset	Sıfırla
+This resets this device. The cloud copy keeps your progress.	Bu, bu cihazı sıfırlar. Buluttaki kopya ilerlemeni korur.
+potatoes peeled	patates soyuldu
+best Rush score	en iyi Rush puanı
+fries made	patates kızartması yapıldı
+What's new in 2.0	2.0'daki yenilikler
+Free forever, and no ads	Sonsuza dek ücretsiz ve reklamsız
+License: CC BY-NC-ND 4.0	Lisans: CC BY-NC-ND 4.0
+Licence	Lisans
+Original track	Orijinal parça
+Potato photoscan: Jan Martens, Poly Haven (CC0)	Patates taraması: Jan Martens, Poly Haven (CC0)
+Sound effects: Joseph Sardin, BigSoundBank (CC0)	Ses efektleri: Joseph Sardin, BigSoundBank (CC0)
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)	Kesme tahtası ahşabı: Jenelle van Heerden, Poly Haven (CC0)
+Kitchens: Poly Haven textures and models (CC0)	Mutfaklar: Poly Haven dokuları ve modelleri (CC0)
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.	Bu oyun telif hakkından muaf görseller ve sesler kullanır. Müzik, yukarıda belirtilen Creative Commons lisansıyla kullanılmaktadır.
+Version {0}	Sürüm {0}
+Where you peel. The cutting board is always on the counter.	Nerede soyduğun. Kesme tahtası her zaman tezgâhın üstünde.
+The original look	Orijinal görünüm
+Tap again to change it	Değiştirmek için tekrar dokun
+Tap to use it	Kullanmak için dokun
+Tap to choose a photo	Fotoğraf seçmek için dokun
+This is the biggest update TaterPeeler has had so far. Here's everything that's new in 2.0. Thanks for 300 players!	Bu, TaterPeeler'ın şimdiye kadarki en büyük güncellemesi. İşte 2.0'daki tüm yenilikler. 300 oyuncu için teşekkürler!
+Online (Beta)	Online (Beta)
+You can play with other people now. Do a quick 1v1, or make a lobby with up to 6 people, public or private. The host picks the mode: race to a number of potatoes, timed, or endless. If the host leaves, the next person who joined takes over. There's quick chat, and typed chat in private lobbies (it's filtered).	Artık başkalarıyla oynayabilirsin. Hızlı bir 1v1 yap ya da 6 kişiye kadar, herkese açık veya özel bir lobi kur. Modu kurucu seçer: belli sayıda patatese yarış, süreli ya da sonsuz. Kurucu ayrılırsa, sonra katılan kişi devralır. Hızlı sohbet var, özel lobilerde de yazılı sohbet var (filtreli).
+Leaderboard	Sıralama
+There's a live leaderboard for potatoes peeled, Rush, fries and time played. Save to the cloud to get on it.	Soyulan patates, Rush, kızartma ve oyun süresi için canlı bir sıralama var. Girmek için buluta kaydet.
+Cloud saves	Bulut kayıtları
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts and everything adds up.	6 karakterli bir kod seç, ilerlemen online kaydedilsin. Kodu başka bir cihaza yaz ve orada oynamaya devam et. İki hesabı birleştirebilirsin bile, her şey toplanır.
+Seasoning and TaterCoins	Tuzlama ve TaterCoin
+When your fries land in the tray, grab the salt shaker and shake it over them. Not too little, not too much. You earn TaterCoins for how well you cut and seasoned, and rarer potatoes pay more.	Kızartmaların tepsiye düşünce tuzluğu al ve üzerlerine salla. Ne az ne çok. Ne kadar iyi kestiğine ve tuzladığına göre TaterCoin kazanırsın, nadir patatesler daha çok kazandırır.
+The Shop	Mağaza
+Spend your TaterCoins in the shop (the coin button on the menu). There are 10 skins that go on any peeler, from Cherry all the way up to Diamond.	TaterCoin'lerini mağazada harca (menüdeki para düğmesi). Her soyacağa takılan 10 kaplama var, Kiraz'dan Elmas'a kadar.
+Knives	Bıçaklar
+New knives unlock the more fries you make. Different colours and looks, all the way to a gold one.	Kızartma yaptıkça yeni bıçakların kilidi açılır. Farklı renkler ve görünümler, altın bir bıçağa kadar.
+Kitchens	Mutfaklar
+The game takes place in a kitchen now, with the cutting board on the counter. There are 12 kitchens to pick from in Settings, or you can use your own photo as the background.	Oyun artık bir mutfakta geçiyor, kesme tahtası tezgâhın üstünde. Ayarlar'da seçebileceğin 12 mutfak var ya da arka plan olarak kendi fotoğrafını kullanabilirsin.
+A ton of new potatoes to find, including Ube. There's also one super rare potato that looks totally normal... until you start peeling it. You'll know when you find it.	Ube dahil bulunacak bir sürü yeni patates. Bir de tamamen normal görünen süper nadir bir patates var... ta ki soymaya başlayana kadar. Bulduğunda anlarsın.
+4 new peelers	4 yeni soyacak
+Wooden, Wire Y, Pro Grip and Julienne. Each one looks different, not just a new colour. The rare ones peel a little faster, nothing crazy.	Ahşap, Tel Y, Pro Grip ve Jülyen. Her biri farklı görünüyor, sadece yeni bir renk değil. Nadir olanlar biraz daha hızlı soyar, abartısız.
+Titles and trophies	Unvanlar ve kupalar
+Earn titles like Beginner-Peeler, Pro-Peeler and Master-Fryer, and wear one under the logo. There are trophies for time played too (only peeling and frying counts, not sitting on the menu), plus a bunch of new achievements.	Acemi-Soyucu, Pro-Soyucu ve Usta-Kızartmacı gibi unvanlar kazan, birini logonun altında taşı. Oyun süresi için de kupalar var (sadece soyma ve kızartma sayılır, menüde oturmak değil), bir de bir sürü yeni başarım.
+Take a photo and it gets wrapped around a potato. Find it in the Collection.	Bir fotoğraf çek, bir patatese sarılsın. Koleksiyon'da bulabilirsin.
+Left-handed mode, peeling with one finger while turning with another, your own Rush length (like 1:30), and lifetime counters for every peel and cut.	Solak modu, bir parmakla soyarken diğeriyle çevirme, kendi Rush süren (1:30 gibi) ve her soyma ile kesim için ömür boyu sayaçlar.
+Every sound has its own volume slider now. And if you're listening to YouTube or music, turn on Play alongside other apps so TaterPeeler doesn't stop it.	Artık her sesin kendi ses kaydırıcısı var. YouTube ya da müzik dinliyorsan, TaterPeeler onu durdurmasın diye Diğer uygulamalarla birlikte çal'ı aç.
+Languages	Diller
+TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish and Turkish now, plus a Pirate language.	TaterPeeler artık Çince, İspanyolca (iki türü de), Rusça, Portekizce, Almanca, Japonca, Fransızca, Korece, Lehçe ve Türkçe konuşuyor, bir de Korsan dili var.
+Other stuff	Diğer şeyler
+A Show me around button in Settings, a Suggestions box so you can send me ideas, an all-time counter, carved shapes inside the potato if you want them, and a screensaver if you leave the game alone for a while.	Ayarlar'da bir Bana etrafı göster düğmesi, bana fikir gönderebilmen için bir Öneri kutusu, bir tüm zamanlar sayacı, istersen patatesin içine oyulmuş şekiller ve oyunu bir süre bırakırsan bir ekran koruyucu.
+Fixes	Düzeltmeler
+Pushing the potato off the board at the fry station doesn't break it anymore, a new one just drops in. Text is easy to read on every background, the peeler doesn't go through the cutting board, and older iPads run smoother.	Kızartma istasyonunda patatesi tahtadan itmek artık hiçbir şeyi bozmuyor, yenisi düşüyor. Yazılar her arka planda kolay okunuyor, soyacak artık kesme tahtasının içinden geçmiyor ve eski iPad'ler daha akıcı çalışıyor.
+Everything you had before is still there, nothing got reset. Thanks for playing.	Önceden sahip olduğun her şey hâlâ duruyor, hiçbir şey sıfırlanmadı. Oynadığın için teşekkürler.
+What's new	Yenilikler
+IT HIT THE CORNER!	KÖŞEYE ÇARPTI!
+Tap anywhere to keep peeling	Soymaya devam etmek için herhangi bir yere dokun
++{0} fry	+{0} kızartma
++{0} fries	+{0} kızartma
+Wait... is that potato SCREAMING?	Dur bir dakika... bu patates ÇIĞLIK mı atıyor?
+Classic White	Klasik Beyaz
+Farmhouse	Çiftlik Evi
+Midnight	Gece Yarısı
+Retro Diner	Retro Lokanta
+Tuscan Sun	Toskana Güneşi
+Scandinavian	İskandinav
+Industrial Loft	Endüstriyel Loft
+Seaside	Sahil
+Navy & Brass	Lacivert ve Pirinç
+Garden Window	Bahçe Penceresi
+Pastel Pop	Pastel Pop
+Cozy Cabin	Sıcak Kulübe
+Race	Yarış
+Timed	Süreli
+Endless	Sonsuz
+Good luck!	Bol şans!
+GG!	GG!
+Nice one!	Güzeldi!
+Ready?	Hazır mısınız?
+Wow!	Vay!
+Rematch?	Rövanş?
+So close!	Kıl payı!
+Let's go!	Hadi başlayalım!
+Couldn't reach the server. Check your internet	Sunucuya ulaşılamadı. İnternetini kontrol et
+No lobby with that code	Bu kodla bir lobi yok
+That lobby is full	Bu lobi dolu
+That match already started. Try again when it's over	O maç çoktan başladı. Bitince tekrar dene
+You can't play online right now	Şu an online oynayamazsın
+Slow down a little and try again	Biraz yavaşla ve tekrar dene
+Typed chat is only in private lobbies	Yazılı sohbet sadece özel lobilerde var
+Something went wrong, try again	Bir şeyler ters gitti, tekrar dene
+Peeler	Soyucu
+Your name in online games	Online oyunlardaki adın
+You left the lobby	Lobiden ayrıldın
+Lost the connection to the lobby	Lobiyle bağlantı koptu
+Quick 1v1	Hızlı 1v1
+Create a lobby	Lobi kur
+Join with a code	Kodla katıl
+The lobby's code	Lobinin kodu
+Public lobbies	Açık lobiler
+None open right now. Make one, or try Quick 1v1	Şu an açık lobi yok. Bir tane kur ya da Hızlı 1v1 dene
+Looking...	Aranıyor...
+{0}'s lobby	{0} adlı oyuncunun lobisi
+Race to {0}	Yarış, hedef {0}
+Timed, {0}	Süreli, {0}
+Public lobby, code	Açık lobi, kod
+Private lobby. Share this code	Özel lobi. Bu kodu paylaş
+Players	Oyuncular
+{0} (you)	{0} (sen)
+Match	Maç
+{0} potatoes	{0} patates
+Public	Herkese açık
+Anyone can find it in the list	Herkes listede bulabilir
+Start the match	Maçı başlat
+Waiting for someone to join...	Birinin katılması bekleniyor...
+Race: first to {0} potatoes wins	Yarış: {0} patatese ilk ulaşan kazanır
+Timed: most potatoes in {0}	Süreli: {0} içinde en çok patates
+Endless: peel until the host ends it	Sonsuz: kurucu bitirene kadar soy
+Waiting for the host to start	Kurucunun başlatması bekleniyor
+Match over	Maç bitti
+Starting...	Başlıyor...
+Chat	Sohbet
+Say hi!	Selam ver!
+Type a message	Bir mesaj yaz
+Message	Mesaj
+Typed chat is only in private lobbies.	Yazılı sohbet sadece özel lobilerde var.
+Leave lobby	Lobiden çık
+Lobby	Lobi
+First to {0}	İlk {0}
+You win!	Kazandın!
+{0} potato	{0} patates
+Lobby codes are 5 letters	Lobi kodları 5 harftir
+Update 2.0 is now out! Here's what's new!	Güncelleme 2.0 çıktı! İşte yenilikler!
+Thanks for 300 players! I'll keep updating this periodically.	300 oyuncu için teşekkürler! Bunu düzenli olarak güncellemeye devam edeceğim.
+View what's new	Yenilikleri gör
+Dismiss	Kapat
+Message from {0}	Mesaj: {0}
+Couldn't reach the server. Check your internet and try again	Sunucuya ulaşılamadı. İnternetini kontrol edip tekrar dene
+That code is already taken, try another one	Bu kod zaten alınmış, başka birini dene
+Codes are 6 letters or numbers	Kodlar 6 harf ya da rakamdır
+Try a different name	Başka bir ad dene
+Too many tries. Wait a couple of minutes	Çok fazla deneme. Birkaç dakika bekle
+No progress is saved with that code	Bu kodla kayıtlı bir ilerleme yok
+That's this account's own code	Bu, bu hesabın kendi kodu
+This device isn't linked anymore	Bu cihaz artık bağlı değil
+That save is too big	Bu kayıt çok büyük
+That one's taken. Pick another 6-character code	O alınmış. Başka bir 6 karakterli kod seç
+Saved to the cloud! Your code is {0}	Buluta kaydedildi! Kodun: {0}
+This device already has {0} potato peeled. Add this device's progress to the account, or switch to the account's progress?	Bu cihazda zaten {0} soyulmuş patates var. Bu cihazın ilerlemesi hesaba eklensin mi, yoksa hesabın ilerlemesine mi geçilsin?
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?	Bu cihazda zaten {0} soyulmuş patates var. Bu cihazın ilerlemesi hesaba eklensin mi, yoksa hesabın ilerlemesine mi geçilsin?
+Combine progress?	İlerleme birleştirilsin mi?
+Combine	Birleştir
+Use the account's	Hesabınkini kullan
+Accounts combined! Everything adds up now	Hesaplar birleşti! Artık her şey toplanıyor
+Name changed	Ad değiştirildi
+Thanks! Andres reads every suggestion	Teşekkürler! Andres her öneriyi okuyor
+That's a lot of ideas! Try again in a bit	Çok fazla fikir! Biraz sonra tekrar dene
+Write a little more first	Önce biraz daha yaz
+Time played	Oyun süresi
+BETA	BETA
+Keep your progress safe and play on any device. You pick a 6-character code, and that code loads your potatoes, coins and everything else anywhere. Anyone with your code can load your progress, so keep it to yourself.	İlerlemeni güvende tut ve her cihazda oyna. 6 karakterli bir kod seçersin, o kod patateslerini, paralarını ve diğer her şeyi her yerde yükler. Kodun olan herkes ilerlemeni yükleyebilir, o yüzden kimseyle paylaşma.
+Create my code	Kodumu oluştur
+Pick a 6-character code (letters and numbers)	6 karakterli bir kod seç (harf ve rakam)
+I have a code	Kodum var
+Type your 6-character code	6 karakterli kodunu yaz
+Your code	Kodun
+No name (Anonymous peeler on the leaderboard)	Adsız (Sıralamada Anonim soyucu)
+Offline right now. It syncs when you're back online	Şu an çevrimdışı. Tekrar online olunca eşitlenir
+Syncing...	Eşitleniyor...
+Synced just now	Az önce eşitlendi
+Synced {0} ago	{0} önce eşitlendi
+Sync now	Şimdi eşitle
+Change name	Adı değiştir
+Add a name	Ad ekle
+Your name on the leaderboard	Sıralamadaki adın
+Combine another account	Başka bir hesabı birleştir
+The other account's 6-character code	Diğer hesabın 6 karakterli kodu
+Unlink this device	Bu cihazın bağlantısını kaldır
+Unlink this device?	Bu cihazın bağlantısı kaldırılsın mı?
+Your progress stays on this device and in the cloud. You can link again any time with your code.	İlerlemen bu cihazda ve bulutta kalır. Kodunla istediğin zaman yeniden bağlayabilirsin.
+Unlink	Bağlantıyı kaldır
+Cancel	İptal
+Codes are exactly 6 letters or numbers	Kodlar tam olarak 6 harf ya da rakamdır
+Your name for the leaderboard (optional)	Sıralama için adın (isteğe bağlı)
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too.	{0} içindeki her şey bu hesaba eklenir (patatesler, paralar, kızartmalar, her şey). Ondan sonra o kod da bu hesabı açar.
+Combine accounts?	Hesaplar birleştirilsin mi?
+Linked! This device now uses {0}	Bağlandı! Bu cihaz artık {0} kullanıyor
+This device is unlinked	Bu cihazın bağlantısı kaldırıldı
+{0} player online	{0} oyuncu online
+{0} players online	{0} oyuncu online
+Connecting...	Bağlanıyor...
+Offline. Online features need the internet	Çevrimdışı. Online özellikler için internet gerekir
+Play together	Birlikte oyna
+Loading...	Yükleniyor...
+Couldn't load the leaderboard	Sıralama yüklenemedi
+Nobody's here yet. Be the first!	Henüz kimse yok. İlk sen ol!
+You're #{0} with {1}	{0}. sıradasın, {1} ile
+To get on the leaderboard, save your progress to the cloud. It only takes a code.	Sıralamaya girmek için ilerlemeni buluta kaydet. Sadece bir kod yeterli.
+Save to the cloud	Buluta kaydet
+Cherry	Kiraz
+Ocean	Okyanus
+Mint	Nane
+Lavender	Lavanta
+Sunshine	Güneş
+Midnight Matte	Mat Gece Yarısı
+Bubblegum	Sakız
+Chrome	Krom
+Rose Gold	Pembe Altın
+Diamond	Elmas
+Chef's Knife	Şef Bıçağı
+Red Handle	Kırmızı Saplı
+Ocean Blue	Okyanus Mavisi
+Walnut	Ceviz
+Mint Pro	Nane Pro
+Black Steel	Siyah Çelik
+Copper	Bakır
+Gold	Altın
+No salt	Tuz yok
+A little more salt next time	Bir dahaki sefere biraz daha tuz
+Way too salty!	Çok tuzlu!
+Seasoned just right!	Tam kıvamında!
++{0} TaterCoins. {1}	+{0} TaterCoin. {1}
+Salt	Tuz
+Shake the salt over the fries	Tuzu kızartmaların üzerine salla
+Serve	Servis et
+Coming soon	Çok yakında
+TaterCoins. Earn them by frying: cut well, season just right, and rarer potatoes pay more.	TaterCoin. Kızartarak kazanırsın: iyi kes, tam kıvamında tuzla, nadir patatesler daha çok kazandırır.
+Peeler skins	Soyacak kaplamaları
+A skin changes the colour of whichever peeler you use.	Kaplama, kullandığın soyacağın rengini değiştirir.
+Buy {0} for {1} TaterCoins?	{0} kaplaması {1} TaterCoin'e alınsın mı?
+It goes on whichever peeler you use, and you can switch any time.	Hangi soyacağı kullanıyorsan ona takılır, istediğin zaman değiştirebilirsin.
+Buy it	Satın al
+Not now	Şimdi değil
+You need {0} more TaterCoins. Fry some potatoes!	{0} TaterCoin daha lazım. Biraz patates kızart!
+Original	Orijinal
+Wearing	Takılı
+Tap to wear	Takmak için dokun
+New knives unlock as you make fries. You've made {0}.	Kızartma yaptıkça yeni bıçaklar açılır. Şu ana kadar {0} yaptın.
+Make {0} more fries to unlock it	Açmak için {0} kızartma daha yap
+{0} fries	{0} kızartma
+Shop	Mağaza
+{0} is yours!	{0} artık senin!
+Playing	Oynanış
+Left-handed	Solak
+The buttons and the resting peeler move to the other side	Düğmeler ve bekleyen soyacak diğer tarafa geçer
+Peel and turn at once	Aynı anda soy ve çevir
+One finger peels while another turns the potato	Bir parmak soyarken diğeri patatesi çevirir
+Rush length	Rush süresi
+Best scores are kept for every length together.	Rekorlar tüm süreler için birlikte tutulur.
+Lifetime	Tüm zamanlar
+peel strokes	soyma hareketi
+knife cuts	bıçak kesimi
+Chinese (Simplified)	Çince (Basitleştirilmiş)
+Spanish (Latin America)	İspanyolca (Latin Amerika)
+Spanish (Spain)	İspanyolca (İspanya)
+Russian	Rusça
+Portuguese (Brazil)	Portekizce (Brezilya)
+German	Almanca
+Japanese	Japonca
+French	Fransızca
+Korean	Korece
+Polish	Lehçe
+Turkish	Türkçe
+Pirate, for fun	Korsanca, eğlencesine
+Names, chat and messages from other players stay the way they wrote them.	Diğer oyuncuların adları, sohbeti ve mesajları yazdıkları gibi kalır.
+Music: “Echoes in Blue” by Tokyo Music Walker	Müzik: “Echoes in Blue”, Tokyo Music Walker
+Baked Potato	Fırın Patates
+Who baked this?	Bunu kim pişirdi?
+Find the Baked Potato	Fırın Patates'i bul
+Careful, it's hot!	Dikkat, sıcak!
+Tin foil	Alüminyum folyo
+Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Çok nadir. Hâlâ alüminyum folyoya sarılı düşer, kendi kendine açılır ve buharı tüter. Kabuğu çıtır olduğu için parça parça soyulur.

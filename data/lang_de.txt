@@ -1,0 +1,564 @@
+# TaterPeeler: de
+Common	Gewöhnlich
+Uncommon	Ungewöhnlich
+Rare	Selten
+Epic	Episch
+Legendary	Legendär
+Potato #1,000	Kartoffel Nr. 1.000
+Sweet Potato	Süßkartoffel
+Japanese Sweet	Japanische Süßkartoffel
+Okinawan Sweet	Okinawa-Süßkartoffel
+Rainbow Potato	Regenbogenkartoffel
+Golden Potato	Goldene Kartoffel
+Screaming Potato	Schreiende Kartoffel
+Black	Schwarz
+Red	Rot
+Yellow	Gelb
+Olive	Oliv
+Lime	Limette
+Golden	Golden
+Wooden	Holz
+Wire Y	Draht-Y
+Pro Grip	Pro Grip
+Julienne	Julienne
+First Peel	Erste Schale
+Spud Buddy	Kartoffelkumpel
+TaterPeeler Legend	TaterPeeler-Legende
+Long Peel	Lange Schale
+Speed Peeler	Schnellschäler
+Rush Hour	Rushhour
+Taste the Rainbow	Schmeck den Regenbogen
+Full Collection	Volle Sammlung
+Nice	Nice
+Fry Cook	Pommeskoch
+Shoestring	Strohkartoffeln
+Clean Station	Saubere Station
+Pure Tater	Pure Knolle
+Spud Century	Kartoffeljahrhundert
+Sack of Spuds	Sack Kartoffeln
+Tater Titan	Kartoffeltitan
+Marathon	Marathon
+Variety Pack	Sortenmix
+Epic Find	Epischer Fund
+Milestone	Meilenstein
+Mega Peel	Megaschale
+Lightning Peeler	Blitzschäler
+Rush Royalty	Rush-Royalty
+Expert Fryer	Pommes-Profi
+Fry Legend	Fritteusenlegende
+Night Shift	Nachtschicht
+New Kitchen	Neue Küche
+Peeler Collection	Schälersammlung
+Online Champion	Online-Champion
+That Could've Been for Starving Children	Das hätte für hungernde Kinder sein können
+Perfectly Seasoned	Perfekt gewürzt
+Scream Team	Team Schrei
+Purple Reign	Lila Herrschaft
+Big Spender	Großzügig
+Spud Banker	Kartoffelbanker
+Head in the Clouds	Kopf in den Wolken
+Knife Collector	Messersammler
+Your Own Spud	Deine eigene Knolle
+Peel your first potato	Schäle deine erste Kartoffel
+Peel 25 potatoes	Schäle 25 Kartoffeln
+Peel 1,000 potatoes	Schäle 1.000 Kartoffeln
+Peel one strip 25 cm long	Schäle einen 25 cm langen Streifen
+Peel a whole potato in under 12 seconds	Schäle eine ganze Kartoffel in unter 12 Sekunden
+Score 1,500 in one Rush	Hol 1.500 Punkte in einem Rush
+Find the Rainbow Potato	Finde die Regenbogenkartoffel
+Find every everyday variety	Finde jede Alltagssorte
+Peel potato number 69	Schäle Kartoffel Nummer 69
+Serve your first fries	Serviere deine ersten Pommes
+Cut 40 fries from one potato	Schneide 40 Pommes aus einer Kartoffel
+Scrape every crumb into the fryer, then serve	Kratz jeden Krümel in die Fritteuse, dann servieren
+Put a whole potato in the fryer	Wirf eine ganze Kartoffel in die Fritteuse
+Peel 100 potatoes	Schäle 100 Kartoffeln
+Peel 500 potatoes	Schäle 500 Kartoffeln
+Peel 2,500 potatoes	Schäle 2.500 Kartoffeln
+Peel 25 potatoes without stopping	Schäle 25 Kartoffeln am Stück
+Find 20 different varieties	Finde 20 verschiedene Sorten
+Peel an Epic potato	Schäle eine epische Kartoffel
+Peel a potato with a number carved in it	Schäle eine Kartoffel mit eingeritzter Zahl
+Peel one strip 40 cm long	Schäle einen 40 cm langen Streifen
+Peel a whole potato in under 7 seconds	Schäle eine ganze Kartoffel in unter 7 Sekunden
+Score 3,000 in one Rush	Hol 3.000 Punkte in einem Rush
+Fry 25 potatoes	Frittiere 25 Kartoffeln
+Fry 100 potatoes	Frittiere 100 Kartoffeln
+Peel a potato in dark mode	Schäle eine Kartoffel im Dunkelmodus
+Pick a new kitchen in Settings	Wähl in den Einstellungen eine neue Küche
+Unlock every peeler	Schalte jeden Schäler frei
+Win a match online	Gewinn ein Online-Match
+Knock a potato off the board	Stoß eine Kartoffel vom Brett
+Season a batch of fries just right	Würz eine Portion Pommes genau richtig
+Find the Screaming Potato	Finde die schreiende Kartoffel
+Find the Ube potato	Finde die Ube-Kartoffel
+Buy something in the shop	Kauf etwas im Shop
+Earn 1,000 TaterCoins	Verdien 1.000 TaterCoins
+Save your progress to the cloud	Speicher deinen Fortschritt in der Cloud
+Unlock every knife	Schalte jedes Messer frei
+Peel a potato made from your own photo	Schäle eine Kartoffel aus deinem eigenen Foto
+Warming Up	Warmlaufen
+Half Hour Hero	Halbstundenheld
+Hour of Power	Power-Stunde
+Couch Potato	Couch-Potato
+Spud Devotee	Kartoffelfan
+Peel Machine	Schälmaschine
+Around the Clock	Rund um die Uhr
+Play for 10 minutes	Spiel 10 Minuten
+Play for 30 minutes	Spiel 30 Minuten
+Play for 1 hour	Spiel 1 Stunde
+Play for 2 hours	Spiel 2 Stunden
+Play for 5 hours	Spiel 5 Stunden
+Play for 10 hours	Spiel 10 Stunden
+Play for 24 hours	Spiel 24 Stunden
+Beginner-Peeler	Anfänger-Schäler
+Rookie-Peeler	Neuling-Schäler
+Pro-Peeler	Profi-Schäler
+Expert-Peeler	Experten-Schäler
+Master-Peeler	Meister-Schäler
+Legendary-Peeler	Legenden-Schäler
+Beginner-Fryer	Anfänger-Frittierer
+Expert-Fryer	Experten-Frittierer
+Master-Fryer	Meister-Frittierer
+Speed-Peeler	Turbo-Schäler
+Rush-Champion	Rush-Champion
+Spud-Collector	Knollen-Sammler
+Rainbow-Hunter	Regenbogen-Jäger
+Night-Owl	Nacht-Eule
+Couch-Potato	Couch-Potato
+Peel-Machine	Schäl-Maschine
+Long peel +{0}	Lange Schale +{0}
+Long peel, {0} cm	Lange Schale, {0} cm
+You unlocked the Golden peeler	Du hast den goldenen Schäler freigeschaltet
+You unlocked the legendary Lime peeler	Du hast den legendären Limetten-Schäler freigeschaltet
+You unlocked the rare {0} peeler	Du hast den seltenen Schäler {0} freigeschaltet
+You unlocked the {0} peeler	Du hast den Schäler {0} freigeschaltet
+potatoes peeled. You are a TaterPeeler legend.	Kartoffeln geschält. Du bist eine TaterPeeler-Legende.
+potatoes peeled! The fry station is open.	Kartoffeln geschält! Die Pommes-Station ist offen.
+potatoes peeled!	Kartoffeln geschält!
+Potato number 1,000!	Kartoffel Nummer 1.000!
+A rainbow potato!	Eine Regenbogenkartoffel!
+Nice!	Nice!
+Achievement: {0}	Erfolg: {0}
+Trophy: {0}	Trophäe: {0}
+New title: {0}	Neuer Titel: {0}
+{0} cm	{0} cm
+Fries	Pommes
+Cut and fry	Schneiden und frittieren
+Unlocks at {0}	Ab {0} frei
+Peel {0} more potato to open the fry station	Schäl noch {0} Kartoffel, um die Pommes-Station zu öffnen
+Peel {0} more potatoes to open the fry station	Schäl noch {0} Kartoffeln, um die Pommes-Station zu öffnen
+Made by Andres Campos	Von Andres Campos
+{0} potato peeled	{0} Kartoffel geschält
+{0} potatoes peeled	{0} Kartoffeln geschält
+A potato, a peeler, and you	Eine Kartoffel, ein Schäler und du
+New update! Click here for more info	Neues Update! Hier klicken für mehr
+New update! Tap here for more info	Neues Update! Hier tippen für mehr
+Download	Herunterladen
+Best {0}	Rekord {0}
+60 seconds	60 Sekunden
+Peel	Schälen
+No timer	Ohne Zeit
+Rush	Rush
+Collection	Sammlung
+Settings	Einstellungen
+Online	Online
+Your potato	Deine Kartoffel
+Potato #{0}	Kartoffel Nr. {0}
+From your photo	Aus deinem Foto
+potato, all time	Kartoffel insgesamt
+potatoes, all time	Kartoffeln insgesamt
+longest peel	längste Schale
+Drag across the potato to peel it	Wisch über die Kartoffel, um sie zu schälen
+Drag the empty space around it to turn it	Wisch daneben, um sie zu drehen
+Slice it into planks	In Scheiben schneiden
+Slice the stack into fries	Den Stapel in Pommes schneiden
+Scrape them into the fryer	Ab in die Fritteuse
+Frying	Frittiert
+Stacking the planks	Scheiben werden gestapelt
+Here comes a potato	Da kommt eine Kartoffel
+Fries are up	Pommes sind fertig
+potato fried	Kartoffel frittiert
+potatoes fried	Kartoffeln frittiert
+Swipe down to cut, or tap to chop. Move along for the next slice.	Nach unten wischen zum Schneiden oder tippen zum Hacken. Weiter für die nächste Scheibe.
+Click to chop where the knife is, or drag down to slice	Klick zum Hacken an der Messerstelle oder zieh nach unten zum Schneiden
+{0} piece is still too thick	{0} Stück ist noch zu dick
+{0} pieces are still too thick	{0} Stücke sind noch zu dick
+Lay the blade flat: swipe sideways to push everything off the right edge	Klinge flach legen: seitlich wischen, um alles über den rechten Rand zu schieben
+Drag sideways to sweep everything off the right edge	Seitlich ziehen, um alles über den rechten Rand zu fegen
+Paused	Pause
+Resume	Weiter
+Restart	Neustart
+Back to the lobby	Zurück zur Lobby
+The match keeps going	Das Match läuft weiter
+Quit to menu	Zum Menü
+Music	Musik
+Sound effects	Soundeffekte
+Time’s up	Zeit ist um
+New best	Neuer Rekord
+potato	Kartoffel
+potatoes	Kartoffeln
+Play again	Nochmal spielen
+Menu	Menü
+{0} h {1} min	{0} Std. {1} Min.
+{0} h	{0} Std.
+{0} min	{0} Min.
+Peelers	Schäler
+Peel more potatoes to unlock new ones. Wider blades peel faster.	Schäl mehr Kartoffeln, um neue freizuschalten. Breitere Klingen schälen schneller.
+In use	In Benutzung
+Tap to use	Antippen
+Your own potato	Deine eigene Kartoffel
+Your photo, wrapped round a potato	Dein Foto, um eine Kartoffel gewickelt
+Pick a photo and it gets wrapped round a potato	Wähl ein Foto und es wird um eine Kartoffel gewickelt
+Change photo	Foto ändern
+Choose a photo	Foto wählen
+Peel it	Schälen
+{0} of {1} found	{0} von {1} gefunden
+Potatoes	Kartoffeln
+Not found yet	Noch nicht gefunden
+{0} peeled	{0} geschält
+{0} of {1} unlocked. Tap one to wear it under the logo.	{0} von {1} freigeschaltet. Tipp einen an, um ihn unter dem Logo zu tragen.
+Titles	Titel
+Wearing it. Tap to take it off	Du trägst ihn. Tippen zum Ablegen
+{0} of {1} earned	{0} von {1} erreicht
+Achievements	Erfolge
+{0} of {1} earned. Time spent peeling and frying: {2}	{0} von {1} erreicht. Zeit beim Schälen und Frittieren: {2}
+Trophies	Trophäen
+Pick where you peel. There are 12 kitchens, or you can use your own photo.	Wähl, wo du schälst. Es gibt 12 Küchen, oder du nimmst dein eigenes Foto.
+Dark mode, battery saver, and a screensaver with a bouncing logo if you leave it alone for a while.	Dunkelmodus, Akkusparmodus und ein Bildschirmschoner mit hüpfendem Logo, wenn du das Spiel eine Weile liegen lässt.
+Music and sound effects. You can set every single sound's volume, and keep YouTube or Music playing while you peel.	Musik und Soundeffekte. Du kannst jeden einzelnen Sound einstellen und YouTube oder Musik beim Schälen weiterlaufen lassen.
+How peeling works for you: the peeler, turning speed, counters, carving shapes, and Accessibility.	Wie du schälst: der Schäler, die Drehgeschwindigkeit, Zähler, eingeritzte Formen und Bedienungshilfen.
+Save your progress to the cloud with a 6-character code, and send me your ideas in the Suggestions box.	Speicher deinen Fortschritt mit einem 6-stelligen Code in der Cloud und schick mir deine Ideen über den Ideenkasten.
+Your stats live here. Only reset if you really mean it, it can't be undone.	Hier stehen deine Statistiken. Nur zurücksetzen, wenn du es wirklich willst, das lässt sich nicht rückgängig machen.
+A little note from me. TaterPeeler stays free with no ads.	Eine kleine Notiz von mir. TaterPeeler bleibt kostenlos und ohne Werbung.
+Credits for the music, the sounds and the art. That's everything, enjoy!	Credits für Musik, Sounds und Grafik. Das war alles, viel Spaß!
+{0} of {1}	{0} von {1}
+Done	Fertig
+Next	Weiter
+Exit tour	Tour beenden
+TaterPeeler is run by just one person. I've been told I should start running advertisements to make money off of this project. Do not fear, TaterPeeler will stay free and Ad Free for everyone. Including all versions of TaterPeeler. Thanks for supporting this project and me. Expect regular updates, to get notified, add this website to your home screen if not using the app to get notified. To suggest ideas please do submit ideas in the Suggestions box in settings. Thank you for playing.	TaterPeeler wird von nur einer Person gemacht. Mir wurde gesagt, ich sollte mit Werbung anfangen, um mit diesem Projekt Geld zu verdienen. Keine Sorge, TaterPeeler bleibt für alle kostenlos und werbefrei. Inklusive aller Versionen von TaterPeeler. Danke, dass du dieses Projekt und mich unterstützt. Es gibt regelmäßig Updates; um benachrichtigt zu werden, füg diese Website zu deinem Home-Bildschirm hinzu, wenn du nicht die App nutzt. Ideen kannst du gern über den Ideenkasten in den Einstellungen schicken. Danke fürs Spielen.
+Peeling	Schälen
+Potato landing	Kartoffel landet
+Taps and buttons	Tippen und Tasten
+Rewards	Belohnungen
+Rush clock	Rush-Uhr
+Knife	Messer
+Cutting board	Schneidebrett
+Fryer	Fritteuse
+Salt shaker	Salzstreuer
+Coins	Münzen
+Screaming potato	Schreiende Kartoffel
+Show me around	Zeig mir alles
+A quick tour of everything in here	Eine kurze Tour durch alles hier
+Pick the game's language	Wähl die Sprache des Spiels
+Language	Sprache
+Kitchen	Küche
+Plain	Schlicht
+Your photo	Dein Foto
+Background	Hintergrund
+Pick a kitchen, or use your own photo	Wähl eine Küche oder nimm dein eigenes Foto
+Display	Anzeige
+Dark mode	Dunkelmodus
+Battery saver	Akkusparmodus
+Runs at 30 frames a second	Läuft mit 30 Bildern pro Sekunde
+Screensaver	Bildschirmschoner
+A bouncing logo after 10 minutes of not playing	Ein hüpfendes Logo nach 10 Minuten ohne Spielen
+Sound	Ton
+Music volume	Musiklautstärke
+Effects volume	Effektlautstärke
+Each sound's volume	Lautstärke pro Sound
+Turn any one sound up or down	Jeden Sound lauter oder leiser stellen
+Hide	Ausblenden
+Show	Zeigen
+Play alongside other apps	Neben anderen Apps abspielen
+Keep YouTube or Music playing while you peel	YouTube oder Musik beim Schälen weiterlaufen lassen
+Show the peeler	Schäler zeigen
+Hide it to watch the skin come off	Ausblenden, um zu sehen, wie die Schale abgeht
+Turning speed	Drehgeschwindigkeit
+All-time counter	Gesamtzähler
+Count every potato you've peeled, not just this session	Zählt jede Kartoffel, die du je geschält hast, nicht nur diese Runde
+Carve shapes	Formen einritzen
+Each potato gets a little shape carved into it	In jede Kartoffel wird eine kleine Form geritzt
+Spin the potato on menus	Kartoffel in Menüs drehen
+Show tips	Tipps zeigen
+How to peel and turn the potato	Wie man die Kartoffel schält und dreht
+Accessibility	Bedienungshilfen
+Left-handed, two fingers at once, Rush length	Linkshänder, zwei Finger gleichzeitig, Rush-Länge
+Cloud save	Cloud-Speicher
+Keep your progress and play on any device	Behalte deinen Fortschritt und spiel auf jedem Gerät
+Off	Aus
+Suggestions box	Ideenkasten
+Got an idea for TaterPeeler? Send it to me	Eine Idee für TaterPeeler? Schick sie mir
+Your idea for TaterPeeler	Deine Idee für TaterPeeler
+Progress	Fortschritt
+Reset progress	Fortschritt zurücksetzen
+Tap again to erase	Nochmal tippen zum Löschen
+Reset	Zurücksetzen
+This resets this device. The cloud copy keeps your progress.	Das setzt dieses Gerät zurück. Die Cloud-Kopie behält deinen Fortschritt.
+potatoes peeled	Kartoffeln geschält
+best Rush score	bester Rush
+fries made	Pommes gemacht
+What's new in 2.0	Neu in 2.0
+Free forever, and no ads	Für immer kostenlos und ohne Werbung
+License: CC BY-NC-ND 4.0	Lizenz: CC BY-NC-ND 4.0
+Licence	Lizenz
+Original track	Originaltrack
+Potato photoscan: Jan Martens, Poly Haven (CC0)	Kartoffel-Scan: Jan Martens, Poly Haven (CC0)
+Sound effects: Joseph Sardin, BigSoundBank (CC0)	Soundeffekte: Joseph Sardin, BigSoundBank (CC0)
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)	Holz des Schneidebretts: Jenelle van Heerden, Poly Haven (CC0)
+Kitchens: Poly Haven textures and models (CC0)	Küchen: Texturen und Modelle von Poly Haven (CC0)
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.	Dieses Spiel nutzt urheberrechtsfreie Grafiken und Sounds. Die Musik wird unter ihrer Creative-Commons-Lizenz verwendet, oben genannt.
+Version {0}	Version {0}
+Where you peel. The cutting board is always on the counter.	Wo du schälst. Das Schneidebrett liegt immer auf der Arbeitsplatte.
+The original look	Der ursprüngliche Look
+Tap again to change it	Nochmal tippen zum Ändern
+Tap to use it	Zum Benutzen tippen
+Tap to choose a photo	Tippen, um ein Foto zu wählen
+This is the biggest update TaterPeeler has had so far. Here's everything that's new in 2.0. Thanks for 300 players!	Das ist das bisher größte Update von TaterPeeler. Hier ist alles, was in 2.0 neu ist. Danke für 300 Spieler!
+Online (Beta)	Online (Beta)
+You can play with other people now. Do a quick 1v1, or make a lobby with up to 6 people, public or private. The host picks the mode: race to a number of potatoes, timed, or endless. If the host leaves, the next person who joined takes over. There's quick chat, and typed chat in private lobbies (it's filtered).	Du kannst jetzt mit anderen spielen. Mach ein schnelles 1v1 oder eine Lobby mit bis zu 6 Leuten, öffentlich oder privat. Der Host wählt den Modus: Rennen bis zu einer Anzahl Kartoffeln, auf Zeit oder endlos. Wenn der Host geht, übernimmt die Person, die als Nächstes beigetreten ist. Es gibt einen Schnellchat und in privaten Lobbys auch getippten Chat (gefiltert).
+Leaderboard	Bestenliste
+There's a live leaderboard for potatoes peeled, Rush, fries and time played. Save to the cloud to get on it.	Es gibt eine Live-Bestenliste für geschälte Kartoffeln, Rush, Pommes und Spielzeit. Speicher in der Cloud, um draufzukommen.
+Cloud saves	Cloud-Speicher
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts and everything adds up.	Wähl einen 6-stelligen Code und dein Fortschritt wird online gespeichert. Gib den Code auf einem anderen Gerät ein und spiel dort weiter. Du kannst sogar zwei Konten zusammenlegen, dann wird alles addiert.
+Seasoning and TaterCoins	Würzen und TaterCoins
+When your fries land in the tray, grab the salt shaker and shake it over them. Not too little, not too much. You earn TaterCoins for how well you cut and seasoned, and rarer potatoes pay more.	Wenn deine Pommes in der Schale landen, schnapp dir den Salzstreuer und schüttel ihn drüber. Nicht zu wenig, nicht zu viel. Du bekommst TaterCoins dafür, wie gut du geschnitten und gewürzt hast, und seltenere Kartoffeln bringen mehr.
+The Shop	Der Shop
+Spend your TaterCoins in the shop (the coin button on the menu). There are 10 skins that go on any peeler, from Cherry all the way up to Diamond.	Gib deine TaterCoins im Shop aus (der Münzknopf im Menü). Es gibt 10 Skins für jeden Schäler, von Kirsche bis hin zu Diamant.
+Knives	Messer
+New knives unlock the more fries you make. Different colours and looks, all the way to a gold one.	Je mehr Pommes du machst, desto mehr neue Messer schaltest du frei. Andere Farben und Looks, bis hin zu einem goldenen.
+Kitchens	Küchen
+The game takes place in a kitchen now, with the cutting board on the counter. There are 12 kitchens to pick from in Settings, or you can use your own photo as the background.	Das Spiel spielt jetzt in einer Küche, mit dem Schneidebrett auf der Arbeitsplatte. In den Einstellungen gibt es 12 Küchen zur Auswahl, oder du nimmst dein eigenes Foto als Hintergrund.
+A ton of new potatoes to find, including Ube. There's also one super rare potato that looks totally normal... until you start peeling it. You'll know when you find it.	Eine Menge neue Kartoffeln zum Finden, auch Ube. Außerdem gibt es eine super seltene Kartoffel, die total normal aussieht... bis du anfängst, sie zu schälen. Du merkst es, wenn du sie findest.
+4 new peelers	4 neue Schäler
+Wooden, Wire Y, Pro Grip and Julienne. Each one looks different, not just a new colour. The rare ones peel a little faster, nothing crazy.	Holz, Draht-Y, Pro Grip und Julienne. Jeder sieht anders aus, nicht nur in neuer Farbe. Die seltenen schälen etwas schneller, nichts Verrücktes.
+Titles and trophies	Titel und Trophäen
+Earn titles like Beginner-Peeler, Pro-Peeler and Master-Fryer, and wear one under the logo. There are trophies for time played too (only peeling and frying counts, not sitting on the menu), plus a bunch of new achievements.	Verdien Titel wie Anfänger-Schäler, Profi-Schäler und Meister-Frittierer und trag einen unter dem Logo. Es gibt auch Trophäen für Spielzeit (nur Schälen und Frittieren zählt, nicht im Menü sitzen) und einen Haufen neuer Erfolge.
+Take a photo and it gets wrapped around a potato. Find it in the Collection.	Mach ein Foto und es wird um eine Kartoffel gewickelt. Du findest sie in der Sammlung.
+Left-handed mode, peeling with one finger while turning with another, your own Rush length (like 1:30), and lifetime counters for every peel and cut.	Linkshändermodus, mit einem Finger schälen und mit einem anderen drehen, eigene Rush-Länge (z. B. 1:30) und Zähler für jeden Schälzug und Schnitt.
+Every sound has its own volume slider now. And if you're listening to YouTube or music, turn on Play alongside other apps so TaterPeeler doesn't stop it.	Jeder Sound hat jetzt seinen eigenen Lautstärkeregler. Und wenn du YouTube oder Musik hörst, schalte Neben anderen Apps abspielen ein, damit TaterPeeler sie nicht stoppt.
+Languages	Sprachen
+TaterPeeler speaks Chinese, Spanish (both kinds), Russian, Portuguese, German, Japanese, French, Korean, Polish and Turkish now, plus a Pirate language.	TaterPeeler spricht jetzt Chinesisch, Spanisch (beide Varianten), Russisch, Portugiesisch, Deutsch, Japanisch, Französisch, Koreanisch, Polnisch und Türkisch, dazu eine Piratensprache.
+Other stuff	Sonstiges
+A Show me around button in Settings, a Suggestions box so you can send me ideas, an all-time counter, carved shapes inside the potato if you want them, and a screensaver if you leave the game alone for a while.	Ein Zeig-mir-alles-Knopf in den Einstellungen, ein Ideenkasten für deine Vorschläge, ein Gesamtzähler, eingeritzte Formen in der Kartoffel, wenn du willst, und ein Bildschirmschoner, wenn du das Spiel eine Weile liegen lässt.
+Fixes	Fehlerbehebungen
+Pushing the potato off the board at the fry station doesn't break it anymore, a new one just drops in. Text is easy to read on every background, the peeler doesn't go through the cutting board, and older iPads run smoother.	Wenn du die Kartoffel an der Pommes-Station vom Brett schiebst, geht nichts mehr kaputt, es fällt einfach eine neue rein. Text ist auf jedem Hintergrund gut lesbar, der Schäler geht nicht mehr durchs Schneidebrett und ältere iPads laufen flüssiger.
+Everything you had before is still there, nothing got reset. Thanks for playing.	Alles, was du vorher hattest, ist noch da, nichts wurde zurückgesetzt. Danke fürs Spielen.
+What's new	Was ist neu
+IT HIT THE CORNER!	ES HAT DIE ECKE GETROFFEN!
+Tap anywhere to keep peeling	Tippe irgendwo, um weiterzuschälen
++{0} fry	+{0} Pommes
++{0} fries	+{0} Pommes
+Wait... is that potato SCREAMING?	Moment... SCHREIT diese Kartoffel etwa?
+Classic White	Klassisch Weiß
+Farmhouse	Bauernhaus
+Midnight	Mitternacht
+Retro Diner	Retro-Diner
+Tuscan Sun	Toskanische Sonne
+Scandinavian	Skandinavisch
+Industrial Loft	Industrie-Loft
+Seaside	Am Meer
+Navy & Brass	Marine & Messing
+Garden Window	Gartenfenster
+Pastel Pop	Pastell-Pop
+Cozy Cabin	Gemütliche Hütte
+Race	Rennen
+Timed	Auf Zeit
+Endless	Endlos
+Good luck!	Viel Glück!
+GG!	GG!
+Nice one!	Stark!
+Ready?	Bereit?
+Wow!	Wow!
+Rematch?	Revanche?
+So close!	Knapp!
+Let's go!	Los geht's!
+Couldn't reach the server. Check your internet	Server nicht erreichbar. Prüf deine Internetverbindung
+No lobby with that code	Keine Lobby mit diesem Code
+That lobby is full	Diese Lobby ist voll
+That match already started. Try again when it's over	Dieses Match läuft schon. Versuch es, wenn es vorbei ist
+You can't play online right now	Du kannst gerade nicht online spielen
+Slow down a little and try again	Etwas langsamer, versuch es nochmal
+Typed chat is only in private lobbies	Getippter Chat gibt's nur in privaten Lobbys
+Something went wrong, try again	Etwas ist schiefgelaufen, versuch es nochmal
+Peeler	Schäler
+Your name in online games	Dein Name in Online-Spielen
+You left the lobby	Du hast die Lobby verlassen
+Lost the connection to the lobby	Verbindung zur Lobby verloren
+Quick 1v1	Schnelles 1v1
+Create a lobby	Lobby erstellen
+Join with a code	Mit Code beitreten
+The lobby's code	Der Code der Lobby
+Public lobbies	Öffentliche Lobbys
+None open right now. Make one, or try Quick 1v1	Gerade keine offen. Mach eine oder probier ein schnelles 1v1
+Looking...	Suche...
+{0}'s lobby	Lobby von {0}
+Race to {0}	Rennen bis {0}
+Timed, {0}	Auf Zeit, {0}
+Public lobby, code	Öffentliche Lobby, Code
+Private lobby. Share this code	Private Lobby. Teil diesen Code
+Players	Spieler
+{0} (you)	{0} (du)
+Match	Match
+{0} potatoes	{0} Kartoffeln
+Public	Öffentlich
+Anyone can find it in the list	Jeder kann sie in der Liste finden
+Start the match	Match starten
+Waiting for someone to join...	Warte, bis jemand beitritt...
+Race: first to {0} potatoes wins	Rennen: Wer zuerst {0} Kartoffeln hat, gewinnt
+Timed: most potatoes in {0}	Auf Zeit: die meisten Kartoffeln in {0}
+Endless: peel until the host ends it	Endlos: schälen, bis der Host es beendet
+Waiting for the host to start	Warte, bis der Host startet
+Match over	Match vorbei
+Starting...	Startet...
+Chat	Chat
+Say hi!	Sag hallo!
+Type a message	Nachricht schreiben
+Message	Nachricht
+Typed chat is only in private lobbies.	Getippter Chat gibt's nur in privaten Lobbys.
+Leave lobby	Lobby verlassen
+Lobby	Lobby
+First to {0}	Erster bis {0}
+You win!	Du gewinnst!
+{0} potato	{0} Kartoffel
+Lobby codes are 5 letters	Lobby-Codes haben 5 Buchstaben
+Update 2.0 is now out! Here's what's new!	Update 2.0 ist da! Das ist neu!
+Thanks for 300 players! I'll keep updating this periodically.	Danke für 300 Spieler! Ich werde das regelmäßig weiter updaten.
+View what's new	Neuerungen ansehen
+Dismiss	Schließen
+Message from {0}	Nachricht von {0}
+Couldn't reach the server. Check your internet and try again	Server nicht erreichbar. Prüf deine Internetverbindung und versuch es nochmal
+That code is already taken, try another one	Dieser Code ist schon vergeben, probier einen anderen
+Codes are 6 letters or numbers	Codes haben 6 Buchstaben oder Ziffern
+Try a different name	Probier einen anderen Namen
+Too many tries. Wait a couple of minutes	Zu viele Versuche. Warte ein paar Minuten
+No progress is saved with that code	Mit diesem Code ist kein Fortschritt gespeichert
+That's this account's own code	Das ist der eigene Code dieses Kontos
+This device isn't linked anymore	Dieses Gerät ist nicht mehr verknüpft
+That save is too big	Dieser Spielstand ist zu groß
+That one's taken. Pick another 6-character code	Der ist schon vergeben. Wähl einen anderen 6-stelligen Code
+Saved to the cloud! Your code is {0}	In der Cloud gespeichert! Dein Code ist {0}
+This device already has {0} potato peeled. Add this device's progress to the account, or switch to the account's progress?	Dieses Gerät hat schon {0} geschälte Kartoffel. Den Fortschritt dieses Geräts zum Konto addieren oder zum Fortschritt des Kontos wechseln?
+This device already has {0} potatoes peeled. Add this device's progress to the account, or switch to the account's progress?	Dieses Gerät hat schon {0} geschälte Kartoffeln. Den Fortschritt dieses Geräts zum Konto addieren oder zum Fortschritt des Kontos wechseln?
+Combine progress?	Fortschritt zusammenlegen?
+Combine	Zusammenlegen
+Use the account's	Den vom Konto nehmen
+Accounts combined! Everything adds up now	Konten zusammengelegt! Jetzt wird alles addiert
+Name changed	Name geändert
+Thanks! Andres reads every suggestion	Danke! Andres liest jeden Vorschlag
+That's a lot of ideas! Try again in a bit	Das sind viele Ideen! Versuch es gleich nochmal
+Write a little more first	Schreib erst noch ein bisschen mehr
+Time played	Spielzeit
+BETA	BETA
+Keep your progress safe and play on any device. You pick a 6-character code, and that code loads your potatoes, coins and everything else anywhere. Anyone with your code can load your progress, so keep it to yourself.	Schütz deinen Fortschritt und spiel auf jedem Gerät. Du wählst einen 6-stelligen Code, und der lädt deine Kartoffeln, Münzen und alles andere überall. Wer deinen Code hat, kann deinen Fortschritt laden, also behalt ihn für dich.
+Create my code	Meinen Code erstellen
+Pick a 6-character code (letters and numbers)	Wähl einen 6-stelligen Code (Buchstaben und Ziffern)
+I have a code	Ich habe einen Code
+Type your 6-character code	Gib deinen 6-stelligen Code ein
+Your code	Dein Code
+No name (Anonymous peeler on the leaderboard)	Kein Name (Anonymer Schäler in der Bestenliste)
+Offline right now. It syncs when you're back online	Gerade offline. Wird synchronisiert, wenn du wieder online bist
+Syncing...	Synchronisiere...
+Synced just now	Gerade synchronisiert
+Synced {0} ago	Vor {0} synchronisiert
+Sync now	Jetzt synchronisieren
+Change name	Name ändern
+Add a name	Namen hinzufügen
+Your name on the leaderboard	Dein Name in der Bestenliste
+Combine another account	Anderes Konto zusammenlegen
+The other account's 6-character code	Der 6-stellige Code des anderen Kontos
+Unlink this device	Gerät trennen
+Unlink this device?	Dieses Gerät trennen?
+Your progress stays on this device and in the cloud. You can link again any time with your code.	Dein Fortschritt bleibt auf diesem Gerät und in der Cloud. Du kannst es jederzeit mit deinem Code wieder verknüpfen.
+Unlink	Trennen
+Cancel	Abbrechen
+Codes are exactly 6 letters or numbers	Codes haben genau 6 Buchstaben oder Ziffern
+Your name for the leaderboard (optional)	Dein Name für die Bestenliste (optional)
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too.	Alles von {0} wird zu diesem Konto addiert (Kartoffeln, Münzen, Pommes, alles). Danach öffnet dieser Code auch dieses Konto.
+Combine accounts?	Konten zusammenlegen?
+Linked! This device now uses {0}	Verknüpft! Dieses Gerät nutzt jetzt {0}
+This device is unlinked	Dieses Gerät ist getrennt
+{0} player online	{0} Spieler online
+{0} players online	{0} Spieler online
+Connecting...	Verbinde...
+Offline. Online features need the internet	Offline. Online-Funktionen brauchen Internet
+Play together	Zusammen spielen
+Loading...	Lädt...
+Couldn't load the leaderboard	Bestenliste konnte nicht geladen werden
+Nobody's here yet. Be the first!	Noch niemand da. Sei der Erste!
+You're #{0} with {1}	Du bist auf Platz {0} mit {1}
+To get on the leaderboard, save your progress to the cloud. It only takes a code.	Um in die Bestenliste zu kommen, speicher deinen Fortschritt in der Cloud. Dafür brauchst du nur einen Code.
+Save to the cloud	In der Cloud speichern
+Cherry	Kirsche
+Ocean	Ozean
+Mint	Minze
+Lavender	Lavendel
+Sunshine	Sonnenschein
+Midnight Matte	Mitternacht Matt
+Bubblegum	Kaugummi
+Chrome	Chrom
+Rose Gold	Roségold
+Diamond	Diamant
+Chef's Knife	Kochmesser
+Red Handle	Roter Griff
+Ocean Blue	Ozeanblau
+Walnut	Nussbaum
+Mint Pro	Minze Pro
+Black Steel	Schwarzer Stahl
+Copper	Kupfer
+Gold	Gold
+No salt	Kein Salz
+A little more salt next time	Nächstes Mal etwas mehr Salz
+Way too salty!	Viel zu salzig!
+Seasoned just right!	Genau richtig gewürzt!
++{0} TaterCoins. {1}	+{0} TaterCoins. {1}
+Salt	Salz
+Shake the salt over the fries	Streu das Salz über die Pommes
+Serve	Servieren
+Coming soon	Demnächst
+TaterCoins. Earn them by frying: cut well, season just right, and rarer potatoes pay more.	TaterCoins. Verdien sie beim Frittieren: gut schneiden, genau richtig würzen, und seltenere Kartoffeln bringen mehr.
+Peeler skins	Schäler-Skins
+A skin changes the colour of whichever peeler you use.	Ein Skin ändert die Farbe des Schälers, den du gerade benutzt.
+Buy {0} for {1} TaterCoins?	{0} für {1} TaterCoins kaufen?
+It goes on whichever peeler you use, and you can switch any time.	Er kommt auf den Schäler, den du benutzt, und du kannst jederzeit wechseln.
+Buy it	Kaufen
+Not now	Nicht jetzt
+You need {0} more TaterCoins. Fry some potatoes!	Dir fehlen {0} TaterCoins. Frittier ein paar Kartoffeln!
+Original	Original
+Wearing	Angelegt
+Tap to wear	Tippen zum Anlegen
+New knives unlock as you make fries. You've made {0}.	Neue Messer schaltest du durch Pommes frei. Du hast {0} gemacht.
+Make {0} more fries to unlock it	Mach noch {0} Pommes, um es freizuschalten
+{0} fries	{0} Pommes
+Shop	Shop
+{0} is yours!	{0} gehört dir!
+Playing	Spielen
+Left-handed	Linkshänder
+The buttons and the resting peeler move to the other side	Die Knöpfe und der ruhende Schäler wechseln auf die andere Seite
+Peel and turn at once	Gleichzeitig schälen und drehen
+One finger peels while another turns the potato	Ein Finger schält, ein anderer dreht die Kartoffel
+Rush length	Rush-Länge
+Best scores are kept for every length together.	Rekorde gelten für alle Längen zusammen.
+Lifetime	Insgesamt
+peel strokes	Schälzüge
+knife cuts	Messerschnitte
+Chinese (Simplified)	Chinesisch (vereinfacht)
+Spanish (Latin America)	Spanisch (Lateinamerika)
+Spanish (Spain)	Spanisch (Spanien)
+Russian	Russisch
+Portuguese (Brazil)	Portugiesisch (Brasilien)
+German	Deutsch
+Japanese	Japanisch
+French	Französisch
+Korean	Koreanisch
+Polish	Polnisch
+Turkish	Türkisch
+Pirate, for fun	Piratisch, zum Spaß
+Names, chat and messages from other players stay the way they wrote them.	Namen, Chat und Nachrichten anderer Spieler bleiben so, wie sie geschrieben wurden.
+Music: “Echoes in Blue” by Tokyo Music Walker	Musik: „Echoes in Blue“ von Tokyo Music Walker
+Baked Potato	Ofenkartoffel
+Who baked this?	Wer hat die gebacken?
+Find the Baked Potato	Finde die Ofenkartoffel
+Careful, it's hot!	Vorsicht, heiß!
+Tin foil	Alufolie
+Super rare. It drops in still wrapped in tin foil, unwraps itself and steams. The skin is crispy, so it peels off in flakes.	Super selten. Sie kommt noch in Alufolie eingewickelt, packt sich selbst aus und dampft. Die Schale ist knusprig, deshalb geht sie in Stückchen ab.
