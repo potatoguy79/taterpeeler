@@ -270,7 +270,10 @@
 
   /* ---------------- audio ---------------- */
   let actx = null, master = null, buffers = [], unlocked = false;
-  const music = new Audio('data/music.mp3');
+  const music = new Audio();
+  /* Android app: the music is handed to the <audio> element as a blob (its media player can't read the app's files directly) */
+  if (window.TP_PLATFORM === 'android') fetch('data/music.mp3').then(r => r.blob()).then(b => { music.src = URL.createObjectURL(b); if (musicWanted) music.play().catch(() => {}); }).catch(() => {});
+  else music.src = 'data/music.mp3';
   music.loop = true; music.preload = 'auto'; music.volume = 0.54;
   let minFrameMs = 0, lastFrameT = -1e9;   /* battery saver skips every other display frame */
   let musicWanted = false;
@@ -809,6 +812,9 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
     ex.tp_init(quality, extUint ? 1 : 0, saveP);
     if (new URLSearchParams(location.search).get('icon')) ex.tp_set_flags(new URLSearchParams(location.search).get("dbg") ? 31 : 15);   /* staged scene used for the app icon */
     else if (window.TP_DOWNLOAD_PAGE) ex.tp_set_flags(32);   /* the website shows a Download button on the menu */
+    else if (window.TP_PLATFORM === 'android') ex.tp_set_flags(64);   /* the Android app (it says so when online) */
+    /* Android's Back button asks this: 1 = handled, 0 = close the app */
+    window.tpBack = () => { if (textBox) { textBox.cancel(); return 1; } return ex.tp_back ? ex.tp_back() : 1; };
     resize();
     hookInput();
     loader.classList.add('gone');
