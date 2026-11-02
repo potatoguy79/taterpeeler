@@ -613,3 +613,10 @@ Add them up	Topla
 Checking the code...	Kod kontrol ediliyor...
 Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	{0} hesabındaki her şey bu hesaba eklenir (patatesler, jetonlar, kızartmalar, her şey). Sonra o kod da bu hesabı açar. Bunu sadece başka bir oyundan gelen ilerleme için yap: bu hesapta o ilerleme zaten varsa iki kez sayılır.
 +{0} TaterCoins	+{0} TaterCoins
+How many potatoes to give yourself?	Kendine kaç patates vermek istiyorsun?
+Wrong code	Yanlış kod
+That debug code isn't right.	Bu hata ayıklama kodu doğru değil.
+Type a number of potatoes	Bir patates sayısı yaz
+No potatoes added	Patates eklenmedi
+Added {0} potato	{0} patates eklendi
+Added {0} potatoes	{0} patates eklendi

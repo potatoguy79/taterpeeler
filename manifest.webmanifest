@@ -1,0 +1,14 @@
+{
+  "name": "TaterPeeler",
+  "short_name": "TaterPeeler",
+  "description": "Peel photoscanned potatoes with a real Y-peeler. Made by Andres Campos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}

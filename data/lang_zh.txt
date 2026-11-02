@@ -613,3 +613,10 @@ Add them up	相加
 Checking the code...	正在检查代码...
 Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	{0} 的所有内容（土豆、金币、薯条等）都会加到这个账号里。之后，那个代码也能打开这个账号。只在进度来自另一个游戏时这样做：如果这个账号已经有那份进度，就会算两次。
 +{0} TaterCoins	+{0} TaterCoins
+How many potatoes to give yourself?	要给自己多少个土豆？
+Wrong code	代码错误
+That debug code isn't right.	这个调试代码不对。
+Type a number of potatoes	请输入土豆数量
+No potatoes added	没有添加土豆
+Added {0} potato	已添加 {0} 个土豆
+Added {0} potatoes	已添加 {0} 个土豆

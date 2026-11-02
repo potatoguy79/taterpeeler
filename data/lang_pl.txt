@@ -623,3 +623,11 @@ Add them up	Zsumuj
 Checking the code...	Sprawdzam kod...
 Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	Wszystko z {0} zostanie dodane do tego konta (ziemniaki, monety, frytki, wszystko). Potem ten kod też otworzy to konto. Rób to tylko dla postępu z innej gry: jeśli to konto już go ma, policzyłby się podwójnie.
 +{0} TaterCoins	+{0} TaterCoins
+How many potatoes to give yourself?	Ile ziemniaków chcesz sobie dać?
+Wrong code	Zły kod
+That debug code isn't right.	Ten kod debugowania jest nieprawidłowy.
+Type a number of potatoes	Wpisz liczbę ziemniaków
+No potatoes added	Nie dodano ziemniaków
+Added {0} potato	Dodano {0} ziemniaka
+Added {0} potatoes	Dodano {0} ziemniaków
+Added {0} potatoes#few	Dodano {0} ziemniaki

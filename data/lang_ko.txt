@@ -613,3 +613,10 @@ Add them up	합치기
 Checking the code...	코드 확인 중...
 Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	{0}의 모든 것(감자, 코인, 감자튀김 등)이 이 계정에 더해져요. 그다음부터 그 코드로도 이 계정이 열려요. 다른 게임의 진행 상황일 때만 하세요. 이 계정에 이미 있는 진행 상황이면 두 번 세어져요.
 +{0} TaterCoins	+{0} TaterCoins
+How many potatoes to give yourself?	감자를 몇 개 받을까요?
+Wrong code	잘못된 코드예요
+That debug code isn't right.	그 디버그 코드는 맞지 않아요.
+Type a number of potatoes	감자 개수를 입력하세요
+No potatoes added	추가된 감자가 없어요
+Added {0} potato	감자 {0}개 추가됨
+Added {0} potatoes	감자 {0}개 추가됨

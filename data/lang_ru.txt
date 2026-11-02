@@ -623,3 +623,11 @@ Add them up	Сложить
 Checking the code...	Проверяем код...
 Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	Всё из {0} прибавится к этому аккаунту (картошка, монеты, фри — всё). После этого тот код тоже будет открывать этот аккаунт. Делай так только с прогрессом из другой игры: если этот прогресс уже есть в аккаунте, он посчитается дважды.
 +{0} TaterCoins	+{0} TaterCoins
+How many potatoes to give yourself?	Сколько картошек себе дать?
+Wrong code	Неверный код
+That debug code isn't right.	Этот отладочный код неверный.
+Type a number of potatoes	Введи число картошек
+No potatoes added	Картошки не добавлены
+Added {0} potato	Добавлена {0} картошка
+Added {0} potatoes	Добавлено {0} картошек
+Added {0} potatoes#few	Добавлено {0} картошки
