@@ -28555,7 +28555,13 @@ function asmFunc(imports) {
      break block336128
     }
     $2 = HEAP32[137749];
-    if (!$2) {
+    block337 : {
+     if (!HEAP32[100494]) {
+      break block337
+     }
+     if ($2) {
+      break block337
+     }
      $4 = Math_fround(HEAPF32[137752] - $42);
      HEAPF32[137752] = $4;
      if (!($4 <= Math_fround(0.0))) {
@@ -28564,9 +28570,9 @@ function asmFunc(imports) {
      HEAP32[137752] = 1053609165;
      $2 = plat_potato_photo(551e3, 551004) | 0;
      HEAP32[137749] = $2;
-     if (!$2) {
-      break block336128
-     }
+    }
+    if (!$2) {
+     break block336128
     }
     $10 = HEAP32[137751];
     if (($10 | 0) <= 0) {
@@ -34647,7 +34653,7 @@ function asmFunc(imports) {
       $11 = __stack_pointer - 1184 | 0;
       __stack_pointer = $11;
       $25 = HEAPF32[100338];
-      $23 = HEAPF32[135564];
+      $26 = HEAPF32[135564];
       $13 = HEAPF32[135563];
       $7 = HEAP32[133997];
       $10 = ($7 << 2) + 535980 | 0;
@@ -34657,7 +34663,7 @@ function asmFunc(imports) {
        HEAP32[$7 + Math_imul($20, 20) >> 2] = 18;
        $3 = HEAPF32[100337];
        $7 = Math_imul(HEAP32[$10 >> 2], 20) + $7 | 0;
-       HEAPF32[$7 + 8 >> 2] = Math_fround($13 * Math_fround(50.0)) + $23;
+       HEAPF32[$7 + 8 >> 2] = Math_fround($13 * Math_fround(50.0)) + $26;
        HEAP32[$7 + 4 >> 2] = 0;
        HEAPF32[$7 + 12 >> 2] = $3;
        HEAPF32[$7 + 16 >> 2] = $25;
@@ -34680,21 +34686,21 @@ function asmFunc(imports) {
       $3 = HEAPF32[100337];
       $36 = Math_fround($13 * Math_fround(17.0));
       $41 = Math_fround($13 * Math_fround(18.0));
-      $14 = Math_fround(Math_fround(Math_fround($13 * Math_fround(78.0)) + $23) - HEAPF32[134805]);
-      ui_text(1, $36, $23, Math_fround($41 + $14), 0, $11 + 464 | 0, 4158);
+      $14 = Math_fround(Math_fround(Math_fround($13 * Math_fround(78.0)) + $26) - HEAPF32[134805]);
+      ui_text(1, $36, $26, Math_fround($41 + $14), 0, $11 + 464 | 0, 4158);
       $2 = HEAP32[135571];
       $9 = HEAP32[135572];
-      $19 = HEAPF32[135573];
+      $17 = HEAPF32[135573];
       HEAPF32[$11 + 876 >> 2] = HEAPF32[100502];
-      HEAPF32[$11 + 872 >> 2] = $19;
+      HEAPF32[$11 + 872 >> 2] = $17;
       HEAP32[$11 + 864 >> 2] = $2;
       HEAP32[$11 + 868 >> 2] = $9;
       $15 = Math_fround($13 * Math_fround(13.5));
-      $28 = Math_fround($3 - Math_fround($23 + $23));
+      $28 = Math_fround($3 - Math_fround($26 + $26));
       $7 = L(19159);
-      $19 = Math_fround($41 * Math_fround(.3499999940395355));
-      $17 = Math_fround(Math_fround($13 * Math_fround(38.0)) + $14);
-      $3 = $17;
+      $17 = Math_fround($41 * Math_fround(.3499999940395355));
+      $19 = Math_fround(Math_fround($13 * Math_fround(38.0)) + $14);
+      $3 = $19;
       while (1) {
        if (HEAPU8[$7 | 0]) {
         $10 = ui_line_break(0, $15, $7, $28, $11 + 496 | 0, $11 + 848 | 0);
@@ -34707,9 +34713,9 @@ function asmFunc(imports) {
         $18 = HEAP32[$11 + 868 >> 2];
         HEAP32[$11 + 448 >> 2] = HEAP32[$11 + 864 >> 2];
         HEAP32[$11 + 452 >> 2] = $18;
-        ui_text_n(0, $15, $23, $3, 0, $11 + 448 | 0, $7, $10);
+        ui_text_n(0, $15, $26, $3, 0, $11 + 448 | 0, $7, $10);
         $3 = Math_fround($41 + $3);
-        $3 = HEAP32[$11 + 848 >> 2] ? Math_fround($19 + $3) : $3;
+        $3 = HEAP32[$11 + 848 >> 2] ? Math_fround($17 + $3) : $3;
         $10 = HEAP32[$11 + 496 >> 2];
         $20 = ($7 | 0) != ($10 | 0);
         $7 = $10;
@@ -34721,25 +34727,25 @@ function asmFunc(imports) {
       };
       HEAP32[154661] = 0;
       $32 = Math_fround($13 * Math_fround(10.0));
-      $19 = Math_fround(Math_fround($32 + $28) / Math_fround(Math_fround($13 * Math_fround(92.0)) + $32));
+      $17 = Math_fround(Math_fround($32 + $28) / Math_fround(Math_fround($13 * Math_fround(92.0)) + $32));
       block394 : {
-       if (Math_fround(Math_abs($19)) < Math_fround(2147483648.0)) {
-        $7 = ~~$19;
+       if (Math_fround(Math_abs($17)) < Math_fround(2147483648.0)) {
+        $7 = ~~$17;
         break block394;
        }
        $7 = -2147483648;
       }
-      $19 = Math_fround($13 * Math_fround(156.0));
+      $17 = Math_fround($13 * Math_fround(156.0));
       $7 = ($7 | 0) <= 1 ? 1 : $7;
       $7 = $7 >>> 0 >= 10 ? 10 : $7;
       $7 = ($7 + 9 >>> 0) / ($7 >>> 0) | 0;
       $37 = ($7 + 9 >>> 0) / ($7 >>> 0) | 0;
       $4 = Math_fround($32 * Math_fround($37 - 1 | 0));
-      $26 = Math_fround($37 >>> 0);
-      $14 = Math_fround(Math_fround($28 - $4) / $26);
-      $14 = $14 > $19 ? $19 : $14;
-      $19 = Math_fround(Math_fround($14 * $26) + $4);
-      $47 = Math_fround($28 + Math_fround(-1.0)) > $19 ? $23 : Math_fround(Math_fround(Math_fround($28 - $19) * Math_fround(.5)) + $23);
+      $23 = Math_fround($37 >>> 0);
+      $14 = Math_fround(Math_fround($28 - $4) / $23);
+      $14 = $14 > $17 ? $17 : $14;
+      $17 = Math_fround(Math_fround($14 * $23) + $4);
+      $47 = Math_fround($28 + Math_fround(-1.0)) > $17 ? $26 : Math_fround(Math_fround(Math_fround($28 - $17) * Math_fround(.5)) + $26);
       $60 = Math_fround($13 * Math_fround(13.0));
       $65 = Math_fround($13 * Math_fround(15.0));
       $4 = Math_fround($13 * Math_fround(90.0)) > $14 ? $60 : $65;
@@ -34754,7 +34760,7 @@ function asmFunc(imports) {
       $12 = Math_fround($13 * Math_fround(12.5));
       $69 = Math_fround($13 * Math_fround(11.0));
       $30 = Math_fround($13 * Math_fround(14.0));
-      $33 = Math_fround($17 + Math_fround($3 - $17));
+      $33 = Math_fround($19 + Math_fround($3 - $19));
       $34 = Math_fround(-$32);
       $35 = Math_fround($13 + $13);
       $6 = $11 + 504 | 0;
@@ -34811,8 +34817,8 @@ function asmFunc(imports) {
        HEAPF32[$11 + 508 >> 2] = $29;
        HEAPF32[$11 + 504 >> 2] = $14;
        $10 = ($55 >>> 0) / ($37 >>> 0) | 0;
-       $19 = Math_fround(Math_fround(Math_fround($10 | 0) * $67) + $33);
-       HEAPF32[$11 + 500 >> 2] = $19;
+       $17 = Math_fround(Math_fround(Math_fround($10 | 0) * $67) + $33);
+       HEAPF32[$11 + 500 >> 2] = $17;
        $3 = Math_fround(Math_fround(Math_fround($55 - Math_imul($10, $37) | 0) * $53) + $47);
        HEAPF32[$11 + 496 >> 2] = $3;
        $10 = $7 + 40 | 0;
@@ -34863,20 +34869,20 @@ function asmFunc(imports) {
         if (($2 | 0) <= 0) {
          break block798
         }
-        $17 = Math_fround(Math_fround($2 | 0) / Math_fround(100.0));
-        $26 = Math_fround(Math_fround(Math_fround($17 * $17) * Math_fround(1.2000000476837158)) * Math_fround(.5));
-        $17 = Math_fround(Math_fround(HEAP32[100481]) / Math_fround(100.0));
-        $17 = Math_fround($26 * Math_fround($17 * $17));
-        $17 = $17 < Math_fround(1.0) ? $17 : Math_fround(1.0);
-        if (!($17 > Math_fround(2.0000000949949026e-03))) {
+        $19 = Math_fround(Math_fround($2 | 0) / Math_fround(100.0));
+        $23 = Math_fround(Math_fround(Math_fround($19 * $19) * Math_fround(1.2000000476837158)) * Math_fround(.5));
+        $19 = Math_fround(Math_fround(HEAP32[100481]) / Math_fround(100.0));
+        $19 = Math_fround($23 * Math_fround($19 * $19));
+        $19 = $19 < Math_fround(1.0) ? $19 : Math_fround(1.0);
+        if (!($19 > Math_fround(2.0000000949949026e-03))) {
          break block798
         }
-        plat_sound(4, Math_fround($17), Math_fround(Math_fround(1.2000000476837158)));
+        plat_sound(4, Math_fround($19), Math_fround(Math_fround(1.2000000476837158)));
        }
        $2 = ($10 << 2) + 536020 | 0;
-       $17 = ($10 | 0) == HEAP32[134001] ? (HEAP32[125896] ? Math_fround(1.0) : Math_fround(0.0)) : Math_fround(0.0);
-       $17 = Math_fround(Math_fround(Math_fround(HEAPF32[$2 >> 2] - $17) * Math_fround(+tp_js_exp(+Math_fround(HEAPF32[100345] * Math_fround(-14.0))))) + $17);
-       HEAPF32[$2 >> 2] = $17;
+       $19 = ($10 | 0) == HEAP32[134001] ? (HEAP32[125896] ? Math_fround(1.0) : Math_fround(0.0)) : Math_fround(0.0);
+       $19 = Math_fround(Math_fround(Math_fround(HEAPF32[$2 >> 2] - $19) * Math_fround(+tp_js_exp(+Math_fround(HEAPF32[100345] * Math_fround(-14.0))))) + $19);
+       HEAPF32[$2 >> 2] = $19;
        $10 = $11 + 824 | 0;
        HEAPF32[$10 >> 2] = HEAPF32[135579];
        $1 = $6;
@@ -34925,7 +34931,7 @@ function asmFunc(imports) {
          ui_rrect_line($11 + 368 | 0, $30, $35, $11 + 352 | 0);
          break block1099;
         }
-        if (!($17 > Math_fround(.009999999776482582))) {
+        if (!($19 > Math_fround(.009999999776482582))) {
          break block1099
         }
         $10 = $11 + 792 | 0;
@@ -34934,7 +34940,7 @@ function asmFunc(imports) {
         $9 = $11 + 408 | 0;
         HEAP32[$9 >> 2] = HEAP32[$6 >> 2];
         HEAP32[$9 + 4 >> 2] = $18;
-        HEAPF32[$11 + 796 >> 2] = Math_fround($17 * Math_fround(.15000000596046448)) * HEAPF32[100502];
+        HEAPF32[$11 + 796 >> 2] = Math_fround($19 * Math_fround(.15000000596046448)) * HEAPF32[100502];
         $9 = HEAP32[$10 + 4 >> 2];
         $18 = $11 + 392 | 0;
         HEAP32[$18 >> 2] = HEAP32[$10 >> 2];
@@ -34955,37 +34961,37 @@ function asmFunc(imports) {
        $10 = Math_imul($10, 24);
        HEAP32[$10 + 618676 >> 2] = ($5 | 0) < ($24 | 0);
        HEAPF32[$10 + 618668 >> 2] = $50;
-       HEAPF32[$10 + 618664 >> 2] = $38 + $19;
+       HEAPF32[$10 + 618664 >> 2] = $38 + $17;
        HEAPF32[$10 + 618660 >> 2] = Math_fround($14 * Math_fround(.5)) + $3;
        HEAP32[$10 + 618656 >> 2] = $7;
        $31 = ($7 | 0) == ($31 | 0);
        $2 = ($7 << 2) + 539904 | 0;
-       $17 = Math_fround(Math_fround(HEAPF32[100345] * ($31 ? Math_fround(.8999999761581421) : Math_fround(Math_fround($17 * Math_fround(.8999999761581421)) + Math_fround(.25)))) + HEAPF32[$2 >> 2]);
-       HEAPF32[$2 >> 2] = $17;
-       HEAPF32[$10 + 618672 >> 2] = $17;
+       $19 = Math_fround(Math_fround(HEAPF32[100345] * ($31 ? Math_fround(.8999999761581421) : Math_fround(Math_fround($19 * Math_fround(.8999999761581421)) + Math_fround(.25)))) + HEAPF32[$2 >> 2]);
+       HEAPF32[$2 >> 2] = $19;
+       HEAPF32[$10 + 618672 >> 2] = $19;
        ui_layer(1);
-       $19 = Math_fround(Math_fround($13 * Math_fround(18.0)) + Math_fround($66 + $19));
+       $17 = Math_fround(Math_fround($13 * Math_fround(18.0)) + Math_fround($66 + $17));
        $10 = HEAP32[$20 >> 2];
-       $17 = ui_measure(1, $4, $10);
+       $19 = ui_measure(1, $4, $10);
        $7 = HEAP32[$20 + 16 >> 2];
-       $26 = $4;
+       $23 = $4;
        block11100 : {
-        if ($17 <= Math_fround(0.0)) {
+        if ($19 <= Math_fround(0.0)) {
          break block11100
         }
         $22 = Math_fround($14 - Math_fround(($7 ? Math_fround(34.0) : Math_fround(18.0)) * $13));
-        $26 = $4;
-        if ($22 >= $17) {
+        $23 = $4;
+        if ($22 >= $19) {
          break block11100
         }
-        $17 = Math_fround($22 / $17);
-        $26 = Math_fround($4 * ($17 > Math_fround(.7200000286102295) ? $17 : Math_fround(.7200000286102295)));
+        $19 = Math_fround($22 / $19);
+        $23 = Math_fround($4 * ($19 > Math_fround(.7200000286102295) ? $19 : Math_fround(.7200000286102295)));
        }
        $2 = $11 + 776 | 0;
        HEAPF32[$2 >> 2] = HEAPF32[135570];
        $5 = ($5 | 0) >= ($24 | 0);
-       $17 = $5 ? Math_fround(1.0) : Math_fround(.5);
-       HEAPF32[$11 + 780 >> 2] = $17 * HEAPF32[100502];
+       $19 = $5 ? Math_fround(1.0) : Math_fround(.5);
+       HEAPF32[$11 + 780 >> 2] = $19 * HEAPF32[100502];
        $1 = $2;
        $2 = HEAP32[$1 >> 2];
        $18 = HEAP32[$1 + 4 >> 2];
@@ -34999,12 +35005,12 @@ function asmFunc(imports) {
        HEAP32[$11 + 336 >> 2] = $2;
        HEAP32[$11 + 340 >> 2] = $9;
        $22 = Math_fround($40 + $3);
-       ui_text(1, $26, $22, $19, 0, $11 + 336 | 0, $10);
+       ui_text(1, $23, $22, $17, 0, $11 + 336 | 0, $10);
        if ($7) {
         $2 = $11 + 760 | 0;
         $10 = ($7 | 0) == 2 ? 13212194 : 7319082;
         HEAPF32[$2 >> 2] = Math_fround(($10 & 42) >>> 0) / Math_fround(255.0);
-        HEAPF32[$11 + 764 >> 2] = $17 * HEAPF32[100502];
+        HEAPF32[$11 + 764 >> 2] = $19 * HEAPF32[100502];
         $1 = $2;
         $2 = HEAP32[$1 >> 2];
         $18 = HEAP32[$1 + 4 >> 2];
@@ -35016,7 +35022,7 @@ function asmFunc(imports) {
         $9 = HEAP32[$11 + 756 >> 2];
         HEAP32[$11 + 320 >> 2] = HEAP32[$11 + 752 >> 2];
         HEAP32[$11 + 324 >> 2] = $9;
-        ui_icon(83, Math_fround($64 + Math_fround($14 + $3)), Math_fround($44 + $19), $60, $11 + 320 | 0);
+        ui_icon(83, Math_fround($64 + Math_fround($14 + $3)), Math_fround($44 + $17), $60, $11 + 320 | 0);
        }
        block14101 : {
         if (!$5) {
@@ -35033,7 +35039,7 @@ function asmFunc(imports) {
          HEAP32[$11 + 740 >> 2] = $9;
          HEAP32[$11 + 304 >> 2] = $2;
          HEAP32[$11 + 308 >> 2] = $9;
-         ui_icon(76, Math_fround($46 + $3), Math_fround($65 + $19), $69, $11 + 304 | 0);
+         ui_icon(76, Math_fround($46 + $3), Math_fround($65 + $17), $69, $11 + 304 | 0);
          tp_fmt_int($11 + 848 | 0, HEAP32[100346], 1);
          tp_strcpy($11 + 864 | 0, $11 + 848 | 0);
          tp_strcat($11 + 864 | 0, 26640);
@@ -35052,7 +35058,7 @@ function asmFunc(imports) {
          HEAP32[$11 + 724 >> 2] = $9;
          HEAP32[$11 + 288 >> 2] = $2;
          HEAP32[$11 + 292 >> 2] = $9;
-         ui_text(0, $12, Math_fround($48 + $3), Math_fround($61 + $19), 0, $11 + 288 | 0, $11 + 864 | 0);
+         ui_text(0, $12, Math_fround($48 + $3), Math_fround($61 + $17), 0, $11 + 288 | 0, $11 + 864 | 0);
          break block14101;
         }
         $10 = $31 ? 11733 : 1679;
@@ -35066,15 +35072,15 @@ function asmFunc(imports) {
          $10 = HEAP32[$20 + 36 >> 2] ? 11904 : 11722;
         }
         $3 = $12;
-        $17 = ui_measure(0, $3, $10);
+        $19 = ui_measure(0, $3, $10);
         block16103 : {
-         if ($56 >= $17) {
+         if ($56 >= $19) {
           break block16103
          }
-         if ($17 <= Math_fround(0.0)) {
+         if ($19 <= Math_fround(0.0)) {
           break block16103
          }
-         $3 = Math_fround($56 / $17);
+         $3 = Math_fround($56 / $19);
          $3 = Math_fround($12 * ($3 > Math_fround(.7200000286102295) ? $3 : Math_fround(.7200000286102295)));
         }
         $7 = $11 + 712 | 0;
@@ -35089,7 +35095,7 @@ function asmFunc(imports) {
         $9 = HEAP32[$11 + 708 >> 2];
         HEAP32[$11 + 272 >> 2] = HEAP32[$11 + 704 >> 2];
         HEAP32[$11 + 276 >> 2] = $9;
-        ui_text(0, $3, $22, Math_fround($61 + $19), 0, $11 + 272 | 0, $10);
+        ui_text(0, $3, $22, Math_fround($61 + $17), 0, $11 + 272 | 0, $10);
        }
        ui_layer(0);
        $55 = $55 + 1 | 0;
@@ -35102,8 +35108,8 @@ function asmFunc(imports) {
       HEAPF32[$7 >> 2] = $28;
       $10 = $11 + 696 | 0;
       HEAPF32[$10 >> 2] = HEAPF32[135579];
-      $17 = Math_fround($13 * Math_fround(112.0));
-      HEAPF32[$11 + 508 >> 2] = $17;
+      $19 = Math_fround($13 * Math_fround(112.0));
+      HEAPF32[$11 + 508 >> 2] = $19;
       $18 = HEAP32[$7 + 4 >> 2];
       $9 = $11 + 264 | 0;
       HEAP32[$9 >> 2] = HEAP32[$7 >> 2];
@@ -35122,17 +35128,17 @@ function asmFunc(imports) {
       HEAP32[$11 + 692 >> 2] = $9;
       HEAP32[$11 + 240 >> 2] = $2;
       HEAP32[$11 + 244 >> 2] = $9;
-      HEAPF32[$11 + 496 >> 2] = $23;
+      HEAPF32[$11 + 496 >> 2] = $26;
       $9 = HEAP32[$11 + 500 >> 2];
       HEAP32[$11 + 256 >> 2] = HEAP32[$11 + 496 >> 2];
       HEAP32[$11 + 260 >> 2] = $9;
       ui_rrect($11 + 256 | 0, $41, $11 + 240 | 0);
-      $19 = Math_fround(Math_fround($13 * Math_fround(-24.0)) + $17);
-      HEAPF32[$11 + 684 >> 2] = $19;
-      HEAPF32[$11 + 680 >> 2] = $19;
-      $19 = Math_fround($13 * Math_fround(12.0));
-      HEAPF32[$11 + 676 >> 2] = $19 + $3;
-      HEAPF32[$11 + 672 >> 2] = $19 + $23;
+      $17 = Math_fround(Math_fround($13 * Math_fround(-24.0)) + $19);
+      HEAPF32[$11 + 684 >> 2] = $17;
+      HEAPF32[$11 + 680 >> 2] = $17;
+      $17 = Math_fround($13 * Math_fround(12.0));
+      HEAPF32[$11 + 676 >> 2] = $17 + $3;
+      HEAPF32[$11 + 672 >> 2] = $17 + $26;
       $7 = HEAP32[137749];
       block19104 : {
        block18105 : {
@@ -35143,9 +35149,9 @@ function asmFunc(imports) {
          if ($7) {
           break block17106
          }
-         $19 = Math_fround(HEAPF32[137752] - HEAPF32[100345]);
-         HEAPF32[137752] = $19;
-         if (!($19 <= Math_fround(0.0))) {
+         $17 = Math_fround(HEAPF32[137752] - HEAPF32[100345]);
+         HEAPF32[137752] = $17;
+         if (!($17 <= Math_fround(0.0))) {
           break block18105
          }
          HEAP32[137752] = 1053609165;
@@ -35219,8 +35225,8 @@ function asmFunc(imports) {
        HEAP32[$11 + 164 >> 2] = $9;
        ui_icon(73, Math_fround(Math_fround(HEAPF32[$1 >> 2] * Math_fround(.5)) + HEAPF32[$11 + 672 >> 2]), Math_fround(Math_fround(HEAPF32[$11 + 684 >> 2] * Math_fround(.5)) + HEAPF32[$11 + 676 >> 2]), Math_fround($13 * Math_fround(30.0)), $11 + 160 | 0);
       }
-      $19 = Math_fround(Math_fround($13 * Math_fround(16.0)) + Math_fround(HEAPF32[$11 + 672 >> 2] + HEAPF32[$11 + 680 >> 2]));
-      $14 = Math_fround(Math_fround(Math_fround($13 * Math_fround(-12.0)) + Math_fround($23 + $28)) - $19);
+      $17 = Math_fround(Math_fround($13 * Math_fround(16.0)) + Math_fround(HEAPF32[$11 + 672 >> 2] + HEAPF32[$11 + 680 >> 2]));
+      $14 = Math_fround(Math_fround(Math_fround($13 * Math_fround(-12.0)) + Math_fround($26 + $28)) - $17);
       $4 = ui_measure(1, $36, 7386);
       block20107 : {
        if ($4 <= Math_fround(0.0)) {
@@ -35246,18 +35252,18 @@ function asmFunc(imports) {
       HEAP32[$11 + 612 >> 2] = $9;
       HEAP32[$11 + 144 >> 2] = $2;
       HEAP32[$11 + 148 >> 2] = $9;
-      ui_text(1, $36, $19, Math_fround(Math_fround($13 * Math_fround(34.0)) + $3), 0, $11 + 144 | 0, 7386);
+      ui_text(1, $36, $17, Math_fround(Math_fround($13 * Math_fround(34.0)) + $3), 0, $11 + 144 | 0, 7386);
       $4 = $15;
       $7 = HEAP32[137749] ? 7636 : 7588;
-      $26 = ui_measure(0, $4, $7);
+      $23 = ui_measure(0, $4, $7);
       block21108 : {
-       if ($14 >= $26) {
+       if ($14 >= $23) {
         break block21108
        }
-       if ($26 <= Math_fround(0.0)) {
+       if ($23 <= Math_fround(0.0)) {
         break block21108
        }
-       $14 = Math_fround($14 / $26);
+       $14 = Math_fround($14 / $23);
        $4 = Math_fround($4 * ($14 > Math_fround(.7200000286102295) ? $14 : Math_fround(.7200000286102295)));
       }
       $10 = $11 + 600 | 0;
@@ -35274,56 +35280,76 @@ function asmFunc(imports) {
       HEAP32[$11 + 596 >> 2] = $9;
       HEAP32[$11 + 128 >> 2] = $2;
       HEAP32[$11 + 132 >> 2] = $9;
-      ui_text(0, $4, $19, Math_fround(Math_fround($13 * Math_fround(54.0)) + $3), 0, $11 + 128 | 0, $7);
+      ui_text(0, $4, $17, Math_fround(Math_fround($13 * Math_fround(54.0)) + $3), 0, $11 + 128 | 0, $7);
       $14 = Math_fround(Math_fround($13 * Math_fround(64.0)) + $3);
-      $7 = HEAP32[137749];
-      $10 = $7 ? 7199 : 7246;
-      if (small_button(710, $19, $14, $10, !$7)) {
+      $10 = HEAP32[137749];
+      $7 = $10 ? 7199 : 7246;
+      if (small_button(710, $17, $14, $7, !$10)) {
        plat_pick_potato_photo()
       }
       block23109 : {
        if (!HEAP32[137749]) {
         break block23109
        }
-       if (!small_button(711, Math_fround(Math_fround($13 * Math_fround(10.0)) + Math_fround($19 + Math_fround(ui_measure(1, Math_fround(HEAPF32[135563] * Math_fround(15.0)), $10) + Math_fround(HEAPF32[135563] * Math_fround(34.0))))), $14, 3053, 1)) {
+       if (small_button(711, Math_fround(Math_fround($13 * Math_fround(10.0)) + Math_fround($17 + Math_fround(ui_measure(1, Math_fround(HEAPF32[135563] * Math_fround(15.0)), $7) + Math_fround(HEAPF32[135563] * Math_fround(34.0))))), $14, 3053, 1)) {
+        HEAP32[137753] = 1;
+        if (HEAP32[125857]) {
+         end_strip()
+        }
+        HEAP32[125856] = 0;
+        HEAP32[125857] = 0;
+        HEAP32[125847] = -1;
+        HEAP32[100512] = 0;
+        HEAP32[100513] = 0;
+        HEAP32[123741] = 0;
+        HEAP32[121635] = 0;
+        HEAP32[119529] = 0;
+        HEAP32[117423] = 0;
+        HEAP32[115317] = 0;
+        HEAP32[113211] = 0;
+        HEAP32[111105] = 0;
+        HEAP32[108999] = 0;
+        HEAP32[106893] = 0;
+        HEAP32[104787] = 0;
+        HEAP32[102681] = 0;
+        HEAP32[100575] = 0;
+        HEAP32[100514] = 0;
+        HEAP32[100510] = 0;
+        HEAP32[100504] = 0;
+        HEAP32[100505] = 0;
+        HEAP32[100516] = 4;
+        HEAP32[100500] = 2;
+        HEAPF32[100511] = HEAP32[100466];
+        HEAP32[100508] = 0;
+        HEAP32[100509] = 0;
+        HEAP32[134974] = 0;
+        HEAP32[125879] = 0;
+        HEAP32[125875] = 0;
+        spawn_potato(-1);
+       }
+       if (!HEAP32[137749]) {
         break block23109
        }
-       HEAP32[137753] = 1;
-       if (HEAP32[125857]) {
-        end_strip()
+       $23 = ui_measure(1, Math_fround(HEAPF32[135563] * Math_fround(15.0)), $7);
+       $4 = HEAPF32[135563];
+       $12 = ui_measure(1, Math_fround($4 * Math_fround(15.0)), 3053);
+       if (!small_button(716, Math_fround(Math_fround($13 * Math_fround(20.0)) + Math_fround(Math_fround($17 + Math_fround($23 + Math_fround($4 * Math_fround(34.0)))) + Math_fround($12 + Math_fround(HEAPF32[135563] * Math_fround(34.0))))), $14, 11375, 0)) {
+        break block23109
        }
-       HEAP32[125856] = 0;
-       HEAP32[125857] = 0;
-       HEAP32[125847] = -1;
-       HEAP32[100512] = 0;
-       HEAP32[100513] = 0;
-       HEAP32[123741] = 0;
-       HEAP32[121635] = 0;
-       HEAP32[119529] = 0;
-       HEAP32[117423] = 0;
-       HEAP32[115317] = 0;
-       HEAP32[113211] = 0;
-       HEAP32[111105] = 0;
-       HEAP32[108999] = 0;
-       HEAP32[106893] = 0;
-       HEAP32[104787] = 0;
-       HEAP32[102681] = 0;
-       HEAP32[100575] = 0;
-       HEAP32[100514] = 0;
-       HEAP32[100510] = 0;
-       HEAP32[100504] = 0;
-       HEAP32[100505] = 0;
-       HEAP32[100516] = 4;
-       HEAP32[100500] = 2;
-       HEAPF32[100511] = HEAP32[100466];
-       HEAP32[100508] = 0;
-       HEAP32[100509] = 0;
-       HEAP32[134974] = 0;
-       HEAP32[125879] = 0;
-       HEAP32[125875] = 0;
-       spawn_potato(-1);
+       tp_glDeleteTexture(HEAP32[137749]);
+       HEAP32[137755] = 0;
+       HEAP32[137749] = 0;
+       HEAP32[100494] = 0;
+       $7 = settings_hash(401384);
+       if (($7 | 0) != HEAP32[135763]) {
+        HEAP32[135763] = $7;
+        HEAP32[100496] = HEAP32[100496] + 1;
+       }
+       save_build(598656);
+       plat_save(598656);
+       HEAP32[135762] = 1;
       }
-      $14 = Math_fround(Math_fround($13 * Math_fround(18.0)) + $17);
+      $14 = Math_fround(Math_fround($13 * Math_fround(18.0)) + $19);
       $7 = -208;
       $10 = 0;
       while (1) {
@@ -35339,16 +35365,16 @@ function asmFunc(imports) {
       tp_fmt_int($11 + 848 | 0, $10, 0);
       tp_fmt_int($11 + 496 | 0, 55, 0);
       tr_fmt($11 + 864 | 0, 320, 14169, $11 + 848 | 0, $11 + 496 | 0, 0);
-      $17 = Math_fround(Math_fround($13 * Math_fround(4.0)) + section_head(Math_fround($14 + $3), 5045, $11 + 864 | 0));
-      $26 = Math_fround($13 * Math_fround(12.0));
+      $19 = Math_fround(Math_fround($13 * Math_fround(4.0)) + section_head(Math_fround($14 + $3), 5045, $11 + 864 | 0));
+      $23 = Math_fround($13 * Math_fround(12.0));
       $12 = Math_fround($13 * Math_fround(21.0));
       $22 = Math_fround($13 * Math_fround(32.0));
-      $19 = Math_fround($13 * Math_fround(108.0));
-      $4 = Math_fround($28 / $19);
-      block27111 : {
+      $17 = Math_fround($13 * Math_fround(108.0));
+      $4 = Math_fround($28 / $17);
+      block29111 : {
        if (Math_fround(Math_abs($4)) < Math_fround(2147483648.0)) {
         $10 = ~~$4;
-        break block27111;
+        break block29111;
        }
        $10 = -2147483648;
       }
@@ -35365,26 +35391,26 @@ function asmFunc(imports) {
       $53 = Math_fround($13 * Math_fround(86.0));
       while (1) {
        $10 = $7;
-       block28161 : {
+       block30113 : {
         if ($7 >>> 0 < 20) {
-         break block28161
+         break block30113
         }
         $10 = $7 + 2 | 0;
         if ($7 >>> 0 <= 52) {
-         break block28161
+         break block30113
         }
         $10 = ($7 | 0) == 53 ? 20 : 21;
        }
        $24 = ($7 >>> 0) / ($20 >>> 0) | 0;
-       $3 = Math_fround(Math_fround(Math_fround($24 | 0) * $19) + $17);
-       block30113 : {
+       $3 = Math_fround(Math_fround(Math_fround($24 | 0) * $17) + $19);
+       block32114 : {
         if ($25 < $3) {
-         break block30113
+         break block32114
         }
-        if (Math_fround($19 + $3) < Math_fround(0.0)) {
-         break block30113
+        if (Math_fround($17 + $3) < Math_fround(0.0)) {
+         break block32114
         }
-        $14 = Math_fround($33 + Math_fround(Math_fround(Math_fround($7 - Math_imul($20, $24) | 0) * $29) + $23));
+        $14 = Math_fround($33 + Math_fround(Math_fround(Math_fround($7 - Math_imul($20, $24) | 0) * $29) + $26));
         $31 = ($10 << 2) + 401472 | 0;
         $24 = HEAP32[$31 >> 2];
         $5 = ($24 | 0) > 0;
@@ -35395,7 +35421,7 @@ function asmFunc(imports) {
         HEAP32[$11 + 580 >> 2] = $9;
         HEAPF32[$11 + 588 >> 2] = ($5 ? Math_fround(1.0) : Math_fround(.44999998807907104)) * HEAPF32[100502];
         $4 = Math_fround($50 + $3);
-        block32114 : {
+        block34115 : {
          if (($24 | 0) > 0) {
           $1 = $11 + 584 | 0;
           $6 = HEAP32[$1 >> 2];
@@ -35409,7 +35435,7 @@ function asmFunc(imports) {
           ui_text(1, $15, $14, $4, 1, $11 + 96 | 0, HEAP32[Math_imul($10, 112) + 66288 >> 2]);
           tp_fmt_int($11 + 848 | 0, HEAP32[$31 >> 2], 1);
           tr_fmt($11 + 864 | 0, 320, 14574, $11 + 848 | 0, 0, 0);
-          break block32114;
+          break block34115;
          }
          $1 = $11 + 584 | 0;
          $6 = HEAP32[$1 >> 2];
@@ -35436,7 +35462,7 @@ function asmFunc(imports) {
         HEAP32[$11 + 564 >> 2] = $9;
         HEAP32[$11 + 80 >> 2] = $2;
         HEAP32[$11 + 84 >> 2] = $9;
-        ui_text(0, $26, $14, Math_fround($53 + $3), 1, $11 + 80 | 0, $11 + 864 | 0);
+        ui_text(0, $23, $14, Math_fround($53 + $3), 1, $11 + 80 | 0, $11 + 864 | 0);
        }
        $7 = $7 + 1 | 0;
        if (($7 | 0) != 55) {
@@ -35446,7 +35472,7 @@ function asmFunc(imports) {
       };
       $10 = Math_fround($13 * Math_fround(900.0)) < $28 ? 3 : Math_fround($13 * Math_fround(520.0)) < $28 ? 2 : 1;
       $4 = Math_fround(Math_fround(Math_fround($34 * Math_fround($10 - 1 | 0)) + $28) / Math_fround($10 | 0));
-      $14 = Math_fround(Math_fround(Math_fround(($20 + 54 >>> 0) / ($20 >>> 0) | 0) * $19) + $17);
+      $14 = Math_fround(Math_fround(Math_fround(($20 + 54 >>> 0) / ($20 >>> 0) | 0) * $17) + $19);
       $24 = 0;
       $31 = HEAP32[100426];
       $3 = HEAPF32[100360];
@@ -35469,25 +35495,25 @@ function asmFunc(imports) {
       tp_fmt_int($11 + 848 | 0, $24, 0);
       tp_fmt_int($11 + 496 | 0, 16, 0);
       tr_fmt($11 + 864 | 0, 320, 19706, $11 + 848 | 0, $11 + 496 | 0, 0);
-      $17 = Math_fround($32 + $4);
+      $19 = Math_fround($32 + $4);
       $3 = Math_fround($13 * Math_fround(62.0));
-      $19 = Math_fround($3 + $32);
+      $17 = Math_fround($3 + $32);
       $20 = 76064;
       $24 = 536420;
-      $26 = section_head(Math_fround(Math_fround($13 * Math_fround(30.0)) + $14), 5080, $11 + 864 | 0);
+      $23 = section_head(Math_fround(Math_fround($13 * Math_fround(30.0)) + $14), 5080, $11 + 864 | 0);
       $6 = $11 + 680 | 0;
       $7 = 0;
       while (1) {
        $5 = ($7 >>> 0) / ($10 >>> 0) | 0;
-       $14 = Math_fround(Math_fround(Math_fround($5 | 0) * $19) + $26);
-       block35117 : {
+       $14 = Math_fround(Math_fround(Math_fround($5 | 0) * $17) + $23);
+       block37118 : {
         if ($25 < $14) {
-         break block35117
+         break block37118
         }
         if (Math_fround($3 + $14) < Math_fround(0.0)) {
-         break block35117
+         break block37118
         }
-        $12 = Math_fround(Math_fround(Math_fround($7 - Math_imul($5, $10) | 0) * $17) + $23);
+        $12 = Math_fround(Math_fround(Math_fround($7 - Math_imul($5, $10) | 0) * $19) + $26);
         $55 = $7 - 16 >>> 0 > 4294967293;
         if ($55) {
          $31 = HEAPF32[100360] >= Math_fround(Math_fround(HEAP32[(HEAP32[$20 + 8 >> 2] << 2) + 76032 >> 2]) * Math_fround(60.0))
@@ -35520,12 +35546,12 @@ function asmFunc(imports) {
          HEAP32[$5 >> 2] = HEAP32[$5 >> 2] + 1;
         }
         $5 = ($8 | 0) == ($7 | 0);
-        block39162 : {
+        block41119 : {
          if (HEAP32[134e3] != ($2 | 0)) {
-          break block39162
+          break block41119
          }
          if (!$31) {
-          break block39162
+          break block41119
          }
          HEAP32[100363] = 1;
          HEAP32[100362] = ($8 | 0) == ($7 | 0) ? -1 : $7;
@@ -35537,13 +35563,13 @@ function asmFunc(imports) {
          save_build(598656);
          plat_save(598656);
          HEAP32[135762] = 1;
-         block41118 : {
+         block43161 : {
           if (!HEAP32[100351]) {
-           break block41118
+           break block43161
           }
           $5 = HEAP32[100354];
           if (($5 | 0) <= 0) {
-           break block41118
+           break block43161
           }
           $14 = Math_fround(Math_fround($5 | 0) / Math_fround(100.0));
           $15 = Math_fround(Math_fround(Math_fround($14 * $14) * Math_fround(1.2000000476837158)) * Math_fround(.5));
@@ -35551,7 +35577,7 @@ function asmFunc(imports) {
           $14 = Math_fround($15 * Math_fround($14 * $14));
           $14 = $14 < Math_fround(1.0) ? $14 : Math_fround(1.0);
           if (!($14 > Math_fround(2.0000000949949026e-03))) {
-           break block41118
+           break block43161
           }
           plat_sound(4, Math_fround($14), Math_fround(Math_fround(1.2000000476837158)));
          }
@@ -35573,16 +35599,16 @@ function asmFunc(imports) {
         HEAP32[$11 + 68 >> 2] = $9;
         reward_card($11 - -64 | 0, 87, $31 ? 1 : -1, $5, HEAP32[$20 >> 2], $5 ? 11220 : HEAP32[$8 >> 2]);
         if ($5) {
-         break block35117
+         break block37118
         }
         if (!$31) {
-         break block35117
+         break block37118
         }
         $14 = HEAP32[134001] == ($2 | 0) ? (HEAP32[125896] ? Math_fround(1.0) : Math_fround(0.0)) : Math_fround(0.0);
         $14 = Math_fround(Math_fround(Math_fround(HEAPF32[$24 >> 2] - $14) * Math_fround(+tp_js_exp(+Math_fround(HEAPF32[100345] * Math_fround(-14.0))))) + $14);
         HEAPF32[$24 >> 2] = $14;
         if (!($14 > Math_fround(.009999999776482582))) {
-         break block35117
+         break block37118
         }
         $12 = HEAP32[134001] == ($2 | 0) ? (HEAP32[125896] ? Math_fround(1.0) : Math_fround(0.0)) : Math_fround(0.0);
         $14 = Math_fround(Math_fround(Math_fround($14 - $12) * Math_fround(+tp_js_exp(+Math_fround(HEAPF32[100345] * Math_fround(-14.0))))) + $12);
@@ -35617,7 +35643,7 @@ function asmFunc(imports) {
        }
        break;
       };
-      $14 = Math_fround(Math_fround(Math_fround(($10 + 15 >>> 0) / ($10 >>> 0) | 0) * $19) + $26);
+      $14 = Math_fround(Math_fround(Math_fround(($10 + 15 >>> 0) / ($10 >>> 0) | 0) * $17) + $23);
       $7 = 0;
       $20 = HEAP32[100426];
       $24 = HEAP32[100427];
@@ -35633,23 +35659,23 @@ function asmFunc(imports) {
       tp_fmt_int($11 + 848 | 0, $5, 0);
       tp_fmt_int($11 + 496 | 0, 39, 0);
       tr_fmt($11 + 864 | 0, 320, 14525, $11 + 848 | 0, $11 + 496 | 0, 0);
-      $26 = section_head(Math_fround(Math_fround($13 * Math_fround(30.0)) + $14), 3874, $11 + 864 | 0);
+      $23 = section_head(Math_fround(Math_fround($13 * Math_fround(30.0)) + $14), 3874, $11 + 864 | 0);
       $20 = 0;
       $7 = 0;
       while (1) {
        $24 = ($7 >>> 0) / ($10 >>> 0) | 0;
-       $14 = Math_fround(Math_fround(Math_fround($24 | 0) * $19) + $26);
-       block44121 : {
+       $14 = Math_fround(Math_fround(Math_fround($24 | 0) * $17) + $23);
+       block46122 : {
         if ($25 < $14) {
-         break block44121
+         break block46122
         }
         if (Math_fround($3 + $14) < Math_fround(0.0)) {
-         break block44121
+         break block46122
         }
         HEAPF32[$11 + 540 >> 2] = $3;
         HEAPF32[$11 + 536 >> 2] = $4;
         HEAPF32[$11 + 532 >> 2] = $14;
-        HEAPF32[$11 + 528 >> 2] = Math_fround(Math_fround($7 - Math_imul($10, $24) | 0) * $17) + $23;
+        HEAPF32[$11 + 528 >> 2] = Math_fround(Math_fround($7 - Math_imul($10, $24) | 0) * $19) + $26;
         if ($7 >>> 0 <= 30) {
          $24 = HEAP32[100426] >>> $7 | 0
         } else {
@@ -35679,17 +35705,17 @@ function asmFunc(imports) {
       tp_fmt_int($11 + 672 | 0, 7, 0);
       tr_fmt($11 + 864 | 0, 320, 1083, $11 + 848 | 0, $11 + 672 | 0, $11 + 496 | 0);
       $7 = -28;
-      $14 = section_head(Math_fround(Math_fround($13 * Math_fround(30.0)) + Math_fround(Math_fround(Math_fround(($10 + 38 >>> 0) / ($10 >>> 0) | 0) * $19) + $26)), 5275, $11 + 864 | 0);
+      $14 = section_head(Math_fround(Math_fround($13 * Math_fround(30.0)) + Math_fround(Math_fround(Math_fround(($10 + 38 >>> 0) / ($10 >>> 0) | 0) * $17) + $23)), 5275, $11 + 864 | 0);
       $20 = 0;
       while (1) {
        $24 = ($20 >>> 0) / ($10 >>> 0) | 0;
-       $13 = Math_fround(Math_fround(Math_fround($24 | 0) * $19) + $14);
-       block47123 : {
+       $13 = Math_fround(Math_fround(Math_fround($24 | 0) * $17) + $14);
+       block49 : {
         if ($25 < $13) {
-         break block47123
+         break block49
         }
         if (Math_fround($3 + $13) < Math_fround(0.0)) {
-         break block47123
+         break block49
         }
         $5 = $11 + 488 | 0;
         HEAPF32[$5 >> 2] = $4;
@@ -35699,7 +35725,7 @@ function asmFunc(imports) {
         HEAP32[$18 >> 2] = HEAP32[$5 >> 2];
         HEAP32[$18 + 4 >> 2] = $9;
         HEAPF32[$11 + 484 >> 2] = $13;
-        HEAPF32[$11 + 480 >> 2] = Math_fround(Math_fround($20 - Math_imul($10, $24) | 0) * $17) + $23;
+        HEAPF32[$11 + 480 >> 2] = Math_fround(Math_fround($20 - Math_imul($10, $24) | 0) * $19) + $26;
         $18 = HEAP32[$11 + 484 >> 2];
         HEAP32[$11 >> 2] = HEAP32[$11 + 480 >> 2];
         HEAP32[$11 + 4 >> 2] = $18;
@@ -35712,7 +35738,7 @@ function asmFunc(imports) {
        }
        break;
       };
-      $3 = Math_fround(Math_fround($23 + Math_fround(Math_fround(Math_fround(Math_fround(Math_fround(($10 + 6 >>> 0) / ($10 >>> 0) | 0) * $19) + $14) - $32) + HEAPF32[134805])) - $25);
+      $3 = Math_fround(Math_fround($26 + Math_fround(Math_fround(Math_fround(Math_fround(Math_fround(($10 + 6 >>> 0) / ($10 >>> 0) | 0) * $17) + $14) - $32) + HEAPF32[134805])) - $25);
       HEAPF32[134806] = $3 < Math_fround(0.0) ? Math_fround(0.0) : $3;
       panel_top(8287);
       __stack_pointer = $11 + 1184 | 0;
@@ -36236,48 +36262,48 @@ function asmFunc(imports) {
            }
            HEAP32[102678] = 1;
           }
-          block39135 : {
+          block39162 : {
            if (HEAP32[102681] != 2) {
-            break block39135
+            break block39162
            }
            if (!HEAP32[104783]) {
-            break block39135
+            break block39162
            }
            HEAP32[104784] = 1;
           }
-          block40136 : {
+          block40135 : {
            if (HEAP32[104787] != 2) {
-            break block40136
+            break block40135
            }
            if (!HEAP32[106889]) {
-            break block40136
+            break block40135
            }
            HEAP32[106890] = 1;
           }
-          block41137 : {
+          block41136 : {
            if (HEAP32[106893] != 2) {
-            break block41137
+            break block41136
            }
            if (!HEAP32[108995]) {
-            break block41137
+            break block41136
            }
            HEAP32[108996] = 1;
           }
-          block42138 : {
+          block42137 : {
            if (HEAP32[108999] != 2) {
-            break block42138
+            break block42137
            }
            if (!HEAP32[111101]) {
-            break block42138
+            break block42137
            }
            HEAP32[111102] = 1;
           }
-          block43163 : {
+          block43138 : {
            if (HEAP32[111105] != 2) {
-            break block43163
+            break block43138
            }
            if (!HEAP32[113207]) {
-            break block43163
+            break block43138
            }
            HEAP32[113208] = 1;
           }
@@ -36326,12 +36352,12 @@ function asmFunc(imports) {
            }
            HEAP32[123738] = 1;
           }
-          block49 : {
+          block49144 : {
            if (HEAP32[123741] != 2) {
-            break block49
+            break block49144
            }
            if (!HEAP32[125843]) {
-            break block49
+            break block49144
            }
            HEAP32[125844] = 1;
           }
@@ -36363,21 +36389,21 @@ function asmFunc(imports) {
         if (!HEAP32[100475]) {
          break block52
         }
-        block54144 : {
+        block54145 : {
          if (HEAP32[100575] != 2) {
-          break block54144
+          break block54145
          }
          if (!HEAP32[102677]) {
-          break block54144
+          break block54145
          }
          HEAP32[102678] = 1;
         }
-        block55145 : {
+        block55146 : {
          if (HEAP32[102681] != 2) {
-          break block55145
+          break block55146
          }
          if (!HEAP32[104783]) {
-          break block55145
+          break block55146
          }
          HEAP32[104784] = 1;
         }
@@ -36390,39 +36416,39 @@ function asmFunc(imports) {
          }
          HEAP32[106890] = 1;
         }
-        block57146 : {
+        block57147 : {
          if (HEAP32[106893] != 2) {
-          break block57146
+          break block57147
          }
          if (!HEAP32[108995]) {
-          break block57146
+          break block57147
          }
          HEAP32[108996] = 1;
         }
-        block58147 : {
+        block58148 : {
          if (HEAP32[108999] != 2) {
-          break block58147
+          break block58148
          }
          if (!HEAP32[111101]) {
-          break block58147
+          break block58148
          }
          HEAP32[111102] = 1;
         }
-        block59164 : {
+        block59163 : {
          if (HEAP32[111105] != 2) {
-          break block59164
+          break block59163
          }
          if (!HEAP32[113207]) {
-          break block59164
+          break block59163
          }
          HEAP32[113208] = 1;
         }
-        block60148 : {
+        block60149 : {
          if (HEAP32[113211] != 2) {
-          break block60148
+          break block60149
          }
          if (!HEAP32[115313]) {
-          break block60148
+          break block60149
          }
          HEAP32[115314] = 1;
         }
@@ -36435,30 +36461,30 @@ function asmFunc(imports) {
          }
          HEAP32[117420] = 1;
         }
-        block62149 : {
+        block62150 : {
          if (HEAP32[117423] != 2) {
-          break block62149
+          break block62150
          }
          if (!HEAP32[119525]) {
-          break block62149
+          break block62150
          }
          HEAP32[119526] = 1;
         }
-        block63150 : {
+        block63151 : {
          if (HEAP32[119529] != 2) {
-          break block63150
+          break block63151
          }
          if (!HEAP32[121631]) {
-          break block63150
+          break block63151
          }
          HEAP32[121632] = 1;
         }
-        block64151 : {
+        block64152 : {
          if (HEAP32[121635] != 2) {
-          break block64151
+          break block64152
          }
          if (!HEAP32[123737]) {
-          break block64151
+          break block64152
          }
          HEAP32[123738] = 1;
         }
@@ -36474,10 +36500,10 @@ function asmFunc(imports) {
       }
       $1 = $8 + 2064 | 0;
       $4 = Math_fround(Math_fround(Math_fround(Math_fround(+tp_js_pow(4.0, +Math_fround(Math_fround(HEAP32[100357]) / Math_fround(100.0)))) * Math_fround(.5)) * Math_fround(10.0)) + Math_fround(.5));
-      block66165 : {
+      block66164 : {
        if (Math_fround(Math_abs($4)) < Math_fround(2147483648.0)) {
         $7 = ~~$4;
-        break block66165;
+        break block66164;
        }
        $7 = -2147483648;
       }
@@ -36584,16 +36610,16 @@ function asmFunc(imports) {
        HEAP32[125875] = 0;
       }
       $3 = Math_fround($14 + $3);
-      block77152 : {
+      block77153 : {
        if (!nav_row(208, $12, $3, $17, $14, 1985, 12665, 0)) {
-        break block77152
+        break block77153
        }
-       block78153 : {
+       block78154 : {
         if (!HEAP32[100335]) {
-         break block78153
+         break block78154
         }
         if (HEAP32[100474]) {
-         break block78153
+         break block78154
         }
         HEAP32[147794] = 1;
         HEAP32[147792] = 1;
@@ -36608,7 +36634,7 @@ function asmFunc(imports) {
         }
         HEAP32[125856] = 0;
         HEAP32[125857] = 0;
-        break block77152;
+        break block77153;
        }
        block80 : {
         if (!(HEAPU8[542360] & 32)) {
@@ -36631,7 +36657,7 @@ function asmFunc(imports) {
         }
         HEAP32[125856] = 0;
         HEAP32[125857] = 0;
-        break block77152;
+        break block77153;
        }
        HEAP32[139533] = 6;
        HEAP32[139534] = 0;
@@ -36657,14 +36683,14 @@ function asmFunc(imports) {
       $4 = HEAPF32[135563];
       ui_text(1, Math_fround($4 * Math_fround(14.0)), $12, Math_fround(Math_fround($4 * Math_fround(40.0)) + $3), 0, $8 + 800 | 0, 3997);
       $3 = Math_fround(Math_fround($4 * Math_fround(52.0)) + $3);
-      block82154 : {
+      block82155 : {
        if (!HEAP32[134974]) {
-        break block82154
+        break block82155
        }
        $4 = Math_fround(HEAPF32[134975] - HEAPF32[100345]);
        HEAPF32[134975] = $4;
        if (!($4 <= Math_fround(0.0))) {
-        break block82154
+        break block82155
        }
        HEAP32[134974] = 0;
       }
@@ -36711,9 +36737,9 @@ function asmFunc(imports) {
        $7 = (HEAP32[133997] << 2) + 535980 | 0;
        HEAP32[$7 >> 2] = HEAP32[$7 >> 2] + 1;
       }
-      block84166 : {
+      block84165 : {
        if (HEAP32[134e3] != 16) {
-        break block84166
+        break block84165
        }
        if (HEAP32[134974]) {
         memcpy($8 + 1328 | 0, 401384, 616);
@@ -36771,26 +36797,26 @@ function asmFunc(imports) {
         HEAP32[135748] = 0;
         HEAP32[135749] = 0;
         HEAP32[134974] = 0;
-        block87167 : {
-         block86168 : {
+        block87166 : {
+         block86167 : {
           $7 = HEAP32[100463];
           if ($7 >>> 0 > 9) {
-           break block86168
+           break block86167
           }
           if (!(HEAP32[100462] >>> $7 & 1)) {
-           break block86168
+           break block86167
           }
           $7 = Math_imul($7, 20);
           gfx_peeler_skin(1, HEAP32[$7 + 75524 >> 2], HEAPF32[$7 + 75528 >> 2], HEAP32[$7 + 75532 >> 2]);
-          break block87167;
+          break block87166;
          }
          gfx_peeler_skin(0, 0, Math_fround(0.0), 0);
         }
         $7 = HEAP32[100464];
-        block89155 : {
+        block89156 : {
          if ($7 >>> 0 <= 7) {
           if (HEAP32[100423] >= HEAP32[($7 << 5) + 75732 >> 2]) {
-           break block89155
+           break block89156
           }
          }
          $7 = 0;
@@ -36804,7 +36830,7 @@ function asmFunc(imports) {
         save_build(598656);
         plat_save(598656);
         HEAP32[135762] = 1;
-        break block84166;
+        break block84165;
        }
        HEAP32[134974] = 1;
        HEAP32[134975] = 1077936128;
@@ -36972,10 +36998,10 @@ function asmFunc(imports) {
       ui_text(0, Math_fround($4 * Math_fround(13.5)), $13, Math_fround(Math_fround($4 * Math_fround(20.0)) + $3), 0, $8 + 624 | 0, 11853);
       $6 = $8 + 1328 | 0;
       $4 = Math_fround(Math_fround(HEAPF32[100367] * Math_fround(100.0)) + Math_fround(.5));
-      block93156 : {
+      block93157 : {
        if (Math_fround(Math_abs($4)) < Math_fround(2147483648.0)) {
         $1 = ~~$4;
-        break block93156;
+        break block93157;
        }
        $1 = -2147483648;
       }
@@ -37450,13 +37476,13 @@ function asmFunc(imports) {
       $3 = Math_fround(Math_fround(Math_fround($3 + HEAPF32[134805]) + HEAPF32[135564]) - HEAPF32[100338]);
       HEAPF32[134806] = $3 < Math_fround(0.0) ? Math_fround(0.0) : $3;
       panel_top(4667);
-      block103169 : {
+      block103168 : {
        if (!HEAPU8[592480]) {
-        break block103169
+        break block103168
        }
        if (HEAP32[100500] != 4) {
         HEAP8[592480] = 0;
-        break block103169;
+        break block103168;
        }
        $13 = HEAPF32[100345];
        HEAPF32[148122] = $13 + HEAPF32[148122];
@@ -37779,24 +37805,24 @@ function asmFunc(imports) {
        $7 = ($5 | 0) == 7;
        $6 = $7 ? 11974 : 2355;
        $3 = Math_fround(Math_fround($4 * Math_fround(-38.0)) + Math_fround(Math_fround($32 + $17) - $19));
-       block111162 : {
+       block111163 : {
         if (!small_button(201, Math_fround(Math_fround(Math_fround($28 + $26) - $19) - Math_fround(ui_measure(1, Math_fround(HEAPF32[135563] * Math_fround(15.0)), $6) + Math_fround(HEAPF32[135563] * Math_fround(34.0)))), $3, $6, 1)) {
-         break block111162
+         break block111163
         }
-        block113170 : {
+        block113169 : {
          if (($5 | 0) == 7) {
           HEAP8[592480] = 0;
-          break block113170;
+          break block113169;
          }
          HEAP32[148122] = 1045220557;
          HEAP32[148121] = HEAP32[148121] + 1;
         }
         if (!HEAP32[100351]) {
-         break block111162
+         break block111163
         }
         $6 = HEAP32[100354];
         if (($6 | 0) <= 0) {
-         break block111162
+         break block111163
         }
         $12 = Math_fround(Math_fround($6 | 0) / Math_fround(100.0));
         $4 = Math_fround(Math_fround(Math_fround($12 * $12) * Math_fround(1.2000000476837158)) * Math_fround(.5));
@@ -37804,16 +37830,16 @@ function asmFunc(imports) {
         $12 = Math_fround($4 * Math_fround($12 * $12));
         $12 = $12 < Math_fround(1.0) ? $12 : Math_fround(1.0);
         if (!($12 > Math_fround(2.0000000949949026e-03))) {
-         break block111162
+         break block111163
         }
         plat_sound(4, Math_fround($12), Math_fround(Math_fround(1.100000023841858)));
        }
-       block114163 : {
+       block114164 : {
         if ($7) {
-         break block114163
+         break block114164
         }
         if (!small_button(202, $14, $3, 5722, 0)) {
-         break block114163
+         break block114164
         }
         HEAP8[592480] = 0;
        }
@@ -37878,12 +37904,12 @@ function asmFunc(imports) {
       while (1) {
        $1 = $8 << 3;
        $6 = HEAP32[$1 + 76816 >> 2];
-       block2165 : {
+       block2166 : {
         if (!$6) {
          $6 = 542280;
          $7 = 542272;
          $10 = 542276;
-         break block2165;
+         break block2166;
         }
         $10 = $2 - -64 | 0;
         HEAPF32[$10 >> 2] = HEAPF32[135570];
@@ -38318,12 +38344,12 @@ function asmFunc(imports) {
            $7 = $5 - -64 | 0;
            $8 = __stack_pointer - 16 | 0;
            __stack_pointer = $8;
-           block171 : {
+           block170 : {
             if (!$6) {
-             break block171
+             break block170
             }
             if (HEAPF32[$7 + 12 >> 2] <= Math_fround(1.0000000474974513e-03)) {
-             break block171
+             break block170
             }
             HEAP32[52076] = $6;
             $40 = HEAPF32[$11 >> 2];
@@ -38862,37 +38888,37 @@ function asmFunc(imports) {
        }
        $3 = Math_fround(Math_fround($4 * Math_fround(56.0)) + $3);
        block29191 : {
-        block28192 : {
-         block26193 : {
-          block24194 : {
+        block28171 : {
+         block26192 : {
+          block24193 : {
            if (!HEAP32[139525]) {
-            block22195 : {
+            block22194 : {
              if (net_busy(10)) {
-              break block22195
+              break block22194
              }
              $0 = HEAPF64[69764];
              if (!($0 <= 0.0)) {
               if (!(+HEAPF32[100344] - $0 > 6.0)) {
-               break block22195
+               break block22194
               }
              }
              lb_fetch();
             }
             if (!HEAP32[139525]) {
-             break block24194
+             break block24193
             }
            }
-           block25196 : {
+           block25195 : {
             if (!(+HEAPF32[100344] - HEAPF64[69763] > 30.0)) {
-             break block25196
+             break block25195
             }
             if (net_busy(10)) {
-             break block25196
+             break block25195
             }
             lb_fetch();
            }
            if (HEAP32[139525]) {
-            break block26193
+            break block26192
            }
           }
           HEAPF32[$5 + 556 >> 2] = HEAPF32[100502];
@@ -38915,7 +38941,7 @@ function asmFunc(imports) {
           HEAP32[$5 + 128 >> 2] = HEAP32[$5 + 544 >> 2];
           HEAP32[$5 + 132 >> 2] = $11;
           ui_text(0, $25, $15, $12, 0, $5 + 128 | 0, $10);
-          break block28192;
+          break block28171;
          }
          $7 = HEAP32[139322];
          if ($7) {
@@ -38986,12 +39012,12 @@ function asmFunc(imports) {
           ui_rrect($5 + 112 | 0, $28, $5 + 96 | 0);
          }
          $7 = $10 >>> 0 < 3;
-         block33198 : {
+         block33197 : {
           if (!$7) {
            $6 = $10 + 1 | 0;
            tp_fmt_int($5 + 736 | 0, $6, 0);
            $13 = Math_fround($22 + $3);
-           break block33198;
+           break block33197;
           }
           $6 = $10 + 1 | 0;
           tp_fmt_int($5 + 736 | 0, $6, 0);
@@ -39047,10 +39073,10 @@ function asmFunc(imports) {
          HEAP32[$5 + 52 >> 2] = $1;
          ui_text(1, $12, $29, Math_fround(Math_fround($19 * Math_fround(.5)) + $13), 0, $5 + 48 | 0, Math_imul($10, 24) + 557292 | 0);
          $10 = HEAP32[$9 + 557892 >> 2];
-         block35199 : {
+         block35198 : {
           if (HEAP32[139321] == 3) {
            fmt_minutes($5 + 496 | 0, Math_fround($10 | 0));
-           break block35199;
+           break block35198;
           }
           tp_fmt_int($5 + 752 | 0, $10, 1);
           tp_strcpy($5 + 496 | 0, $5 + 752 | 0);
@@ -39081,7 +39107,7 @@ function asmFunc(imports) {
         };
        }
        $10 = HEAPU8[401748];
-       block41200 : {
+       block41199 : {
         block36172 : {
          if (!HEAP32[139525]) {
           break block36172
@@ -39095,11 +39121,11 @@ function asmFunc(imports) {
          }
          if (($7 | 0) > 0) {
           $9 = $7 & 3;
-          block39201 : {
+          block39200 : {
            if ($7 >>> 0 < 4) {
             $6 = 0;
             $7 = 0;
-            break block39201;
+            break block39200;
            }
            $2 = $7 & 2147483644;
            $6 = 0;
@@ -39128,15 +39154,15 @@ function asmFunc(imports) {
            };
           }
           if ($7) {
-           break block41200
+           break block41199
           }
          }
          tp_fmt_int($5 + 736 | 0, $8, 1);
          $10 = HEAP32[139524];
-         block43204 : {
+         block43203 : {
           if (HEAP32[139321] == 3) {
            fmt_minutes($5 + 496 | 0, Math_fround($10 | 0));
-           break block43204;
+           break block43203;
           }
           tp_fmt_int($5 + 752 | 0, $10, 1);
           tp_strcpy($5 + 496 | 0, $5 + 752 | 0);
@@ -39161,7 +39187,7 @@ function asmFunc(imports) {
          $10 = HEAPU8[401748];
         }
         if ($10 & 255) {
-         break block41200
+         break block41199
         }
         $2 = HEAP32[135571];
         $1 = HEAP32[135572];
@@ -39250,26 +39276,26 @@ function asmFunc(imports) {
       $17 = $14 < $17 ? $14 : $17;
       $12 = Math_fround($12 + $17) > Math_fround($4 - $3) ? $3 : $12;
       $15 = Math_fround(Math_fround($13 * Math_fround(20.0)) + Math_fround(Math_fround(Math_fround($13 * Math_fround(46.0)) + $3) - HEAPF32[134805]));
-      block2206 : {
-       block1207 : {
+      block2205 : {
+       block1206 : {
         if (!HEAP32[100335]) {
-         break block1207
+         break block1206
         }
         if (HEAP32[100474]) {
-         break block1207
+         break block1206
         }
         $3 = oldweb_card($12, $15, $17);
         $3 = Math_fround(Math_fround(Math_fround(HEAPF32[134805] + Math_fround($3 + Math_fround($13 * Math_fround(20.0)))) + HEAPF32[135564]) - HEAPF32[100338]);
         HEAPF32[134806] = $3 < Math_fround(0.0) ? Math_fround(0.0) : $3;
         panel_top(11402);
-        break block2206;
+        break block2205;
        }
        if (HEAPU8[542360] & 32) {
         $15 = Math_fround(Math_fround($13 * Math_fround(20.0)) + school_card($12, $15, $17))
        }
        $4 = HEAPF32[135563];
        $28 = Math_fround($13 * Math_fround(20.0));
-       block8208 : {
+       block8207 : {
         if (!HEAPU8[401748]) {
          $5 = HEAP32[135571];
          $2 = HEAP32[135572];
@@ -39325,7 +39351,7 @@ function asmFunc(imports) {
           plat_text_input($6 | 0, 1, L(13355) | 0, 66255, 6);
          }
          $3 = Math_fround($14 + Math_fround(Math_fround($4 * Math_fround(38.0)) + $3));
-         break block8208;
+         break block8207;
         }
         $6 = $7 + 168 | 0;
         HEAPF32[$6 >> 2] = HEAPF32[135573];
@@ -39345,28 +39371,28 @@ function asmFunc(imports) {
         ui_text(0, $3, $12, Math_fround(Math_fround($4 * Math_fround(18.0)) + $15), 0, $7 - -64 | 0, 13308);
         $1 = HEAPU8[401800];
         $2 = 0;
-        block9210 : {
+        block9209 : {
          if (!$1) {
-          break block9210
+          break block9209
          }
          HEAP8[$7 + 144 | 0] = $1;
          $6 = HEAPU8[401801];
          $2 = 1;
          if (!$6) {
-          break block9210
+          break block9209
          }
          HEAP8[$7 + 145 | 0] = $6;
          $6 = HEAPU8[401802];
          $2 = 2;
          if (!$6) {
-          break block9210
+          break block9209
          }
          HEAP8[$7 + 147 | 0] = 32;
          HEAP8[$7 + 146 | 0] = $6;
          $1 = HEAPU8[401803];
          $2 = 4;
          if (!$1) {
-          break block9210
+          break block9209
          }
          $6 = 476;
          while (1) {
@@ -39417,25 +39443,25 @@ function asmFunc(imports) {
         HEAP32[$7 + 36 >> 2] = $2;
         ui_text(1, Math_fround($4 * Math_fround(15.0)), $12, Math_fround(Math_fround($4 * Math_fround(90.0)) + $15), 0, $7 + 32 | 0, $7 + 176 | 0);
         $0 = HEAPF64[69146];
-        block14212 : {
-         block13213 : {
+        block14211 : {
+         block13212 : {
           if (HEAP32[100259]) {
-           break block13213
+           break block13212
           }
           if (!($0 <= 0.0)) {
-           break block13213
+           break block13212
           }
           tp_strcpy($7 + 176 | 0, 12156);
-          break block14212;
+          break block14211;
          }
          if ($0 <= 0.0) {
           tp_strcpy($7 + 176 | 0, 24850);
-          break block14212;
+          break block14211;
          }
          $14 = Math_fround(+HEAPF32[100344] - $0);
          if ($14 < Math_fround(60.0)) {
           tp_strcpy($7 + 176 | 0, L(2032));
-          break block14212;
+          break block14211;
          }
          fmt_minutes($7 + 80 | 0, $14);
          tr_fmt($7 + 176 | 0, 160, 7829, $7 + 80 | 0, 0, 0);
@@ -39533,7 +39559,7 @@ function asmFunc(imports) {
        $6 = (HEAP32[133997] << 2) + 535980 | 0;
        HEAP32[$6 >> 2] = HEAP32[$6 >> 2] + 1;
       }
-      block2214 : {
+      block2213 : {
        if (!HEAP32[139836]) {
         HEAP32[100500] = 8;
         HEAP32[134807] = 0;
@@ -39541,7 +39567,7 @@ function asmFunc(imports) {
         HEAP32[134974] = 0;
         HEAP32[125879] = 0;
         HEAP32[125875] = 0;
-        break block2214;
+        break block2213;
        }
        $4 = HEAPF32[100337];
        $3 = HEAPF32[134805];
@@ -39664,11 +39690,11 @@ function asmFunc(imports) {
         $56 = Math_fround($17 * Math_fround(5.0));
         $9 = 0;
         while (1) {
-         block5216 : {
-          block4217 : {
+         block5215 : {
+          block4216 : {
            $10 = $6 + 24 | 0;
            if (!HEAP32[$10 >> 2]) {
-            break block4217
+            break block4216
            }
            $1 = $5 + 632 | 0;
            HEAPF32[$1 >> 2] = $41;
@@ -39700,10 +39726,10 @@ function asmFunc(imports) {
            HEAP32[$5 + 284 >> 2] = $8;
            ui_rrect($5 + 280 | 0, $33, $5 + 264 | 0);
            if (!HEAP32[$10 >> 2]) {
-            break block4217
+            break block4216
            }
            tr_fmt($5 + 720 | 0, 96, 25401, $6, 0, 0);
-           break block5216;
+           break block5215;
           }
           tp_strcpy($5 + 720 | 0, $6);
          }
@@ -39787,13 +39813,13 @@ function asmFunc(imports) {
        $13 = HEAPF32[135563];
        ui_text(1, Math_fround($13 * Math_fround(14.0)), $12, Math_fround(Math_fround($13 * Math_fround(40.0)) + $4), 0, $5 + 200 | 0, 10493);
        $13 = Math_fround(Math_fround($13 * Math_fround(52.0)) + $4);
-       block22218 : {
-        block7219 : {
+       block22217 : {
+        block7218 : {
          if (!HEAP32[139857]) {
-          break block7219
+          break block7218
          }
          if (HEAP32[139856]) {
-          break block7219
+          break block7218
          }
          $6 = $5 + 552 | 0;
          HEAPF32[$6 >> 2] = $26;
@@ -39810,12 +39836,12 @@ function asmFunc(imports) {
          HEAP32[$5 + 140 >> 2] = $11;
          $10 = segmented(250, $5 + 136 | 0, 77696, 3, HEAP32[139853]);
          $6 = HEAP32[139853];
-         block8220 : {
+         block8219 : {
           if (($10 | 0) < 0) {
-           break block8220
+           break block8219
           }
           if (($6 | 0) == ($10 | 0)) {
-           break block8220
+           break block8219
           }
           HEAP32[139853] = $10;
           $6 = $10 ? (($10 | 0) == 1 ? 90 : 0) : 5;
@@ -39825,11 +39851,11 @@ function asmFunc(imports) {
          }
          $13 = Math_fround(Math_fround($17 * Math_fround(52.0)) + $13);
          if (($6 | 0) != 2) {
-          block11221 : {
+          block11220 : {
            if ($6) {
             fmt_minutes(619088, Math_fround(60.0));
             $10 = 60;
-            break block11221;
+            break block11220;
            }
            tp_fmt_int($5 + 536 | 0, 3, 0);
            tr_fmt(619088, 48, 4880, $5 + 536 | 0, 0, 0);
@@ -39838,12 +39864,12 @@ function asmFunc(imports) {
           HEAP32[$5 + 816 >> 2] = 619088;
           $9 = $6 ? 77008 : 76992;
           $10 = HEAP32[139854] != ($10 | 0) ? -1 : 0;
-          block13222 : {
+          block13221 : {
            if (!HEAP32[139853]) {
             $9 = HEAP32[$9 + 4 >> 2];
             tp_fmt_int($5 + 536 | 0, $9, 0);
             tp_strcpy(619136, $5 + 536 | 0);
-            break block13222;
+            break block13221;
            }
            $9 = HEAP32[$9 + 4 >> 2];
            fmt_minutes(619136, Math_fround($9 | 0));
@@ -39851,11 +39877,11 @@ function asmFunc(imports) {
           HEAP32[$5 + 820 >> 2] = 619136;
           $1 = $6 ? 77008 : 76992;
           $10 = HEAP32[139854] == ($9 | 0) ? 1 : $10;
-          block15223 : {
+          block15222 : {
            if (HEAP32[139853]) {
             $9 = HEAP32[$1 + 8 >> 2];
             fmt_minutes(619184, Math_fround($9 | 0));
-            break block15223;
+            break block15222;
            }
            $9 = HEAP32[$1 + 8 >> 2];
            tp_fmt_int($5 + 536 | 0, $9, 0);
@@ -39864,11 +39890,11 @@ function asmFunc(imports) {
           HEAP32[$5 + 824 >> 2] = 619184;
           $1 = $6 ? 77008 : 76992;
           $10 = HEAP32[139854] == ($9 | 0) ? 2 : $10;
-          block17224 : {
+          block17223 : {
            if (HEAP32[139853]) {
             $9 = HEAP32[$1 + 12 >> 2];
             fmt_minutes(619232, Math_fround($9 | 0));
-            break block17224;
+            break block17223;
            }
            $9 = HEAP32[$1 + 12 >> 2];
            tp_fmt_int($5 + 536 | 0, $9, 0);
@@ -39888,13 +39914,13 @@ function asmFunc(imports) {
           HEAP32[$5 + 120 >> 2] = HEAP32[$5 + 520 >> 2];
           HEAP32[$5 + 124 >> 2] = $11;
           $10 = segmented(254, $5 + 120 | 0, $5 + 816 | 0, 4, HEAP32[139854] == ($9 | 0) ? 3 : $10);
-          block18225 : {
+          block18224 : {
            if (($10 | 0) < 0) {
-            break block18225
+            break block18224
            }
            $6 = HEAP32[($10 << 2) + ($6 ? 77008 : 76992) >> 2];
            if (($6 | 0) == HEAP32[139854]) {
-            break block18225
+            break block18224
            }
            HEAP32[139854] = $6;
            lobby_host(-1, $6, -1);
@@ -39909,7 +39935,7 @@ function asmFunc(imports) {
           lobby_host(-1, 0, $6);
          }
          $13 = Math_fround(Math_fround($17 * Math_fround(66.0)) + $13);
-         block21226 : {
+         block21225 : {
           if (HEAP32[139864] >= 2) {
            $6 = $5 + 512 | 0;
            HEAPF32[$6 >> 2] = $26;
@@ -39924,7 +39950,7 @@ function asmFunc(imports) {
            HEAP32[$5 + 88 >> 2] = HEAP32[$5 + 504 >> 2];
            HEAP32[$5 + 92 >> 2] = $11;
            if (!pill_button(244, $5 + 88 | 0, 10477, 0, 1)) {
-            break block21226
+            break block21225
            }
            jb_reset(618512);
            jb_open(618512, 0);
@@ -39935,7 +39961,7 @@ function asmFunc(imports) {
            jb_null(618512, 14933);
            jb_close(618512);
            net_call(2422, HEAP32[154628], 16, 16);
-           break block21226;
+           break block21225;
           }
           $6 = $5 + 496 | 0;
           HEAPF32[$6 >> 2] = HEAPF32[135573];
@@ -39954,21 +39980,21 @@ function asmFunc(imports) {
           ui_text(0, Math_fround($17 * Math_fround(15.0)), $12, Math_fround(Math_fround($17 * Math_fround(30.0)) + $13), 0, $5 + 104 | 0, 24759);
          }
          $13 = Math_fround(Math_fround($17 * Math_fround(66.0)) + $13);
-         break block22218;
+         break block22217;
         }
-        block26227 : {
-         block25228 : {
+        block26226 : {
+         block25227 : {
           switch (HEAP32[139853]) {
           case 0:
            tp_fmt_int($5 + 704 | 0, HEAP32[139854], 0);
            tr_fmt($5 + 720 | 0, 96, 4355, $5 + 704 | 0, 0, 0);
-           break block26227;
+           break block26226;
           case 1:
            fmt_minutes($5 + 704 | 0, Math_fround(HEAP32[139854]));
            tr_fmt($5 + 720 | 0, 96, 1348, $5 + 704 | 0, 0, 0);
-           break block26227;
+           break block26226;
           default:
-           break block25228;
+           break block25227;
           };
          }
          tp_strcpy($5 + 720 | 0, L(2798));
@@ -40006,10 +40032,10 @@ function asmFunc(imports) {
         ui_text(0, Math_fround($17 * Math_fround(14.5)), $12, Math_fround(Math_fround($17 * Math_fround(46.0)) + $13), 0, $5 + 168 | 0, $6 ? (($6 | 0) == 3 ? 6153 : 24790) : 2526);
         $13 = Math_fround(Math_fround($17 * Math_fround(62.0)) + $13);
         if (!HEAP32[139857]) {
-         break block22218
+         break block22217
         }
         if (HEAP32[139856] != 3) {
-         break block22218
+         break block22217
         }
         $6 = $5 + 448 | 0;
         HEAPF32[$6 >> 2] = $26;
@@ -40063,10 +40089,10 @@ function asmFunc(imports) {
         $10 = 0;
         while (1) {
          $9 = HEAP32[$6 + 24 >> 2];
-         block30232 : {
+         block30231 : {
           if (($9 | 0) >= 0) {
            $9 = HEAP32[($9 << 2) + 77024 >> 2];
-           break block30232;
+           break block30231;
           }
           $9 = $6 + 28 | 0;
          }
@@ -40163,7 +40189,7 @@ function asmFunc(imports) {
        };
        $13 = Math_fround(Math_fround($17 * Math_fround(50.0)) + $13);
        $4 = Math_fround($17 * Math_fround(10.0));
-       block35234 : {
+       block35233 : {
         if (!HEAP32[139852]) {
          if (small_button(247, $12, $13, 12979, 1)) {
           HEAP32[139533] = 15;
@@ -40173,7 +40199,7 @@ function asmFunc(imports) {
           plat_text_input($6 | 0, 0, L(13009) | 0, 66255, 80);
          }
          $3 = Math_fround(Math_fround($17 * Math_fround(50.0)) + $13);
-         break block35234;
+         break block35233;
         }
         $6 = $5 + 384 | 0;
         HEAPF32[$6 >> 2] = HEAPF32[135573];
@@ -40209,14 +40235,14 @@ function asmFunc(imports) {
      case 11:
       $9 = __stack_pointer - 2640 | 0;
       __stack_pointer = $9;
-      block1235 : {
+      block1234 : {
        if (!HEAP32[140436]) {
         HEAP32[100500] = 1;
         HEAP32[134974] = 0;
         HEAP32[100336] = 0;
         HEAP32[125879] = 0;
         HEAP32[125875] = 0;
-        break block1235;
+        break block1234;
        }
        $13 = HEAPF32[135563];
        $23 = HEAPF32[135564];
@@ -40313,7 +40339,7 @@ function asmFunc(imports) {
         HEAP32[100336] = 0;
         HEAP32[125879] = 0;
         HEAP32[125875] = 0;
-        break block1235;
+        break block1234;
        }
        $2 = tp_strcmp(561828, 6372);
        $11 = HEAP32[140460];
@@ -40321,12 +40347,12 @@ function asmFunc(imports) {
        $55 = HEAP32[140460];
        $8 = tp_strcmp(561828, 6372);
        $31 = HEAP32[140460];
-       block5236 : {
+       block5235 : {
         if (!tp_strcmp(561828, 6372)) {
-         break block5236
+         break block5235
         }
         if (HEAP32[140460] & 128) {
-         break block5236
+         break block5235
         }
         $6 = !tp_strcmp(561828, 6372) | (HEAPU8[561840] & 64) >>> 6;
        }
@@ -40334,12 +40360,12 @@ function asmFunc(imports) {
        HEAP32[$9 + 2320 >> 2] = 12440;
        HEAP32[$9 + 2288 >> 2] = 0;
        $7 = HEAP32[140461];
-       block7237 : {
+       block7236 : {
         if ($2) {
          $10 = 1;
          $2 = 0;
          if (!($11 & 8)) {
-          break block7237
+          break block7236
          }
         }
         HEAP32[$9 + 2324 >> 2] = 5698;
@@ -40370,10 +40396,10 @@ function asmFunc(imports) {
         $10 = $10 + 1 | 0;
        }
        $15 = Math_fround($26 + $3);
-       block14238 : {
+       block14237 : {
         if ($37) {
          if (!(HEAP32[140460] & 256)) {
-          break block14238
+          break block14237
          }
         }
         $6 = $10 << 2;
@@ -40397,13 +40423,13 @@ function asmFunc(imports) {
        HEAP32[$9 + 1216 >> 2] = HEAP32[$9 + 2272 >> 2];
        HEAP32[$9 + 1220 >> 2] = $20;
        $2 = segmented(310, $9 + 1216 | 0, $9 + 2320 | 0, $10, $2);
-       block15239 : {
+       block15238 : {
         if (($2 | 0) < 0) {
-         break block15239
+         break block15238
         }
         $2 = HEAP32[($9 + 2288 | 0) + ($2 << 2) >> 2];
         if (($2 | 0) == HEAP32[140461]) {
-         break block15239
+         break block15238
         }
         HEAP32[140461] = $2;
         HEAP32[147753] = -1;
@@ -40423,58 +40449,58 @@ function asmFunc(imports) {
        $2 = 0;
        $6 = 0;
        while (1) {
-        block21241 : {
-         block22242 : {
-          block20243 : {
+        block21240 : {
+         block22241 : {
+          block20242 : {
            $7 = HEAP32[$2 + ($9 + 2288 | 0) >> 2];
-           block17244 : {
+           block17243 : {
             if (($7 | 0) == 1 & ($5 | 0) > 0) {
-             break block17244
+             break block17243
             }
-            block19245 : {
+            block19244 : {
              switch ($7 - 2 | 0) {
              case 0:
               if (HEAP32[147749] > HEAP32[100476]) {
-               break block17244
+               break block17243
               }
-              break block21241;
+              break block21240;
              case 1:
-              break block19245;
+              break block19244;
              default:
-              break block20243;
+              break block20242;
              };
             }
             if (HEAP32[147752] <= HEAP32[100478]) {
-             break block21241
+             break block21240
             }
            }
            if (HEAP32[140461] != ($7 | 0)) {
-            break block22242
+            break block22241
            }
-           break block21241;
+           break block21240;
           }
           if (($7 | 0) != 4) {
-           break block21241
+           break block21240
           }
           if ($8) {
-           break block21241
+           break block21240
           }
           if ($37) {
-           break block21241
+           break block21240
           }
           if (HEAP32[140461] == ($7 | 0)) {
-           break block21241
+           break block21240
           }
          }
          $3 = $12;
          $7 = HEAP32[$2 + ($9 + 2320 | 0) >> 2];
          $26 = ui_measure(1, $3, $7);
-         block23247 : {
+         block23246 : {
           if ($28 >= $26) {
-           break block23247
+           break block23246
           }
           if ($26 <= Math_fround(0.0)) {
-           break block23247
+           break block23246
           }
           $3 = Math_fround($28 / $26);
           $3 = Math_fround($12 * ($3 > Math_fround(.7200000286102295) ? $3 : Math_fround(.7200000286102295)));
@@ -40503,33 +40529,33 @@ function asmFunc(imports) {
         }
         break;
        };
-       block27248 : {
-        block28249 : {
-         block24250 : {
+       block27247 : {
+        block28248 : {
+         block24249 : {
           switch (HEAP32[140461] - 2 | 0) {
           case 1:
            $2 = HEAP32[147752];
            if (($2 | 0) <= HEAP32[100478]) {
-            break block27248
+            break block27247
            }
            HEAP32[100478] = $2;
-           break block28249;
+           break block28248;
           case 2:
            $2 = HEAP32[147751];
            if (($2 | 0) <= HEAP32[100477]) {
-            break block27248
+            break block27247
            }
            HEAP32[100477] = $2;
-           break block28249;
+           break block28248;
           case 0:
-           break block24250;
+           break block24249;
           default:
-           break block27248;
+           break block27247;
           };
          }
          $2 = HEAP32[147749];
          if (($2 | 0) <= HEAP32[100476]) {
-          break block27248
+          break block27247
          }
          HEAP32[100476] = $2;
         }
@@ -40547,56 +40573,56 @@ function asmFunc(imports) {
        HEAPF32[147747] = HEAPF32[147747] - $3;
        HEAPF32[147746] = HEAPF32[147746] - $3;
        $3 = Math_fround($13 * Math_fround(54.0));
-       block38253 : {
-        block30254 : {
+       block38252 : {
+        block30253 : {
          if (net_busy(19)) {
-          break block30254
+          break block30253
          }
-         block33255 : {
+         block33254 : {
           if (HEAPF32[140462] <= Math_fround(0.0)) {
            $6 = HEAP32[140461];
            HEAPF32[140462] = $6 ? Math_fround(5.0) : Math_fround(3.0);
            $2 = 6;
-           block35256 : {
+           block35255 : {
             switch ($6 | 0) {
             case 0:
              $2 = 1;
              if (!tp_strcmp(561828, 6372)) {
-              break block33255
+              break block33254
              }
              if (HEAP32[140460] & 1) {
-              break block33255
+              break block33254
              }
-             break block30254;
+             break block30253;
             default:
              $2 = ($6 | 0) == 4 ? 11 : 14;
-             break block33255;
+             break block33254;
             case 2:
              $2 = 8;
-             break block33255;
+             break block33254;
             case 1:
-             break block33255;
+             break block33254;
             case 3:
-             break block35256;
+             break block35255;
             };
            }
            $2 = 9;
-           break block33255;
+           break block33254;
           }
           if (HEAPF32[147747] <= Math_fround(0.0)) {
            HEAP32[147747] = 1086324736;
            $2 = 17;
-           break block33255;
+           break block33254;
           }
           $2 = HEAP32[140461];
           if ($2) {
-           break block38253
+           break block38252
           }
           if (!(!tp_strcmp(561828, 6372) | (HEAPU8[561840] & 2) >>> 1)) {
-           break block30254
+           break block30253
           }
           if (!(HEAPF32[147746] <= Math_fround(0.0))) {
-           break block30254
+           break block30253
           }
           HEAP32[147746] = 1086324736;
           $2 = 18;
@@ -40630,22 +40656,22 @@ function asmFunc(imports) {
         }
         $2 = HEAP32[140461];
         if ($2) {
-         break block38253
+         break block38252
         }
-        block39260 : {
+        block39259 : {
          if ((tp_strcmp(561828, 6372) | 0) != 0 & !(HEAPU8[561840] & 4)) {
-          break block39260
+          break block39259
          }
          if (HEAP32[140572]) {
-          break block39260
+          break block39259
          }
          if (HEAP32[149602]) {
-          break block39260
+          break block39259
          }
          $49 = HEAPF64[77410];
          $0 = +HEAPF32[100344];
          if (!($49 <= 0.0 | $0 - $49 > 5.0)) {
-          break block39260
+          break block39259
          }
          HEAPF64[77410] = $0 + .001;
          jb_reset(598428);
@@ -40657,15 +40683,15 @@ function asmFunc(imports) {
         $2 = HEAP32[140461];
        }
        $17 = Math_fround($3 + $15);
-       block47261 : {
-        block103262 : {
-         block46263 : {
+       block47260 : {
+        block103261 : {
+         block46262 : {
           switch ($2 | 0) {
           case 2:
            $7 = HEAP32[140867];
-           block48269 : {
+           block48268 : {
             if (($7 | 0) <= 0) {
-             break block48269
+             break block48268
             }
             $28 = Math_fround($13 * Math_fround(12.5));
             $3 = Math_fround(0.0);
@@ -40683,7 +40709,7 @@ function asmFunc(imports) {
              break;
             };
             if (($7 | 0) <= 0) {
-             break block48269
+             break block48268
             }
             $25 = Math_fround(Math_fround($13 * Math_fround(12.0)) + Math_fround($19 + $3));
             $15 = Math_fround($13 * Math_fround(12.5));
@@ -40773,7 +40799,7 @@ function asmFunc(imports) {
             };
            }
            if ($7) {
-            break block47261
+            break block47260
            }
            $2 = $9 + 1560 | 0;
            HEAPF32[$2 >> 2] = HEAPF32[135573];
@@ -40791,12 +40817,12 @@ function asmFunc(imports) {
            HEAP32[$9 + 756 >> 2] = $1;
            ui_text(0, $23, $19, Math_fround(Math_fround($13 * Math_fround(16.0)) + $17), 0, $9 + 752 | 0, HEAP32[147200] == 8 ? 3412 : 24839);
            $17 = Math_fround(Math_fround($13 * Math_fround(40.0)) + $17);
-           break block47261;
+           break block47260;
           case 0:
-           block51273 : {
+           block51272 : {
             if (tp_strcmp(561828, 6372)) {
              if (!(HEAP32[140460] & 1)) {
-              break block51273
+              break block51272
              }
             }
             $2 = $9 + 1848 | 0;
@@ -40981,10 +41007,10 @@ function asmFunc(imports) {
             ui_text(0, Math_fround($13 * Math_fround(13.0)), $19, Math_fround(Math_fround($13 * Math_fround(98.0)) + $17), 0, $9 + 464 | 0, 561868);
             $17 = Math_fround(Math_fround($13 * Math_fround(128.0)) + $17);
            }
-           block53274 : {
+           block53273 : {
             if (tp_strcmp(561828, 6372)) {
              if (!(HEAP32[140460] & 2)) {
-              break block53274
+              break block53273
              }
             }
             $10 = $9 + 1928 | 0;
@@ -41138,12 +41164,12 @@ function asmFunc(imports) {
              HEAP32[140493] = HEAP32[($2 << 2) + 77100 >> 2]
             }
             $3 = Math_fround(Math_fround($13 * Math_fround(48.0)) + $3);
-            block59276 : {
+            block59275 : {
              if (!HEAP32[140436]) {
-              break block59276
+              break block59275
              }
              if (tp_strcmp(561828, 6372)) {
-              break block59276
+              break block59275
              }
              $2 = $9 + 2120 | 0;
              HEAPF32[$2 >> 2] = HEAPF32[135573];
@@ -41187,13 +41213,13 @@ function asmFunc(imports) {
              admin_call(6854, 0);
             }
             $17 = Math_fround(Math_fround($13 * Math_fround(46.0)) + $3);
-            block63277 : {
+            block63276 : {
              if (!tp_strcmp(561828, 6372)) {
-              break block63277
+              break block63276
              }
              $2 = HEAP32[140491];
              if (($2 | 0) < 0) {
-              break block63277
+              break block63276
              }
              tp_fmt_int($9 + 2400 | 0, $2, 0);
              tp_strcpy($9 + 2416 | 0, $9 + 2400 | 0);
@@ -41216,7 +41242,7 @@ function asmFunc(imports) {
              $17 = Math_fround(Math_fround($13 * Math_fround(22.0)) + $17);
             }
             if (!HEAP32[147201]) {
-             break block53274
+             break block53273
             }
             $2 = $9 + 2072 | 0;
             HEAPF32[$2 >> 2] = HEAPF32[135573];
@@ -41236,7 +41262,7 @@ function asmFunc(imports) {
             ui_text(1, $12, $19, Math_fround($66 + $17), 0, $9 + 288 | 0, 5440);
             $17 = Math_fround(Math_fround($13 * Math_fround(30.0)) + $17);
             if (HEAP32[147201] <= 0) {
-             break block53274
+             break block53273
             }
             $47 = Math_fround($13 * Math_fround(13.0));
             $50 = Math_fround($13 * Math_fround(13.5));
@@ -41323,13 +41349,13 @@ function asmFunc(imports) {
              $6 = $9 + 1920 | 0;
              $2 = $5 + 589004 | 0;
              $1 = 6378;
-             block67280 : {
+             block67279 : {
               if (!tp_strcmp($2, 6372)) {
-               break block67280
+               break block67279
               }
               $1 = 5875;
               if (!tp_strcmp($2, 8753)) {
-               break block67280
+               break block67279
               }
               $1 = tp_strcmp($2, 5895) ? 11304 : 5905;
              }
@@ -41387,16 +41413,16 @@ function asmFunc(imports) {
              };
              $2 = HEAP32[$10 >> 2];
              block72 : {
-              block71282 : {
+              block71281 : {
                if (HEAP32[$5 + 589068 >> 2]) {
                 if (!$2) {
-                 break block71282
+                 break block71281
                 }
                 tp_strcpy($9 + 1840 | 0, L(7994));
                 break block72;
                }
                if (!$2) {
-                break block71282
+                break block71281
                }
                tp_strcpy($9 + 1840 | 0, L(26625));
                tp_strcat($9 + 1840 | 0, $5 + 589040 | 0);
@@ -41418,17 +41444,17 @@ function asmFunc(imports) {
                $7 = $9 + 1840 | 0;
                $6 = HEAP32[$2 >> 2];
                $1 = 2714;
-               block76283 : {
+               block76282 : {
                 if (($6 | 0) < 0) {
-                 break block76283
+                 break block76282
                 }
                 $1 = 5732;
                 if ($6 >>> 0 > 59) {
-                 break block76283
+                 break block76282
                 }
                 $1 = 8837;
                 if ($6 >>> 0 > 29) {
-                 break block76283
+                 break block76282
                 }
                 $1 = $6 >>> 0 > 14 ? 8787 : 8813;
                }
@@ -41454,12 +41480,12 @@ function asmFunc(imports) {
              HEAP32[$9 + 192 >> 2] = HEAP32[$9 + 1824 >> 2];
              HEAP32[$9 + 196 >> 2] = $18;
              ui_text(0, $47, $19, $3, 0, $9 + 192 | 0, $9 + 1840 | 0);
-             block77284 : {
+             block77283 : {
               if (!HEAP32[$10 >> 2]) {
-               break block77284
+               break block77283
               }
               if (!small_button($8 + 460 | 0, $19, Math_fround($64 + $3), 8095, 0)) {
-               break block77284
+               break block77283
               }
               jb_reset(619288);
               jb_open(619288, 0);
@@ -41470,7 +41496,7 @@ function asmFunc(imports) {
              }
              $17 = Math_fround($17 + $41);
              if ($8 >>> 0 > 6) {
-              break block53274
+              break block53273
              }
              $8 = $8 + 1 | 0;
              if (($8 | 0) < HEAP32[147201]) {
@@ -41479,12 +41505,12 @@ function asmFunc(imports) {
              break;
             };
            }
-           block78285 : {
+           block78284 : {
             if (!HEAP32[140436]) {
-             break block78285
+             break block78284
             }
             if (tp_strcmp(561828, 6372)) {
-             break block78285
+             break block78284
             }
             $10 = $9 + 1928 | 0;
             HEAPF32[$10 >> 2] = HEAPF32[135573];
@@ -41586,10 +41612,10 @@ function asmFunc(imports) {
             }
             $17 = Math_fround(Math_fround($13 * Math_fround(56.0)) + $3);
            }
-           block84287 : {
+           block84286 : {
             if (tp_strcmp(561828, 6372)) {
              if (!(HEAP32[140460] & 4)) {
-              break block84287
+              break block84286
              }
             }
             $2 = $9 + 1928 | 0;
@@ -41626,7 +41652,7 @@ function asmFunc(imports) {
              HEAP32[$9 + 4 >> 2] = $1;
              ui_text(0, Math_fround($13 * Math_fround(14.5)), $19, Math_fround(Math_fround($13 * Math_fround(16.0)) + $3), 0, $9, 24839);
              $17 = Math_fround(Math_fround($13 * Math_fround(30.0)) + $3);
-             break block84287;
+             break block84286;
             }
             $26 = Math_fround(Math_fround($13 * Math_fround(4.0)) + $3);
             $17 = HEAPF32[154830];
@@ -41786,12 +41812,12 @@ function asmFunc(imports) {
             HEAP32[$9 + 52 >> 2] = $20;
             $2 = segmented(324, $9 + 48 | 0, 77792, 4, HEAP32[140865]);
             $6 = HEAP32[140865];
-            block91288 : {
+            block91287 : {
              if (($2 | 0) < 0) {
-              break block91288
+              break block91287
              }
              if (($2 | 0) == ($6 | 0)) {
-              break block91288
+              break block91287
              }
              HEAP32[140864] = 1;
              HEAP32[140865] = $2;
@@ -41815,7 +41841,7 @@ function asmFunc(imports) {
             $23 = Math_fround($13 * Math_fround(12.0));
             $17 = Math_fround($3 + Math_fround($23 + ui_wrap(0, $17, $19, Math_fround($23 + $3), $32, Math_fround($13 * Math_fround(19.0)), $9 + 32 | 0, HEAP32[($6 << 2) + 77120 >> 2])));
             if (!HEAP32[140864]) {
-             break block84287
+             break block84286
             }
             $2 = $9 + 1688 | 0;
             HEAPF32[$2 >> 2] = $32;
@@ -41833,9 +41859,9 @@ function asmFunc(imports) {
             if (pill_button(297, $9 + 16 | 0, $2 ? 11931 : 11428, HEAP32[140865] == 3 ? 10930 : $2 ? 8566 : 5345, 1)) {
              jb_reset(619324);
              jb_open(619324, 0);
-             block93289 : {
+             block93288 : {
               if (!HEAP32[140866]) {
-               break block93289
+               break block93288
               }
               jb_str(619324, 12725, 562292);
               jb_str(619324, 1718, 562420);
@@ -41844,7 +41870,7 @@ function asmFunc(imports) {
                jb_str(619324, 13038, $2)
               }
               if (!HEAP32[140863]) {
-               break block93289
+               break block93288
               }
               jb_bool(619324, 13017, 1);
              }
@@ -41856,7 +41882,7 @@ function asmFunc(imports) {
             $17 = Math_fround(Math_fround($13 * Math_fround(62.0)) + $17);
            }
            $17 = Math_fround(Math_fround($13 * Math_fround(10.0)) + $17);
-           break block47261;
+           break block47260;
           case 1:
            $2 = HEAP32[140867];
            if (!$2) {
@@ -42057,7 +42083,7 @@ function asmFunc(imports) {
             };
            }
            if (!$2) {
-            break block47261
+            break block47260
            }
            $2 = $9 + 1608 | 0;
            HEAPF32[$2 >> 2] = HEAPF32[135573];
@@ -42075,7 +42101,7 @@ function asmFunc(imports) {
            HEAP32[$9 + 644 >> 2] = $1;
            ui_text(0, Math_fround($13 * Math_fround(13.0)), $19, Math_fround(Math_fround($13 * Math_fround(14.0)) + $17), 0, $9 + 640 | 0, 24636);
            $17 = Math_fround(Math_fround($13 * Math_fround(30.0)) + $17);
-           break block47261;
+           break block47260;
           case 3:
            $52 = tp_strcmp(561828, 6372);
            $24 = HEAP32[135571];
@@ -42118,7 +42144,7 @@ function asmFunc(imports) {
            $17 = Math_fround($17 + Math_fround(Math_fround($13 * Math_fround(10.0)) + Math_fround($3 - $4)));
            $2 = HEAP32[140867];
            if (($2 | 0) <= 0) {
-            break block103262
+            break block103261
            }
            $22 = Math_fround($13 * Math_fround(44.0));
            $15 = Math_fround(Math_fround($13 * Math_fround(4.0)) + $19);
@@ -42186,9 +42212,9 @@ function asmFunc(imports) {
              admin_call(13625, 619356);
             }
             $14 = Math_fround($22 + $17);
-            block106295 : {
+            block106294 : {
              if ($52) {
-              break block106295
+              break block106294
              }
              $6 = ($31 | 0) == HEAP32[147753] ? 11752 : 14865;
              $7 = small_button($31 + 420 | 0, Math_fround(Math_fround($30 + $3) - Math_fround(ui_measure(1, Math_fround(HEAPF32[135563] * Math_fround(15.0)), $6) + Math_fround(HEAPF32[135563] * Math_fround(34.0)))), $26, $6, 0);
@@ -42200,7 +42226,7 @@ function asmFunc(imports) {
              $17 = Math_fround($22 + $17);
              $14 = $17;
              if (($6 | 0) != ($31 | 0)) {
-              break block106295
+              break block106294
              }
              $37 = 0;
              tr_fmt($9 + 1920 | 0, 96, 15575, $57, 0, 0);
@@ -42254,16 +42280,16 @@ function asmFunc(imports) {
                }
                HEAP8[$7 + 591016 | 0] = 0;
                $7 = HEAPU8[$57 | 0];
-               block110298 : {
+               block110297 : {
                 if (!$7) {
-                 break block110298
+                 break block110297
                 }
                 $2 = 0;
                 while (1) {
                  HEAP8[$2 + 591056 | 0] = $7;
                  $6 = $2 + 1 | 0;
                  if (($2 | 0) == 38) {
-                  break block110298
+                  break block110297
                  }
                  $7 = $2 + $8 | 0;
                  $2 = $6;
@@ -42293,7 +42319,7 @@ function asmFunc(imports) {
             $17 = $14;
             $2 = HEAP32[140867];
             if ($31 >>> 0 > 48) {
-             break block103262
+             break block103261
             }
             $8 = $8 + 400 | 0;
             $5 = $5 + 400 | 0;
@@ -42303,7 +42329,7 @@ function asmFunc(imports) {
             }
             break;
            };
-           break block103262;
+           break block103261;
           case 4:
            $2 = HEAP32[140867];
            if (!$2) {
@@ -42326,7 +42352,7 @@ function asmFunc(imports) {
             $2 = HEAP32[140867];
            }
            if (($2 | 0) <= 0) {
-            break block47261
+            break block47260
            }
            $26 = Math_fround($13 * Math_fround(14.5));
            $28 = Math_fround(Math_fround($13 * Math_fround(16.0)) + $19);
@@ -42356,14 +42382,14 @@ function asmFunc(imports) {
             HEAP32[$9 + 916 >> 2] = $1;
             $6 = Math_imul($8, 400);
             ui_text(1, $23, $19, Math_fround($32 + $17), 0, $9 + 912 | 0, $6 + 563480 | 0);
-            block113301 : {
+            block113300 : {
              if (tp_strcmp(561828, 6372)) {
               if (!(HEAP32[140460] & 128)) {
-               break block113301
+               break block113300
               }
              }
              if (!small_button($2, Math_fround($36 - Math_fround(ui_measure(1, Math_fround(HEAPF32[135563] * Math_fround(15.0)), 11752) + Math_fround(HEAPF32[135563] * Math_fround(34.0)))), $17, 11752, 0)) {
-              break block113301
+              break block113300
              }
              jb_reset(619372);
              jb_open(619372, 0);
@@ -42376,18 +42402,18 @@ function asmFunc(imports) {
             $3 = Math_fround($4 + $17);
             $7 = $6 + 563520 | 0;
             $6 = HEAPU8[$7 | 0];
-            block115302 : {
+            block115301 : {
              if (!$6) {
               $2 = $5;
-              break block115302;
+              break block115301;
              }
              if (($2 | 0) > 478) {
               $2 = $5;
-              break block115302;
+              break block115301;
              }
              while (1) {
               $2 = 0;
-              block118304 : {
+              block118303 : {
                block117177 : {
                 while (1) {
                  if (($6 & 255) == 126) {
@@ -42407,7 +42433,7 @@ function asmFunc(imports) {
                  break;
                 };
                 $7 = $7 + $2 | 0;
-                break block118304;
+                break block118303;
                }
                $7 = $2 + $7 | 0;
               }
@@ -42484,7 +42510,7 @@ function asmFunc(imports) {
               $3 = Math_fround($22 + $3);
               $6 = HEAPU8[$7 | 0];
               if (!$6) {
-               break block115302
+               break block115301
               }
               $10 = ($5 | 0) < 479;
               $5 = $2;
@@ -42497,18 +42523,18 @@ function asmFunc(imports) {
             $17 = Math_fround($25 + $3);
             $8 = $8 + 1 | 0;
             if (($8 | 0) >= HEAP32[140867]) {
-             break block47261
+             break block47260
             }
             if (($2 | 0) < 480) {
              continue
             }
             break;
            };
-           break block47261;
+           break block47260;
           case 5:
-           break block46263;
+           break block46262;
           default:
-           break block47261;
+           break block47260;
           };
          }
          $57 = tp_strcmp(561828, 6372);
@@ -42699,11 +42725,11 @@ function asmFunc(imports) {
            $8 = $54 + 587532 | 0;
            $10 = tp_strcmp($8, 6172);
            tp_strcat($9 + 1920 | 0, 26647);
-           block135309 : {
+           block135308 : {
             if ($10) {
              tr_fmt($9 + 1840 | 0, 48, 1376, $8, 0, 0);
              tp_strcat($9 + 1920 | 0, $9 + 1840 | 0);
-             break block135309;
+             break block135308;
             }
             tp_strcat($9 + 1920 | 0, L(3391));
            }
@@ -42783,12 +42809,12 @@ function asmFunc(imports) {
              HEAP32[$9 + 1076 >> 2] = $18;
              $10 = !$6;
              $7 = segmented(304, $9 + 1072 | 0, 77808, 2, $10);
-             block139310 : {
+             block139309 : {
               if (($7 | 0) < 0) {
-               break block139310
+               break block139309
               }
               if (($7 | 0) == ($10 | 0)) {
-               break block139310
+               break block139309
               }
               tp_strcpy($2, $7 ? 8753 : 5895);
               staff_update($31, 0, 0);
@@ -43125,10 +43151,10 @@ function asmFunc(imports) {
           break;
          };
          $17 = Math_fround($28 + Math_fround($23 - $12));
-         break block47261;
+         break block47260;
         }
         if ($2) {
-         break block47261
+         break block47260
         }
         $2 = $9 + 1496 | 0;
         HEAPF32[$2 >> 2] = HEAPF32[135573];
@@ -43280,12 +43306,12 @@ function asmFunc(imports) {
       HEAP32[$8 + 468 >> 2] = $11;
       $6 = segmented(560, $8 + 464 | 0, 77816, 2, HEAP32[154861]);
       $5 = HEAP32[154861];
-      block2319 : {
+      block2318 : {
        if (($6 | 0) < 0) {
-        break block2319
+        break block2318
        }
        if (($5 | 0) == ($6 | 0)) {
-        break block2319
+        break block2318
        }
        HEAP32[154861] = $6;
        HEAP32[134805] = 0;
@@ -43296,9 +43322,9 @@ function asmFunc(imports) {
       $13 = Math_fround(Math_fround($13 - Math_fround($26 * Math_fround($24 - 1 | 0))) / Math_fround($24 | 0));
       $4 = Math_fround(Math_fround($13 * Math_fround(.8999999761581421)) + Math_fround($12 * Math_fround(70.0)));
       $15 = Math_fround(Math_fround($12 * Math_fround(58.0)) + $15);
-      block32320 : {
-       block22321 : {
-        block4322 : {
+      block32319 : {
+       block22320 : {
+        block4321 : {
          if (!$5) {
           $6 = $8 + 984 | 0;
           HEAPF32[$6 >> 2] = HEAPF32[135573];
@@ -43343,7 +43369,7 @@ function asmFunc(imports) {
            $15 = Math_fround(Math_fround(Math_fround($6 - Math_imul($2, $24) | 0) * $33) + $17);
            HEAPF32[$8 + 960 >> 2] = $15;
            if (($6 | 0) == 11) {
-            break block4322
+            break block4321
            }
            $10 = HEAP32[100462];
            $18 = $6 - 1 | 0;
@@ -43351,16 +43377,16 @@ function asmFunc(imports) {
            $7 = $10 & $31;
            $20 = HEAP32[100463];
            $2 = ($20 | 0) == ($18 | 0);
-           block5324 : {
+           block5323 : {
             if ($2) {
-             break block5324
+             break block5323
             }
             if ($6) {
-             break block5324
+             break block5323
             }
             if (($20 | 0) < 0) {
              $2 = 1;
-             break block5324;
+             break block5323;
             }
             $2 = !($10 >>> $20 & 1);
            }
@@ -43386,22 +43412,22 @@ function asmFunc(imports) {
             HEAP32[$10 >> 2] = HEAP32[$10 >> 2] + 1;
            }
            $20 = $20 | !$6;
-           block8325 : {
+           block8324 : {
             if (HEAP32[134e3] != ($7 | 0)) {
-             break block8325
+             break block8324
             }
             if ($20) {
              HEAP32[100463] = $18;
-             block11326 : {
-              block10327 : {
+             block11325 : {
+              block10326 : {
                if ($18 >>> 0 > 9) {
-                break block10327
+                break block10326
                }
                if (!($31 & HEAP32[100462])) {
-                break block10327
+                break block10326
                }
                gfx_peeler_skin(1, HEAP32[$9 + 4 >> 2], HEAPF32[$9 + 8 >> 2], HEAP32[$9 + 12 >> 2]);
-               break block11326;
+               break block11325;
               }
               gfx_peeler_skin(0, 0, Math_fround(0.0), 0);
              }
@@ -43414,11 +43440,11 @@ function asmFunc(imports) {
              plat_save(598656);
              HEAP32[135762] = 1;
              if (!HEAP32[100351]) {
-              break block8325
+              break block8324
              }
              $10 = HEAP32[100354];
              if (($10 | 0) <= 0) {
-              break block8325
+              break block8324
              }
              $3 = Math_fround(Math_fround($10 | 0) / Math_fround(100.0));
              $19 = Math_fround(Math_fround(Math_fround($3 * $3) * Math_fround(1.2000000476837158)) * Math_fround(.6000000238418579));
@@ -43426,10 +43452,10 @@ function asmFunc(imports) {
              $3 = Math_fround($19 * Math_fround($3 * $3));
              $3 = $3 < Math_fround(1.0) ? $3 : Math_fround(1.0);
              if (!($3 > Math_fround(2.0000000949949026e-03))) {
-              break block8325
+              break block8324
              }
              plat_sound(4, Math_fround($3), Math_fround(Math_fround(1.2000000476837158)));
-             break block8325;
+             break block8324;
             }
             $10 = HEAP32[$9 + 16 >> 2];
             $11 = HEAP32[100460] - HEAP32[100461] | 0;
@@ -43449,7 +43475,7 @@ function asmFunc(imports) {
              }
              HEAP32[125856] = 0;
              HEAP32[125857] = 0;
-             break block8325;
+             break block8324;
             }
             tp_fmt_int($8 + 1056 | 0, $10 - $11 | 0, 1);
             tr_fmt($8 + 1072 | 0, 256, 26392, $8 + 1056 | 0, 0, 0);
@@ -43544,7 +43570,7 @@ function asmFunc(imports) {
            HEAP32[$8 + 148 >> 2] = $11;
            $14 = Math_fround($50 + $15);
            ui_text(1, $28, $14, $19, 0, $8 + 144 | 0, $7);
-           block20328 : {
+           block20327 : {
             if ($2) {
              $2 = $8 + 696 | 0;
              HEAPF32[$2 >> 2] = HEAPF32[135582];
@@ -43561,7 +43587,7 @@ function asmFunc(imports) {
              HEAP32[$8 + 64 >> 2] = $10;
              HEAP32[$8 + 68 >> 2] = $7;
              ui_text(1, $32, $14, Math_fround($26 + $3), 0, $8 - -64 | 0, 10974);
-             break block20328;
+             break block20327;
             }
             if ($20) {
              $2 = $8 + 680 | 0;
@@ -43579,7 +43605,7 @@ function asmFunc(imports) {
              HEAP32[$8 + 80 >> 2] = $10;
              HEAP32[$8 + 84 >> 2] = $7;
              ui_text(0, $32, $14, Math_fround($26 + $3), 0, $8 + 80 | 0, 6842);
-             break block20328;
+             break block20327;
             }
             $19 = HEAPF32[135563];
             tp_fmt_int($8 + 752 | 0, HEAP32[$9 + 16 >> 2], 1);
@@ -43674,7 +43700,7 @@ function asmFunc(imports) {
           $14 = Math_fround(Math_fround(Math_fround($6 - Math_imul($2, $24) | 0) * $36) + $17);
           HEAPF32[$8 + 1328 >> 2] = $14;
           if (($6 | 0) == 8) {
-           break block22321
+           break block22320
           }
           $7 = $6 + 570 | 0;
           $20 = HEAP32[100464];
@@ -43699,9 +43725,9 @@ function asmFunc(imports) {
            HEAP32[$2 >> 2] = HEAP32[$2 >> 2] + 1;
           }
           $2 = HEAP32[$5 + 4 >> 2];
-          block24330 : {
+          block24329 : {
            if (HEAP32[134e3] != ($7 | 0)) {
-            break block24330
+            break block24329
            }
            if (($2 | 0) <= ($18 | 0)) {
             HEAP32[100464] = $6;
@@ -43715,11 +43741,11 @@ function asmFunc(imports) {
             plat_save(598656);
             HEAP32[135762] = 1;
             if (!HEAP32[100351]) {
-             break block24330
+             break block24329
             }
             $10 = HEAP32[100354];
             if (($10 | 0) <= 0) {
-             break block24330
+             break block24329
             }
             $3 = Math_fround(Math_fround($10 | 0) / Math_fround(100.0));
             $27 = Math_fround(Math_fround(Math_fround($3 * $3) * Math_fround(1.2000000476837158)) * Math_fround(.6000000238418579));
@@ -43727,10 +43753,10 @@ function asmFunc(imports) {
             $3 = Math_fround($27 * Math_fround($3 * $3));
             $3 = $3 < Math_fround(1.0) ? $3 : Math_fround(1.0);
             if (!($3 > Math_fround(2.0000000949949026e-03))) {
-             break block24330
+             break block24329
             }
             plat_sound(4, Math_fround($3), Math_fround(Math_fround(1.2000000476837158)));
-            break block24330;
+            break block24329;
            }
            tp_fmt_int($8 + 1056 | 0, $2 - HEAP32[100423] | 0, 1);
            tr_fmt($8 + 1072 | 0, 256, 3061, $8 + 1056 | 0, 0, 0);
@@ -43827,7 +43853,7 @@ function asmFunc(imports) {
           $3 = Math_fround($50 + $14);
           $15 = Math_fround($4 + $15);
           ui_text(1, $33, $3, Math_fround($47 + $15), 0, $8 + 368 | 0, HEAP32[$5 >> 2]);
-          block30331 : {
+          block30330 : {
            if (!$20) {
             $2 = $8 + 600 | 0;
             HEAPF32[$2 >> 2] = HEAPF32[135582];
@@ -43843,7 +43869,7 @@ function asmFunc(imports) {
             HEAP32[$8 + 304 >> 2] = $10;
             HEAP32[$8 + 308 >> 2] = $1;
             ui_text(1, $22, $3, Math_fround($32 + $15), 0, $8 + 304 | 0, 11733);
-            break block30331;
+            break block30330;
            }
            if (!$18) {
             $2 = $8 + 584 | 0;
@@ -43860,7 +43886,7 @@ function asmFunc(imports) {
             HEAP32[$8 + 352 >> 2] = $10;
             HEAP32[$8 + 356 >> 2] = $1;
             ui_text(0, $22, $3, Math_fround($32 + $15), 0, $8 + 352 | 0, 11722);
-            break block30331;
+            break block30330;
            }
            tp_fmt_int($8 + 1056 | 0, $2, 1);
            tr_fmt($8 + 1072 | 0, 256, 5144, $8 + 1056 | 0, 0, 0);
@@ -43961,7 +43987,7 @@ function asmFunc(imports) {
         HEAP32[$8 + 4 >> 2] = $1;
         ui_text(1, Math_fround($4 * Math_fround(15.0)), $13, Math_fround(Math_fround($4 * Math_fround(40.0)) + $14), 1, $8, 8198);
         $4 = Math_fround(Math_fround(Math_fround(($24 + 11 >>> 0) / ($24 >>> 0) | 0) * $36) + $22);
-        break block32320;
+        break block32319;
        }
        $6 = $8 + 760 | 0;
        HEAPF32[$6 >> 2] = HEAPF32[135570];
@@ -44144,13 +44170,13 @@ function asmFunc(imports) {
       HEAP32[$7 + 132 >> 2] = $10;
       $2 = HEAP32[100466];
       $2 = segmented(610, $7 + 128 | 0, 77824, 5, ($2 | 0) == 180 ? 4 : ($2 | 0) == 120 ? 3 : ($2 | 0) == 90 ? 2 : ($2 | 0) != 30);
-      block5332 : {
+      block5331 : {
        if (($2 | 0) < 0) {
-        break block5332
+        break block5331
        }
        $2 = HEAP32[($2 << 2) + 77280 >> 2];
        if (($2 | 0) == HEAP32[100466]) {
-        break block5332
+        break block5331
        }
        HEAP32[100466] = $2;
        $2 = settings_hash(401384);
@@ -44361,12 +44387,12 @@ function asmFunc(imports) {
         $6 = (HEAP32[133997] << 2) + 535980 | 0;
         HEAP32[$6 >> 2] = HEAP32[$6 >> 2] + 1;
        }
-       block2334 : {
+       block2333 : {
         if (HEAP32[134e3] != ($2 | 0)) {
-         break block2334
+         break block2333
         }
         if (($7 | 0) == ($9 | 0) & HEAP32[100465] >= 0) {
-         break block2334
+         break block2333
         }
         HEAP32[100465] = $7;
         lang_set($7);
@@ -44379,11 +44405,11 @@ function asmFunc(imports) {
         plat_save(598656);
         HEAP32[135762] = 1;
         if (!HEAP32[100351]) {
-         break block2334
+         break block2333
         }
         $6 = HEAP32[100354];
         if (($6 | 0) <= 0) {
-         break block2334
+         break block2333
         }
         $12 = Math_fround(Math_fround($6 | 0) / Math_fround(100.0));
         $23 = Math_fround(Math_fround(Math_fround($12 * $12) * Math_fround(1.2000000476837158)) * Math_fround(.5));
@@ -44391,7 +44417,7 @@ function asmFunc(imports) {
         $12 = Math_fround($23 * Math_fround($12 * $12));
         $12 = $12 < Math_fround(1.0) ? $12 : Math_fround(1.0);
         if (!($12 > Math_fround(2.0000000949949026e-03))) {
-         break block2334
+         break block2333
         }
         plat_sound(4, Math_fround($12), Math_fround(Math_fround(1.2000000476837158)));
        }
@@ -44466,17 +44492,17 @@ function asmFunc(imports) {
        HEAP32[$5 + 88 >> 2] = $6;
        HEAP32[$5 + 92 >> 2] = $2;
        ui_text(0, $19, $14, Math_fround($41 + $12), 0, $5 + 88 | 0, HEAP32[$10 + 77364 >> 2]);
-       block6335 : {
+       block6334 : {
         if (($7 | 0) != ($9 | 0)) {
-         break block6335
+         break block6334
         }
         $2 = HEAP32[100324];
-        block7336 : {
+        block7335 : {
          if (!$9) {
-          break block7336
+          break block7335
          }
          if (($2 | 0) == ($9 | 0)) {
-          break block7336
+          break block7335
          }
          $2 = $5 + 208 | 0;
          HEAPF32[$2 >> 2] = HEAPF32[135573];
@@ -44494,7 +44520,7 @@ function asmFunc(imports) {
          HEAP32[$5 + 56 >> 2] = $6;
          HEAP32[$5 + 60 >> 2] = $2;
          ui_text(0, $19, $28, Math_fround($47 + $23), 2, $5 + 56 | 0, 24839);
-         break block6335;
+         break block6334;
         }
         $2 = $5 + 192 | 0;
         HEAPF32[$2 >> 2] = HEAPF32[135582];
@@ -44630,7 +44656,7 @@ function asmFunc(imports) {
     HEAP32[$5 + 180 >> 2] = $8;
     $25 = Math_fround(Math_fround($3 * Math_fround(14.0)) + Math_fround($4 + $15));
     ui_text(1, Math_fround($3 * Math_fround(18.0)), $25, Math_fround(Math_fround($3 * Math_fround(-3.0)) + $26), 0, $5 + 176 | 0, HEAP32[Math_imul($2, 112) + 66288 >> 2]);
-    block4338 : {
+    block4337 : {
      if (($9 | 0) >= 2) {
       HEAP32[$5 + 456 >> 2] = 0;
       HEAP32[$5 + 460 >> 2] = 0;
@@ -44648,29 +44674,29 @@ function asmFunc(imports) {
        }
        break;
       };
-      block2340 : {
+      block2339 : {
        switch ($9 - 2 | 0) {
        case 0:
         HEAP32[$5 + 448 >> 2] = 1065353216;
         $18 = 1;
         $24 = 0;
-        break block4338;
+        break block4337;
        case 3:
         $4 = fry_cook();
         HEAPF32[$5 + 460 >> 2] = $4 < Math_fround(0.0) ? Math_fround(0.0) : $4 > Math_fround(1.0) ? Math_fround(1.0) : $4;
         $24 = 0;
-        break block4338;
+        break block4337;
        default:
-        break block2340;
+        break block2339;
        };
       }
       $24 = 0;
       if (($9 | 0) < 6) {
-       break block4338
+       break block4337
       }
       HEAP32[$5 + 460 >> 2] = 1065353216;
       $24 = 1;
-      break block4338;
+      break block4337;
      }
      HEAP32[$5 + 456 >> 2] = 0;
      HEAP32[$5 + 460 >> 2] = 0;
@@ -44860,31 +44886,31 @@ function asmFunc(imports) {
     HEAP32[$5 + 36 >> 2] = $6;
     ui_text(0, Math_fround($19 * Math_fround(13.5)), $15, Math_fround(Math_fround($19 * Math_fround(20.0)) + $4), 0, $5 + 32 | 0, $11);
     $2 = HEAP32[125896];
-    block13344 : {
-     block12345 : {
-      block11346 : {
+    block13343 : {
+     block12344 : {
+      block11345 : {
        if (($9 & -3) == 1) {
         $11 = !HEAP32[100352] | HEAP32[100424] < 3;
         $7 = fry_thick();
         if (!$7) {
-         break block11346
+         break block11345
         }
         if ($11) {
-         break block11346
+         break block11345
         }
         tp_fmt_int($5 + 192 | 0, $7, 0);
         tr_fmt($5 + 208 | 0, 160, PL($7, 10061, 10090), $5 + 192 | 0, 0, 0);
         $2 = $5 + 208 | 0;
-        break block12345;
+        break block12344;
        }
        if (($9 | 0) != 4) {
-        break block13344
+        break block13343
        }
        $2 = $2 ? 12784 : 12837;
-       break block12345;
+       break block12344;
       }
       if (!$11) {
-       break block13344
+       break block13343
       }
       $2 = $2 ? 13821 : 24105;
      }
@@ -44903,14 +44929,14 @@ function asmFunc(imports) {
       $13 = Math_fround(Math_fround($3 * Math_fround(-64.0)) + $17);
       $2 = L($2);
       $7 = 0;
-      block16347 : {
+      block16346 : {
        while (1) {
-        block15349 : {
+        block15348 : {
          if (!HEAPU8[$2 | 0]) {
-          break block15349
+          break block15348
          }
          if ($7 >>> 0 > 3) {
-          break block15349
+          break block15348
          }
          (wasm2js_i32$0 = $11 + ($5 + 512 | 0) | 0, wasm2js_i32$1 = ui_line_break(1, $4, $2, $12, $5 + 508 | 0, $5 + 504 | 0)), HEAP32[wasm2js_i32$0 >> 2] = wasm2js_i32$1;
          HEAP32[$11 + ($5 + 528 | 0) >> 2] = $2;
@@ -44922,12 +44948,12 @@ function asmFunc(imports) {
          if (!$10) {
           continue
          }
-         break block16347;
+         break block16346;
         }
         break;
        };
        if (!$7) {
-        break block13344
+        break block13343
        }
       }
       $2 = $7 - 1 | 0;
@@ -44955,7 +44981,7 @@ function asmFunc(imports) {
        }
        break;
       };
-      break block13344;
+      break block13343;
      }
      $11 = 0;
      $1 = HEAP32[135571];
@@ -44971,14 +44997,14 @@ function asmFunc(imports) {
      $15 = Math_fround(Math_fround($3 * Math_fround(-4.0)) + $17);
      $2 = L($2);
      $7 = 0;
-     block18351 : {
+     block18350 : {
       while (1) {
-       block17353 : {
+       block17352 : {
         if (!HEAPU8[$2 | 0]) {
-         break block17353
+         break block17352
         }
         if ($7 >>> 0 > 3) {
-         break block17353
+         break block17352
         }
         (wasm2js_i32$0 = $11 + ($5 + 512 | 0) | 0, wasm2js_i32$1 = ui_line_break(1, $4, $2, $12, $5 + 508 | 0, $5 + 504 | 0)), HEAP32[wasm2js_i32$0 >> 2] = wasm2js_i32$1;
         HEAP32[$11 + ($5 + 528 | 0) >> 2] = $2;
@@ -44990,12 +45016,12 @@ function asmFunc(imports) {
         if (!$10) {
          continue
         }
-        break block18351;
+        break block18350;
        }
        break;
       };
       if (!$7) {
-       break block13344
+       break block13343
       }
      }
      $2 = $7 - 1 | 0;
@@ -45028,9 +45054,9 @@ function asmFunc(imports) {
     $5 = __stack_pointer - 640 | 0;
     __stack_pointer = $5;
     $3 = HEAPF32[135563];
-    block1355 : {
+    block1354 : {
      if (!HEAP32[56924] & HEAP32[56842] != 7) {
-      break block1355
+      break block1354
      }
      $6 = 620032;
      $7 = 0;
@@ -45091,7 +45117,7 @@ function asmFunc(imports) {
      HEAPF32[$5 + 632 >> 2] = HEAPF32[56932];
      HEAPF32[$5 + 628 >> 2] = HEAPF32[56933];
      if (!HEAP32[56924]) {
-      break block1355
+      break block1354
      }
      HEAPF32[$5 + 636 >> 2] = HEAPF32[$5 + 636 >> 2] - HEAPF32[135591];
      HEAPF32[$5 + 632 >> 2] = HEAPF32[$5 + 632 >> 2] - HEAPF32[135592];
@@ -45356,18 +45382,18 @@ function asmFunc(imports) {
      $19 = Math_fround($19 + $15);
      $17 = Math_fround($3 * Math_fround(7.0));
      $1 = $5 + 356 | 0;
-     block4357 : {
+     block4356 : {
       if ($13 > $28) {
        $13 = HEAPF32[135587];
        $26 = HEAPF32[135586];
        $14 = HEAPF32[135588];
-       break block4357;
+       break block4356;
       }
       if ($13 >= $14) {
        $26 = Math_fround(.18039216101169586);
        $13 = Math_fround(.6196078658103943);
        $14 = Math_fround(.35686275362968445);
-       break block4357;
+       break block4356;
       }
       $13 = HEAPF32[135569];
       $26 = HEAPF32[135568];
