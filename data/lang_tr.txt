@@ -620,3 +620,17 @@ Type a number of potatoes	Bir patates sayısı yaz
 No potatoes added	Patates eklenmedi
 Added {0} potato	{0} patates eklendi
 Added {0} potatoes	{0} patates eklendi
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts into one.	6 karakterli bir kod seç, ilerlemen online kaydedilsin. Kodu başka bir cihaza yaz ve orada oynamaya devam et. İki hesabı tek hesapta birleştirebilirsin bile.
+This device has {0} potatoes peeled and the account has {1}. Best of both keeps the higher number of everything, so nothing is ever counted twice. Use the account's switches this device to the account's progress.	Bu cihazda {0} soyulmuş patates var, hesapta {1}. İkisinin en iyisi her şeyde yüksek olan sayıyı tutar, böylece hiçbir şey iki kez sayılmaz. Hesabınkini kullan bu cihazı hesabın ilerlemesine geçirir.
+Best of both	İkisinin en iyisi
+Accounts combined! You kept the best of both	Hesaplar birleşti! İkisinin en iyisini tuttun
+{0} becomes part of this account, and that code opens this account too. For potatoes, coins, fries and everything else, the higher number of the two accounts is kept, so nothing is ever counted twice.	{0} bu hesabın bir parçası olur ve o kod da bu hesabı açar. Patates, jeton, kızartma ve diğer her şeyde iki hesabın yüksek olan sayısı tutulur, böylece hiçbir şey iki kez sayılmaz.
+You have {0} potato peeled. Add some, or take some away.	{0} patates soydun. Ekleyebilir ya da çıkarabilirsin.
+You have {0} potatoes peeled. Add some, or take some away.	{0} patates soydun. Ekleyebilir ya da çıkarabilirsin.
+Debug tool	Hata ayıklama aracı
+Add	Ekle
+Remove	Çıkar
+How many potatoes to remove?	Kaç patates çıkarmak istiyorsun?
+No potatoes removed	Patates çıkarılmadı
+Removed {0} potato	{0} patates çıkarıldı
+Removed {0} potatoes	{0} patates çıkarıldı

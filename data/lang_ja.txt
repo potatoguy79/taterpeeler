@@ -620,3 +620,17 @@ Type a number of potatoes	じゃがいもの数を入力してください
 No potatoes added	じゃがいもは追加されませんでした
 Added {0} potato	じゃがいもを{0}個追加しました
 Added {0} potatoes	じゃがいもを{0}個追加しました
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts into one.	6文字のコードを選ぶと進行状況がオンラインに保存されます。別の端末でコードを入力すれば、そこで続きが遊べます。2つのアカウントを1つに合体させることもできます。
+This device has {0} potatoes peeled and the account has {1}. Best of both keeps the higher number of everything, so nothing is ever counted twice. Use the account's switches this device to the account's progress.	この端末は{0}個、アカウントは{1}個のじゃがいもをむいています。「いいとこ取り」はすべて大きい方の数を残すので、二重に数えられることはありません。「アカウントのを使う」はこの端末をアカウントの進行状況に切り替えます。
+Best of both	いいとこ取り
+Accounts combined! You kept the best of both	アカウントを合体しました！いいとこ取りにしました
+{0} becomes part of this account, and that code opens this account too. For potatoes, coins, fries and everything else, the higher number of the two accounts is kept, so nothing is ever counted twice.	{0}はこのアカウントの一部になり、そのコードでもこのアカウントが開くようになります。じゃがいも、コイン、フライドポテトなどはすべて2つのアカウントの大きい方の数が残るので、二重に数えられることはありません。
+You have {0} potato peeled. Add some, or take some away.	じゃがいもを{0}個むいています。増やすか、減らせます。
+You have {0} potatoes peeled. Add some, or take some away.	じゃがいもを{0}個むいています。増やすか、減らせます。
+Debug tool	デバッグツール
+Add	増やす
+Remove	減らす
+How many potatoes to remove?	じゃがいもを何個減らす？
+No potatoes removed	じゃがいもは減っていません
+Removed {0} potato	じゃがいもを{0}個減らしました
+Removed {0} potatoes	じゃがいもを{0}個減らしました

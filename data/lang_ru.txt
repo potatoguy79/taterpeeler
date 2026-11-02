@@ -631,3 +631,19 @@ No potatoes added	Картошки не добавлены
 Added {0} potato	Добавлена {0} картошка
 Added {0} potatoes	Добавлено {0} картошек
 Added {0} potatoes#few	Добавлено {0} картошки
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts into one.	Выбери 6-символьный код, и твой прогресс сохранится онлайн. Введи код на другом устройстве и играй дальше там. Можно даже объединить два аккаунта в один.
+This device has {0} potatoes peeled and the account has {1}. Best of both keeps the higher number of everything, so nothing is ever counted twice. Use the account's switches this device to the account's progress.	На этом устройстве почищено картошек: {0}, в аккаунте: {1}. «Лучшее из двух» оставляет большее число во всём, так что ничего не считается дважды. «Взять из аккаунта» переключает это устройство на прогресс аккаунта.
+Best of both	Лучшее из двух
+Accounts combined! You kept the best of both	Аккаунты объединены! Осталось лучшее из двух
+{0} becomes part of this account, and that code opens this account too. For potatoes, coins, fries and everything else, the higher number of the two accounts is kept, so nothing is ever counted twice.	{0} станет частью этого аккаунта, и этот код тоже будет открывать этот аккаунт. Для картошки, монет, картошки фри и всего остального остаётся большее число из двух аккаунтов, так что ничего не считается дважды.
+You have {0} potato peeled. Add some, or take some away.	У тебя почищена {0} картошка. Добавь или убери.
+You have {0} potatoes peeled. Add some, or take some away.	У тебя почищено {0} картошек. Добавь или убери.
+Debug tool	Инструмент отладки
+Add	Добавить
+Remove	Убрать
+How many potatoes to remove?	Сколько картошек убрать?
+No potatoes removed	Картошки не убраны
+Removed {0} potato	Убрана {0} картошка
+Removed {0} potatoes	Убрано {0} картошек
+You have {0} potatoes peeled. Add some, or take some away.#few	У тебя почищено {0} картошки. Добавь или убери.
+Removed {0} potatoes#few	Убрано {0} картошки
