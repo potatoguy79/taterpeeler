@@ -613,3 +613,10 @@ Add them up	Add 'em up
 Checking the code...	Checkin' the code...
 Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	Everything from {0} gets added to this account (spuds, coins, fries, everything). After that, that code opens this account too. Only do this fer progress from a different game: if this account already has that progress, it'd count twice.
 +{0} TaterCoins	+{0} TaterCoins
+How many potatoes to give yourself?	How many spuds be ye givin' yerself?
+Wrong code	Wrong code, matey
+That debug code isn't right.	That debug code ain't right.
+Type a number of potatoes	Type a number o' spuds
+No potatoes added	No spuds added
+Added {0} potato	Added {0} spud
+Added {0} potatoes	Added {0} spuds

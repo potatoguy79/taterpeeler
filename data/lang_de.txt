@@ -613,3 +613,10 @@ Add them up	Zusammenzählen
 Checking the code...	Code wird geprüft...
 Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	Alles von {0} wird zu diesem Konto dazugezählt (Kartoffeln, Münzen, Pommes, alles). Danach öffnet dieser Code auch dieses Konto. Mach das nur mit Fortschritt aus einem anderen Spielstand: Wenn dieses Konto ihn schon hat, würde er doppelt zählen.
 +{0} TaterCoins	+{0} TaterCoins
+How many potatoes to give yourself?	Wie viele Kartoffeln willst du dir geben?
+Wrong code	Falscher Code
+That debug code isn't right.	Dieser Debug-Code stimmt nicht.
+Type a number of potatoes	Gib eine Anzahl Kartoffeln ein
+No potatoes added	Keine Kartoffeln hinzugefügt
+Added {0} potato	{0} Kartoffel hinzugefügt
+Added {0} potatoes	{0} Kartoffeln hinzugefügt

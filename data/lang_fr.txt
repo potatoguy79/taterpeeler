@@ -613,3 +613,10 @@ Add them up	Les additionner
 Checking the code...	Vérification du code...
 Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	Tout ce qui vient de {0} s'ajoute à ce compte (pommes de terre, pièces, frites, tout). Ensuite, ce code ouvre aussi ce compte. Fais-le seulement pour une progression d'une autre partie : si ce compte l'a déjà, elle compterait deux fois.
 +{0} TaterCoins	+{0} TaterCoins
+How many potatoes to give yourself?	Combien de patates veux-tu te donner ?
+Wrong code	Code incorrect
+That debug code isn't right.	Ce code de débogage n'est pas bon.
+Type a number of potatoes	Tape un nombre de patates
+No potatoes added	Aucune patate ajoutée
+Added {0} potato	{0} patate ajoutée
+Added {0} potatoes	{0} patates ajoutées

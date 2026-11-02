@@ -613,3 +613,10 @@ Add them up	Sumarlos
 Checking the code...	Revisando el código...
 Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	Todo lo de {0} se suma a esta cuenta (patatas, monedas, patatas fritas, todo). Después, ese código también abre esta cuenta. Hazlo solo con progreso de otra partida: si esta cuenta ya lo tiene, se contaría dos veces.
 +{0} TaterCoins	+{0} TaterCoins
+How many potatoes to give yourself?	¿Cuántas patatas quieres darte?
+Wrong code	Código incorrecto
+That debug code isn't right.	Ese código de depuración no es correcto.
+Type a number of potatoes	Escribe un número de patatas
+No potatoes added	No se ha añadido ninguna patata
+Added {0} potato	{0} patata añadida
+Added {0} potatoes	{0} patatas añadidas

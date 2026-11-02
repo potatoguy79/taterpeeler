@@ -613,3 +613,10 @@ Add them up	合計する
 Checking the code...	コードを確認しています...
 Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	{0} のすべて（じゃがいも、コイン、フライドポテトなど）がこのアカウントに加算されます。そのあと、そのコードでもこのアカウントが開きます。別のゲームの進行状況のときだけ使ってください。このアカウントにすでに入っていると、2回数えられてしまいます。
 +{0} TaterCoins	+{0} TaterCoins
+How many potatoes to give yourself?	じゃがいもを何個もらう？
+Wrong code	コードが違います
+That debug code isn't right.	そのデバッグコードは正しくありません。
+Type a number of potatoes	じゃがいもの数を入力してください
+No potatoes added	じゃがいもは追加されませんでした
+Added {0} potato	じゃがいもを{0}個追加しました
+Added {0} potatoes	じゃがいもを{0}個追加しました
