@@ -634,3 +634,7 @@ How many potatoes to remove?	¿Cuántas papas quieres quitar?
 No potatoes removed	No se quitaron papas
 Removed {0} potato	Se quitó {0} papa
 Removed {0} potatoes	Se quitaron {0} papas
+Start the screensaver	Iniciar el protector de pantalla
+The bouncing logo, right now. Tap anywhere to stop it	El logo que rebota, ahora mismo. Toca en cualquier lugar para detenerlo
+Start	Iniciar
+That photo couldn't be opened. Try a JPG or PNG photo	No se pudo abrir esa foto. Prueba con una foto JPG o PNG

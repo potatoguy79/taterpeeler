@@ -634,3 +634,7 @@ How many potatoes to remove?	要减少多少个土豆？
 No potatoes removed	没有减少土豆
 Removed {0} potato	已减少 {0} 个土豆
 Removed {0} potatoes	已减少 {0} 个土豆
+Start the screensaver	启动屏幕保护
+The bouncing logo, right now. Tap anywhere to stop it	弹跳的标志，马上出现。点任意位置即可停止
+Start	启动
+That photo couldn't be opened. Try a JPG or PNG photo	这张照片打不开。请换一张 JPG 或 PNG 照片

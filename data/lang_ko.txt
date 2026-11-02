@@ -634,3 +634,7 @@ How many potatoes to remove?	감자를 몇 개 뺄까요?
 No potatoes removed	뺀 감자가 없어요
 Removed {0} potato	감자 {0}개 뺌
 Removed {0} potatoes	감자 {0}개 뺌
+Start the screensaver	화면 보호기 시작
+The bouncing logo, right now. Tap anywhere to stop it	튀어 다니는 로고를 지금 바로. 아무 데나 탭하면 멈춰요
+Start	시작
+That photo couldn't be opened. Try a JPG or PNG photo	그 사진을 열 수 없어요. JPG나 PNG 사진으로 해 보세요

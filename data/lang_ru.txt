@@ -647,3 +647,7 @@ Removed {0} potato	Убрана {0} картошка
 Removed {0} potatoes	Убрано {0} картошек
 You have {0} potatoes peeled. Add some, or take some away.#few	У тебя почищено {0} картошки. Добавь или убери.
 Removed {0} potatoes#few	Убрано {0} картошки
+Start the screensaver	Включить заставку
+The bouncing logo, right now. Tap anywhere to stop it	Прыгающий логотип прямо сейчас. Нажми куда угодно, чтобы остановить
+Start	Включить
+That photo couldn't be opened. Try a JPG or PNG photo	Не получилось открыть это фото. Попробуй фото в JPG или PNG

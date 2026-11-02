@@ -634,3 +634,7 @@ How many potatoes to remove?	Quantas batatas você quer remover?
 No potatoes removed	Nenhuma batata removida
 Removed {0} potato	{0} batata removida
 Removed {0} potatoes	{0} batatas removidas
+Start the screensaver	Iniciar o protetor de tela
+The bouncing logo, right now. Tap anywhere to stop it	O logo quicando, agora mesmo. Toque em qualquer lugar para parar
+Start	Iniciar
+That photo couldn't be opened. Try a JPG or PNG photo	Não deu para abrir essa foto. Tente uma foto JPG ou PNG

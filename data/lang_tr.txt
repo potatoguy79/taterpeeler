@@ -634,3 +634,7 @@ How many potatoes to remove?	Kaç patates çıkarmak istiyorsun?
 No potatoes removed	Patates çıkarılmadı
 Removed {0} potato	{0} patates çıkarıldı
 Removed {0} potatoes	{0} patates çıkarıldı
+Start the screensaver	Ekran koruyucuyu başlat
+The bouncing logo, right now. Tap anywhere to stop it	Zıplayan logo, hemen şimdi. Durdurmak için herhangi bir yere dokun
+Start	Başlat
+That photo couldn't be opened. Try a JPG or PNG photo	Bu fotoğraf açılamadı. JPG ya da PNG bir fotoğraf dene
