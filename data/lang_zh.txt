@@ -620,3 +620,17 @@ Type a number of potatoes	请输入土豆数量
 No potatoes added	没有添加土豆
 Added {0} potato	已添加 {0} 个土豆
 Added {0} potatoes	已添加 {0} 个土豆
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts into one.	选一个 6 位代码，你的进度就会保存在线上。在另一台设备上输入代码，就能接着玩。甚至可以把两个账号合并成一个。
+This device has {0} potatoes peeled and the account has {1}. Best of both keeps the higher number of everything, so nothing is ever counted twice. Use the account's switches this device to the account's progress.	这台设备削了 {0} 个土豆，账号里有 {1} 个。“取两边最好的”会把每一项都保留较大的数字，所以绝不会重复计算。“用账号的”会把这台设备换成账号的进度。
+Best of both	取两边最好的
+Accounts combined! You kept the best of both	账号已合并！保留了两边最好的
+{0} becomes part of this account, and that code opens this account too. For potatoes, coins, fries and everything else, the higher number of the two accounts is kept, so nothing is ever counted twice.	{0} 会成为这个账号的一部分，那个代码也会打开这个账号。土豆、金币、薯条等所有数据都保留两个账号中较大的数字，所以绝不会重复计算。
+You have {0} potato peeled. Add some, or take some away.	你已经削了 {0} 个土豆。可以增加，也可以减少。
+You have {0} potatoes peeled. Add some, or take some away.	你已经削了 {0} 个土豆。可以增加，也可以减少。
+Debug tool	调试工具
+Add	增加
+Remove	减少
+How many potatoes to remove?	要减少多少个土豆？
+No potatoes removed	没有减少土豆
+Removed {0} potato	已减少 {0} 个土豆
+Removed {0} potatoes	已减少 {0} 个土豆

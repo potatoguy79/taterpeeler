@@ -620,3 +620,17 @@ Type a number of potatoes	Gib eine Anzahl Kartoffeln ein
 No potatoes added	Keine Kartoffeln hinzugefügt
 Added {0} potato	{0} Kartoffel hinzugefügt
 Added {0} potatoes	{0} Kartoffeln hinzugefügt
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts into one.	Wähl einen 6-stelligen Code und dein Fortschritt wird online gespeichert. Gib den Code auf einem anderen Gerät ein und spiel dort weiter. Du kannst sogar zwei Konten zu einem zusammenlegen.
+This device has {0} potatoes peeled and the account has {1}. Best of both keeps the higher number of everything, so nothing is ever counted twice. Use the account's switches this device to the account's progress.	Dieses Gerät hat {0} geschälte Kartoffeln und das Konto {1}. „Das Beste von beiden“ behält bei allem die höhere Zahl, so wird nie etwas doppelt gezählt. „Den vom Konto nehmen“ stellt dieses Gerät auf den Fortschritt des Kontos um.
+Best of both	Das Beste von beiden
+Accounts combined! You kept the best of both	Konten zusammengelegt! Du hast das Beste von beiden behalten
+{0} becomes part of this account, and that code opens this account too. For potatoes, coins, fries and everything else, the higher number of the two accounts is kept, so nothing is ever counted twice.	{0} wird Teil dieses Kontos, und dieser Code öffnet dann auch dieses Konto. Bei Kartoffeln, Münzen, Pommes und allem anderen wird die höhere Zahl der beiden Konten behalten, so wird nie etwas doppelt gezählt.
+You have {0} potato peeled. Add some, or take some away.	Du hast {0} Kartoffel geschält. Füg welche hinzu oder nimm welche weg.
+You have {0} potatoes peeled. Add some, or take some away.	Du hast {0} Kartoffeln geschält. Füg welche hinzu oder nimm welche weg.
+Debug tool	Debug-Werkzeug
+Add	Hinzufügen
+Remove	Entfernen
+How many potatoes to remove?	Wie viele Kartoffeln willst du entfernen?
+No potatoes removed	Keine Kartoffeln entfernt
+Removed {0} potato	{0} Kartoffel entfernt
+Removed {0} potatoes	{0} Kartoffeln entfernt

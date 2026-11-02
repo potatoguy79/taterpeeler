@@ -620,3 +620,17 @@ Type a number of potatoes	감자 개수를 입력하세요
 No potatoes added	추가된 감자가 없어요
 Added {0} potato	감자 {0}개 추가됨
 Added {0} potatoes	감자 {0}개 추가됨
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts into one.	6자리 코드를 고르면 진행 상황이 온라인에 저장돼요. 다른 기기에서 코드를 입력하면 거기서 이어서 할 수 있어요. 계정 두 개를 하나로 합칠 수도 있어요.
+This device has {0} potatoes peeled and the account has {1}. Best of both keeps the higher number of everything, so nothing is ever counted twice. Use the account's switches this device to the account's progress.	이 기기는 감자를 {0}개, 계정은 {1}개 깎았어요. '둘 중 좋은 쪽'은 모든 항목에서 더 큰 숫자를 남겨서 절대 두 번 세지 않아요. '계정 것 사용'은 이 기기를 계정의 진행 상황으로 바꿔요.
+Best of both	둘 중 좋은 쪽
+Accounts combined! You kept the best of both	계정을 합쳤어요! 둘 중 좋은 쪽을 남겼어요
+{0} becomes part of this account, and that code opens this account too. For potatoes, coins, fries and everything else, the higher number of the two accounts is kept, so nothing is ever counted twice.	{0}은(는) 이 계정의 일부가 되고, 그 코드로도 이 계정이 열려요. 감자, 코인, 감자튀김 등 모든 항목은 두 계정 중 더 큰 숫자가 남아서 절대 두 번 세지 않아요.
+You have {0} potato peeled. Add some, or take some away.	감자를 {0}개 깎았어요. 더하거나 뺄 수 있어요.
+You have {0} potatoes peeled. Add some, or take some away.	감자를 {0}개 깎았어요. 더하거나 뺄 수 있어요.
+Debug tool	디버그 도구
+Add	더하기
+Remove	빼기
+How many potatoes to remove?	감자를 몇 개 뺄까요?
+No potatoes removed	뺀 감자가 없어요
+Removed {0} potato	감자 {0}개 뺌
+Removed {0} potatoes	감자 {0}개 뺌

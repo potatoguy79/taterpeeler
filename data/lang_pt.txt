@@ -620,3 +620,17 @@ Type a number of potatoes	Digite um número de batatas
 No potatoes added	Nenhuma batata adicionada
 Added {0} potato	{0} batata adicionada
 Added {0} potatoes	{0} batatas adicionadas
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts into one.	Escolha um código de 6 caracteres e seu progresso fica salvo online. Digite o código em outro aparelho e continue jogando lá. Dá até para juntar duas contas em uma.
+This device has {0} potatoes peeled and the account has {1}. Best of both keeps the higher number of everything, so nothing is ever counted twice. Use the account's switches this device to the account's progress.	Este aparelho tem {0} batatas descascadas e a conta tem {1}. O melhor dos dois fica com o número mais alto de tudo, então nada é contado duas vezes. Usar o da conta troca este aparelho para o progresso da conta.
+Best of both	O melhor dos dois
+Accounts combined! You kept the best of both	Contas juntadas! Você ficou com o melhor das duas
+{0} becomes part of this account, and that code opens this account too. For potatoes, coins, fries and everything else, the higher number of the two accounts is kept, so nothing is ever counted twice.	{0} passa a fazer parte desta conta, e esse código também abre esta conta. Em batatas, moedas, batatas fritas e todo o resto, fica o número mais alto das duas contas, então nada é contado duas vezes.
+You have {0} potato peeled. Add some, or take some away.	Você tem {0} batata descascada. Adicione mais ou tire algumas.
+You have {0} potatoes peeled. Add some, or take some away.	Você tem {0} batatas descascadas. Adicione mais ou tire algumas.
+Debug tool	Ferramenta de depuração
+Add	Adicionar
+Remove	Remover
+How many potatoes to remove?	Quantas batatas você quer remover?
+No potatoes removed	Nenhuma batata removida
+Removed {0} potato	{0} batata removida
+Removed {0} potatoes	{0} batatas removidas

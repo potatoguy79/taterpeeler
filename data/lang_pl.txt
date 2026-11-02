@@ -631,3 +631,19 @@ No potatoes added	Nie dodano ziemniaków
 Added {0} potato	Dodano {0} ziemniaka
 Added {0} potatoes	Dodano {0} ziemniaków
 Added {0} potatoes#few	Dodano {0} ziemniaki
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts into one.	Wybierz 6-znakowy kod, a twój postęp zapisze się online. Wpisz kod na innym urządzeniu i graj dalej. Możesz nawet połączyć dwa konta w jedno.
+This device has {0} potatoes peeled and the account has {1}. Best of both keeps the higher number of everything, so nothing is ever counted twice. Use the account's switches this device to the account's progress.	To urządzenie ma {0} obranych ziemniaków, a konto {1}. Najlepsze z obu zostawia wyższą liczbę wszystkiego, więc nic nigdy nie liczy się podwójnie. Użyj postępu konta przełącza to urządzenie na postęp konta.
+Best of both	Najlepsze z obu
+Accounts combined! You kept the best of both	Konta połączone! Zostało najlepsze z obu
+{0} becomes part of this account, and that code opens this account too. For potatoes, coins, fries and everything else, the higher number of the two accounts is kept, so nothing is ever counted twice.	{0} staje się częścią tego konta, a ten kod też otwiera to konto. Przy ziemniakach, monetach, frytkach i całej reszcie zostaje wyższa liczba z dwóch kont, więc nic nigdy nie liczy się podwójnie.
+You have {0} potato peeled. Add some, or take some away.	Masz {0} obranego ziemniaka. Dodaj albo odejmij.
+You have {0} potatoes peeled. Add some, or take some away.	Masz {0} obranych ziemniaków. Dodaj albo odejmij.
+Debug tool	Narzędzie debugowania
+Add	Dodaj
+Remove	Usuń
+How many potatoes to remove?	Ile ziemniaków chcesz usunąć?
+No potatoes removed	Nie usunięto ziemniaków
+Removed {0} potato	Usunięto {0} ziemniaka
+Removed {0} potatoes	Usunięto {0} ziemniaków
+You have {0} potatoes peeled. Add some, or take some away.#few	Masz {0} obrane ziemniaki. Dodaj albo odejmij.
+Removed {0} potatoes#few	Usunięto {0} ziemniaki

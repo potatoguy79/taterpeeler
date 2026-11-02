@@ -620,3 +620,17 @@ Type a number of potatoes	Escribe un número de papas
 No potatoes added	No se agregaron papas
 Added {0} potato	Se agregó {0} papa
 Added {0} potatoes	Se agregaron {0} papas
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts into one.	Elige un código de 6 caracteres y tu progreso se guarda en línea. Escribe el código en otro dispositivo y sigue jugando ahí. Hasta puedes juntar dos cuentas en una.
+This device has {0} potatoes peeled and the account has {1}. Best of both keeps the higher number of everything, so nothing is ever counted twice. Use the account's switches this device to the account's progress.	Este dispositivo tiene {0} papas peladas y la cuenta tiene {1}. Lo mejor de ambos se queda con el número más alto de todo, así nada se cuenta dos veces. Usar el de la cuenta cambia este dispositivo al progreso de la cuenta.
+Best of both	Lo mejor de ambos
+Accounts combined! You kept the best of both	¡Cuentas juntadas! Te quedaste con lo mejor de ambas
+{0} becomes part of this account, and that code opens this account too. For potatoes, coins, fries and everything else, the higher number of the two accounts is kept, so nothing is ever counted twice.	{0} pasa a ser parte de esta cuenta, y ese código también abre esta cuenta. En papas, monedas, papas fritas y todo lo demás se queda el número más alto de las dos cuentas, así nada se cuenta dos veces.
+You have {0} potato peeled. Add some, or take some away.	Tienes {0} papa pelada. Agrega más o quita algunas.
+You have {0} potatoes peeled. Add some, or take some away.	Tienes {0} papas peladas. Agrega más o quita algunas.
+Debug tool	Herramienta de depuración
+Add	Agregar
+Remove	Quitar
+How many potatoes to remove?	¿Cuántas papas quieres quitar?
+No potatoes removed	No se quitaron papas
+Removed {0} potato	Se quitó {0} papa
+Removed {0} potatoes	Se quitaron {0} papas

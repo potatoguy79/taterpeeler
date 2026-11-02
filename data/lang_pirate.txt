@@ -620,3 +620,17 @@ Type a number of potatoes	Type a number o' spuds
 No potatoes added	No spuds added
 Added {0} potato	Added {0} spud
 Added {0} potatoes	Added {0} spuds
+Pick a 6-character code and your progress is saved online. Type the code on another device and keep playing there. You can even combine two accounts into one.	Pick a 6-character code an' yer progress be stashed online. Type the code on another device an' keep sailin' there. Ye can even combine two accounts into one.
+This device has {0} potatoes peeled and the account has {1}. Best of both keeps the higher number of everything, so nothing is ever counted twice. Use the account's switches this device to the account's progress.	This device has {0} spuds skinned an' the account has {1}. Best of both keeps the higher number o' everythin', so nothin' be counted twice. Use the account's switches this device to the account's progress.
+Best of both	Best of both
+Accounts combined! You kept the best of both	Accounts combined! Ye kept the best of both
+{0} becomes part of this account, and that code opens this account too. For potatoes, coins, fries and everything else, the higher number of the two accounts is kept, so nothing is ever counted twice.	{0} becomes part o' this account, an' that code opens this account too. For spuds, coins, fries an' all the rest, the higher number o' the two accounts be kept, so nothin' be counted twice.
+You have {0} potato peeled. Add some, or take some away.	Ye've skinned {0} spud. Add some, or take some away.
+You have {0} potatoes peeled. Add some, or take some away.	Ye've skinned {0} spuds. Add some, or take some away.
+Debug tool	Debug tool
+Add	Add
+Remove	Remove
+How many potatoes to remove?	How many spuds be ye takin' away?
+No potatoes removed	No spuds removed
+Removed {0} potato	Removed {0} spud
+Removed {0} potatoes	Removed {0} spuds
