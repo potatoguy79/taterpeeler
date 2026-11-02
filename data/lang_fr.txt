@@ -634,3 +634,7 @@ How many potatoes to remove?	Combien de patates veux-tu enlever ?
 No potatoes removed	Aucune patate enlevée
 Removed {0} potato	{0} patate enlevée
 Removed {0} potatoes	{0} patates enlevées
+Start the screensaver	Lancer l'économiseur d'écran
+The bouncing logo, right now. Tap anywhere to stop it	Le logo qui rebondit, tout de suite. Touche n'importe où pour l'arrêter
+Start	Lancer
+That photo couldn't be opened. Try a JPG or PNG photo	Impossible d'ouvrir cette photo. Essaie une photo JPG ou PNG

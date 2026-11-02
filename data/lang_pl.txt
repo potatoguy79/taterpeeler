@@ -647,3 +647,7 @@ Removed {0} potato	Usunięto {0} ziemniaka
 Removed {0} potatoes	Usunięto {0} ziemniaków
 You have {0} potatoes peeled. Add some, or take some away.#few	Masz {0} obrane ziemniaki. Dodaj albo odejmij.
 Removed {0} potatoes#few	Usunięto {0} ziemniaki
+Start the screensaver	Włącz wygaszacz ekranu
+The bouncing logo, right now. Tap anywhere to stop it	Odbijające się logo, od razu. Dotknij gdziekolwiek, żeby je zatrzymać
+Start	Włącz
+That photo couldn't be opened. Try a JPG or PNG photo	Nie udało się otworzyć tego zdjęcia. Spróbuj zdjęcia JPG albo PNG

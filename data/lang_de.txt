@@ -634,3 +634,7 @@ How many potatoes to remove?	Wie viele Kartoffeln willst du entfernen?
 No potatoes removed	Keine Kartoffeln entfernt
 Removed {0} potato	{0} Kartoffel entfernt
 Removed {0} potatoes	{0} Kartoffeln entfernt
+Start the screensaver	Bildschirmschoner starten
+The bouncing logo, right now. Tap anywhere to stop it	Das hüpfende Logo, sofort. Tipp irgendwo, um es zu stoppen
+Start	Starten
+That photo couldn't be opened. Try a JPG or PNG photo	Dieses Foto ließ sich nicht öffnen. Versuch ein JPG- oder PNG-Foto

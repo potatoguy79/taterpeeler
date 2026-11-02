@@ -634,3 +634,7 @@ How many potatoes to remove?	How many spuds be ye takin' away?
 No potatoes removed	No spuds removed
 Removed {0} potato	Removed {0} spud
 Removed {0} potatoes	Removed {0} spuds
+Start the screensaver	Start the screensaver
+The bouncing logo, right now. Tap anywhere to stop it	The bouncin' logo, right now. Tap anywhere to stop it
+Start	Start
+That photo couldn't be opened. Try a JPG or PNG photo	That paintin' couldn't be opened. Try a JPG or PNG one

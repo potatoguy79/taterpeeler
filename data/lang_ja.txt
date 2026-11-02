@@ -634,3 +634,7 @@ How many potatoes to remove?	じゃがいもを何個減らす？
 No potatoes removed	じゃがいもは減っていません
 Removed {0} potato	じゃがいもを{0}個減らしました
 Removed {0} potatoes	じゃがいもを{0}個減らしました
+Start the screensaver	スクリーンセーバーを開始
+The bouncing logo, right now. Tap anywhere to stop it	跳ねるロゴを今すぐ表示。どこかをタップすると止まります
+Start	開始
+That photo couldn't be opened. Try a JPG or PNG photo	その写真は開けませんでした。JPGかPNGの写真を試してください

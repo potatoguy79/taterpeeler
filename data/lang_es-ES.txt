@@ -634,3 +634,7 @@ How many potatoes to remove?	¿Cuántas patatas quieres quitar?
 No potatoes removed	No se ha quitado ninguna patata
 Removed {0} potato	{0} patata quitada
 Removed {0} potatoes	{0} patatas quitadas
+Start the screensaver	Iniciar el salvapantallas
+The bouncing logo, right now. Tap anywhere to stop it	El logo que rebota, ahora mismo. Toca en cualquier sitio para pararlo
+Start	Iniciar
+That photo couldn't be opened. Try a JPG or PNG photo	No se ha podido abrir esa foto. Prueba con una foto JPG o PNG

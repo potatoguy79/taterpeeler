@@ -37,6 +37,8 @@
     oops: { en: 'Oops! Again...', zh: '哎呀！再来…', es: '¡Uy! Otra vez...', 'es-ES': '¡Uy! Otra vez...', ru: 'Ой! Ещё раз...', pt: 'Ops! De novo...', de: 'Hoppla! Nochmal...', ja: 'あっ！もう一回…', fr: 'Oups ! Encore...', ko: '앗! 다시...', pl: 'Ups! Jeszcze raz...', tr: 'Hay aksi! Tekrar...', pirate: 'Blimey! Again...' },
     cancel: { en: 'Cancel', zh: '取消', es: 'Cancelar', 'es-ES': 'Cancelar', ru: 'Отмена', pt: 'Cancelar', de: 'Abbrechen', ja: 'キャンセル', fr: 'Annuler', ko: '취소', pl: 'Anuluj', tr: 'İptal', pirate: 'Belay that' },
     ok: { en: 'OK', zh: '确定', es: 'OK', 'es-ES': 'Vale', ru: 'ОК', pt: 'OK', de: 'OK', ja: 'OK', fr: 'OK', ko: '확인', pl: 'OK', tr: 'Tamam', pirate: 'Aye' },
+    photo: { en: 'Choose a photo', zh: '选择一张照片', es: 'Elige una foto', 'es-ES': 'Elige una foto', ru: 'Выбери фото', pt: 'Escolha uma foto', de: 'Wähl ein Foto', ja: '写真を選ぶ', fr: 'Choisis une photo', ko: '사진 고르기', pl: 'Wybierz zdjęcie', tr: 'Bir fotoğraf seç', pirate: 'Pick a paintin\'' },
+    photos: { en: 'Open photos', zh: '打开照片', es: 'Abrir fotos', 'es-ES': 'Abrir fotos', ru: 'Открыть фото', pt: 'Abrir fotos', de: 'Fotos öffnen', ja: '写真を開く', fr: 'Ouvrir les photos', ko: '사진 열기', pl: 'Otwórz zdjęcia', tr: 'Fotoğrafları aç', pirate: 'Open the gallery' },
     nowebgl: { en: 'TaterPeeler needs WebGL, which this browser has turned off. Please try another browser.' },
     failed: { en: 'TaterPeeler could not load its files. Reload the page to try again. If this persists please inform me.' }
   };
@@ -386,8 +388,7 @@
   /* ---- the text box (names, codes, PINs, messages): a small card in the game's own style ---- */
   const netImages = {};
   let textBox = null;
-  function openTextBox(req, kind, title, initial, maxlen) {
-    if (textBox) textBox.cancel();
+  function tbStyle() {
     if (!document.getElementById('tp-tb-style')) {
       const st = document.createElement('style'); st.id = 'tp-tb-style';
       st.textContent = `
@@ -416,6 +417,57 @@
         #tp-tb .count { font-size: 12px; opacity: .55; margin-top: 6px; text-align: right; }`;
       document.head.appendChild(st);
     }
+  }
+  /* ---- the photo pickers (your own potato, the kitchen photo, the admin's popup picture) ----
+     The file box stays in the page until it answers (iPhone can lose a detached one). Browsers only open it during
+     a tap, and the game answers a tap on its next frame: Chrome allows that, but Safari (and every iPhone/iPad
+     browser) doesn't, so there a small card asks for one more tap, which opens the photos right away. */
+  const webkitTouch = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  const safari = /^((?!chrome|chromium|android|crios|fxios|edg).)*safari/i.test(navigator.userAgent);
+  function pickFile(onFile, onNone) {
+    const inp = document.createElement('input');
+    inp.type = 'file'; inp.accept = 'image/*';
+    inp.style.cssText = 'position:fixed;left:-9999px;top:0;width:1px;height:1px;opacity:0';
+    document.body.appendChild(inp);
+    let answered = false;
+    const done = f => { if (answered) return; answered = true; inp.remove(); if (f) onFile(f); else onNone(); };
+    inp.addEventListener('change', () => done(inp.files && inp.files[0]));
+    inp.addEventListener('cancel', () => done(null));
+    const direct = !webkitTouch && !safari && (!navigator.userActivation || navigator.userActivation.isActive);
+    if (direct) { inp.click(); return; }
+    tbStyle();
+    if (textBox) textBox.cancel();
+    const wrap = document.createElement('div'); wrap.id = 'tp-tb';
+    const card = document.createElement('div'); card.className = 'card';
+    const h = document.createElement('h3'); h.textContent = W('photo');
+    const row = document.createElement('div'); row.className = 'row';
+    const no = document.createElement('button'); no.className = 'no'; no.textContent = W('cancel');
+    const ok = document.createElement('button'); ok.className = 'ok'; ok.textContent = W('photos');
+    row.append(no, ok); card.append(h, row); wrap.appendChild(card);
+    const close = () => { wrap.id = ''; wrap.style.pointerEvents = 'none'; wrap.classList.remove('on'); setTimeout(() => wrap.remove(), 180); };
+    no.onclick = () => { close(); done(null); };
+    ok.onclick = () => { close(); inp.click(); };   /* this tap opens the photos */
+    wrap.addEventListener('pointerdown', e => { if (e.target === wrap) { close(); done(null); } });
+    document.body.appendChild(wrap);
+    requestAnimationFrame(() => wrap.classList.add('on'));
+  }
+  /* a picked photo, shrunk to at most `max` pixels across; bad(): the browser couldn't open it (HEIC on Windows, say) */
+  function shrinkPhoto(f, max, quality, good, bad) {
+    const url = URL.createObjectURL(f), im = new Image();
+    im.onload = () => {
+      const k = Math.min(1, max / Math.max(im.naturalWidth, im.naturalHeight));
+      const c = document.createElement('canvas');
+      c.width = Math.max(1, Math.round(im.naturalWidth * k)); c.height = Math.max(1, Math.round(im.naturalHeight * k));
+      c.getContext('2d').drawImage(im, 0, 0, c.width, c.height);
+      URL.revokeObjectURL(url);
+      good(c, c.toDataURL('image/jpeg', quality));
+    };
+    im.onerror = () => { URL.revokeObjectURL(url); bad(); };
+    im.src = url;
+  }
+  function openTextBox(req, kind, title, initial, maxlen) {
+    if (textBox) textBox.cancel();
+    tbStyle();
     const wrap = document.createElement('div'); wrap.id = 'tp-tb';
     const card = document.createElement('div'); card.className = 'card';
     const h = document.createElement('h3'); h.textContent = title;
@@ -530,55 +582,20 @@
       if (wp) i32[wp >> 2] = potatoImg.naturalWidth; if (hp) i32[hp >> 2] = potatoImg.naturalHeight;
       return add(objs.tex, t);
     },
-    plat_pick_potato_photo: () => {
-      const inp = document.createElement('input');
-      inp.type = 'file'; inp.accept = 'image/*';
-      inp.onchange = () => {
-        const f = inp.files && inp.files[0];
-        if (!f) { ex.tp_potato_photo_ready(0); return; }
-        const url = URL.createObjectURL(f), im = new Image();
-        im.onload = () => {
-          const k = Math.min(1, 1024 / Math.max(im.naturalWidth, im.naturalHeight));
-          const c = document.createElement('canvas');
-          c.width = Math.max(1, Math.round(im.naturalWidth * k)); c.height = Math.max(1, Math.round(im.naturalHeight * k));
-          c.getContext('2d').drawImage(im, 0, 0, c.width, c.height);
-          URL.revokeObjectURL(url);
-          const d = c.toDataURL('image/jpeg', 0.85);
-          try { localStorage.setItem(POTATO_KEY, d); } catch (e) { console.warn('[TaterPeeler] potato photo could not be kept for next time'); }
-          const im2 = new Image();
-          im2.onload = () => { potatoImg = im2; potatoTried = true; ex.tp_potato_photo_ready(1); };
-          im2.src = d;
-        };
-        im.onerror = () => { URL.revokeObjectURL(url); ex.tp_potato_photo_ready(0); };
-        im.src = url;
-      };
-      inp.click();
-    },
-    plat_pick_photo: () => {   /* called while handling a tap, so the browser lets the file picker open */
-      const inp = document.createElement('input');
-      inp.type = 'file'; inp.accept = 'image/*';
-      inp.onchange = () => {
-        const f = inp.files && inp.files[0];
-        if (!f) { ex.tp_photo_ready(0); return; }
-        const url = URL.createObjectURL(f), im = new Image();
-        im.onload = () => {
-          /* at most 1024 pixels across: plenty behind the board, and small enough to keep */
-          const k = Math.min(1, 1024 / Math.max(im.naturalWidth, im.naturalHeight));
-          const c = document.createElement('canvas');
-          c.width = Math.max(1, Math.round(im.naturalWidth * k)); c.height = Math.max(1, Math.round(im.naturalHeight * k));
-          c.getContext('2d').drawImage(im, 0, 0, c.width, c.height);
-          URL.revokeObjectURL(url);
-          const d = c.toDataURL('image/jpeg', 0.85);
-          try { localStorage.setItem(PHOTO_KEY, d); } catch (e) { console.warn('[TaterPeeler] photo could not be kept for next time'); }
-          const im2 = new Image();
-          im2.onload = () => { photoImg = im2; photoTried = true; ex.tp_photo_ready(1); };
-          im2.src = d;
-        };
-        im.onerror = () => { URL.revokeObjectURL(url); ex.tp_photo_ready(0); };
-        im.src = url;
-      };
-      inp.click();
-    },
+    plat_pick_potato_photo: () => pickFile(f => shrinkPhoto(f, 1024, 0.85, (c, d) => {
+        try { localStorage.setItem(POTATO_KEY, d); } catch (e) { console.warn('[TaterPeeler] potato photo could not be kept for next time'); }
+        const im2 = new Image();
+        im2.onload = () => { potatoImg = im2; potatoTried = true; ex.tp_potato_photo_ready(1); };
+        im2.onerror = () => ex.tp_potato_photo_ready(-1);
+        im2.src = d;
+      }, () => ex.tp_potato_photo_ready(-1)), () => ex.tp_potato_photo_ready(0)),
+    plat_pick_photo: () => pickFile(f => shrinkPhoto(f, 1024, 0.85, (c, d) => {   /* at most 1024 px: plenty behind the board, small enough to keep */
+        try { localStorage.setItem(PHOTO_KEY, d); } catch (e) { console.warn('[TaterPeeler] photo could not be kept for next time'); }
+        const im2 = new Image();
+        im2.onload = () => { photoImg = im2; photoTried = true; ex.tp_photo_ready(1); };
+        im2.onerror = () => ex.tp_photo_ready(-1);
+        im2.src = d;
+      }, () => ex.tp_photo_ready(-1)), () => ex.tp_photo_ready(0)),
     /* ---- online (2.0) ---- */
     plat_http: (req, up, kp, bp) => {
       const url = str(up), key = str(kp), body = str(bp);
@@ -624,29 +641,11 @@
       if (wp) i32[wp >> 2] = e.img.naturalWidth; if (hp) i32[hp >> 2] = e.img.naturalHeight;
       return e.tex;
     },
-    plat_pick_image: req => {   /* the admin's popup photo: shrunk to 900 px and sent back as a data: URL */
-      const inp = document.createElement('input');
-      inp.type = 'file'; inp.accept = 'image/*';
-      inp.onchange = () => {
-        const f = inp.files && inp.files[0];
-        if (!f) { ex.tp_image_picked(req, 0, 0); return; }
-        const url = URL.createObjectURL(f), im = new Image();
-        im.onload = () => {
-          const k = Math.min(1, 900 / Math.max(im.naturalWidth, im.naturalHeight));
-          const c = document.createElement('canvas');
-          c.width = Math.max(1, Math.round(im.naturalWidth * k)); c.height = Math.max(1, Math.round(im.naturalHeight * k));
-          c.getContext('2d').drawImage(im, 0, 0, c.width, c.height);
-          URL.revokeObjectURL(url);
-          let d = c.toDataURL('image/jpeg', 0.82);
-          if (d.length > 560000) d = c.toDataURL('image/jpeg', 0.6);
-          const b = te.encode(d), p = ex.tp_net_buf(b.length + 1); views(); if (p) u8.set(b, p);
-          ex.tp_image_picked(req, p ? 1 : 0, p ? b.length : 0);
-        };
-        im.onerror = () => { URL.revokeObjectURL(url); ex.tp_image_picked(req, 0, 0); };
-        im.src = url;
-      };
-      inp.click();
-    },
+    plat_pick_image: req => pickFile(f => shrinkPhoto(f, 900, 0.82, (c, d) => {   /* the admin's popup photo, as a data: URL */
+        if (d.length > 560000) d = c.toDataURL('image/jpeg', 0.6);
+        const b = te.encode(d), p = ex.tp_net_buf(b.length + 1); views(); if (p) u8.set(b, p);
+        ex.tp_image_picked(req, p ? 1 : 0, p ? b.length : 0);
+      }, () => ex.tp_image_picked(req, 0, 0)), () => ex.tp_image_picked(req, 0, 0)),
     plat_open_url: p => { const u = str(p); if (/^https:\/\//.test(u)) window.open(u, '_blank', 'noopener'); },
     plat_audio_mode: mix => {   /* Safari 16.4+: "ambient" lets YouTube or Music keep playing alongside the game */
       try { if (navigator.audioSession) navigator.audioSession.type = mix ? 'ambient' : 'auto'; } catch (e) {}
