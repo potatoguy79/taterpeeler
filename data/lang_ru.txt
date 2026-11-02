@@ -587,3 +587,39 @@ Administrator	Администратор
 Moderator	Модератор
 Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	Пока что онлайн-функции работают только на нешкольных устройствах. Я разбираюсь, как заставить их работать на школьных устройствах. Извините за неудобства.
 Continue	Продолжить
+Salt the fries	Солить картошку фри
+Shake salt over each batch before it's served. Just right earns more coins	Посыпай каждую порцию солью перед подачей. В самый раз — больше монет
+Peel on a cutting board on the kitchen counter	Чистить на разделочной доске на кухонной столешнице
+Where you peel. A cutting board can go on the counter too: turn it on in Settings.	Здесь ты чистишь. На столешницу можно положить и разделочную доску: включи её в Настройках.
+Looking for the lobby...	Ищем лобби...
+That's not a lobby code	Это не код лобби
+Lobby codes are 5 letters, like SPUDS.	Код лобби — 5 букв, например SPUDS.
+Try again	Ещё раз
+Couldn't connect	Нет связи
+Couldn't reach the server. Check your internet and try again.	Не удалось связаться с сервером. Проверь интернет и попробуй ещё раз.
+Too many tries	Слишком много попыток
+Wait a couple of minutes, then try again.	Подожди пару минут и попробуй ещё раз.
+There's no open lobby with the code {0}. Check the letters and try again.	Нет открытого лобби с кодом {0}. Проверь буквы и попробуй ещё раз.
+Lobby not found	Лобби не найдено
+Try again when someone leaves, or make your own lobby.	Попробуй ещё раз, когда кто-нибудь выйдет, или создай своё лобби.
+That match already started	Этот матч уже начался
+Try again when it's over.	Попробуй ещё раз, когда он закончится.
+Can't join right now	Сейчас нельзя войти
+You can't play online right now.	Сейчас ты не можешь играть онлайн.
+Wrong PIN	Неверный PIN
+That PIN isn't right. Check it and try again.	Этот PIN не подходит. Проверь его и попробуй ещё раз.
+There's no saved progress with the code {0}. Check each letter and number and try again.	С кодом {0} нет сохранённого прогресса. Проверь каждую букву и цифру и попробуй ещё раз.
+Code not found	Код не найден
+That's this account	Это этот же аккаунт
+That's this account's own code. Type the other account's code.	Это код этого аккаунта. Введи код другого аккаунта.
+That's not a code	Это не код
+Codes are exactly 6 letters or numbers.	Код — это ровно 6 букв или цифр.
+Something went wrong	Что-то пошло не так
+That didn't work. Try again in a moment.	Не получилось. Попробуй ещё раз чуть позже.
+Settings synced from your other device	Настройки синхронизированы с другого устройства
+This device has {0} potatoes peeled and the account has {1}. If this device's progress is already in the account (you've synced it before), pick Use the account's. Add them up only if they're from two different games: that makes {2}.	На этом устройстве очищено {0} картофелин, а в аккаунте — {1}. Если прогресс этого устройства уже есть в аккаунте (ты уже синхронизировал его раньше), выбери «Взять из аккаунта». Складывай, только если это две разные игры: получится {2}.
+Two sets of progress	Два прогресса
+Add them up	Сложить
+Checking the code...	Проверяем код...
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	Всё из {0} прибавится к этому аккаунту (картошка, монеты, фри — всё). После этого тот код тоже будет открывать этот аккаунт. Делай так только с прогрессом из другой игры: если этот прогресс уже есть в аккаунте, он посчитается дважды.
++{0} TaterCoins	+{0} TaterCoins

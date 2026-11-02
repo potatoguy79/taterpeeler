@@ -577,3 +577,39 @@ Administrator	관리자
 Moderator	모더레이터
 Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	온라인 기능은 현재 학교 기기가 아닌 기기에서만 사용할 수 있어요. 학교 기기에서도 작동하도록 방법을 찾고 있어요. 불편을 드려 죄송합니다.
 Continue	계속
+Salt the fries	감자튀김에 소금 뿌리기
+Shake salt over each batch before it's served. Just right earns more coins	내기 전에 매번 소금을 뿌려요. 딱 알맞으면 코인을 더 받아요
+Peel on a cutting board on the kitchen counter	주방 조리대 위 도마에서 깎기
+Where you peel. A cutting board can go on the counter too: turn it on in Settings.	여기서 깎아요. 조리대에 도마를 놓을 수도 있어요. 설정에서 켜 주세요.
+Looking for the lobby...	로비를 찾는 중...
+That's not a lobby code	로비 코드가 아니에요
+Lobby codes are 5 letters, like SPUDS.	로비 코드는 SPUDS처럼 영문자 5자예요.
+Try again	다시 시도
+Couldn't connect	연결할 수 없어요
+Couldn't reach the server. Check your internet and try again.	서버에 연결할 수 없어요. 인터넷을 확인하고 다시 해 보세요.
+Too many tries	시도가 너무 많아요
+Wait a couple of minutes, then try again.	몇 분 기다린 다음 다시 해 보세요.
+There's no open lobby with the code {0}. Check the letters and try again.	코드가 {0}인 열린 로비가 없어요. 글자를 확인하고 다시 해 보세요.
+Lobby not found	로비를 찾을 수 없어요
+Try again when someone leaves, or make your own lobby.	누가 나가면 다시 해 보거나, 직접 로비를 만들어 보세요.
+That match already started	그 경기는 이미 시작됐어요
+Try again when it's over.	끝나면 다시 해 보세요.
+Can't join right now	지금은 참가할 수 없어요
+You can't play online right now.	지금은 온라인으로 플레이할 수 없어요.
+Wrong PIN	PIN이 틀렸어요
+That PIN isn't right. Check it and try again.	그 PIN이 맞지 않아요. 확인하고 다시 해 보세요.
+There's no saved progress with the code {0}. Check each letter and number and try again.	코드 {0}로 저장된 진행 상황이 없어요. 글자와 숫자를 하나씩 확인하고 다시 해 보세요.
+Code not found	코드를 찾을 수 없어요
+That's this account	이 계정이에요
+That's this account's own code. Type the other account's code.	이 계정의 코드예요. 다른 계정의 코드를 입력해 주세요.
+That's not a code	코드가 아니에요
+Codes are exactly 6 letters or numbers.	코드는 정확히 영문자나 숫자 6자리예요.
+Something went wrong	문제가 생겼어요
+That didn't work. Try again in a moment.	잘 안 됐어요. 잠시 후에 다시 해 보세요.
+Settings synced from your other device	다른 기기의 설정을 동기화했어요
+This device has {0} potatoes peeled and the account has {1}. If this device's progress is already in the account (you've synced it before), pick Use the account's. Add them up only if they're from two different games: that makes {2}.	이 기기는 감자를 {0}개 깎았고 계정은 {1}개예요. 이 기기의 진행 상황이 이미 계정에 들어 있다면(전에 동기화했다면) "계정 것 사용"을 고르세요. 서로 다른 게임일 때만 합치세요. 합치면 {2}개가 돼요.
+Two sets of progress	진행 상황이 두 개예요
+Add them up	합치기
+Checking the code...	코드 확인 중...
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	{0}의 모든 것(감자, 코인, 감자튀김 등)이 이 계정에 더해져요. 그다음부터 그 코드로도 이 계정이 열려요. 다른 게임의 진행 상황일 때만 하세요. 이 계정에 이미 있는 진행 상황이면 두 번 세어져요.
++{0} TaterCoins	+{0} TaterCoins
