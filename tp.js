@@ -26,6 +26,7 @@
   const LANG = (() => { const m = /(?:^|;)lng=(-?\d+)/.exec(readSave()); const i = m ? parseInt(m[1], 10) : -1;
     return i >= 0 && i < LANG_CODES.length ? LANG_CODES[i] : langFromLocale(navigator.language); })();
   /* the page's own few words (the game's are in data/lang_*.txt) */
+  const V = window.TP_V ? '?v=' + window.TP_V : '';   /* the website stamps each release: no old cached files after an update */
   const WORDS = {
     load: { en: 'Loading potatoes', zh: '正在加载土豆', es: 'Cargando papas', 'es-ES': 'Cargando patatas', ru: 'Загружаем картошку', pt: 'Carregando batatas', de: 'Kartoffeln werden geladen', ja: 'じゃがいもを読み込み中', fr: 'Chargement des patates', ko: '감자 불러오는 중', pl: 'Ładowanie ziemniaków', tr: 'Patatesler yükleniyor', pirate: 'Haulin\' aboard the spuds' },
     wait: { en: 'This may take a few minutes.', zh: '这可能需要几分钟。', es: 'Esto puede tardar unos minutos.', 'es-ES': 'Esto puede tardar unos minutos.', ru: 'Это может занять несколько минут.', pt: 'Isso pode levar alguns minutos.', de: 'Das kann ein paar Minuten dauern.', ja: '数分かかることがあります。', fr: 'Cela peut prendre quelques minutes.', ko: '몇 분 정도 걸릴 수 있어요.', pl: 'To może potrwać kilka minut.', tr: 'Bu birkaç dakika sürebilir.', pirate: 'This may take a few turns o\' the hourglass.' },
@@ -221,15 +222,15 @@
   function b64(s) { const bin = atob(s.replace(/\s+/g, '')); const out = new Uint8Array(bin.length); for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i); return out; }
   function loadBin(name) {
     /* hosts that only serve common file types get the data as base64 text -#sounded so pro*/
-    if (window.TP_DATA_B64) return fetch('data/' + name + '.txt').then(r => { if (!r.ok) throw new Error(name); return r.text(); }).then(t => { files[name] = b64(t); tick(); });
-    return fetch('data/' + name).then(r => { if (!r.ok) throw new Error(name); return r.arrayBuffer(); }).then(b => { files[name] = new Uint8Array(b); tick(); });
+    if (window.TP_DATA_B64) return fetch('data/' + name + '.txt' + V).then(r => { if (!r.ok) throw new Error(name); return r.text(); }).then(t => { files[name] = b64(t); tick(); });
+    return fetch('data/' + name + V).then(r => { if (!r.ok) throw new Error(name); return r.arrayBuffer(); }).then(b => { files[name] = new Uint8Array(b); tick(); });
   }
   function loadImg(name) {
     return new Promise((res, rej) => {
       const im = new Image();
       im.onload = () => { images[name] = im; tick(); res(); };
       im.onerror = () => rej(new Error(name));
-      im.src = 'data/' + name;
+      im.src = 'data/' + name + V;
     });
   }
   /* a language's words and letters: fetched when it's picked (or before the game starts, for the saved one) */
@@ -237,7 +238,7 @@
   function lazyFile(n) {
     if (files[n] || lazyF[n]) return;
     lazyF[n] = 1;
-    fetch('data/' + n).then(r => { if (!r.ok) throw new Error(n); return r.arrayBuffer(); })
+    fetch('data/' + n + V).then(r => { if (!r.ok) throw new Error(n); return r.arrayBuffer(); })
       .then(b => { files[n] = new Uint8Array(b); })
       .catch(() => { setTimeout(() => { lazyF[n] = 0; }, 4000); });
   }
@@ -254,7 +255,7 @@
     const im = new Image();
     im.onload = () => { images[n] = im; };
     im.onerror = () => { setTimeout(() => { lazy[n] = 0; }, 4000); };   /* offline for a moment: try again later */
-    im.src = 'data/' + n;
+    im.src = 'data/' + n + V;
   }
   /* the player's own background photo, kept in this browser */
   const PHOTO_KEY = 'taterpeeler.photo.v1';
@@ -267,8 +268,8 @@
     let d = null; try { d = localStorage.getItem(PHOTO_KEY); } catch (e) {}
     if (d) { const im = new Image(); im.onload = () => { photoImg = im; }; im.src = d; }
   }
-  function loadSnd(name) { if (!name) return Promise.resolve(); return fetch('data/' + name).then(r => r.arrayBuffer()).then(b => { soundData[name] = b; tick(); }).catch(() => tick()); }
-  const wasmP = fetch('taterpeeler.wasm').then(r => r.arrayBuffer()).then(b => { tick(); return b; });
+  function loadSnd(name) { if (!name) return Promise.resolve(); return fetch('data/' + name + V).then(r => r.arrayBuffer()).then(b => { soundData[name] = b; tick(); }).catch(() => tick()); }
+  const wasmP = fetch('taterpeeler.wasm' + V).then(r => r.arrayBuffer()).then(b => { tick(); return b; });
 
   /* ---------------- audio ---------------- */
   let actx = null, master = null, buffers = [], unlocked = false;
@@ -784,7 +785,7 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
       console.warn('[TaterPeeler] WebAssembly unavailable, using the JavaScript build', err && err.message);
       return new Promise((res, rej) => {
         const s = document.createElement('script');
-        s.src = 'taterpeeler.asm.js';
+        s.src = 'taterpeeler.asm.js' + V;
         s.onload = () => { try { res(window.__tpAsmFactory(imports)); } catch (e) { rej(e); } };
         s.onerror = () => rej(new Error('taterpeeler.asm.js'));
         document.head.appendChild(s);
