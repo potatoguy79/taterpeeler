@@ -577,3 +577,39 @@ Administrator	Yönetici
 Moderator	Moderatör
 Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	Çevrimiçi özellikler şu an sadece okul dışı cihazlarda çalışıyor. Okul cihazlarında da çalışması için uğraşıyorum. Verdiğim rahatsızlık için özür dilerim.
 Continue	Devam
+Salt the fries	Kızartmaları tuzla
+Shake salt over each batch before it's served. Just right earns more coins	Servis etmeden önce her porsiyona tuz serp. Tam kıvamında olursa daha çok jeton kazanırsın
+Peel on a cutting board on the kitchen counter	Mutfak tezgâhındaki kesme tahtasında soy
+Where you peel. A cutting board can go on the counter too: turn it on in Settings.	Burada soyarsın. Tezgâha bir kesme tahtası da koyabilirsin: Ayarlar'dan aç.
+Looking for the lobby...	Lobi aranıyor...
+That's not a lobby code	Bu bir lobi kodu değil
+Lobby codes are 5 letters, like SPUDS.	Lobi kodları SPUDS gibi 5 harftir.
+Try again	Tekrar dene
+Couldn't connect	Bağlanılamadı
+Couldn't reach the server. Check your internet and try again.	Sunucuya ulaşılamadı. İnternetini kontrol edip tekrar dene.
+Too many tries	Çok fazla deneme
+Wait a couple of minutes, then try again.	Birkaç dakika bekle, sonra tekrar dene.
+There's no open lobby with the code {0}. Check the letters and try again.	{0} kodlu açık bir lobi yok. Harfleri kontrol edip tekrar dene.
+Lobby not found	Lobi bulunamadı
+Try again when someone leaves, or make your own lobby.	Biri ayrılınca tekrar dene ya da kendi lobini kur.
+That match already started	O maç çoktan başladı
+Try again when it's over.	Bitince tekrar dene.
+Can't join right now	Şu an katılamazsın
+You can't play online right now.	Şu an çevrimiçi oynayamazsın.
+Wrong PIN	Yanlış PIN
+That PIN isn't right. Check it and try again.	Bu PIN doğru değil. Kontrol edip tekrar dene.
+There's no saved progress with the code {0}. Check each letter and number and try again.	{0} koduyla kayıtlı bir ilerleme yok. Her harfi ve rakamı kontrol edip tekrar dene.
+Code not found	Kod bulunamadı
+That's this account	Bu zaten bu hesap
+That's this account's own code. Type the other account's code.	Bu, bu hesabın kendi kodu. Diğer hesabın kodunu yaz.
+That's not a code	Bu bir kod değil
+Codes are exactly 6 letters or numbers.	Kodlar tam olarak 6 harf ya da rakamdır.
+Something went wrong	Bir şeyler ters gitti
+That didn't work. Try again in a moment.	Olmadı. Birazdan tekrar dene.
+Settings synced from your other device	Ayarlar diğer cihazından eşitlendi
+This device has {0} potatoes peeled and the account has {1}. If this device's progress is already in the account (you've synced it before), pick Use the account's. Add them up only if they're from two different games: that makes {2}.	Bu cihazda {0} soyulmuş patates var, hesapta {1}. Bu cihazın ilerlemesi zaten hesaptaysa (daha önce eşitlediysen) "Hesabınkini kullan"ı seç. Sadece iki farklı oyundan geliyorsa topla: o zaman {2} olur.
+Two sets of progress	İki ayrı ilerleme
+Add them up	Topla
+Checking the code...	Kod kontrol ediliyor...
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	{0} hesabındaki her şey bu hesaba eklenir (patatesler, jetonlar, kızartmalar, her şey). Sonra o kod da bu hesabı açar. Bunu sadece başka bir oyundan gelen ilerleme için yap: bu hesapta o ilerleme zaten varsa iki kez sayılır.
++{0} TaterCoins	+{0} TaterCoins

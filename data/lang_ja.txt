@@ -577,3 +577,39 @@ Administrator	管理者
 Moderator	モデレーター
 Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	オンライン機能は、今のところ学校の端末以外でのみ使えます。学校の端末でも使えるように取り組んでいます。ご不便をおかけしてすみません。
 Continue	続ける
+Salt the fries	フライドポテトに塩をふる
+Shake salt over each batch before it's served. Just right earns more coins	出す前に毎回塩をふります。ちょうどいい量だとコインが増えます
+Peel on a cutting board on the kitchen counter	キッチンカウンターのまな板の上でむく
+Where you peel. A cutting board can go on the counter too: turn it on in Settings.	ここでむきます。カウンターにまな板を置くこともできます。設定でオンにしてください。
+Looking for the lobby...	ロビーをさがしています...
+That's not a lobby code	ロビーのコードではありません
+Lobby codes are 5 letters, like SPUDS.	ロビーのコードは英字5文字です（例: SPUDS）。
+Try again	もう一度
+Couldn't connect	接続できません
+Couldn't reach the server. Check your internet and try again.	サーバーにつながりません。ネット接続を確認してもう一度試してください。
+Too many tries	試行回数が多すぎます
+Wait a couple of minutes, then try again.	数分待ってから、もう一度試してください。
+There's no open lobby with the code {0}. Check the letters and try again.	コード {0} の開いているロビーはありません。文字を確認してもう一度試してください。
+Lobby not found	ロビーが見つかりません
+Try again when someone leaves, or make your own lobby.	誰かが抜けたらもう一度試すか、自分でロビーを作ってください。
+That match already started	その試合はもう始まっています
+Try again when it's over.	終わったらもう一度試してください。
+Can't join right now	今は参加できません
+You can't play online right now.	今はオンラインで遊べません。
+Wrong PIN	PINが違います
+That PIN isn't right. Check it and try again.	そのPINは正しくありません。確認してもう一度試してください。
+There's no saved progress with the code {0}. Check each letter and number and try again.	コード {0} で保存された進行状況はありません。文字と数字をひとつずつ確認して、もう一度試してください。
+Code not found	コードが見つかりません
+That's this account	このアカウントです
+That's this account's own code. Type the other account's code.	それはこのアカウント自身のコードです。もう一方のアカウントのコードを入力してください。
+That's not a code	コードではありません
+Codes are exactly 6 letters or numbers.	コードはちょうど6文字の英数字です。
+Something went wrong	問題が発生しました
+That didn't work. Try again in a moment.	うまくいきませんでした。少ししてからもう一度試してください。
+Settings synced from your other device	ほかの端末の設定を同期しました
+This device has {0} potatoes peeled and the account has {1}. If this device's progress is already in the account (you've synced it before), pick Use the account's. Add them up only if they're from two different games: that makes {2}.	この端末は {0} 個むいていて、アカウントは {1} 個です。この端末の進行状況がすでにアカウントに入っている（前に同期した）なら「アカウントのを使う」を選んでください。別々のゲームの場合だけ合計してください。合計すると {2} 個です。
+Two sets of progress	2つの進行状況
+Add them up	合計する
+Checking the code...	コードを確認しています...
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	{0} のすべて（じゃがいも、コイン、フライドポテトなど）がこのアカウントに加算されます。そのあと、そのコードでもこのアカウントが開きます。別のゲームの進行状況のときだけ使ってください。このアカウントにすでに入っていると、2回数えられてしまいます。
++{0} TaterCoins	+{0} TaterCoins

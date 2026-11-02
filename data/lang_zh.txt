@@ -577,3 +577,39 @@ Administrator	管理员
 Moderator	版主
 Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	目前在线功能仅限非学校设备使用。我正在想办法让它在学校设备上也能用。给你带来不便，抱歉。
 Continue	继续
+Salt the fries	给薯条撒盐
+Shake salt over each batch before it's served. Just right earns more coins	每份薯条端上前撒盐。刚刚好能多赚金币
+Peel on a cutting board on the kitchen counter	在厨房台面上的砧板上削
+Where you peel. A cutting board can go on the counter too: turn it on in Settings.	你在这里削皮。也可以在台面上放一块砧板：在设置里打开。
+Looking for the lobby...	正在找房间...
+That's not a lobby code	这不是房间代码
+Lobby codes are 5 letters, like SPUDS.	房间代码是 5 个字母，比如 SPUDS。
+Try again	再试一次
+Couldn't connect	连不上
+Couldn't reach the server. Check your internet and try again.	连不上服务器。请检查网络后再试。
+Too many tries	尝试次数太多
+Wait a couple of minutes, then try again.	等几分钟再试。
+There's no open lobby with the code {0}. Check the letters and try again.	没有代码为 {0} 的开放房间。检查一下字母再试。
+Lobby not found	找不到房间
+Try again when someone leaves, or make your own lobby.	等有人离开再试，或者自己开一个房间。
+That match already started	那场比赛已经开始了
+Try again when it's over.	等结束后再试。
+Can't join right now	现在无法加入
+You can't play online right now.	你现在不能在线玩。
+Wrong PIN	PIN 错误
+That PIN isn't right. Check it and try again.	这个 PIN 不对。检查一下再试。
+There's no saved progress with the code {0}. Check each letter and number and try again.	没有用代码 {0} 保存的进度。逐个检查字母和数字后再试。
+Code not found	找不到代码
+That's this account	这就是这个账号
+That's this account's own code. Type the other account's code.	这是这个账号自己的代码。请输入另一个账号的代码。
+That's not a code	这不是代码
+Codes are exactly 6 letters or numbers.	代码必须正好是 6 个字母或数字。
+Something went wrong	出了点问题
+That didn't work. Try again in a moment.	没成功。稍等一下再试。
+Settings synced from your other device	已从你的另一台设备同步设置
+This device has {0} potatoes peeled and the account has {1}. If this device's progress is already in the account (you've synced it before), pick Use the account's. Add them up only if they're from two different games: that makes {2}.	这台设备削了 {0} 个土豆，账号里有 {1} 个。如果这台设备的进度已经在账号里（你以前同步过），请选"用账号的"。只有两份进度来自不同的游戏时才相加：相加后是 {2} 个。
+Two sets of progress	两份进度
+Add them up	相加
+Checking the code...	正在检查代码...
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	{0} 的所有内容（土豆、金币、薯条等）都会加到这个账号里。之后，那个代码也能打开这个账号。只在进度来自另一个游戏时这样做：如果这个账号已经有那份进度，就会算两次。
++{0} TaterCoins	+{0} TaterCoins

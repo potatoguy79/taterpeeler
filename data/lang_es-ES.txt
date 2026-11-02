@@ -577,3 +577,39 @@ Administrator	Administrador
 Moderator	Moderador
 Online features are limited to non-school devices at this moment. I'm figuring out how to get it working on school devices. Sorry for any inconvenience.	De momento, las funciones online solo van en dispositivos que no son del colegio. Estoy viendo cómo hacer que funcionen en los dispositivos del cole. Perdón por las molestias.
 Continue	Continuar
+Salt the fries	Salar las patatas fritas
+Shake salt over each batch before it's served. Just right earns more coins	Échale sal a cada tanda antes de servirla. En su punto da más monedas
+Peel on a cutting board on the kitchen counter	Pelar sobre una tabla de cortar en la encimera
+Where you peel. A cutting board can go on the counter too: turn it on in Settings.	Aquí pelas. También puedes poner una tabla de cortar en la encimera: actívala en Ajustes.
+Looking for the lobby...	Buscando la sala...
+That's not a lobby code	Eso no es un código de sala
+Lobby codes are 5 letters, like SPUDS.	Los códigos de sala tienen 5 letras, como SPUDS.
+Try again	Intentar de nuevo
+Couldn't connect	No se pudo conectar
+Couldn't reach the server. Check your internet and try again.	No se pudo conectar al servidor. Revisa tu internet e intenta de nuevo.
+Too many tries	Demasiados intentos
+Wait a couple of minutes, then try again.	Espera un par de minutos y vuelve a intentarlo.
+There's no open lobby with the code {0}. Check the letters and try again.	No hay ninguna sala abierta con el código {0}. Revisa las letras e intenta de nuevo.
+Lobby not found	Sala no encontrada
+Try again when someone leaves, or make your own lobby.	Intenta de nuevo cuando alguien salga, o crea tu propia sala.
+That match already started	Esa partida ya empezó
+Try again when it's over.	Intenta de nuevo cuando termine.
+Can't join right now	No puedes unirte ahora
+You can't play online right now.	Ahora mismo no puedes jugar online.
+Wrong PIN	PIN incorrecto
+That PIN isn't right. Check it and try again.	Ese PIN no es correcto. Revísalo e intenta de nuevo.
+There's no saved progress with the code {0}. Check each letter and number and try again.	No hay progreso guardado con el código {0}. Revisa cada letra y número e intenta de nuevo.
+Code not found	Código no encontrado
+That's this account	Es esta misma cuenta
+That's this account's own code. Type the other account's code.	Ese es el código de esta cuenta. Escribe el código de la otra cuenta.
+That's not a code	Eso no es un código
+Codes are exactly 6 letters or numbers.	Los códigos tienen exactamente 6 letras o números.
+Something went wrong	Algo salió mal
+That didn't work. Try again in a moment.	No funcionó. Intenta de nuevo en un momento.
+Settings synced from your other device	Ajustes sincronizados desde tu otro dispositivo
+This device has {0} potatoes peeled and the account has {1}. If this device's progress is already in the account (you've synced it before), pick Use the account's. Add them up only if they're from two different games: that makes {2}.	Este dispositivo tiene {0} patatas peladas y la cuenta tiene {1}. Si el progreso de este dispositivo ya está en la cuenta (ya lo has sincronizado antes), elige "Usar el de la cuenta". Súmalos solo si son de dos partidas distintas: serían {2}.
+Two sets of progress	Dos progresos distintos
+Add them up	Sumarlos
+Checking the code...	Revisando el código...
+Everything from {0} gets added to this account (potatoes, coins, fries, everything). After that, that code opens this account too. Only do this for progress from a different game: if this account already has that progress, it would count twice.	Todo lo de {0} se suma a esta cuenta (patatas, monedas, patatas fritas, todo). Después, ese código también abre esta cuenta. Hazlo solo con progreso de otra partida: si esta cuenta ya lo tiene, se contaría dos veces.
++{0} TaterCoins	+{0} TaterCoins
