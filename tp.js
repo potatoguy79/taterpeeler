@@ -828,6 +828,6 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
     window.__taterpeeler = { exports: ex };
   }).catch(err => {
     console.error(err);
-    loader.querySelector('.msg').textContent = 'TaterPeeler could not load its files. Reload the page to try again. If this persists please inform me.';
+    loader.querySelector('.msg').textContent = 'TaterPeeler could not load its files. Reload the page to try again. If this persists try using the web app or website.';
   });
 })();
