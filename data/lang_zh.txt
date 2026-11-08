@@ -656,3 +656,47 @@ Leave a potato 5 minutes and it goes mouldy, and costs coins	土豆放 5 分钟�
 Almost: a pinch more salt	差一点：再加一小撮盐
 A little salty, still good	有点咸，但还不错
 +{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins（被推下砧板的块扣掉 {1}）
+Birthday Potato	生日土豆
+Birthday	生日
+Birthday gift	生日礼物
+It's Andres' birthday!	今天是Andres的生日！
+Today is my birthday and to thank everyone playing TaterPeeler today, you have unlocked a special peeler and 1000 TaterCoins have been added to your account. Thank you for playing, I appreciate it a lot.	今天是我的生日，为了感谢今天所有玩TaterPeeler的人，你解锁了一个特别的削皮器，并且你的账户里已经加了1000 TaterCoins。谢谢你来玩，我真的很感激。
+Thank you	谢谢
+No. Whatchu gonna do peel me off?	不要。你想怎样,把我撕下来?
+Ad Blocker	广告拦截者
+Peel off the ad	把广告撕下来
+What's new in 3.0	3.0 新内容
+Watch the credits	观看片尾字幕
+Here's everything that's new in 3.0. Thanks for playing!	这是 3.0 的全部新内容。谢谢你来玩!
+Leave a potato sitting for more than 5 minutes and it starts going mouldy. Finish a mouldy one and it costs you a few TaterCoins. Don't like it? Turn it off in Settings.	土豆放着超过 5 分钟就会开始发霉。削完一个发霉的土豆会扣掉一些 TaterCoins。不喜欢?可以在设置里关掉。
+Better salt	更好的盐
+No more limit on the salt. It looks like real salt now, shaking feels better, and the scoring is fairer.	盐不再有上限了。现在看起来像真的盐,摇起来手感更好,评分也更公平。
+Thinner cuts	切得更细
+You can cut way thinner fries, and the knife goes where you point it. Pushing pieces off the board doesn't break the game anymore, it just takes a few coins off.	薯条可以切得细很多,刀会落在你指的地方。把碎块推出砧板不会再让游戏卡住,只会扣几个币。
+Spin while peeling	削皮时旋转
+Turn it on in Settings and the potato slowly turns while you peel. It's off unless you want it.	在设置里打开后,削皮时土豆会慢慢转动。除非你想要,否则是关的。
+Bigger milestones	更大的里程碑
+Every milestone is a bigger deal than the last one now. And something happens at 1,000 potatoes.	每个里程碑现在都比上一个更隆重。而到 1,000 个土豆时会发生一些事。
+It stays when you go to Rush now, and there's a Remove button for the photo.	现在切到 Rush 时也会保留,还多了一个删除照片的按钮。
+Runs on more stuff	能在更多设备上运行
+Slower devices get picked up automatically and run smoother, it fits all kinds of screens (even watches), and it loads faster. If a file doesn't load the first time, it tries again.	较慢的设备会被自动识别并运行得更流畅,适配各种屏幕(连手表都行),加载也更快。文件第一次没加载出来会再试一次。
+You can scroll from anywhere in Settings and the Collection, there's a Start button for the screensaver, and the website can send you a notification when there's news.	设置和收藏里随处都能滑动,屏幕保护有了开始按钮,有新消息时网站还能给你发通知。
+Update 3.0 is now out! Here's what's new!	3.0 更新上线啦!来看看新内容!
+Thanks for playing! I'll keep updating this periodically.	谢谢你来玩!我会时不时继续更新。
+1000 Taters, that's really something.\nThanks for playing!	1000 个土豆,真了不起。\n谢谢你来玩!
+Skip	跳过
+Turkey Potato	火鸡土豆
+Thanksgiving	感恩节
+The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	火鸡土豆、感恩节厨房和横幅,到 11 月 30 日
+Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	到 11 月 30 日为止,有一个烤箱里烤着火鸡的温馨感恩节厨房,还会出现火鸡土豆。不过感恩节?可以在设置里全部关掉。
+Happy Thanksgiving!	感恩节快乐!
+Look out for the Turkey Potato until November 30	11 月 30 日之前留意火鸡土豆
+Slice 50 potatoes in one game of TaterNinja	在一局 TaterNinja 里切 50 个土豆
+Slice them	切开它们
+Peel {0} more potato to open TaterNinja	再削 {0} 个土豆就能打开 TaterNinja
+Peel {0} more potatoes to open TaterNinja	再削 {0} 个土豆就能打开 TaterNinja
+{0} in one swipe!	一刀切了 {0} 个!
+Swipe to slice. Don't slice the mouldy ones	滑动来切。别切发霉的
+Game over	游戏结束
+{0} sliced	切了 {0} 个
+Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	削满 200 个土豆就会打开 TaterNinja。土豆会被抛起来,你用薯条刀把它们切开。一刀切好几个有奖励,但别切发霉的:你只有三条命。

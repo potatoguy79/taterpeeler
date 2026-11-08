@@ -670,3 +670,48 @@ Almost: a pinch more salt	Prawie: szczypta soli więcej
 A little salty, still good	Trochę słone, ale dobre
 +{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} mniej za kawałki zepchnięte z deski)
 {0} hours of peeling#few	{0} godziny obierania
+Birthday Potato	Urodzinowy ziemniak
+Birthday	Urodzinowa
+Birthday gift	Prezent urodzinowy
+It's Andres' birthday!	Andres ma dziś urodziny!
+Today is my birthday and to thank everyone playing TaterPeeler today, you have unlocked a special peeler and 1000 TaterCoins have been added to your account. Thank you for playing, I appreciate it a lot.	Dziś są moje urodziny i żeby podziękować wszystkim, którzy dziś grają w TaterPeeler, odblokowałeś specjalną obieraczkę, a na twoje konto dodano 1000 TaterCoins. Dziękuję za grę, bardzo to doceniam.
+Thank you	Dziękuję
+No. Whatchu gonna do peel me off?	Nie. Co zrobisz, oderwiesz mnie?
+Ad Blocker	Bloker reklam
+Peel off the ad	Oderwij reklamę
+What's new in 3.0	Co nowego w 3.0
+Watch the credits	Obejrzyj napisy końcowe
+Here's everything that's new in 3.0. Thanks for playing!	Oto wszystko, co nowego w 3.0. Dzięki za grę!
+Leave a potato sitting for more than 5 minutes and it starts going mouldy. Finish a mouldy one and it costs you a few TaterCoins. Don't like it? Turn it off in Settings.	Zostaw ziemniaka na dłużej niż 5 minut, a zacznie pleśnieć. Dokończenie spleśniałego kosztuje kilka TaterCoins. Nie podoba ci się? Wyłącz to w Ustawieniach.
+Better salt	Lepsza sól
+No more limit on the salt. It looks like real salt now, shaking feels better, and the scoring is fairer.	Nie ma już limitu soli. Wygląda teraz jak prawdziwa sól, potrząsanie jest przyjemniejsze, a punktacja uczciwsza.
+Thinner cuts	Cieńsze cięcia
+You can cut way thinner fries, and the knife goes where you point it. Pushing pieces off the board doesn't break the game anymore, it just takes a few coins off.	Możesz kroić dużo cieńsze frytki, a nóż idzie tam, gdzie wskazujesz. Zepchnięcie kawałków z deski już nie psuje gry, tylko zabiera kilka monet.
+Spin while peeling	Obracanie przy obieraniu
+Turn it on in Settings and the potato slowly turns while you peel. It's off unless you want it.	Włącz to w Ustawieniach, a ziemniak będzie się powoli obracał, gdy obierasz. Jest wyłączone, chyba że chcesz.
+Bigger milestones	Większe kamienie milowe
+Every milestone is a bigger deal than the last one now. And something happens at 1,000 potatoes.	Każdy kamień milowy jest teraz większy od poprzedniego. A przy 1000 ziemniaków coś się dzieje.
+It stays when you go to Rush now, and there's a Remove button for the photo.	Zostaje teraz, gdy przechodzisz do Rush, i jest przycisk Usuń dla zdjęcia.
+Runs on more stuff	Działa na większej liczbie urządzeń
+Slower devices get picked up automatically and run smoother, it fits all kinds of screens (even watches), and it loads faster. If a file doesn't load the first time, it tries again.	Wolniejsze urządzenia są wykrywane same i działają płynniej, gra pasuje do różnych ekranów (nawet zegarków) i ładuje się szybciej. Jeśli plik nie wczyta się za pierwszym razem, próbuje jeszcze raz.
+You can scroll from anywhere in Settings and the Collection, there's a Start button for the screensaver, and the website can send you a notification when there's news.	Możesz przewijać z dowolnego miejsca w Ustawieniach i Kolekcji, jest przycisk Start dla wygaszacza ekranu, a strona może wysłać ci powiadomienie, gdy są nowości.
+Update 3.0 is now out! Here's what's new!	Aktualizacja 3.0 już jest! Oto co nowego!
+Thanks for playing! I'll keep updating this periodically.	Dzięki za grę! Będę to co jakiś czas aktualizować.
+1000 Taters, that's really something.\nThanks for playing!	1000 ziemniaków, to naprawdę coś.\nDzięki za grę!
+Skip	Pomiń
+Turkey Potato	Ziemniak Indyk
+Thanksgiving	Święto Dziękczynienia
+The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	Ziemniak Indyk, kuchnia na Święto Dziękczynienia i baner, do 30 listopada
+Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	Do 30 listopada jest przytulna kuchnia na Święto Dziękczynienia z indykiem w piekarniku, i wypatruj Ziemniaka Indyka. Nie obchodzisz go? Wyłącz wszystko w Ustawieniach.
+Happy Thanksgiving!	Szczęśliwego Święta Dziękczynienia!
+Look out for the Turkey Potato until November 30	Wypatruj Ziemniaka Indyka do 30 listopada
+Slice 50 potatoes in one game of TaterNinja	Pokrój 50 ziemniaków w jednej grze TaterNinja
+Slice them	Tnij je
+Peel {0} more potato to open TaterNinja	Obierz jeszcze {0} ziemniaka, żeby otworzyć TaterNinja
+Peel {0} more potatoes to open TaterNinja	Obierz jeszcze {0} ziemniaków, żeby otworzyć TaterNinja
+{0} in one swipe!	{0} jednym cięciem!
+Swipe to slice. Don't slice the mouldy ones	Przesuń, żeby ciąć. Nie tnij spleśniałych
+Game over	Koniec gry
+{0} sliced	Pokrojone: {0}
+Peel {0} more potatoes to open TaterNinja#few	Obierz jeszcze {0} ziemniaki, żeby otworzyć TaterNinja
+Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Obierz 200 ziemniaków, a otworzy się TaterNinja. Ziemniaki są podrzucane, a ty kroisz je nożem do frytek. Pokrój kilka jednym cięciem, żeby dostać bonus, ale nie tnij spleśniałych: masz tylko trzy życia.

@@ -656,3 +656,47 @@ Leave a potato 5 minutes and it goes mouldy, and costs coins	じゃがいもを5
 Almost: a pinch more salt	あと少し: 塩をひとつまみ
 A little salty, still good	少ししょっぱいけど、おいしい
 +{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins(まな板から落ちたぶん -{1})
+Birthday Potato	バースデーポテト
+Birthday	バースデー
+Birthday gift	誕生日プレゼント
+It's Andres' birthday!	今日はAndresの誕生日！
+Today is my birthday and to thank everyone playing TaterPeeler today, you have unlocked a special peeler and 1000 TaterCoins have been added to your account. Thank you for playing, I appreciate it a lot.	今日は僕の誕生日です。今日TaterPeelerを遊んでくれているみんなへの感謝として、特別なピーラーが解放され、1000 TaterCoinsがアカウントに追加されました。遊んでくれてありがとう。本当に感謝しています。
+Thank you	ありがとう
+No. Whatchu gonna do peel me off?	いやだ。どうする?ぼくをはがすの?
+Ad Blocker	広告ブロッカー
+Peel off the ad	広告をはがそう
+What's new in 3.0	3.0の新機能
+Watch the credits	エンドロールを見る
+Here's everything that's new in 3.0. Thanks for playing!	3.0の新しいところを全部紹介します。遊んでくれてありがとう!
+Leave a potato sitting for more than 5 minutes and it starts going mouldy. Finish a mouldy one and it costs you a few TaterCoins. Don't like it? Turn it off in Settings.	ジャガイモを5分以上放っておくとカビが生えてきます。カビたジャガイモをむき終えるとTaterCoinsが少し減ります。いやなら設定でオフにできます。
+Better salt	塩がよくなった
+No more limit on the salt. It looks like real salt now, shaking feels better, and the scoring is fairer.	塩の上限がなくなりました。本物の塩みたいに見えて、振り心地もよくなり、採点も公平になりました。
+Thinner cuts	もっと細く切れる
+You can cut way thinner fries, and the knife goes where you point it. Pushing pieces off the board doesn't break the game anymore, it just takes a few coins off.	フライドポテトをずっと細く切れるようになり、包丁は指した場所に入ります。まな板から切れ端を押し出してもゲームが止まらず、コインが少し減るだけです。
+Spin while peeling	むきながら回転
+Turn it on in Settings and the potato slowly turns while you peel. It's off unless you want it.	設定でオンにすると、むいている間ジャガイモがゆっくり回ります。オンにしない限りオフです。
+Bigger milestones	もっと大きな節目
+Every milestone is a bigger deal than the last one now. And something happens at 1,000 potatoes.	節目ごとに前より大きなお祝いになりました。そして1,000個目で何かが起こります。
+It stays when you go to Rush now, and there's a Remove button for the photo.	Rushに切り替えてもそのまま残るようになり、写真を外すボタンも付きました。
+Runs on more stuff	いろんな端末で動く
+Slower devices get picked up automatically and run smoother, it fits all kinds of screens (even watches), and it loads faster. If a file doesn't load the first time, it tries again.	遅い端末は自動で見分けてなめらかに動き、いろんな画面(腕時計でも)に合わせ、読み込みも速くなりました。ファイルが一度で読み込めなくても、もう一度試します。
+You can scroll from anywhere in Settings and the Collection, there's a Start button for the screensaver, and the website can send you a notification when there's news.	設定とコレクションはどこからでもスクロールでき、スクリーンセーバーを始めるボタンがあり、ニュースがあるとウェブサイトから通知が届きます。
+Update 3.0 is now out! Here's what's new!	アップデート3.0が出ました!新しいところはこちら!
+Thanks for playing! I'll keep updating this periodically.	遊んでくれてありがとう!これからもときどきアップデートします。
+1000 Taters, that's really something.\nThanks for playing!	1000個のジャガイモ、それはすごいことです。\n遊んでくれてありがとう!
+Skip	スキップ
+Turkey Potato	ターキーポテト
+Thanksgiving	サンクスギビング
+The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	ターキーポテト、サンクスギビングのキッチンとバナー(11月30日まで)
+Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	11月30日まで、オーブンでターキーを焼いている居心地のいいサンクスギビングのキッチンがあり、ターキーポテトも出てきます。お祝いしない人は設定で全部オフにできます。
+Happy Thanksgiving!	ハッピーサンクスギビング!
+Look out for the Turkey Potato until November 30	11月30日までターキーポテトを探してね
+Slice 50 potatoes in one game of TaterNinja	TaterNinjaの1ゲームでジャガイモを50個切る
+Slice them	切りまくれ
+Peel {0} more potato to open TaterNinja	あと{0}個ジャガイモをむくとTaterNinjaが開きます
+Peel {0} more potatoes to open TaterNinja	あと{0}個ジャガイモをむくとTaterNinjaが開きます
+{0} in one swipe!	ひと振りで{0}個!
+Swipe to slice. Don't slice the mouldy ones	スワイプして切ろう。カビたのは切らないで
+Game over	ゲームオーバー
+{0} sliced	{0}個切った
+Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	ジャガイモを200個むくとTaterNinjaが開きます。投げ上げられるジャガイモをフライドポテト用の包丁で切りましょう。ひと振りで何個も切るとボーナス。でもカビたのは切らないで。ライフは3つだけです。

@@ -15,9 +15,19 @@ License: CC BY-NC-ND 4.0
 Licence | https://creativecommons.org/licenses/by-nc-nd/4.0/
 Original track | https://tokyomusicwalker.bandcamp.com/track/echoes-in-blue
 
+Credits music: "Acoustic Mexican guitar" by Drippeados
+License: Pixabay Content License
+Licence | https://pixabay.com/service/license-summary/
+Find the track | https://pixabay.com/music/search/acoustic%20mexican%20guitar/
+
 Potato photoscan: Jan Martens, Poly Haven (CC0)
 Sound effects: Joseph Sardin, BigSoundBank (CC0)
+Turkey gobble: Jonathon Jongsma, xeno-canto XC136045
+License: CC BY-SA 3.0
+Licence | https://creativecommons.org/licenses/by-sa/3.0/
+Original recording | https://xeno-canto.org/136045
+
 Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)
 Kitchens: Poly Haven textures and models (CC0)
 
-This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.
+This game uses copyright-free assets and sounds. The music is used under the licenses credited above.

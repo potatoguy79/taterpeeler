@@ -1,0 +1,13 @@
+# TaterPeeler events. Andres edits this file right here on GitHub to switch events on and off.
+# How: open this file on GitHub, tap the pencil (Edit), change "off" to "on" (or back), then "Commit changes".
+# The website updates about a minute later, and the game checks this file when it opens and every 3 minutes,
+# on the website and in the apps. (Lines that start with # are just notes. Use on or off.)
+#
+# birthday: November 15. When on: the birthday potato (tap to blow out its candles), and everyone who opens the
+#   game gets a popup, the Birthday Peeler (peels 2x quicker) and 1000 TaterCoins, once. Turning it off later
+#   takes away the birthday potato, but everyone keeps their coins and the peeler.
+birthday: off
+#
+# thanksgiving: the Turkey Potato, the Thanksgiving kitchen and the banner. "auto" = through November 30.
+#   "on" turns it on now, "off" turns it off. (Players can also turn it off for themselves in Settings.)
+thanksgiving: auto

@@ -1,0 +1,38 @@
+# TaterPeeler end credits: the movie-style roll after the 1,000th potato.
+# Edit this file on GitHub (open it, tap the pencil, change it, then "Commit changes"). The game reads the
+# new one the next time it's opened, on the website and in the apps.
+#
+# How it works (one line here = one line of the credits, scrolling up in this order):
+#   [Like this]       a small heading above the names under it
+#   anything else     a name or a line of text, in big letters
+#   an empty line     a gap
+#   lines starting with # are notes like these and don't show up
+
+[Game made by]
+Andres Campos
+
+[Credits music]
+"Acoustic Mexican guitar" by Drippeados
+Pixabay
+
+[Music]
+"Echoes in Blue" by Tokyo Music Walker
+CC BY-NC-ND 4.0
+
+[Potato photoscan]
+Jan Martens, Poly Haven
+
+[Cutting board wood]
+Jenelle van Heerden, Poly Haven
+
+[Kitchens]
+Poly Haven textures and models
+
+[Sound effects]
+Joseph Sardin and Denis Chardonnet, BigSoundBank
+
+[Turkey gobble]
+Jonathon Jongsma, xeno-canto (CC BY-SA 3.0)
+
+[Font]
+Archivo by Omnibus-Type

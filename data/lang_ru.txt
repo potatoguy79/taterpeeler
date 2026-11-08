@@ -670,3 +670,48 @@ Almost: a pinch more salt	Почти: щепотку соли ещё
 A little salty, still good	Немного солоно, но хорошо
 +{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} снято за куски, столкнутые с доски)
 {0} hours of peeling#few	{0} часа чистки
+Birthday Potato	Праздничная картошка
+Birthday	Праздничная
+Birthday gift	Подарок на день рождения
+It's Andres' birthday!	У Andres день рождения!
+Today is my birthday and to thank everyone playing TaterPeeler today, you have unlocked a special peeler and 1000 TaterCoins have been added to your account. Thank you for playing, I appreciate it a lot.	Сегодня мой день рождения, и в благодарность всем, кто сегодня играет в TaterPeeler, тебе открыта особая овощечистка, а на твой аккаунт добавлено 1000 TaterCoins. Спасибо, что играешь, я очень это ценю.
+Thank you	Спасибо
+No. Whatchu gonna do peel me off?	Нет. Что ты сделаешь, отклеишь меня?
+Ad Blocker	Блокировщик рекламы
+Peel off the ad	Отклей рекламу
+What's new in 3.0	Что нового в 3.0
+Watch the credits	Смотреть титры
+Here's everything that's new in 3.0. Thanks for playing!	Вот всё, что появилось в 3.0. Спасибо, что играешь!
+Leave a potato sitting for more than 5 minutes and it starts going mouldy. Finish a mouldy one and it costs you a few TaterCoins. Don't like it? Turn it off in Settings.	Оставь картошку дольше чем на 5 минут, и она начнёт плесневеть. Дочистить заплесневелую стоит несколько TaterCoins. Не нравится? Выключи в Настройках.
+Better salt	Соль получше
+No more limit on the salt. It looks like real salt now, shaking feels better, and the scoring is fairer.	Больше нет ограничения на соль. Теперь она выглядит как настоящая, трясти приятнее, а очки начисляются честнее.
+Thinner cuts	Тонкие нарезки
+You can cut way thinner fries, and the knife goes where you point it. Pushing pieces off the board doesn't break the game anymore, it just takes a few coins off.	Можно резать картошку фри гораздо тоньше, и нож идёт туда, куда показываешь. Если столкнуть кусочки с доски, игра больше не ломается, просто снимается немного монет.
+Spin while peeling	Вращение при чистке
+Turn it on in Settings and the potato slowly turns while you peel. It's off unless you want it.	Включи в Настройках, и картошка будет медленно поворачиваться, пока чистишь. Выключено, если сам не захочешь.
+Bigger milestones	Большие рубежи
+Every milestone is a bigger deal than the last one now. And something happens at 1,000 potatoes.	Каждый рубеж теперь важнее предыдущего. А на 1000 картофелин кое-что происходит.
+It stays when you go to Rush now, and there's a Remove button for the photo.	Теперь она остаётся, когда переходишь в Rush, и есть кнопка «Убрать» для фото.
+Runs on more stuff	Работает на большем числе устройств
+Slower devices get picked up automatically and run smoother, it fits all kinds of screens (even watches), and it loads faster. If a file doesn't load the first time, it tries again.	Медленные устройства определяются сами и работают плавнее, игра подходит для любых экранов (даже часов) и грузится быстрее. Если файл не загрузился с первого раза, она пробует снова.
+You can scroll from anywhere in Settings and the Collection, there's a Start button for the screensaver, and the website can send you a notification when there's news.	В Настройках и Коллекции можно листать откуда угодно, есть кнопка запуска заставки, а сайт может присылать уведомление, когда есть новости.
+Update 3.0 is now out! Here's what's new!	Вышло обновление 3.0! Вот что нового!
+Thanks for playing! I'll keep updating this periodically.	Спасибо, что играешь! Я буду время от времени это обновлять.
+1000 Taters, that's really something.\nThanks for playing!	1000 картофелин — это реально что-то.\nСпасибо, что играешь!
+Skip	Пропустить
+Turkey Potato	Картошка-индейка
+Thanksgiving	День благодарения
+The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	Картошка-индейка, кухня на День благодарения и баннер, до 30 ноября
+Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	До 30 ноября будет уютная кухня на День благодарения с индейкой в духовке, и ищи картошку-индейку. Не отмечаешь? Выключи всё в Настройках.
+Happy Thanksgiving!	С Днём благодарения!
+Look out for the Turkey Potato until November 30	Ищи картошку-индейку до 30 ноября
+Slice 50 potatoes in one game of TaterNinja	Разрежь 50 картофелин за одну игру в TaterNinja
+Slice them	Режь их
+Peel {0} more potato to open TaterNinja	Почисти ещё {0} картофелину, чтобы открыть TaterNinja
+Peel {0} more potatoes to open TaterNinja	Почисти ещё {0} картофелин, чтобы открыть TaterNinja
+{0} in one swipe!	{0} одним взмахом!
+Swipe to slice. Don't slice the mouldy ones	Проведи пальцем, чтобы резать. Не режь заплесневелые
+Game over	Игра окончена
+{0} sliced	Разрезано: {0}
+Peel {0} more potatoes to open TaterNinja#few	Почисти ещё {0} картофелины, чтобы открыть TaterNinja
+Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Почисти 200 картофелин, и откроется TaterNinja. Картошку подбрасывают, а ты режешь её ножом для фри. Разрежь несколько одним взмахом, чтобы получить бонус, но не режь заплесневелые: жизней всего три.

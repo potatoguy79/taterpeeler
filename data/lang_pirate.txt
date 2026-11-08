@@ -656,3 +656,47 @@ Leave a potato 5 minutes and it goes mouldy, and costs coins	Leave a spud 5 minu
 Almost: a pinch more salt	Almost: a pinch more salt
 A little salty, still good	A wee bit salty, still good
 +{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} off fer bits shoved off the board)
+Birthday Potato	Birthday Spud
+Birthday	Birthday
+Birthday gift	Birthday plunder
+It's Andres' birthday!	'Tis Andres' birthday!
+Today is my birthday and to thank everyone playing TaterPeeler today, you have unlocked a special peeler and 1000 TaterCoins have been added to your account. Thank you for playing, I appreciate it a lot.	Today be me birthday, an' to thank every soul playin' TaterPeeler today, ye've unlocked a special peeler an' 1000 TaterCoins have been added to yer account. Thank ye fer playin', I appreciate it a lot.
+Thank you	Thank ye
+No. Whatchu gonna do peel me off?	Nay. What ye gonna do, peel me off?
+Ad Blocker	Ad Blocker
+Peel off the ad	Peel off th' ad
+What's new in 3.0	What be new in 3.0
+Watch the credits	Watch th' credits
+Here's everything that's new in 3.0. Thanks for playing!	Here be everythin' that's new in 3.0. Thank ye fer playin'!
+Leave a potato sitting for more than 5 minutes and it starts going mouldy. Finish a mouldy one and it costs you a few TaterCoins. Don't like it? Turn it off in Settings.	Leave a spud sittin' more than 5 minutes an' it starts goin' mouldy. Finish a mouldy one an' it costs ye a few TaterCoins. Don't fancy it? Turn it off in Settings.
+Better salt	Better salt
+No more limit on the salt. It looks like real salt now, shaking feels better, and the scoring is fairer.	No more limit on th' salt. It looks like real salt now, shakin' feels better, an' th' scorin' be fairer.
+Thinner cuts	Thinner cuts
+You can cut way thinner fries, and the knife goes where you point it. Pushing pieces off the board doesn't break the game anymore, it just takes a few coins off.	Ye can cut way thinner fries, an' th' blade goes where ye point it. Shovin' bits off th' board don't break th' game no more, it just takes a few coins off.
+Spin while peeling	Spin while peelin'
+Turn it on in Settings and the potato slowly turns while you peel. It's off unless you want it.	Turn it on in Settings an' th' spud slowly turns while ye peel. It be off unless ye want it.
+Bigger milestones	Bigger milestones
+Every milestone is a bigger deal than the last one now. And something happens at 1,000 potatoes.	Every milestone be a bigger deal than th' last one now. An' somethin' happens at 1,000 spuds.
+It stays when you go to Rush now, and there's a Remove button for the photo.	It stays when ye go to Rush now, an' there be a Remove button fer th' picture.
+Runs on more stuff	Runs on more stuff
+Slower devices get picked up automatically and run smoother, it fits all kinds of screens (even watches), and it loads faster. If a file doesn't load the first time, it tries again.	Slower contraptions get spotted on their own an' run smoother, it fits all kinds o' screens (even watches), an' it loads faster. If a file don't load th' first time, it tries again.
+You can scroll from anywhere in Settings and the Collection, there's a Start button for the screensaver, and the website can send you a notification when there's news.	Ye can scroll from anywhere in Settings an' th' Collection, there be a Start button fer th' screensaver, an' th' website can send ye a notice when there be news.
+Update 3.0 is now out! Here's what's new!	Update 3.0 be out! Here be what's new!
+Thanks for playing! I'll keep updating this periodically.	Thank ye fer playin'! I'll keep updatin' this now an' then.
+1000 Taters, that's really something.\nThanks for playing!	1000 spuds, that be really somethin'.\nThank ye fer playin'!
+Skip	Skip
+Turkey Potato	Turkey Spud
+Thanksgiving	Thanksgivin'
+The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	Th' Turkey Spud, th' Thanksgivin' galley an' th' banner, till November 30
+Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	Till November 30 there be a cozy Thanksgivin' galley with a turkey in th' oven, an' keep a lookout fer th' Turkey Spud. Don't celebrate it? Turn it all off in Settings.
+Happy Thanksgiving!	Happy Thanksgivin'!
+Look out for the Turkey Potato until November 30	Keep a lookout fer th' Turkey Spud till November 30
+Slice 50 potatoes in one game of TaterNinja	Slice 50 spuds in one game o' TaterNinja
+Slice them	Slice 'em
+Peel {0} more potato to open TaterNinja	Peel {0} more spud to open TaterNinja
+Peel {0} more potatoes to open TaterNinja	Peel {0} more spuds to open TaterNinja
+{0} in one swipe!	{0} in one swipe!
+Swipe to slice. Don't slice the mouldy ones	Swipe to slice. Don't slice th' mouldy ones
+Game over	Game over
+{0} sliced	{0} sliced
+Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Peel 200 spuds an' TaterNinja opens. Spuds get tossed up an' ye slice 'em with yer fry blade. Slice a few in one swipe fer a bonus, but don't slice th' mouldy ones: ye only get three lives.

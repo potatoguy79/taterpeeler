@@ -656,3 +656,47 @@ Leave a potato 5 minutes and it goes mouldy, and costs coins	감자를 5분 동�
 Almost: a pinch more salt	거의 다 됐어요: 소금 한 꼬집 더
 A little salty, still good	조금 짜지만 괜찮아요
 +{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins (도마에서 밀려난 조각 -{1})
+Birthday Potato	생일 감자
+Birthday	생일
+Birthday gift	생일 선물
+It's Andres' birthday!	오늘은 Andres의 생일이에요!
+Today is my birthday and to thank everyone playing TaterPeeler today, you have unlocked a special peeler and 1000 TaterCoins have been added to your account. Thank you for playing, I appreciate it a lot.	오늘은 제 생일이에요. 오늘 TaterPeeler를 플레이하는 모든 분께 감사의 마음을 담아, 특별한 필러가 해제되었고 1000 TaterCoins가 계정에 추가되었어요. 플레이해 주셔서 감사해요. 정말 고마워요.
+Thank you	고마워요
+No. Whatchu gonna do peel me off?	싫어. 어쩔 건데, 나를 떼어낼 거야?
+Ad Blocker	광고 차단기
+Peel off the ad	광고 떼어내기
+What's new in 3.0	3.0의 새 기능
+Watch the credits	엔딩 크레딧 보기
+Here's everything that's new in 3.0. Thanks for playing!	3.0에서 새로워진 모든 것을 소개해요. 플레이해 줘서 고마워요!
+Leave a potato sitting for more than 5 minutes and it starts going mouldy. Finish a mouldy one and it costs you a few TaterCoins. Don't like it? Turn it off in Settings.	감자를 5분 넘게 그냥 두면 곰팡이가 피기 시작해요. 곰팡이 핀 감자를 다 깎으면 TaterCoins가 조금 줄어요. 싫으면 설정에서 끌 수 있어요.
+Better salt	더 좋아진 소금
+No more limit on the salt. It looks like real salt now, shaking feels better, and the scoring is fairer.	이제 소금 제한이 없어요. 진짜 소금처럼 보이고, 흔드는 느낌도 좋아졌고, 점수도 더 공정해졌어요.
+Thinner cuts	더 얇게 자르기
+You can cut way thinner fries, and the knife goes where you point it. Pushing pieces off the board doesn't break the game anymore, it just takes a few coins off.	감자튀김을 훨씬 얇게 자를 수 있고, 칼이 가리키는 곳으로 들어가요. 도마 밖으로 조각을 밀어내도 이제 게임이 망가지지 않고 코인만 조금 줄어요.
+Spin while peeling	깎으면서 돌리기
+Turn it on in Settings and the potato slowly turns while you peel. It's off unless you want it.	설정에서 켜면 깎는 동안 감자가 천천히 돌아요. 원할 때만 켜져요.
+Bigger milestones	더 큰 기념
+Every milestone is a bigger deal than the last one now. And something happens at 1,000 potatoes.	기념할 때마다 전보다 더 크게 축하해요. 그리고 감자 1,000개째에 무슨 일이 일어나요.
+It stays when you go to Rush now, and there's a Remove button for the photo.	이제 러시로 가도 그대로 남아 있고, 사진을 지우는 버튼도 생겼어요.
+Runs on more stuff	더 많은 기기에서 실행
+Slower devices get picked up automatically and run smoother, it fits all kinds of screens (even watches), and it loads faster. If a file doesn't load the first time, it tries again.	느린 기기는 자동으로 알아내서 더 부드럽게 돌아가고, 모든 화면(시계까지)에 맞고, 더 빨리 로딩돼요. 파일이 한 번에 안 열리면 다시 시도해요.
+You can scroll from anywhere in Settings and the Collection, there's a Start button for the screensaver, and the website can send you a notification when there's news.	설정과 컬렉션 어디서나 스크롤할 수 있고, 화면 보호기 시작 버튼이 있고, 새 소식이 있으면 웹사이트가 알림을 보내 줘요.
+Update 3.0 is now out! Here's what's new!	업데이트 3.0이 나왔어요! 새로운 내용은 이거예요!
+Thanks for playing! I'll keep updating this periodically.	플레이해 줘서 고마워요! 앞으로도 가끔 업데이트할게요.
+1000 Taters, that's really something.\nThanks for playing!	감자 1000개, 정말 대단해요.\n플레이해 줘서 고마워요!
+Skip	건너뛰기
+Turkey Potato	칠면조 감자
+Thanksgiving	추수감사절
+The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	칠면조 감자, 추수감사절 부엌과 배너, 11월 30일까지
+Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	11월 30일까지 오븐에 칠면조가 구워지는 아늑한 추수감사절 부엌이 있고, 칠면조 감자도 나와요. 기념하지 않는다면 설정에서 전부 끌 수 있어요.
+Happy Thanksgiving!	즐거운 추수감사절!
+Look out for the Turkey Potato until November 30	11월 30일까지 칠면조 감자를 찾아보세요
+Slice 50 potatoes in one game of TaterNinja	TaterNinja 한 판에 감자 50개 자르기
+Slice them	잘라 버려
+Peel {0} more potato to open TaterNinja	감자를 {0}개 더 깎으면 TaterNinja가 열려요
+Peel {0} more potatoes to open TaterNinja	감자를 {0}개 더 깎으면 TaterNinja가 열려요
+{0} in one swipe!	한 번에 {0}개!
+Swipe to slice. Don't slice the mouldy ones	밀어서 자르세요. 곰팡이 핀 건 자르지 마세요
+Game over	게임 오버
+{0} sliced	{0}개 자름
+Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	감자를 200개 깎으면 TaterNinja가 열려요. 위로 던져지는 감자를 감자튀김 칼로 잘라요. 한 번에 여러 개를 자르면 보너스가 있지만, 곰팡이 핀 건 자르지 마세요. 목숨은 세 개뿐이에요.

@@ -656,3 +656,47 @@ Leave a potato 5 minutes and it goes mouldy, and costs coins	Deixe uma batata 5 
 Almost: a pinch more salt	Quase: uma pitada a mais de sal
 A little salty, still good	Um pouco salgado, mas bom
 +{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} a menos por pedaços empurrados para fora da tábua)
+Birthday Potato	Batata de aniversário
+Birthday	Aniversário
+Birthday gift	Presente de aniversário
+It's Andres' birthday!	É o aniversário do Andres!
+Today is my birthday and to thank everyone playing TaterPeeler today, you have unlocked a special peeler and 1000 TaterCoins have been added to your account. Thank you for playing, I appreciate it a lot.	Hoje é meu aniversário e, para agradecer a todos que estão jogando TaterPeeler hoje, você desbloqueou um descascador especial e 1000 TaterCoins foram adicionadas à sua conta. Obrigado por jogar, eu agradeço muito.
+Thank you	Obrigado
+No. Whatchu gonna do peel me off?	Não. Vai fazer o quê, me descascar?
+Ad Blocker	Bloqueador de anúncios
+Peel off the ad	Descasque o anúncio
+What's new in 3.0	Novidades da 3.0
+Watch the credits	Ver os créditos
+Here's everything that's new in 3.0. Thanks for playing!	Aqui está tudo o que é novo na 3.0. Obrigado por jogar!
+Leave a potato sitting for more than 5 minutes and it starts going mouldy. Finish a mouldy one and it costs you a few TaterCoins. Don't like it? Turn it off in Settings.	Deixe uma batata parada por mais de 5 minutos e ela começa a mofar. Terminar uma batata mofada custa algumas TaterCoins. Não gostou? Desligue nas Configurações.
+Better salt	Sal melhor
+No more limit on the salt. It looks like real salt now, shaking feels better, and the scoring is fairer.	Não tem mais limite de sal. Agora parece sal de verdade, chacoalhar é mais gostoso e a pontuação é mais justa.
+Thinner cuts	Cortes mais finos
+You can cut way thinner fries, and the knife goes where you point it. Pushing pieces off the board doesn't break the game anymore, it just takes a few coins off.	Dá para cortar batatas fritas bem mais finas, e a faca vai aonde você aponta. Empurrar pedaços para fora da tábua não quebra mais o jogo, só tira umas moedas.
+Spin while peeling	Girar enquanto descasca
+Turn it on in Settings and the potato slowly turns while you peel. It's off unless you want it.	Ligue nas Configurações e a batata gira devagar enquanto você descasca. Fica desligado a não ser que você queira.
+Bigger milestones	Marcos maiores
+Every milestone is a bigger deal than the last one now. And something happens at 1,000 potatoes.	Cada marco é mais especial que o anterior agora. E algo acontece nas 1.000 batatas.
+It stays when you go to Rush now, and there's a Remove button for the photo.	Agora ela continua quando você vai para o Rush, e tem um botão de Remover para a foto.
+Runs on more stuff	Roda em mais coisas
+Slower devices get picked up automatically and run smoother, it fits all kinds of screens (even watches), and it loads faster. If a file doesn't load the first time, it tries again.	Aparelhos mais lentos são detectados sozinhos e rodam mais suave, se ajusta a todo tipo de tela (até relógios) e carrega mais rápido. Se um arquivo não carregar de primeira, ele tenta de novo.
+You can scroll from anywhere in Settings and the Collection, there's a Start button for the screensaver, and the website can send you a notification when there's news.	Dá para rolar de qualquer lugar nas Configurações e na Coleção, tem um botão para iniciar o protetor de tela, e o site pode te mandar uma notificação quando tiver novidade.
+Update 3.0 is now out! Here's what's new!	A atualização 3.0 saiu! Veja o que tem de novo!
+Thanks for playing! I'll keep updating this periodically.	Obrigado por jogar! Vou continuar atualizando isso de tempos em tempos.
+1000 Taters, that's really something.\nThanks for playing!	1000 batatas, isso é demais.\nObrigado por jogar!
+Skip	Pular
+Turkey Potato	Batata Peru
+Thanksgiving	Ação de Graças
+The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	A Batata Peru, a cozinha de Ação de Graças e o banner, até 30 de novembro
+Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	Até 30 de novembro tem uma cozinha aconchegante de Ação de Graças com um peru no forno, e fique de olho na Batata Peru. Não comemora? Desligue tudo nas Configurações.
+Happy Thanksgiving!	Feliz Dia de Ação de Graças!
+Look out for the Turkey Potato until November 30	Fique de olho na Batata Peru até 30 de novembro
+Slice 50 potatoes in one game of TaterNinja	Corte 50 batatas em uma partida de TaterNinja
+Slice them	Corte todas
+Peel {0} more potato to open TaterNinja	Descasque mais {0} batata para abrir o TaterNinja
+Peel {0} more potatoes to open TaterNinja	Descasque mais {0} batatas para abrir o TaterNinja
+{0} in one swipe!	{0} de uma vez só!
+Swipe to slice. Don't slice the mouldy ones	Deslize para cortar. Não corte as mofadas
+Game over	Fim de jogo
+{0} sliced	{0} cortadas
+Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Descasque 200 batatas e o TaterNinja abre. Batatas são jogadas para cima e você corta com a sua faca de fritas. Corte várias de uma vez para ganhar bônus, mas não corte as mofadas: você só tem três vidas.

@@ -656,3 +656,47 @@ Leave a potato 5 minutes and it goes mouldy, and costs coins	Si dejas una patata
 Almost: a pinch more salt	Casi: una pizca más de sal
 A little salty, still good	Un poco salado, pero bien
 +{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} menos por trozos que se cayeron de la tabla)
+Birthday Potato	Patata de cumpleaños
+Birthday	Cumpleaños
+Birthday gift	Regalo de cumpleaños
+It's Andres' birthday!	¡Es el cumpleaños de Andres!
+Today is my birthday and to thank everyone playing TaterPeeler today, you have unlocked a special peeler and 1000 TaterCoins have been added to your account. Thank you for playing, I appreciate it a lot.	Hoy es mi cumpleaños y, para dar las gracias a todos los que juegan a TaterPeeler hoy, has desbloqueado un pelador especial y se han añadido 1000 TaterCoins a tu cuenta. Gracias por jugar, lo agradezco muchísimo.
+Thank you	Gracias
+No. Whatchu gonna do peel me off?	No. ¿Qué vas a hacer, despegarme?
+Ad Blocker	Bloqueador de anuncios
+Peel off the ad	Despega el anuncio
+What's new in 3.0	Novedades de la 3.0
+Watch the credits	Ver los créditos
+Here's everything that's new in 3.0. Thanks for playing!	Esto es todo lo nuevo en la 3.0. ¡Gracias por jugar!
+Leave a potato sitting for more than 5 minutes and it starts going mouldy. Finish a mouldy one and it costs you a few TaterCoins. Don't like it? Turn it off in Settings.	Si dejas una patata más de 5 minutos, empieza a enmohecerse. Terminar una patata con moho te cuesta unas TaterCoins. ¿No te gusta? Desactívalo en Ajustes.
+Better salt	Mejor sal
+No more limit on the salt. It looks like real salt now, shaking feels better, and the scoring is fairer.	Ya no hay límite de sal. Ahora parece sal de verdad, agitarla se nota mejor y la puntuación es más justa.
+Thinner cuts	Cortes más finos
+You can cut way thinner fries, and the knife goes where you point it. Pushing pieces off the board doesn't break the game anymore, it just takes a few coins off.	Puedes cortar patatas fritas mucho más finas, y el cuchillo va donde apuntas. Empujar trozos fuera de la tabla ya no rompe el juego, solo te quita unas monedas.
+Spin while peeling	Girar mientras pelas
+Turn it on in Settings and the potato slowly turns while you peel. It's off unless you want it.	Actívalo en Ajustes y la patata gira despacio mientras pelas. Está desactivado salvo que lo quieras.
+Bigger milestones	Hitos más grandes
+Every milestone is a bigger deal than the last one now. And something happens at 1,000 potatoes.	Cada hito es más especial que el anterior. Y algo pasa a las 1.000 patatas.
+It stays when you go to Rush now, and there's a Remove button for the photo.	Ahora se queda cuando vas a Rush, y hay un botón para quitar la foto.
+Runs on more stuff	Funciona en más cosas
+Slower devices get picked up automatically and run smoother, it fits all kinds of screens (even watches), and it loads faster. If a file doesn't load the first time, it tries again.	Los dispositivos más lentos se detectan solos y van más fluidos, se adapta a todo tipo de pantallas (hasta relojes) y carga más rápido. Si un archivo no carga a la primera, lo vuelve a intentar.
+You can scroll from anywhere in Settings and the Collection, there's a Start button for the screensaver, and the website can send you a notification when there's news.	Puedes deslizar desde cualquier parte en Ajustes y la Colección, hay un botón para iniciar el salvapantallas, y la web te puede enviar una notificación cuando hay novedades.
+Update 3.0 is now out! Here's what's new!	¡Ya ha salido la actualización 3.0! ¡Esto es lo nuevo!
+Thanks for playing! I'll keep updating this periodically.	¡Gracias por jugar! Seguiré actualizando esto de vez en cuando.
+1000 Taters, that's really something.\nThanks for playing!	1000 patatas, eso sí que es algo.\n¡Gracias por jugar!
+Skip	Saltar
+Turkey Potato	Patata Pavo
+Thanksgiving	Acción de Gracias
+The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	La Patata Pavo, la cocina de Acción de Gracias y el cartel, hasta el 30 de noviembre
+Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	Hasta el 30 de noviembre hay una cocina acogedora de Acción de Gracias con un pavo en el horno, y atento a la Patata Pavo. ¿No lo celebras? Desactívalo todo en Ajustes.
+Happy Thanksgiving!	¡Feliz Día de Acción de Gracias!
+Look out for the Turkey Potato until November 30	Busca la Patata Pavo hasta el 30 de noviembre
+Slice 50 potatoes in one game of TaterNinja	Corta 50 patatas en una partida de TaterNinja
+Slice them	Córtalas
+Peel {0} more potato to open TaterNinja	Pela {0} patata más para abrir TaterNinja
+Peel {0} more potatoes to open TaterNinja	Pela {0} patatas más para abrir TaterNinja
+{0} in one swipe!	¡{0} de un solo corte!
+Swipe to slice. Don't slice the mouldy ones	Desliza para cortar. No cortes las que tienen moho
+Game over	Fin de la partida
+{0} sliced	{0} cortadas
+Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Pela 200 patatas y se abre TaterNinja. Lanzan patatas al aire y las cortas con tu cuchillo de patatas fritas. Corta varias de un solo deslizamiento para ganar un bonus, pero no cortes las que tienen moho: solo tienes tres vidas.

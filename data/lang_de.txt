@@ -656,3 +656,47 @@ Leave a potato 5 minutes and it goes mouldy, and costs coins	Lass eine Kartoffel
 Almost: a pinch more salt	Fast: eine Prise mehr Salz
 A little salty, still good	Etwas salzig, aber noch gut
 +{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} abgezogen für Stücke, die vom Brett geschoben wurden)
+Birthday Potato	Geburtstagskartoffel
+Birthday	Geburtstag
+Birthday gift	Geburtstagsgeschenk
+It's Andres' birthday!	Andres hat Geburtstag!
+Today is my birthday and to thank everyone playing TaterPeeler today, you have unlocked a special peeler and 1000 TaterCoins have been added to your account. Thank you for playing, I appreciate it a lot.	Heute ist mein Geburtstag, und um allen zu danken, die heute TaterPeeler spielen, hast du einen besonderen Schäler freigeschaltet und 1000 TaterCoins wurden deinem Konto gutgeschrieben. Danke fürs Spielen, das bedeutet mir sehr viel.
+Thank you	Danke
+No. Whatchu gonna do peel me off?	Nein. Was willst du machen, mich abziehen?
+Ad Blocker	Werbeblocker
+Peel off the ad	Zieh die Werbung ab
+What's new in 3.0	Neu in 3.0
+Watch the credits	Abspann ansehen
+Here's everything that's new in 3.0. Thanks for playing!	Hier ist alles, was in 3.0 neu ist. Danke fürs Spielen!
+Leave a potato sitting for more than 5 minutes and it starts going mouldy. Finish a mouldy one and it costs you a few TaterCoins. Don't like it? Turn it off in Settings.	Lass eine Kartoffel länger als 5 Minuten liegen und sie fängt an zu schimmeln. Schälst du eine schimmlige fertig, kostet dich das ein paar TaterCoins. Gefällt dir nicht? Schalte es in den Einstellungen aus.
+Better salt	Besseres Salz
+No more limit on the salt. It looks like real salt now, shaking feels better, and the scoring is fairer.	Kein Limit mehr beim Salz. Es sieht jetzt aus wie echtes Salz, das Schütteln fühlt sich besser an und die Wertung ist fairer.
+Thinner cuts	Dünnere Schnitte
+You can cut way thinner fries, and the knife goes where you point it. Pushing pieces off the board doesn't break the game anymore, it just takes a few coins off.	Du kannst viel dünnere Pommes schneiden, und das Messer geht dahin, wo du zeigst. Stücke vom Brett zu schieben macht das Spiel nicht mehr kaputt, es kostet nur ein paar Coins.
+Spin while peeling	Drehen beim Schälen
+Turn it on in Settings and the potato slowly turns while you peel. It's off unless you want it.	Schalte es in den Einstellungen ein und die Kartoffel dreht sich beim Schälen langsam. Es ist aus, außer du willst es.
+Bigger milestones	Größere Meilensteine
+Every milestone is a bigger deal than the last one now. And something happens at 1,000 potatoes.	Jeder Meilenstein ist jetzt eine größere Sache als der letzte. Und bei 1.000 Kartoffeln passiert etwas.
+It stays when you go to Rush now, and there's a Remove button for the photo.	Sie bleibt jetzt, wenn du zu Rush wechselst, und es gibt einen Entfernen-Knopf für das Foto.
+Runs on more stuff	Läuft auf mehr Geräten
+Slower devices get picked up automatically and run smoother, it fits all kinds of screens (even watches), and it loads faster. If a file doesn't load the first time, it tries again.	Langsamere Geräte werden automatisch erkannt und laufen flüssiger, es passt auf alle möglichen Bildschirme (sogar Uhren) und lädt schneller. Wenn eine Datei beim ersten Mal nicht lädt, versucht es es nochmal.
+You can scroll from anywhere in Settings and the Collection, there's a Start button for the screensaver, and the website can send you a notification when there's news.	Du kannst in den Einstellungen und der Sammlung von überall aus scrollen, es gibt einen Start-Knopf für den Bildschirmschoner, und die Website kann dir eine Benachrichtigung schicken, wenn es Neuigkeiten gibt.
+Update 3.0 is now out! Here's what's new!	Update 3.0 ist da! Hier ist, was neu ist!
+Thanks for playing! I'll keep updating this periodically.	Danke fürs Spielen! Ich werde das hier regelmäßig updaten.
+1000 Taters, that's really something.\nThanks for playing!	1000 Kartoffeln, das ist echt was.\nDanke fürs Spielen!
+Skip	Überspringen
+Turkey Potato	Truthahn-Kartoffel
+Thanksgiving	Thanksgiving
+The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	Die Truthahn-Kartoffel, die Thanksgiving-Küche und das Banner, bis zum 30. November
+Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	Bis zum 30. November gibt es eine gemütliche Thanksgiving-Küche mit einem Truthahn im Ofen, und halte Ausschau nach der Truthahn-Kartoffel. Feierst du es nicht? Schalte alles in den Einstellungen aus.
+Happy Thanksgiving!	Happy Thanksgiving!
+Look out for the Turkey Potato until November 30	Halte bis zum 30. November Ausschau nach der Truthahn-Kartoffel
+Slice 50 potatoes in one game of TaterNinja	Schneide 50 Kartoffeln in einer Runde TaterNinja
+Slice them	Zerschneiden
+Peel {0} more potato to open TaterNinja	Schäle noch {0} Kartoffel, um TaterNinja zu öffnen
+Peel {0} more potatoes to open TaterNinja	Schäle noch {0} Kartoffeln, um TaterNinja zu öffnen
+{0} in one swipe!	{0} mit einem Wisch!
+Swipe to slice. Don't slice the mouldy ones	Wische zum Schneiden. Schneide nicht die schimmligen
+Game over	Spiel vorbei
+{0} sliced	{0} geschnitten
+Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Schäle 200 Kartoffeln und TaterNinja öffnet sich. Kartoffeln werden hochgeworfen und du schneidest sie mit deinem Pommesmesser. Schneide mehrere mit einem Wisch für einen Bonus, aber nicht die schimmligen: Du hast nur drei Leben.

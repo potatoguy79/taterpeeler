@@ -85,7 +85,9 @@
     /* 2.0: salt shaker, coins, the screaming potato */
     .concat(['sfx_salt0.wav', 'sfx_salt1.wav', 'sfx_salt2.wav', 'sfx_coin.wav', 'sfx_coins.wav', 'sfx_scream0.wav', 'sfx_scream1.wav'])
     /* the Baked Potato's tin foil */
-    .concat(['sfx_foil0.wav', 'sfx_foil1.wav', 'sfx_foil2.wav']);
+    .concat(['sfx_foil0.wav', 'sfx_foil1.wav', 'sfx_foil2.wav'])
+    /* 3.0: blowing out the birthday candles */
+    .concat(['sfx_blow0.wav', 'sfx_blow1.wav', 'sfx_tape0.wav', 'sfx_tape1.wav', 'sfx_gobble0.wav', 'sfx_gobble1.wav']);
   const files = {}, images = {}, soundData = {};
   let total = FILES.length + IMAGES.length + 1, done = 0;   /* (the sounds load after the game has started) */
   let joking = false;
@@ -310,13 +312,23 @@
 
   /* ---------------- audio ---------------- */
   let actx = null, master = null, buffers = [], unlocked = false;
-  const music = new Audio();
+  let music = new Audio();
+  const mainMusic = music;
   /* Android app: the music is handed to the <audio> element as a blob (its media player can't read the app's files directly) */
   if (window.TP_PLATFORM === 'android') fetch('data/music.mp3').then(r => r.blob()).then(b => { music.src = URL.createObjectURL(b); if (musicWanted) music.play().catch(() => {}); }).catch(() => {});
   else music.src = 'data/music.mp3';
   music.loop = true; music.preload = 'none'; music.volume = 0.54;   /* fetched once the game is running */
   let minFrameMs = 0, lastFrameT = -1e9;   /* battery saver skips every other display frame */
   let musicWanted = false;
+  /* the credits' own music (3.0: the 1,000th potato), fetched the first time it's needed */
+  let creditsMusicEl = null;
+  function creditsMusic() {
+    if (creditsMusicEl) return creditsMusicEl;
+    const a = creditsMusicEl = new Audio(); a.loop = true; a.preload = 'auto';
+    if (window.TP_PLATFORM === 'android') fetch('data/credits_music.mp3').then(r => r.blob()).then(b => { a.src = URL.createObjectURL(b); if (music === a && musicWanted) a.play().catch(() => {}); }).catch(() => {});
+    else a.src = 'data/credits_music.mp3' + V;
+    return a;
+  }
   const loops = {};
   function ensureAudio() {
     if (actx) return;
@@ -554,31 +566,32 @@
     logmsg: p => console.log('[TaterPeeler]', str(p)),
     plat_file: (np, sp) => {
       const n = str(np); let f = filePtrs[n];
-      if (!f && files[n] && /^(lang_|font_|credits)/.test(n)) {   /* arrived since: copy it in */
+      if (!f && files[n] && /^(lang_|font_|credits|candle|disco|turkey|potato_l1)/.test(n)) {   /* arrived since: copy it in */
         const d = files[n]; const p = ex.tp_malloc(d.length); views(); u8.set(d, p);
         f = filePtrs[n] = { ptr: p, size: d.length };
       }
       views();
-      if (!f) { if (/^(lang_|font_)/.test(n)) lazyFile(n); if (sp) i32[sp >> 2] = 0; return 0; }
+      if (!f) { if (/^(lang_|font_|candle|disco|turkey|credits_roll|potato_l1)/.test(n)) lazyFile(n); if (sp) i32[sp >> 2] = 0; return 0; }
       if (sp) i32[sp >> 2] = f.size;
       return f.ptr;
     },
     plat_texture: (np, wp, hp, flags) => {
       const n = str(np); const im = images[n];
-      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_)/.test(n)) lazyImage(n); return 0; }
+      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf)/.test(n)) lazyImage(n); return 0; }
       const t = gl.createTexture();
       gl.bindTexture(gl.TEXTURE_2D, t);
       gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, false);
       gl.pixelStorei(gl.UNPACK_PREMULTIPLY_ALPHA_WEBGL, false);
       gl.pixelStorei(gl.UNPACK_COLORSPACE_CONVERSION_WEBGL, gl.NONE);
-      const fmt = (flags & 2) ? gl.LUMINANCE : gl.RGB;
+      const fmt = (flags & 2) ? gl.LUMINANCE : (flags & 8) ? gl.RGBA : gl.RGB;   /* 8: keep its transparency (the leaf) */
       gl.texImage2D(gl.TEXTURE_2D, 0, fmt, fmt, gl.UNSIGNED_BYTE, im);
-      const mip = (flags & 1) || (flags & 2);
+      const mip = !(flags & 4) && ((flags & 1) || (flags & 2));
       if (mip) gl.generateMipmap(gl.TEXTURE_2D);
       gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, mip ? gl.LINEAR_MIPMAP_LINEAR : gl.LINEAR);
       gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
-      gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, (flags & 2) ? gl.CLAMP_TO_EDGE : gl.REPEAT);
-      gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, (flags & 2) ? gl.CLAMP_TO_EDGE : gl.REPEAT);
+      const clamp = (flags & 2) || (flags & 4);   /* 4: a picture of any size (the ad): clamped, so WebGL 1 can draw it */
+      gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, clamp ? gl.CLAMP_TO_EDGE : gl.REPEAT);
+      gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, clamp ? gl.CLAMP_TO_EDGE : gl.REPEAT);
       if (extAniso && !(flags & 2)) gl.texParameterf(gl.TEXTURE_2D, extAniso.TEXTURE_MAX_ANISOTROPY_EXT, Math.min(8, gl.getParameter(extAniso.MAX_TEXTURE_MAX_ANISOTROPY_EXT)));
       views();
       if (wp) i32[wp >> 2] = im.naturalWidth; if (hp) i32[hp >> 2] = im.naturalHeight;
@@ -643,7 +656,8 @@
         views(); if (p) u8.set(b, p);
         ex.tp_net_done(req, status, p ? b.length : 0);
       };
-      fetch(url, { method: 'POST', headers: { apikey: key, 'Content-Type': 'application/json' }, body, cache: 'no-store' })
+      (bp ? fetch(url, { method: 'POST', headers: { apikey: key, 'Content-Type': 'application/json' }, body, cache: 'no-store' })
+          : fetch(url, { cache: 'no-store' }))   /* no body: a plain GET (events.txt) */
         .then(r => r.text().then(t => deliver(r.status, t)))
         .catch(() => deliver(0, ''));
     },
@@ -652,6 +666,7 @@
       const n = Math.min(b.length, cap - 1); u8.set(b.subarray(0, n), op); u8[op + n] = 0;
     },
     plat_utc_offset: () => -new Date().getTimezoneOffset(),
+    plat_today: () => { const m = /[?&]today=(\d{8})/.exec(location.search); if (m) return +m[1]; const d = new Date(); return d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate(); },
     plat_old_web: () => /[?&]oldweb=1/.test(location.search) ? 1 : 0,   /* only old iPads say yes; ?oldweb=1 shows it here */
     plat_random: () => { try { return crypto.getRandomValues(new Uint32Array(1))[0]; } catch (e) { return (Math.random() * 4294967296) >>> 0; } },
     plat_text_input: (req, kind, tp, ip, maxlen) => openTextBox(req, kind, str(tp), str(ip), maxlen),
@@ -719,6 +734,12 @@
     plat_download: () => { if (window.TP_DOWNLOAD_PAGE) location.href = window.TP_DOWNLOAD_PAGE; },
     plat_music_volume: v => { music.volume = Math.max(0, Math.min(1, v * 1.1)); },
     plat_frame_rate: fps => { minFrameMs = fps >= 60 ? 0 : 1000 / fps - 4; },
+    plat_music_track: t => {   /* 0 the game's music, 1 the credits' */
+      const want = t === 1 ? creditsMusic() : mainMusic, vol = music.volume;
+      if (want !== music) { music.pause(); musicStarted = false; music = want; music.volume = vol; }
+      if (t === 1) try { music.currentTime = 0; } catch (e) {}
+      if (musicWanted && unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {});
+    },
     plat_music: on => { musicWanted = !!on; if (on) { if (unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {}); } else { music.pause(); musicStarted = false; } },
     plat_cursor: k => {
       if (k === cursorKind) return; cursorKind = k;
