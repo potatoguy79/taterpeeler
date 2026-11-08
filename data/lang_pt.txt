@@ -638,3 +638,21 @@ Start the screensaver	Iniciar o protetor de tela
 The bouncing logo, right now. Tap anywhere to stop it	O logo quicando, agora mesmo. Toque em qualquer lugar para parar
 Start	Iniciar
 That photo couldn't be opened. Try a JPG or PNG photo	Não deu para abrir essa foto. Tente uma foto JPG ou PNG
+potatoes peeled. The fry station is open.	batatas descascadas. A fritadeira está aberta.
+potatoes peeled. TaterNinja is open.	batatas descascadas. O TaterNinja está aberto.
+potatoes peeled. TaterAngle is open.	batatas descascadas. O TaterAngle está aberto.
+About {0} kg of potatoes	Uns {0} kg de batatas
+{0} hour of peeling	{0} hora descascando
+{0} hours of peeling	{0} horas descascando
+{0} of {1} varieties found	{0} de {1} variedades encontradas
+Mouldy potato: -{0} TaterCoins	Batata mofada: -{0} TaterCoins
+This potato is going mouldy. Peel it soon	Esta batata está começando a mofar. Descasque logo
+On: you peel it in Peel and Rush	Ligado: você descasca ela no Descascar e no Rush
+Stop using it	Parar de usar
+Spin the potato while you peel	Girar a batata enquanto descasca
+It turns slowly on its own as you peel	Ela gira devagar sozinha enquanto você descasca
+Mouldy potatoes	Batatas mofadas
+Leave a potato 5 minutes and it goes mouldy, and costs coins	Deixe uma batata 5 minutos e ela mofa, e custa moedas
+Almost: a pinch more salt	Quase: uma pitada a mais de sal
+A little salty, still good	Um pouco salgado, mas bom
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} a menos por pedaços empurrados para fora da tábua)

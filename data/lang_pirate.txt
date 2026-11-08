@@ -638,3 +638,21 @@ Start the screensaver	Start the screensaver
 The bouncing logo, right now. Tap anywhere to stop it	The bouncin' logo, right now. Tap anywhere to stop it
 Start	Start
 That photo couldn't be opened. Try a JPG or PNG photo	That paintin' couldn't be opened. Try a JPG or PNG one
+potatoes peeled. The fry station is open.	spuds skinned. The fry galley be open.
+potatoes peeled. TaterNinja is open.	spuds skinned. TaterNinja be open.
+potatoes peeled. TaterAngle is open.	spuds skinned. TaterAngle be open.
+About {0} kg of potatoes	About {0} kg o' spuds
+{0} hour of peeling	{0} hour o' skinnin'
+{0} hours of peeling	{0} hours o' skinnin'
+{0} of {1} varieties found	{0} o' {1} kinds found
+Mouldy potato: -{0} TaterCoins	Mouldy spud: -{0} TaterCoins
+This potato is going mouldy. Peel it soon	This spud be goin' mouldy. Skin it soon
+On: you peel it in Peel and Rush	On: ye skin it in Peel an' Rush
+Stop using it	Stop usin' it
+Spin the potato while you peel	Spin the spud while ye skin
+It turns slowly on its own as you peel	It turns slow on its own as ye skin
+Mouldy potatoes	Mouldy spuds
+Leave a potato 5 minutes and it goes mouldy, and costs coins	Leave a spud 5 minutes an' it goes mouldy, an' costs ye coins
+Almost: a pinch more salt	Almost: a pinch more salt
+A little salty, still good	A wee bit salty, still good
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} off fer bits shoved off the board)

@@ -638,3 +638,21 @@ Start the screensaver	Ekran koruyucuyu başlat
 The bouncing logo, right now. Tap anywhere to stop it	Zıplayan logo, hemen şimdi. Durdurmak için herhangi bir yere dokun
 Start	Başlat
 That photo couldn't be opened. Try a JPG or PNG photo	Bu fotoğraf açılamadı. JPG ya da PNG bir fotoğraf dene
+potatoes peeled. The fry station is open.	patates soyuldu. Kızartma tezgâhı açıldı.
+potatoes peeled. TaterNinja is open.	patates soyuldu. TaterNinja açıldı.
+potatoes peeled. TaterAngle is open.	patates soyuldu. TaterAngle açıldı.
+About {0} kg of potatoes	Yaklaşık {0} kg patates
+{0} hour of peeling	{0} saat soyma
+{0} hours of peeling	{0} saat soyma
+{0} of {1} varieties found	{1} çeşitten {0} tanesi bulundu
+Mouldy potato: -{0} TaterCoins	Küflü patates: -{0} TaterCoins
+This potato is going mouldy. Peel it soon	Bu patates küflenmeye başladı. Hemen soy
+On: you peel it in Peel and Rush	Açık: Soyma ve Rush'ta onu soyarsın
+Stop using it	Kullanmayı bırak
+Spin the potato while you peel	Soyarken patatesi döndür
+It turns slowly on its own as you peel	Sen soyarken kendi kendine yavaşça döner
+Mouldy potatoes	Küflü patatesler
+Leave a potato 5 minutes and it goes mouldy, and costs coins	Bir patatesi 5 dakika bırakırsan küflenir ve jeton kaybettirir
+Almost: a pinch more salt	Neredeyse: bir tutam daha tuz
+A little salty, still good	Biraz tuzlu ama iyi
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins (tahtadan itilen parçalar için -{1})

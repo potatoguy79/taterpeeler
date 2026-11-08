@@ -638,3 +638,21 @@ Start the screensaver	スクリーンセーバーを開始
 The bouncing logo, right now. Tap anywhere to stop it	跳ねるロゴを今すぐ表示。どこかをタップすると止まります
 Start	開始
 That photo couldn't be opened. Try a JPG or PNG photo	その写真は開けませんでした。JPGかPNGの写真を試してください
+potatoes peeled. The fry station is open.	個のじゃがいもをむきました。フライステーションが開きました。
+potatoes peeled. TaterNinja is open.	個のじゃがいもをむきました。TaterNinjaが開きました。
+potatoes peeled. TaterAngle is open.	個のじゃがいもをむきました。TaterAngleが開きました。
+About {0} kg of potatoes	じゃがいも約{0}kg
+{0} hour of peeling	むいた時間 {0}時間
+{0} hours of peeling	むいた時間 {0}時間
+{0} of {1} varieties found	{1}種類中{0}種類を発見
+Mouldy potato: -{0} TaterCoins	カビたじゃがいも: -{0} TaterCoins
+This potato is going mouldy. Peel it soon	このじゃがいもはカビ始めています。早めにむこう
+On: you peel it in Peel and Rush	オン: むく・ラッシュで使います
+Stop using it	使うのをやめる
+Spin the potato while you peel	むいている間じゃがいもを回す
+It turns slowly on its own as you peel	むいている間、ゆっくり自動で回ります
+Mouldy potatoes	カビたじゃがいも
+Leave a potato 5 minutes and it goes mouldy, and costs coins	じゃがいもを5分放っておくとカビて、コインが減ります
+Almost: a pinch more salt	あと少し: 塩をひとつまみ
+A little salty, still good	少ししょっぱいけど、おいしい
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins(まな板から落ちたぶん -{1})

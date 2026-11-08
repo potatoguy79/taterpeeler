@@ -638,3 +638,21 @@ Start the screensaver	Bildschirmschoner starten
 The bouncing logo, right now. Tap anywhere to stop it	Das hüpfende Logo, sofort. Tipp irgendwo, um es zu stoppen
 Start	Starten
 That photo couldn't be opened. Try a JPG or PNG photo	Dieses Foto ließ sich nicht öffnen. Versuch ein JPG- oder PNG-Foto
+potatoes peeled. The fry station is open.	Kartoffeln geschält. Die Pommes-Station ist offen.
+potatoes peeled. TaterNinja is open.	Kartoffeln geschält. TaterNinja ist offen.
+potatoes peeled. TaterAngle is open.	Kartoffeln geschält. TaterAngle ist offen.
+About {0} kg of potatoes	Etwa {0} kg Kartoffeln
+{0} hour of peeling	{0} Stunde Schälen
+{0} hours of peeling	{0} Stunden Schälen
+{0} of {1} varieties found	{0} von {1} Sorten gefunden
+Mouldy potato: -{0} TaterCoins	Schimmelige Kartoffel: -{0} TaterCoins
+This potato is going mouldy. Peel it soon	Diese Kartoffel fängt an zu schimmeln. Schäl sie bald
+On: you peel it in Peel and Rush	An: du schälst sie bei Schälen und Rush
+Stop using it	Nicht mehr benutzen
+Spin the potato while you peel	Kartoffel beim Schälen drehen
+It turns slowly on its own as you peel	Sie dreht sich beim Schälen langsam von selbst
+Mouldy potatoes	Schimmelige Kartoffeln
+Leave a potato 5 minutes and it goes mouldy, and costs coins	Lass eine Kartoffel 5 Minuten liegen, dann schimmelt sie und kostet Münzen
+Almost: a pinch more salt	Fast: eine Prise mehr Salz
+A little salty, still good	Etwas salzig, aber noch gut
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} abgezogen für Stücke, die vom Brett geschoben wurden)

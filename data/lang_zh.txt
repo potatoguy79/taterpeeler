@@ -638,3 +638,21 @@ Start the screensaver	启动屏幕保护
 The bouncing logo, right now. Tap anywhere to stop it	弹跳的标志，马上出现。点任意位置即可停止
 Start	启动
 That photo couldn't be opened. Try a JPG or PNG photo	这张照片打不开。请换一张 JPG 或 PNG 照片
+potatoes peeled. The fry station is open.	个土豆已削完。炸薯条站开放了。
+potatoes peeled. TaterNinja is open.	个土豆已削完。TaterNinja 开放了。
+potatoes peeled. TaterAngle is open.	个土豆已削完。TaterAngle 开放了。
+About {0} kg of potatoes	大约 {0} 公斤土豆
+{0} hour of peeling	削了 {0} 小时
+{0} hours of peeling	削了 {0} 小时
+{0} of {1} varieties found	已发现 {1} 种中的 {0} 种
+Mouldy potato: -{0} TaterCoins	发霉的土豆：-{0} TaterCoins
+This potato is going mouldy. Peel it soon	这个土豆开始发霉了。快点削它
+On: you peel it in Peel and Rush	已开启：削皮和冲刺模式都用它
+Stop using it	不再使用
+Spin the potato while you peel	削皮时转动土豆
+It turns slowly on its own as you peel	削皮时它会自己慢慢转
+Mouldy potatoes	发霉的土豆
+Leave a potato 5 minutes and it goes mouldy, and costs coins	土豆放 5 分钟会发霉，并且会扣金币
+Almost: a pinch more salt	差一点：再加一小撮盐
+A little salty, still good	有点咸，但还不错
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins（被推下砧板的块扣掉 {1}）

@@ -49,16 +49,25 @@
     if (LANG !== 'en') { if (m) m.textContent = W('load'); if (sb) sb.textContent = W('wait'); }
   }
 
-  const gl = canvas.getContext('webgl', { antialias: true, alpha: false, depth: true, stencil: false, powerPreference: 'high-performance' })
-          || canvas.getContext('experimental-webgl', { antialias: true, alpha: false });
+  /* how much this device can take. ?q= wins; otherwise a guess from the screen, the processor and memory, lowered
+     further if an earlier visit found it struggling (remembered in perf). Watches, a Rabbit R1, old phones: quality 0. */
+  const PERF_KEY = 'taterpeeler.perf.v1';
+  let perf = {}; try { perf = JSON.parse(localStorage.getItem(PERF_KEY) || '{}') || {}; } catch (e) { perf = {}; }
+  const savePerf = () => { try { localStorage.setItem(PERF_KEY, JSON.stringify(perf)); } catch (e) {} };
+  const qp = new URLSearchParams(location.search).get('q');
+  const tinyScreen = Math.min(screen.width || 999, screen.height || 999) <= 320;
+  const cores = navigator.hardwareConcurrency || 4, devMem = navigator.deviceMemory || 4;
+  let autoQ = (tinyScreen || cores <= 2 || devMem <= 1) ? 0 : (cores <= 4 && devMem <= 2) ? 1 : 2;
+  if (typeof perf.q === 'number') autoQ = Math.min(autoQ, perf.q);
+  const quality = qp === null ? autoQ : Math.max(0, Math.min(2, parseInt(qp, 10) || 0));
+  const gl = canvas.getContext('webgl', { antialias: quality >= 1, alpha: false, depth: true, stencil: false, powerPreference: 'high-performance' })
+          || canvas.getContext('experimental-webgl', { antialias: quality >= 1, alpha: false });
   if (!gl) {
     loader.querySelector('.msg').textContent = 'TaterPeeler needs WebGL, which this browser has turned off. Please try another browser.';
     return;
   }
   const extUint = gl.getExtension('OES_element_index_uint');
   const extAniso = gl.getExtension('EXT_texture_filter_anisotropic') || gl.getExtension('WEBKIT_EXT_texture_filter_anisotropic');
-  const qp = new URLSearchParams(location.search).get('q');
-  const quality = qp === null ? 2 : Math.max(0, Math.min(2, parseInt(qp, 10) || 0));
 
   /* ---------------- random shit called assets ---------------- */
   const big = quality >= 2;
@@ -78,7 +87,7 @@
     /* the Baked Potato's tin foil */
     .concat(['sfx_foil0.wav', 'sfx_foil1.wav', 'sfx_foil2.wav']);
   const files = {}, images = {}, soundData = {};
-  let total = FILES.length + IMAGES.length + SOUNDS.filter(Boolean).length + 1, done = 0;
+  let total = FILES.length + IMAGES.length + 1, done = 0;   /* (the sounds load after the game has started) */
   let joking = false;
   function tick() { done++; if (!joking) bar.style.transform = 'scaleX(' + (done / total).toFixed(3) + ')'; }
   /* still loading after 10 seconds: a little game to play meanwhile. The snake is a peeler, the apples are
@@ -219,26 +228,42 @@
     }, 3600);
   }, 10000);
 
+  /* a flaky connection (school wifi, a slow phone) loses a file now and then: try each one up to 6 times, waiting a
+     little longer each time, and ask past any half-saved copy on the later tries */
+  function fetchRetry(url, tries) {
+    tries = tries || 6;
+    const go = n => fetch(n ? url + (url.indexOf('?') < 0 ? '?' : '&') + 'r=' + n : url, n ? { cache: 'reload' } : undefined)
+      .then(r => { if (!r.ok) throw new Error(url + ' ' + r.status); return r; })
+      .catch(e => { if (n + 1 >= tries) throw e; return new Promise(res => setTimeout(res, 500 * Math.pow(2, n))).then(() => go(n + 1)); });
+    return go(0);
+  }
+  function imgRetry(src, tries) {
+    tries = tries || 6;
+    return new Promise((res, rej) => {
+      const go = n => {
+        const im = new Image();
+        im.onload = () => res(im);
+        im.onerror = () => { if (n + 1 >= tries) rej(new Error(src)); else setTimeout(() => go(n + 1), 500 * Math.pow(2, n)); };
+        im.src = n ? src + (src.indexOf('?') < 0 ? '?' : '&') + 'r=' + n : src;
+      };
+      go(0);
+    });
+  }
   function b64(s) { const bin = atob(s.replace(/\s+/g, '')); const out = new Uint8Array(bin.length); for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i); return out; }
   function loadBin(name) {
     /* hosts that only serve common file types get the data as base64 text -#sounded so pro*/
-    if (window.TP_DATA_B64) return fetch('data/' + name + '.txt' + V).then(r => { if (!r.ok) throw new Error(name); return r.text(); }).then(t => { files[name] = b64(t); tick(); });
-    return fetch('data/' + name + V).then(r => { if (!r.ok) throw new Error(name); return r.arrayBuffer(); }).then(b => { files[name] = new Uint8Array(b); tick(); });
+    if (window.TP_DATA_B64) return fetchRetry('data/' + name + '.txt' + V).then(r => r.text()).then(t => { files[name] = b64(t); tick(); });
+    return fetchRetry('data/' + name + V).then(r => r.arrayBuffer()).then(b => { files[name] = new Uint8Array(b); tick(); });
   }
   function loadImg(name) {
-    return new Promise((res, rej) => {
-      const im = new Image();
-      im.onload = () => { images[name] = im; tick(); res(); };
-      im.onerror = () => rej(new Error(name));
-      im.src = 'data/' + name + V;
-    });
+    return imgRetry('data/' + name + V).then(im => { images[name] = im; tick(); });
   }
   /* a language's words and letters: fetched when it's picked (or before the game starts, for the saved one) */
   const lazyF = {};
   function lazyFile(n) {
     if (files[n] || lazyF[n]) return;
     lazyF[n] = 1;
-    fetch('data/' + n + V).then(r => { if (!r.ok) throw new Error(n); return r.arrayBuffer(); })
+    fetchRetry('data/' + n + V, 3).then(r => r.arrayBuffer())
       .then(b => { files[n] = new Uint8Array(b); })
       .catch(() => { setTimeout(() => { lazyF[n] = 0; }, 4000); });
   }
@@ -247,6 +272,11 @@
     const p = LANG_PACK[code];
     return { files: ['lang_' + code + '.txt'].concat(p ? ['font_' + p + '.tpf'] : []), images: p ? ['font_atlas_' + p + '.png'] : [] };
   }
+  /* the credits: credits.txt at the top of the website (Andres edits it on GitHub) is read fresh every visit;
+     the copy in data/ is the fallback (and what the apps use) */
+  (window.TP_DOWNLOAD_PAGE ? fetch('credits.txt', { cache: 'no-store' }).then(r => { if (!r.ok) throw 0; return r.arrayBuffer(); })
+    : Promise.reject(0)).catch(() => fetchRetry('data/credits.txt' + V, 3).then(r => r.arrayBuffer()))
+    .then(b => { files['credits.txt'] = new Uint8Array(b); }).catch(() => {});
   /* kitchen pictures are fetched the first time the game asks for them, so the page never waits for all of them */
   const lazy = {};
   function lazyImage(n) {
@@ -268,8 +298,15 @@
     let d = null; try { d = localStorage.getItem(PHOTO_KEY); } catch (e) {}
     if (d) { const im = new Image(); im.onload = () => { photoImg = im; }; im.src = d; }
   }
-  function loadSnd(name) { if (!name) return Promise.resolve(); return fetch('data/' + name + V).then(r => r.arrayBuffer()).then(b => { soundData[name] = b; tick(); }).catch(() => tick()); }
-  const wasmP = fetch('taterpeeler.wasm' + V).then(r => r.arrayBuffer()).then(b => { tick(); return b; });
+  function loadSnd(name) {
+    if (!name) return Promise.resolve();
+    return fetchRetry('data/' + name + V).then(r => r.arrayBuffer()).then(b => {
+      soundData[name] = b;
+      const i = SOUNDS.indexOf(name);   /* audio already on: ready to play right away */
+      if (actx && i > 0) actx.decodeAudioData(b.slice(0), buf => { buffers[i] = buf; }, () => {});
+    }).catch(() => {});
+  }
+  const wasmP = fetchRetry('taterpeeler.wasm' + V).then(r => r.arrayBuffer()).then(b => { tick(); return b; });
 
   /* ---------------- audio ---------------- */
   let actx = null, master = null, buffers = [], unlocked = false;
@@ -277,7 +314,7 @@
   /* Android app: the music is handed to the <audio> element as a blob (its media player can't read the app's files directly) */
   if (window.TP_PLATFORM === 'android') fetch('data/music.mp3').then(r => r.blob()).then(b => { music.src = URL.createObjectURL(b); if (musicWanted) music.play().catch(() => {}); }).catch(() => {});
   else music.src = 'data/music.mp3';
-  music.loop = true; music.preload = 'auto'; music.volume = 0.54;
+  music.loop = true; music.preload = 'none'; music.volume = 0.54;   /* fetched once the game is running */
   let minFrameMs = 0, lastFrameT = -1e9;   /* battery saver skips every other display frame */
   let musicWanted = false;
   const loops = {};
@@ -517,7 +554,7 @@
     logmsg: p => console.log('[TaterPeeler]', str(p)),
     plat_file: (np, sp) => {
       const n = str(np); let f = filePtrs[n];
-      if (!f && files[n] && /^(lang_|font_)/.test(n)) {   /* arrived since: copy it in */
+      if (!f && files[n] && /^(lang_|font_|credits)/.test(n)) {   /* arrived since: copy it in */
         const d = files[n]; const p = ex.tp_malloc(d.length); views(); u8.set(d, p);
         f = filePtrs[n] = { ptr: p, size: d.length };
       }
@@ -693,14 +730,32 @@
      visible page while its toolbars show, which stretched the picture and made taps land off from where they looked. */
   let viewW = 1, viewH = 1;
 /* ?rs=0.75 draws at a fraction of the screen's resolution (for slow devices); the browser scales it up */
-const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).get('rs') || 1); return v >= 0.4 && v <= 1 ? v : 1; })();
+const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('rs') || 0); return v >= 0.4 && v <= 1 ? v : 0; })();
+  /* otherwise it adapts: if frames come too slowly the game draws at a lower resolution (the browser scales it up),
+     and climbs back when there's room. The level a device settles on is remembered for next time. */
+  let renderScale = RS_FIXED || (typeof perf.rs === 'number' ? Math.max(0.5, Math.min(1, perf.rs)) : (tinyScreen ? 0.75 : 1));
+  const perfWin = []; let perfGood = 0, perfSince = 0;
+  function perfSample(dt) {
+    if (RS_FIXED || minFrameMs > 0 || dt > 250 || document.hidden) return;
+    perfWin.push(dt); if (perfWin.length < 90) return;
+    const m = perfWin.slice().sort((a, b) => a - b)[45]; perfWin.length = 0;
+    if (++perfSince < 2) return;   /* skip the first few seconds (loading, shaders warming up) */
+    if (m > 26 && renderScale > 0.5) {
+      renderScale = Math.max(0.5, Math.round(renderScale * 0.85 * 100) / 100); perfGood = 0;
+      perf.rs = renderScale; savePerf(); resize();
+    } else if (m > 26 && renderScale <= 0.5 && quality > 0 && perf.q !== quality - 1) {
+      perf.q = quality - 1; savePerf();   /* still slow at the lowest resolution: lighter settings from the next visit */
+    } else if (m < 15 && renderScale < 1) {
+      if (++perfGood >= 3) { renderScale = Math.min(1, Math.round(renderScale * 1.1 * 100) / 100); perfGood = 0; perf.rs = renderScale; savePerf(); resize(); }
+    } else perfGood = 0;
+  }
   function resize() {
     const vv = window.visualViewport;
     const cw = Math.max(1, Math.round(vv && vv.scale === 1 ? vv.width : window.innerWidth));
     const ch = Math.max(1, Math.round(vv && vv.scale === 1 ? vv.height : window.innerHeight));
     viewW = cw; viewH = ch;
     canvas.style.width = cw + 'px'; canvas.style.height = ch + 'px';
-    const dpr = Math.min(window.devicePixelRatio || 1, 2) * RENDER_SCALE;
+    const dpr = Math.min(window.devicePixelRatio || 1, 2) * renderScale;
     const w = Math.max(1, Math.round(cw * dpr)), h = Math.max(1, Math.round(ch * dpr));
     if (canvas.width !== w || canvas.height !== h) { canvas.width = w; canvas.height = h; }
     if (ex) ex.tp_resize(w, h, w / cw);
@@ -797,7 +852,7 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
   }
   const LF = langFiles(LANG);   /* the saved language comes with the rest, so the game starts in it (no harm if it fails) */
   total += LF.files.length + LF.images.length;
-  Promise.all([wasmP.catch(() => null), ...FILES.map(loadBin), ...IMAGES.map(loadImg), ...SOUNDS.map(loadSnd),
+  Promise.all([wasmP.catch(() => null), ...FILES.map(loadBin), ...IMAGES.map(loadImg),
                ...LF.files.map(n => loadBin(n).catch(() => tick())), ...LF.images.map(n => loadImg(n).catch(() => tick()))]).then(([wasmBytes]) => {
     return instantiate(wasmBytes, { env: envImports, gl: glImports });
   }).then(exports => {
@@ -822,12 +877,16 @@ const RENDER_SCALE = (() => { const v = +(new URLSearchParams(location.search).g
     const frame = t => {
       requestAnimationFrame(frame);
       if (t - lastFrameT < minFrameMs) return;
+      perfSample(t - lastFrameT);
       lastFrameT = t; ex.tp_frame(t / 1000);
     };
     requestAnimationFrame(frame);
     window.__taterpeeler = { exports: ex };
+    /* now the sounds and the music, so they never hold up the start */
+    SOUNDS.reduce((p, n) => p.then(() => loadSnd(n)), Promise.resolve());
+    if (window.TP_PLATFORM !== 'android') { music.preload = 'auto'; music.load(); }
   }).catch(err => {
     console.error(err);
-    loader.querySelector('.msg').textContent = 'TaterPeeler could not load its files. Reload the page to try again. If this persists try using the web app or website.';
+    loader.querySelector('.msg').textContent = 'TaterPeeler could not load its files. Reload the page to try again. If this persists please inform me.';
   });
 })();

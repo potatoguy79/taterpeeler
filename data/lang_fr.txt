@@ -638,3 +638,21 @@ Start the screensaver	Lancer l'économiseur d'écran
 The bouncing logo, right now. Tap anywhere to stop it	Le logo qui rebondit, tout de suite. Touche n'importe où pour l'arrêter
 Start	Lancer
 That photo couldn't be opened. Try a JPG or PNG photo	Impossible d'ouvrir cette photo. Essaie une photo JPG ou PNG
+potatoes peeled. The fry station is open.	patates épluchées. La friteuse est ouverte.
+potatoes peeled. TaterNinja is open.	patates épluchées. TaterNinja est ouvert.
+potatoes peeled. TaterAngle is open.	patates épluchées. TaterAngle est ouvert.
+About {0} kg of potatoes	Environ {0} kg de patates
+{0} hour of peeling	{0} heure d'épluchage
+{0} hours of peeling	{0} heures d'épluchage
+{0} of {1} varieties found	{0} variétés trouvées sur {1}
+Mouldy potato: -{0} TaterCoins	Patate moisie : -{0} TaterCoins
+This potato is going mouldy. Peel it soon	Cette patate commence à moisir. Épluche-la vite
+On: you peel it in Peel and Rush	Activée : tu l'épluches en Épluchage et Rush
+Stop using it	Ne plus l'utiliser
+Spin the potato while you peel	Faire tourner la patate pendant l'épluchage
+It turns slowly on its own as you peel	Elle tourne doucement toute seule pendant que tu épluches
+Mouldy potatoes	Patates moisies
+Leave a potato 5 minutes and it goes mouldy, and costs coins	Laisse une patate 5 minutes et elle moisit, ce qui coûte des pièces
+Almost: a pinch more salt	Presque : une pincée de sel en plus
+A little salty, still good	Un peu salé, mais bon
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} en moins pour les morceaux poussés hors de la planche)

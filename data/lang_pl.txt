@@ -651,3 +651,22 @@ Start the screensaver	Włącz wygaszacz ekranu
 The bouncing logo, right now. Tap anywhere to stop it	Odbijające się logo, od razu. Dotknij gdziekolwiek, żeby je zatrzymać
 Start	Włącz
 That photo couldn't be opened. Try a JPG or PNG photo	Nie udało się otworzyć tego zdjęcia. Spróbuj zdjęcia JPG albo PNG
+potatoes peeled. The fry station is open.	obranych ziemniaków. Smażalnia jest otwarta.
+potatoes peeled. TaterNinja is open.	obranych ziemniaków. TaterNinja jest otwarte.
+potatoes peeled. TaterAngle is open.	obranych ziemniaków. TaterAngle jest otwarte.
+About {0} kg of potatoes	Około {0} kg ziemniaków
+{0} hour of peeling	{0} godzina obierania
+{0} hours of peeling	{0} godzin obierania
+{0} of {1} varieties found	Znalezione odmiany: {0} z {1}
+Mouldy potato: -{0} TaterCoins	Spleśniały ziemniak: -{0} TaterCoins
+This potato is going mouldy. Peel it soon	Ten ziemniak zaczyna pleśnieć. Obierz go szybko
+On: you peel it in Peel and Rush	Włączone: obierasz go w Obieraniu i Rushu
+Stop using it	Przestań używać
+Spin the potato while you peel	Obracaj ziemniaka podczas obierania
+It turns slowly on its own as you peel	Sam powoli się obraca, gdy obierasz
+Mouldy potatoes	Spleśniałe ziemniaki
+Leave a potato 5 minutes and it goes mouldy, and costs coins	Zostaw ziemniaka na 5 minut, a spleśnieje i kosztuje monety
+Almost: a pinch more salt	Prawie: szczypta soli więcej
+A little salty, still good	Trochę słone, ale dobre
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} mniej za kawałki zepchnięte z deski)
+{0} hours of peeling#few	{0} godziny obierania

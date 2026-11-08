@@ -1,0 +1,23 @@
+# TaterPeeler credits
+# Edit this file on GitHub and the website shows the new credits the next time it's opened.
+# The apps (iPhone, iPad, Android, Mac, Windows) pick it up the next time they're built.
+#
+# How it works:
+#   - Each line is one line of the credits (Settings, at the very bottom).
+#   - Lines starting with # are notes like these and don't show up.
+#   - An empty line adds a little space.
+#   - A link: the words, then a | , then the web address. For example:
+#       Original track | https://tokyomusicwalker.bandcamp.com/track/echoes-in-blue
+#     Links on lines right after each other sit side by side.
+
+Music: "Echoes in Blue" by Tokyo Music Walker
+License: CC BY-NC-ND 4.0
+Licence | https://creativecommons.org/licenses/by-nc-nd/4.0/
+Original track | https://tokyomusicwalker.bandcamp.com/track/echoes-in-blue
+
+Potato photoscan: Jan Martens, Poly Haven (CC0)
+Sound effects: Joseph Sardin, BigSoundBank (CC0)
+Cutting board wood: Jenelle van Heerden, Poly Haven (CC0)
+Kitchens: Poly Haven textures and models (CC0)
+
+This game uses copyright-free assets and sounds. The music is used under its Creative Commons license, credited above.

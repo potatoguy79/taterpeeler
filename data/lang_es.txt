@@ -638,3 +638,21 @@ Start the screensaver	Iniciar el protector de pantalla
 The bouncing logo, right now. Tap anywhere to stop it	El logo que rebota, ahora mismo. Toca en cualquier lugar para detenerlo
 Start	Iniciar
 That photo couldn't be opened. Try a JPG or PNG photo	No se pudo abrir esa foto. Prueba con una foto JPG o PNG
+potatoes peeled. The fry station is open.	papas peladas. La freidora está abierta.
+potatoes peeled. TaterNinja is open.	papas peladas. TaterNinja está abierto.
+potatoes peeled. TaterAngle is open.	papas peladas. TaterAngle está abierto.
+About {0} kg of potatoes	Unos {0} kg de papas
+{0} hour of peeling	{0} hora pelando
+{0} hours of peeling	{0} horas pelando
+{0} of {1} varieties found	{0} de {1} variedades encontradas
+Mouldy potato: -{0} TaterCoins	Papa con moho: -{0} TaterCoins
+This potato is going mouldy. Peel it soon	Esta papa se está llenando de moho. Pélala pronto
+On: you peel it in Peel and Rush	Activada: la pelas en Pelar y Rush
+Stop using it	Dejar de usarla
+Spin the potato while you peel	Girar la papa mientras pelas
+It turns slowly on its own as you peel	Gira sola despacio mientras pelas
+Mouldy potatoes	Papas con moho
+Leave a potato 5 minutes and it goes mouldy, and costs coins	Si dejas una papa 5 minutos, le sale moho y cuesta monedas
+Almost: a pinch more salt	Casi: una pizca más de sal
+A little salty, still good	Un poco salado, pero bien
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} menos por pedazos que se cayeron de la tabla)

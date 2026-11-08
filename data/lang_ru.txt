@@ -651,3 +651,22 @@ Start the screensaver	Включить заставку
 The bouncing logo, right now. Tap anywhere to stop it	Прыгающий логотип прямо сейчас. Нажми куда угодно, чтобы остановить
 Start	Включить
 That photo couldn't be opened. Try a JPG or PNG photo	Не получилось открыть это фото. Попробуй фото в JPG или PNG
+potatoes peeled. The fry station is open.	картошек почищено. Фритюрница открыта.
+potatoes peeled. TaterNinja is open.	картошек почищено. TaterNinja открыт.
+potatoes peeled. TaterAngle is open.	картошек почищено. TaterAngle открыт.
+About {0} kg of potatoes	Около {0} кг картошки
+{0} hour of peeling	{0} час чистки
+{0} hours of peeling	{0} часов чистки
+{0} of {1} varieties found	Найдено сортов: {0} из {1}
+Mouldy potato: -{0} TaterCoins	Заплесневелая картошка: -{0} TaterCoins
+This potato is going mouldy. Peel it soon	Эта картошка начинает плесневеть. Почисти её скорее
+On: you peel it in Peel and Rush	Включено: ты чистишь её в Чистке и Раше
+Stop using it	Больше не использовать
+Spin the potato while you peel	Вращать картошку во время чистки
+It turns slowly on its own as you peel	Она сама медленно вращается, пока ты чистишь
+Mouldy potatoes	Плесневелая картошка
+Leave a potato 5 minutes and it goes mouldy, and costs coins	Оставь картошку на 5 минут, и она заплесневеет и будет стоить монет
+Almost: a pinch more salt	Почти: щепотку соли ещё
+A little salty, still good	Немного солоно, но хорошо
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins ({1} снято за куски, столкнутые с доски)
+{0} hours of peeling#few	{0} часа чистки

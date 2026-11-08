@@ -638,3 +638,21 @@ Start the screensaver	화면 보호기 시작
 The bouncing logo, right now. Tap anywhere to stop it	튀어 다니는 로고를 지금 바로. 아무 데나 탭하면 멈춰요
 Start	시작
 That photo couldn't be opened. Try a JPG or PNG photo	그 사진을 열 수 없어요. JPG나 PNG 사진으로 해 보세요
+potatoes peeled. The fry station is open.	개의 감자를 깎았어요. 감자튀김 코너가 열렸어요.
+potatoes peeled. TaterNinja is open.	개의 감자를 깎았어요. TaterNinja가 열렸어요.
+potatoes peeled. TaterAngle is open.	개의 감자를 깎았어요. TaterAngle이 열렸어요.
+About {0} kg of potatoes	감자 약 {0}kg
+{0} hour of peeling	깎은 시간 {0}시간
+{0} hours of peeling	깎은 시간 {0}시간
+{0} of {1} varieties found	{1}종 중 {0}종 발견
+Mouldy potato: -{0} TaterCoins	곰팡이 핀 감자: -{0} TaterCoins
+This potato is going mouldy. Peel it soon	이 감자에 곰팡이가 피기 시작했어요. 얼른 깎아요
+On: you peel it in Peel and Rush	켜짐: 깎기와 러시에서 사용해요
+Stop using it	그만 사용하기
+Spin the potato while you peel	깎는 동안 감자 돌리기
+It turns slowly on its own as you peel	깎는 동안 천천히 저절로 돌아가요
+Mouldy potatoes	곰팡이 핀 감자
+Leave a potato 5 minutes and it goes mouldy, and costs coins	감자를 5분 동안 두면 곰팡이가 피고 코인이 줄어요
+Almost: a pinch more salt	거의 다 됐어요: 소금 한 꼬집 더
+A little salty, still good	조금 짜지만 괜찮아요
++{0} TaterCoins ({1} off for pieces pushed off the board)	+{0} TaterCoins (도마에서 밀려난 조각 -{1})
