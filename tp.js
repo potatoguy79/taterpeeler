@@ -41,7 +41,7 @@
     photo: { en: 'Choose a photo', zh: '选择一张照片', es: 'Elige una foto', 'es-ES': 'Elige una foto', ru: 'Выбери фото', pt: 'Escolha uma foto', de: 'Wähl ein Foto', ja: '写真を選ぶ', fr: 'Choisis une photo', ko: '사진 고르기', pl: 'Wybierz zdjęcie', tr: 'Bir fotoğraf seç', pirate: 'Pick a paintin\'' },
     photos: { en: 'Open photos', zh: '打开照片', es: 'Abrir fotos', 'es-ES': 'Abrir fotos', ru: 'Открыть фото', pt: 'Abrir fotos', de: 'Fotos öffnen', ja: '写真を開く', fr: 'Ouvrir les photos', ko: '사진 열기', pl: 'Otwórz zdjęcia', tr: 'Fotoğrafları aç', pirate: 'Open the gallery' },
     nowebgl: { en: 'TaterPeeler needs WebGL, which this browser has turned off. Please try another browser.' },
-    failed: { en: 'TaterPeeler could not load its files. Reload the page to try again. If this persists please inform me.' }
+    failed: { en: 'TaterPeeler could not load its files. Reload the page to try again. If this persists try using the web app or website.' }
   };
   function W(k) { const w = WORDS[k]; return (w && (w[LANG] || w.en)) || ''; }
   {
@@ -887,6 +887,6 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
     if (window.TP_PLATFORM !== 'android') { music.preload = 'auto'; music.load(); }
   }).catch(err => {
     console.error(err);
-    loader.querySelector('.msg').textContent = 'TaterPeeler could not load its files. Reload the page to try again. If this persists please inform me.';
+    loader.querySelector('.msg').textContent = 'TaterPeeler could not load its files. Reload the page to try again. If this persists try using the web app or website.';
   });
 })();
