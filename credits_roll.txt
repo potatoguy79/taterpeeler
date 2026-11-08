@@ -36,3 +36,9 @@ Jonathon Jongsma, xeno-canto (CC BY-SA 3.0)
 
 [Font]
 Archivo by Omnibus-Type
+
+[Dedicated Peelers]
+Henry Lopez, Johnathan Avitia, Diego Gutteriez
+
+[Feature and bug reports]
+Daniel Neggrete, Daniel Lopez, Johnathan Avitia, Ricardo Cabrales and others
