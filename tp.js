@@ -87,7 +87,11 @@
     /* the Baked Potato's tin foil */
     .concat(['sfx_foil0.wav', 'sfx_foil1.wav', 'sfx_foil2.wav'])
     /* 3.0: blowing out the birthday candles */
-    .concat(['sfx_blow0.wav', 'sfx_blow1.wav', 'sfx_tape0.wav', 'sfx_tape1.wav', 'sfx_gobble0.wav', 'sfx_gobble1.wav']);
+    .concat(['sfx_blow0.wav', 'sfx_blow1.wav', 'sfx_tape0.wav', 'sfx_tape1.wav', 'sfx_gobble0.wav', 'sfx_gobble1.wav'])
+    /* 3.0: TaterAngle's drive-thru */
+    .concat(['sfx_car_in.wav', 'sfx_car_out.wav', 'sfx_driveoff.wav', 'sfx_horn0.wav', 'sfx_horn1.wav', 'sfx_micro_run.wav',
+             'sfx_micro_beep.wav', 'sfx_micro_door.wav', 'sfx_micro_open.wav', 'sfx_register.wav', 'sfx_squelch0.wav', 'sfx_squelch1.wav',
+             'sfx_sink_plop0.wav', 'sfx_sink_plop1.wav', 'sfx_sink_on.wav', 'sfx_sink_off.wav', 'sfx_sink_run.wav', 'sfx_scrub.wav']);
   const files = {}, images = {}, soundData = {};
   let total = FILES.length + IMAGES.length + 1, done = 0;   /* (the sounds load after the game has started) */
   let joking = false;
@@ -312,22 +316,33 @@
 
   /* ---------------- audio ---------------- */
   let actx = null, master = null, buffers = [], unlocked = false;
-  let music = new Audio();
-  const mainMusic = music;
+  const music = new Audio();
   /* Android app: the music is handed to the <audio> element as a blob (its media player can't read the app's files directly) */
-  if (window.TP_PLATFORM === 'android') fetch('data/music.mp3').then(r => r.blob()).then(b => { music.src = URL.createObjectURL(b); if (musicWanted) music.play().catch(() => {}); }).catch(() => {});
+  let mainBlob = null;
+  if (window.TP_PLATFORM === 'android') fetch('data/music.mp3').then(r => r.blob()).then(b => { mainBlob = URL.createObjectURL(b); if (musicTrack === 0) { music.src = mainBlob; if (musicWanted) music.play().catch(() => {}); } }).catch(() => {});
   else music.src = 'data/music.mp3';
   music.loop = true; music.preload = 'none'; music.volume = 0.54;   /* fetched once the game is running */
   let minFrameMs = 0, lastFrameT = -1e9;   /* battery saver skips every other display frame */
   let musicWanted = false;
-  /* the credits' own music (3.0: the 1,000th potato), fetched the first time it's needed */
-  let creditsMusicEl = null;
-  function creditsMusic() {
-    if (creditsMusicEl) return creditsMusicEl;
-    const a = creditsMusicEl = new Audio(); a.loop = true; a.preload = 'auto';
-    if (window.TP_PLATFORM === 'android') fetch('data/credits_music.mp3').then(r => r.blob()).then(b => { a.src = URL.createObjectURL(b); if (music === a && musicWanted) a.play().catch(() => {}); }).catch(() => {});
-    else a.src = 'data/credits_music.mp3' + V;
-    return a;
+  /* the credits' own music (3.0: the 1,000th potato). It plays in the SAME <audio> element as the game's music, with
+     its address swapped: Safari only lets an element play by itself once a tap has started it, so a second element
+     would wait for another tap (the credits' music only started when you tapped). */
+  const TRACKS = ['data/music.mp3', 'data/credits_music.mp3' + V];
+  let musicTrack = 0;
+  const trackBlobs = {};
+  function useTrack(t) {
+    musicTrack = t;
+    if (window.TP_PLATFORM === 'android') {   /* (as blobs there, see above) */
+      if (trackBlobs[t]) { music.src = trackBlobs[t]; return true; }
+      if (t === 0 && mainBlob) { music.src = trackBlobs[0] = mainBlob; return true; }
+      fetch(TRACKS[t].replace(V, '')).then(r => r.blob()).then(b => {
+        trackBlobs[t] = URL.createObjectURL(b);
+        if (musicTrack === t) { music.src = trackBlobs[t]; if (musicWanted) music.play().then(() => { musicStarted = true; }).catch(() => {}); }
+      }).catch(() => {});
+      return false;
+    }
+    music.src = TRACKS[t];
+    return true;
   }
   const loops = {};
   function ensureAudio() {
@@ -577,7 +592,7 @@
     },
     plat_texture: (np, wp, hp, flags) => {
       const n = str(np); const im = images[n];
-      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf)/.test(n)) lazyImage(n); return 0; }
+      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|ta_)/.test(n)) lazyImage(n); return 0; }
       const t = gl.createTexture();
       gl.bindTexture(gl.TEXTURE_2D, t);
       gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, false);
@@ -656,7 +671,8 @@
         views(); if (p) u8.set(b, p);
         ex.tp_net_done(req, status, p ? b.length : 0);
       };
-      (bp ? fetch(url, { method: 'POST', headers: { apikey: key, 'Content-Type': 'application/json' }, body, cache: 'no-store' })
+      (bp && kp ? fetch(url, { method: 'POST', headers: { apikey: key, 'Content-Type': 'application/json' }, body, cache: 'no-store' })
+          : bp ? fetch(url, { method: 'POST', headers: { 'Content-Type': 'text/plain;charset=utf-8' }, body, cache: 'no-store', redirect: 'follow' })   /* no key: the backup route (a relay), sent so it needs no CORS preflight */
           : fetch(url, { cache: 'no-store' }))   /* no body: a plain GET (events.txt) */
         .then(r => r.text().then(t => deliver(r.status, t)))
         .catch(() => deliver(0, ''));
@@ -734,11 +750,13 @@
     plat_download: () => { if (window.TP_DOWNLOAD_PAGE) location.href = window.TP_DOWNLOAD_PAGE; },
     plat_music_volume: v => { music.volume = Math.max(0, Math.min(1, v * 1.1)); },
     plat_frame_rate: fps => { minFrameMs = fps >= 60 ? 0 : 1000 / fps - 4; },
-    plat_music_track: t => {   /* 0 the game's music, 1 the credits' */
-      const want = t === 1 ? creditsMusic() : mainMusic, vol = music.volume;
-      if (want !== music) { music.pause(); musicStarted = false; music = want; music.volume = vol; }
-      if (t === 1) try { music.currentTime = 0; } catch (e) {}
-      if (musicWanted && unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {});
+    plat_music_track: t => {   /* 0 the game's music, 1 the credits' (from the start) */
+      t = t === 1 ? 1 : 0;
+      if (t === musicTrack && t === 0) return;
+      music.pause(); musicStarted = false;
+      const ready = useTrack(t);
+      try { music.currentTime = 0; } catch (e) {}
+      if (ready && musicWanted && unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {});
     },
     plat_music: on => { musicWanted = !!on; if (on) { if (unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {}); } else { music.pause(); musicStarted = false; } },
     plat_cursor: k => {

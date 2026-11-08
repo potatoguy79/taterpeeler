@@ -700,3 +700,118 @@ Swipe to slice. Don't slice the mouldy ones	滑动来切。别切发霉的
 Game over	游戏结束
 {0} sliced	切了 {0} 个
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	削满 200 个土豆就会打开 TaterNinja。土豆会被抛起来,你用薯条刀把它们切开。一刀切好几个有奖励,但别切发霉的:你只有三条命。
+Cheese	奶酪
+Chili	辣肉酱
+Bacon	培根
+Sour cream	酸奶油
+Chives	细香葱
+Cajun	卡津
+Garlic parm	蒜香帕玛森
+Ketchup	番茄酱
+Ranch	田园酱
+BBQ	烧烤酱
+Chili cheese fries	辣肉酱奶酪薯条
+Cheese fries	奶酪薯条
+Chili fries	辣肉酱薯条
+Cajun fries	卡津薯条
+Garlic parm fries	蒜香帕玛森薯条
+Salted fries	盐味薯条
+Loaded baked potato	全料烤土豆
+Chili cheese potato	辣肉酱奶酪土豆
+Baked potato	烤土豆
+Hi there!	你好！
+Hey! How's it going?	嘿！最近怎么样？
+Hello!	你好！
+Hi, can I order?	你好，可以点餐吗？
+Hey there!	嗨！
+Good afternoon!	下午好！
+Thanks, bye!	谢谢，拜拜！
+Drive-off! They didn't pay. Lost {0}	逃单了！他们没付钱。损失 {0}
+Perfect, thank you!	完美，谢谢！
+Looks great, thanks!	看起来真棒，谢谢！
+Thanks, have a good one!	谢谢，祝你愉快！
+Smells amazing. Thank you!	闻起来太香了。谢谢！
+Hey, you forgot something!	嘿，你忘了东西！
+Where's my sauce?	我的酱呢？
+These fries are cold...	这薯条是凉的……
+That's not what I ordered...	这不是我点的……
++{0} tip	小费 +{0}
+The fries burnt!	薯条炸糊了！
+Hello? Is anyone there?	喂？有人吗？
+Forget it, I'm leaving.	算了，我走了。
+They got tired of waiting.	他们等得不耐烦了。
+The fry bin is full	薯条槽满了
+Burnt fries in the trash	炸糊的薯条扔进垃圾桶
+Still frying...	还在炸……
+Tap the fryer to fry some fries	点炸锅来炸薯条
+Wait for the fries	等薯条炸好
+Bag what's on the board first	先把砧板上的东西装袋
+Those fries are cold. Refry them?	这些薯条凉了。要复炸吗？
+The microwave's busy	微波炉正在用
+Take the potato out first	先把土豆拿出来
+Tap the potatoes to put one in	点土豆放一个进去
+Almost done...	快好了……
+Get fries from the bin or a potato from the microwave	从薯条槽拿薯条，或者从微波炉拿土豆
+The bag is full	袋子满了
+No one's at the window yet	窗口还没有人
+Wait for the next car	等下一辆车
+Tap the board to bag it first	先点砧板把它装袋
+The bag is empty	袋子是空的
+In the trash	扔进垃圾桶
+Emptied the bag	袋子清空了
+Nothing to throw away	没有可以扔的
+Put fries or a potato on the board first	先在砧板上放薯条或土豆
+That doesn't go on fries	这个不放在薯条上
+That doesn't go on a baked potato	这个不放在烤土豆上
+It already has that	已经加过了
+Order #{0}	订单 #{0}
+{0} x{1}	{0} x{1}
+Report plate	举报车牌
+Microwave	微波炉
+Board	砧板
+Bag	袋子
+Trash	垃圾桶
+That's a lot of sauce	酱太多了
+Refry	复炸
+The fryer's busy	炸锅正在用
+Hand out	递出去
+Report the plate	举报车牌
+Which plate was it?	是哪个车牌？
+That's them! The police got your {0} back.	就是他们！警察帮你追回了 {0}。
+That wasn't their plate. The money's gone.	不是他们的车牌。钱没了。
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	车开到你的窗口点餐。炸薯条，用微波炉热土豆，加上他们要的东西，连同酱一起装袋递出去。薯条会变凉，所以要复炸。如果有人不付钱就开走，就用监控摄像头举报他们的车牌。
+Best shift {0}	最佳班次 {0}
+Shift over	下班了
+{0} car served	服务了 {0} 辆车
+{0} cars served	服务了 {0} 辆车
+{0} perfect order	{0} 个完美订单
+{0} perfect orders	{0} 个完美订单
+Tips: {0}	小费：{0}
+Lost to drive-offs: {0}	逃单损失：{0}
+New best shift!	新的最佳班次！
+Start shift	开始上班
+Drive-Thru Pro	得来速达人
+Plate Spotter	车牌侦探
+Take $50 in one TaterAngle shift	在一个 TaterAngle 班次里赚到 50 美元
+Report a drive-off's plate and get the money back	举报逃单的车牌并追回钱
+The drive-thru	得来速
+Peel {0} more potato to open TaterAngle	再削 {0} 个土豆就能打开 TaterAngle
+Peel {0} more potatoes to open TaterAngle	再削 {0} 个土豆就能打开 TaterAngle
+Drive-thru	得来速
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	削满 300 个土豆就能在得来速窗口上班。炸薯条，用微波炉热土豆，按每辆车的要求加料，连同酱一起装袋递出去。薯条会变凉，所以要复炸；如果有人不付钱就开走，就用监控摄像头举报他们的车牌。
+TaterAngle is coming soon	TaterAngle 即将推出
+Missed!	漏掉了！
+Follow TaterPeeler on Instagram	在 Instagram 上关注 TaterPeeler
+Wash the one in the sink first	先洗水槽里的那个
+Put the clean one in the microwave first	先把洗干净的放进微波炉
+Tap the potatoes to put one in the sink	点击土豆，放一个到水槽里
+Rub it back and forth to wash it	来回搓洗它
+Tap the clean potato in the sink	点击水槽里洗干净的土豆
+Wash a potato in the sink first	先在水槽里洗一个土豆
+Clean! Tap it to put it in the microwave	干净了！点击放进微波炉
+Rub to wash	搓一搓来洗
+Tap: microwave	点击：微波炉
+Sink	水槽
+Down for maintenance	维护中
+Down for maintenance for everyone else. You're the owner, so it's open for you	对其他人来说正在维护。你是主人，所以对你开放
+This gamemode is currently down for maintenance. Check again later.	此游戏模式正在维护中。请稍后再来看看。

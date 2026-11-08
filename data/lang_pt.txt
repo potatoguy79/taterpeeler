@@ -700,3 +700,118 @@ Swipe to slice. Don't slice the mouldy ones	Deslize para cortar. Não corte as m
 Game over	Fim de jogo
 {0} sliced	{0} cortadas
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Descasque 200 batatas e o TaterNinja abre. Batatas são jogadas para cima e você corta com a sua faca de fritas. Corte várias de uma vez para ganhar bônus, mas não corte as mofadas: você só tem três vidas.
+Cheese	Queijo
+Chili	Chili
+Bacon	Bacon
+Sour cream	Creme azedo
+Chives	Cebolinha
+Cajun	Cajun
+Garlic parm	Alho e parmesão
+Ketchup	Ketchup
+Ranch	Ranch
+BBQ	Barbecue
+Chili cheese fries	Batata frita com chili e queijo
+Cheese fries	Batata frita com queijo
+Chili fries	Batata frita com chili
+Cajun fries	Batata frita cajun
+Garlic parm fries	Batata frita com alho e parmesão
+Salted fries	Batata frita com sal
+Loaded baked potato	Batata assada completa
+Chili cheese potato	Batata com chili e queijo
+Baked potato	Batata assada
+Hi there!	Oi!
+Hey! How's it going?	E aí! Tudo bem?
+Hello!	Olá!
+Hi, can I order?	Oi, posso pedir?
+Hey there!	E aí!
+Good afternoon!	Boa tarde!
+Thanks, bye!	Valeu, tchau!
+Drive-off! They didn't pay. Lost {0}	Foram embora sem pagar! Perdeu {0}
+Perfect, thank you!	Perfeito, obrigado!
+Looks great, thanks!	Ficou ótimo, valeu!
+Thanks, have a good one!	Valeu, tenha um bom dia!
+Smells amazing. Thank you!	Que cheiro incrível. Obrigado!
+Hey, you forgot something!	Ei, você esqueceu uma coisa!
+Where's my sauce?	Cadê o meu molho?
+These fries are cold...	Essas batatas estão frias...
+That's not what I ordered...	Não foi isso que eu pedi...
++{0} tip	+{0} de gorjeta
+The fries burnt!	As batatas queimaram!
+Hello? Is anyone there?	Alô? Tem alguém aí?
+Forget it, I'm leaving.	Esquece, vou embora.
+They got tired of waiting.	Cansaram de esperar.
+The fry bin is full	A bandeja de batatas está cheia
+Burnt fries in the trash	Batatas queimadas no lixo
+Still frying...	Ainda fritando...
+Tap the fryer to fry some fries	Toque na fritadeira para fritar batatas
+Wait for the fries	Espere as batatas
+Bag what's on the board first	Primeiro coloque no saco o que está na tábua
+Those fries are cold. Refry them?	Essas batatas estão frias. Fritar de novo?
+The microwave's busy	O micro-ondas está ocupado
+Take the potato out first	Tire a batata primeiro
+Tap the potatoes to put one in	Toque nas batatas para colocar uma
+Almost done...	Quase pronto...
+Get fries from the bin or a potato from the microwave	Pegue batatas fritas da bandeja ou uma batata do micro-ondas
+The bag is full	O saco está cheio
+No one's at the window yet	Ainda não tem ninguém na janela
+Wait for the next car	Espere o próximo carro
+Tap the board to bag it first	Toque na tábua para colocar no saco primeiro
+The bag is empty	O saco está vazio
+In the trash	No lixo
+Emptied the bag	Saco esvaziado
+Nothing to throw away	Nada para jogar fora
+Put fries or a potato on the board first	Coloque batatas fritas ou uma batata na tábua primeiro
+That doesn't go on fries	Isso não vai na batata frita
+That doesn't go on a baked potato	Isso não vai na batata assada
+It already has that	Já tem isso
+Order #{0}	Pedido nº {0}
+{0} x{1}	{0} x{1}
+Report plate	Denunciar placa
+Microwave	Micro-ondas
+Board	Tábua
+Bag	Saco
+Trash	Lixo
+That's a lot of sauce	É molho demais
+Refry	Fritar de novo
+The fryer's busy	A fritadeira está ocupada
+Hand out	Entregar
+Report the plate	Denuncie a placa
+Which plate was it?	Qual era a placa?
+That's them! The police got your {0} back.	São eles! A polícia recuperou seus {0}.
+That wasn't their plate. The money's gone.	Essa não era a placa deles. O dinheiro se foi.
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	Os carros param na sua janela e fazem o pedido. Frite batatas, esquente batatas no micro-ondas, coloque o que pediram, ponha no saco com os molhos e entregue. As batatas esfriam, então frite de novo. Se alguém for embora sem pagar, denuncie a placa pela câmera.
+Best shift {0}	Melhor turno {0}
+Shift over	Fim do turno
+{0} car served	{0} carro atendido
+{0} cars served	{0} carros atendidos
+{0} perfect order	{0} pedido perfeito
+{0} perfect orders	{0} pedidos perfeitos
+Tips: {0}	Gorjetas: {0}
+Lost to drive-offs: {0}	Perdido com quem foi embora sem pagar: {0}
+New best shift!	Novo melhor turno!
+Start shift	Começar turno
+Drive-Thru Pro	Mestre do drive-thru
+Plate Spotter	Olho na placa
+Take $50 in one TaterAngle shift	Fature US$ 50 em um turno do TaterAngle
+Report a drive-off's plate and get the money back	Denuncie a placa de alguém que foi embora sem pagar e recupere o dinheiro
+The drive-thru	O drive-thru
+Peel {0} more potato to open TaterAngle	Descasque mais {0} batata para abrir o TaterAngle
+Peel {0} more potatoes to open TaterAngle	Descasque mais {0} batatas para abrir o TaterAngle
+Drive-thru	Drive-thru
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Descasque 300 batatas e você vai trabalhar na janela do drive-thru. Frite batatas, esquente batatas no micro-ondas, coloque o que cada carro pediu, ponha no saco com os molhos e entregue. As batatas esfriam, então frite de novo, e se alguém for embora sem pagar, denuncie a placa pela câmera de segurança.
+TaterAngle is coming soon	TaterAngle chega em breve
+Missed!	Perdeu!
+Follow TaterPeeler on Instagram	Siga o TaterPeeler no Instagram
+Wash the one in the sink first	Lave primeiro a que está na pia
+Put the clean one in the microwave first	Coloque primeiro a limpa no micro-ondas
+Tap the potatoes to put one in the sink	Toque nas batatas para pôr uma na pia
+Rub it back and forth to wash it	Esfregue para frente e para trás para lavar
+Tap the clean potato in the sink	Toque na batata limpa na pia
+Wash a potato in the sink first	Lave primeiro uma batata na pia
+Clean! Tap it to put it in the microwave	Limpa! Toque para pôr no micro-ondas
+Rub to wash	Esfregue para lavar
+Tap: microwave	Toque: micro-ondas
+Sink	Pia
+Down for maintenance	Em manutenção
+Down for maintenance for everyone else. You're the owner, so it's open for you	Em manutenção para os outros. Você é o dono, então está aberto para você
+This gamemode is currently down for maintenance. Check again later.	Este modo de jogo está em manutenção. Volte mais tarde.

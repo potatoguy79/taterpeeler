@@ -700,3 +700,118 @@ Swipe to slice. Don't slice the mouldy ones	Glisse pour trancher. Ne tranche pas
 Game over	Partie terminée
 {0} sliced	{0} tranchées
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Épluche 200 pommes de terre et TaterNinja s'ouvre. Des pommes de terre sont lancées en l'air et tu les tranches avec ton couteau à frites. Tranches-en plusieurs d'un coup pour un bonus, mais pas les moisies : tu n'as que trois vies.
+Cheese	Fromage
+Chili	Chili
+Bacon	Bacon
+Sour cream	Crème aigre
+Chives	Ciboulette
+Cajun	Cajun
+Garlic parm	Ail et parmesan
+Ketchup	Ketchup
+Ranch	Ranch
+BBQ	Barbecue
+Chili cheese fries	Frites chili cheese
+Cheese fries	Frites au fromage
+Chili fries	Frites au chili
+Cajun fries	Frites cajun
+Garlic parm fries	Frites ail et parmesan
+Salted fries	Frites salées
+Loaded baked potato	Pomme de terre garnie
+Chili cheese potato	Pomme de terre chili cheese
+Baked potato	Pomme de terre au four
+Hi there!	Salut !
+Hey! How's it going?	Hé ! Ça va ?
+Hello!	Bonjour !
+Hi, can I order?	Salut, je peux commander ?
+Hey there!	Coucou !
+Good afternoon!	Bon après-midi !
+Thanks, bye!	Merci, au revoir !
+Drive-off! They didn't pay. Lost {0}	Partis sans payer ! {0} de perdu
+Perfect, thank you!	Parfait, merci !
+Looks great, thanks!	Ça a l'air super, merci !
+Thanks, have a good one!	Merci, bonne journée !
+Smells amazing. Thank you!	Ça sent trop bon. Merci !
+Hey, you forgot something!	Hé, tu as oublié quelque chose !
+Where's my sauce?	Où est ma sauce ?
+These fries are cold...	Ces frites sont froides...
+That's not what I ordered...	Ce n'est pas ce que j'ai commandé...
++{0} tip	+{0} de pourboire
+The fries burnt!	Les frites ont brûlé !
+Hello? Is anyone there?	Allô ? Il y a quelqu'un ?
+Forget it, I'm leaving.	Laisse tomber, je m'en vais.
+They got tired of waiting.	Ils en ont eu marre d'attendre.
+The fry bin is full	Le bac à frites est plein
+Burnt fries in the trash	Frites brûlées à la poubelle
+Still frying...	Encore en train de frire...
+Tap the fryer to fry some fries	Touche la friteuse pour faire des frites
+Wait for the fries	Attends les frites
+Bag what's on the board first	Mets d'abord dans le sac ce qu'il y a sur la planche
+Those fries are cold. Refry them?	Ces frites sont froides. Les refrire ?
+The microwave's busy	Le micro-ondes est occupé
+Take the potato out first	Sors d'abord la pomme de terre
+Tap the potatoes to put one in	Touche les pommes de terre pour en mettre une
+Almost done...	Presque prêt...
+Get fries from the bin or a potato from the microwave	Prends des frites dans le bac ou une pomme de terre dans le micro-ondes
+The bag is full	Le sac est plein
+No one's at the window yet	Personne au guichet pour l'instant
+Wait for the next car	Attends la prochaine voiture
+Tap the board to bag it first	Touche d'abord la planche pour le mettre dans le sac
+The bag is empty	Le sac est vide
+In the trash	À la poubelle
+Emptied the bag	Sac vidé
+Nothing to throw away	Rien à jeter
+Put fries or a potato on the board first	Mets d'abord des frites ou une pomme de terre sur la planche
+That doesn't go on fries	Ça ne va pas sur des frites
+That doesn't go on a baked potato	Ça ne va pas sur une pomme de terre au four
+It already has that	Il y en a déjà
+Order #{0}	Commande n°{0}
+{0} x{1}	{0} x{1}
+Report plate	Signaler la plaque
+Microwave	Micro-ondes
+Board	Planche
+Bag	Sac
+Trash	Poubelle
+That's a lot of sauce	Ça fait beaucoup de sauce
+Refry	Refrire
+The fryer's busy	La friteuse est occupée
+Hand out	Donner
+Report the plate	Signale la plaque
+Which plate was it?	C'était quelle plaque ?
+That's them! The police got your {0} back.	C'est eux ! La police a récupéré tes {0}.
+That wasn't their plate. The money's gone.	Ce n'était pas leur plaque. L'argent est perdu.
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	Les voitures s'arrêtent à ton guichet et commandent. Fais frire des frites, passe des pommes de terre au micro-ondes, ajoute ce qu'ils ont demandé, mets tout dans le sac avec leurs sauces et donne-le. Les frites refroidissent, alors refais-les frire. Si quelqu'un part sans payer, signale sa plaque avec la caméra.
+Best shift {0}	Meilleur service {0}
+Shift over	Service terminé
+{0} car served	{0} voiture servie
+{0} cars served	{0} voitures servies
+{0} perfect order	{0} commande parfaite
+{0} perfect orders	{0} commandes parfaites
+Tips: {0}	Pourboires : {0}
+Lost to drive-offs: {0}	Perdu avec ceux partis sans payer : {0}
+New best shift!	Nouveau meilleur service !
+Start shift	Commencer le service
+Drive-Thru Pro	Pro du drive
+Plate Spotter	Œil de lynx
+Take $50 in one TaterAngle shift	Encaisse 50 $ en un service de TaterAngle
+Report a drive-off's plate and get the money back	Signale la plaque de quelqu'un parti sans payer et récupère l'argent
+The drive-thru	Le drive
+Peel {0} more potato to open TaterAngle	Épluche encore {0} pomme de terre pour ouvrir TaterAngle
+Peel {0} more potatoes to open TaterAngle	Épluche encore {0} pommes de terre pour ouvrir TaterAngle
+Drive-thru	Drive
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Épluche 300 pommes de terre et tu travailles au guichet du drive. Fais frire des frites, passe des pommes de terre au micro-ondes, ajoute ce que chaque voiture a demandé, mets tout dans le sac avec leurs sauces et donne-le. Les frites refroidissent, alors refais-les frire, et si quelqu'un part sans payer, signale sa plaque avec la caméra de surveillance.
+TaterAngle is coming soon	TaterAngle arrive bientôt
+Missed!	Raté !
+Follow TaterPeeler on Instagram	Suis TaterPeeler sur Instagram
+Wash the one in the sink first	Lave d'abord celle dans l'évier
+Put the clean one in the microwave first	Mets d'abord la propre au micro-ondes
+Tap the potatoes to put one in the sink	Touche les pommes de terre pour en mettre une dans l'évier
+Rub it back and forth to wash it	Frotte-la d'avant en arrière pour la laver
+Tap the clean potato in the sink	Touche la pomme de terre propre dans l'évier
+Wash a potato in the sink first	Lave d'abord une pomme de terre dans l'évier
+Clean! Tap it to put it in the microwave	Propre ! Touche-la pour la mettre au micro-ondes
+Rub to wash	Frotte pour laver
+Tap: microwave	Touche : micro-ondes
+Sink	Évier
+Down for maintenance	En maintenance
+Down for maintenance for everyone else. You're the owner, so it's open for you	En maintenance pour tous les autres. Tu es le propriétaire, alors c'est ouvert pour toi
+This gamemode is currently down for maintenance. Check again later.	Ce mode de jeu est en maintenance. Reviens plus tard.

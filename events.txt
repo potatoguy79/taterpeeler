@@ -1,13 +1,54 @@
-# TaterPeeler events.Edit this file right here on GitHub to switch events on and off.
-# How: open this file on GitHub, tap the pencil (Edit), change "off" to "on" (or back), then "Commit changes".
-# The website updates about a minute later, and the game checks this file when it opens and every 3 minutes,
-# on the website and in the apps. (Lines that start with # are just notes. Use on or off.)
+# ==================================================================================
+#   🟢🔴  TATERPEELER SWITCHES  🟢🔴      this is the file that turns things on and off
+# ==================================================================================
 #
-# birthday: November 15. When on: the birthday potato (tap to blow out its candles), and everyone who opens the
-#   game gets a popup, the Birthday Peeler (peels 2x quicker) and 1000 TaterCoins, once. Turning it off later
-#   takes away the birthday potato, but everyone keeps their coins and the peeler.
+#   ✏️  HOW:  tap the ✏️ pencil (Edit) at the top right of this file
+#            ➜ change the word after the colon on a 👉 line below
+#            ➜ press the green "Commit changes" button.
+#   ⏱️  The website updates about a minute later. The game checks this file when it opens and
+#       every 3 minutes, on the website and in every app.
+#   📝  Lines starting with # (like this one) are only notes. Only change the line right under a 👇.
+#
+# ----------------------------------------------------------------------------------
+#   🎂  BIRTHDAY   (November 15)                        words you can use:  on  /  off
+# ----------------------------------------------------------------------------------
+#   on:  the birthday potato (tap to blow out its candles), and everyone who opens the game gets
+#        a popup, the Birthday Peeler (peels 2x quicker) and 1000 TaterCoins, once.
+#   off: the birthday potato goes away, but everyone keeps their coins and the peeler.
+#   👉👉👉  change the next line  👇
 birthday: off
 #
-# thanksgiving: the Turkey Potato, the Thanksgiving kitchen and the banner. "auto" = through November 30.
-#   "on" turns it on now, "off" turns it off. (Players can also turn it off for themselves in Settings.)
+# ----------------------------------------------------------------------------------
+#   🦃  THANKSGIVING                                    words you can use:  auto  /  on  /  off
+# ----------------------------------------------------------------------------------
+#   auto: on through November 30 by itself.   on: on now.   off: off now.
+#   (The Turkey Potato, the Thanksgiving kitchen and the banner. Players can also turn it off
+#   for themselves in Settings.)
+#   👉👉👉  change the next line  👇
 thanksgiving: auto
+#
+# ----------------------------------------------------------------------------------
+#   🔧  MAINTENANCE   (turn a game mode off for a while)     words you can use:  on  /  off
+# ----------------------------------------------------------------------------------
+#   off: that mode's button says "Down for maintenance", and tapping it shows a popup with the
+#        message below instead of opening it. (Signed in as the owner, you can still go in.)
+#   on:  the mode works as normal.
+#   👉👉👉  change any of the next five lines  👇
+peel: on
+rush: on
+fries: on
+taterninja: on
+taterangle: on
+#
+#   💬  What the maintenance popup says. Write anything after the colon, all on one line.
+#   👉👉👉  change the next line  👇
+maintenance message: This gamemode is currently down for maintenance. Check again later.
+#
+# ----------------------------------------------------------------------------------
+#   🌐  ONLINE BACKUP ROUTE                             paste the address after relay:
+# ----------------------------------------------------------------------------------
+#   For players whose network (like a school's) blocks Supabase. Leave it empty until you've set
+#   up the relay (see server/relay/README.txt). Then paste its address here, for example:
+#   relay: https://script.google.com/macros/s/AKfy.../exec
+#   👉👉👉  change the next line  👇
+relay:

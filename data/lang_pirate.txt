@@ -700,3 +700,118 @@ Swipe to slice. Don't slice the mouldy ones	Swipe to slice. Don't slice th' moul
 Game over	Game over
 {0} sliced	{0} sliced
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Peel 200 spuds an' TaterNinja opens. Spuds get tossed up an' ye slice 'em with yer fry blade. Slice a few in one swipe fer a bonus, but don't slice th' mouldy ones: ye only get three lives.
+Cheese	Cheese
+Chili	Chili
+Bacon	Bacon
+Sour cream	Sour cream
+Chives	Chives
+Cajun	Cajun
+Garlic parm	Garlic parm
+Ketchup	Ketchup
+Ranch	Ranch
+BBQ	BBQ
+Chili cheese fries	Chili cheese fries
+Cheese fries	Cheese fries
+Chili fries	Chili fries
+Cajun fries	Cajun fries
+Garlic parm fries	Garlic parm fries
+Salted fries	Salted fries
+Loaded baked potato	Loaded baked spud
+Chili cheese potato	Chili cheese spud
+Baked potato	Baked spud
+Hi there!	Ahoy there!
+Hey! How's it going?	Ahoy! How be ye?
+Hello!	Ahoy!
+Hi, can I order?	Ahoy, can I order?
+Hey there!	Avast there!
+Good afternoon!	Good afternoon, matey!
+Thanks, bye!	Thank ye, farewell!
+Drive-off! They didn't pay. Lost {0}	Scallywags sailed off without payin'! Lost {0}
+Perfect, thank you!	Perfect, thank ye!
+Looks great, thanks!	Looks grand, thank ye!
+Thanks, have a good one!	Thank ye, fair winds!
+Smells amazing. Thank you!	Smells amazin'. Thank ye!
+Hey, you forgot something!	Oi, ye forgot somethin'!
+Where's my sauce?	Where be me sauce?
+These fries are cold...	These fries be cold...
+That's not what I ordered...	That ain't what I ordered...
++{0} tip	+{0} tip
+The fries burnt!	Th' fries be burnt!
+Hello? Is anyone there?	Ahoy? Be anyone there?
+Forget it, I'm leaving.	Forget it, I be leavin'.
+They got tired of waiting.	They got tired o' waitin'.
+The fry bin is full	Th' fry bin be full
+Burnt fries in the trash	Burnt fries t' th' bilge
+Still frying...	Still fryin'...
+Tap the fryer to fry some fries	Tap th' fryer t' fry some fries
+Wait for the fries	Wait fer th' fries
+Bag what's on the board first	Bag what's on th' board first
+Those fries are cold. Refry them?	Them fries be cold. Refry 'em?
+The microwave's busy	Th' microwave be busy
+Take the potato out first	Take th' spud out first
+Tap the potatoes to put one in	Tap th' spuds t' put one in
+Almost done...	Nearly done...
+Get fries from the bin or a potato from the microwave	Get fries from th' bin or a spud from th' microwave
+The bag is full	Th' bag be full
+No one's at the window yet	No one at th' window yet
+Wait for the next car	Wait fer th' next ship
+Tap the board to bag it first	Tap th' board t' bag it first
+The bag is empty	Th' bag be empty
+In the trash	T' th' bilge
+Emptied the bag	Emptied th' bag
+Nothing to throw away	Nothin' t' throw overboard
+Put fries or a potato on the board first	Put fries or a spud on th' board first
+That doesn't go on fries	That don't go on fries
+That doesn't go on a baked potato	That don't go on a baked spud
+It already has that	It already has that
+Order #{0}	Order #{0}
+{0} x{1}	{0} x{1}
+Report plate	Report plate
+Microwave	Microwave
+Board	Board
+Bag	Bag
+Trash	Bilge
+That's a lot of sauce	That be a lot o' sauce
+Refry	Refry
+The fryer's busy	Th' fryer be busy
+Hand out	Hand out
+Report the plate	Report th' plate
+Which plate was it?	Which plate was it?
+That's them! The police got your {0} back.	That be them! Th' navy got yer {0} back.
+That wasn't their plate. The money's gone.	That weren't their plate. Th' doubloons be gone.
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	Ships pull up t' yer window an' order. Fry fries, microwave spuds, add what they asked fer, bag it with their sauces an' hand it out. Fries go cold, so refry 'em. If some scallywag sails off without payin', report their plate from th' spyglass camera.
+Best shift {0}	Best shift {0}
+Shift over	Shift over
+{0} car served	{0} ship served
+{0} cars served	{0} ships served
+{0} perfect order	{0} perfect order
+{0} perfect orders	{0} perfect orders
+Tips: {0}	Tips: {0}
+Lost to drive-offs: {0}	Lost t' scallywags: {0}
+New best shift!	New best shift!
+Start shift	Start shift
+Drive-Thru Pro	Drive-Thru Captain
+Plate Spotter	Eagle Eye
+Take $50 in one TaterAngle shift	Take $50 in one TaterAngle shift
+Report a drive-off's plate and get the money back	Report a scallywag's plate an' get th' doubloons back
+The drive-thru	Th' drive-thru
+Peel {0} more potato to open TaterAngle	Peel {0} more spud to open TaterAngle
+Peel {0} more potatoes to open TaterAngle	Peel {0} more spuds to open TaterAngle
+Drive-thru	Drive-thru
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Peel 300 spuds an' ye get t' work th' drive-thru window. Fry fries, microwave spuds, put on what each ship asked fer, bag it with their sauces an' hand it out. Fries go cold, so refry 'em, an' if some scallywag sails off without payin', report their plate from th' security camera.
+TaterAngle is coming soon	TaterAngle be comin' soon, arr
+Missed!	Ye missed it!
+Follow TaterPeeler on Instagram	Follow TaterPeeler on Instagram, matey
+Wash the one in the sink first	Scrub the one in the sink first, matey
+Put the clean one in the microwave first	Put the clean one in the microwave first
+Tap the potatoes to put one in the sink	Tap the spuds to drop one in the sink
+Rub it back and forth to wash it	Rub it back an' forth to wash it
+Tap the clean potato in the sink	Tap the clean spud in the sink
+Wash a potato in the sink first	Wash a spud in the sink first
+Clean! Tap it to put it in the microwave	Clean! Tap it to stow it in the microwave
+Rub to wash	Rub to wash
+Tap: microwave	Tap: microwave
+Sink	Sink
+Down for maintenance	Down for repairs
+Down for maintenance for everyone else. You're the owner, so it's open for you	Down for repairs for the rest o' the crew. Ye be the captain, so it's open for ye
+This gamemode is currently down for maintenance. Check again later.	This game mode be down for repairs, matey. Check back later.

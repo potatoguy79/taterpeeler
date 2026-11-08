@@ -715,3 +715,121 @@ Game over	Koniec gry
 {0} sliced	Pokrojone: {0}
 Peel {0} more potatoes to open TaterNinja#few	Obierz jeszcze {0} ziemniaki, żeby otworzyć TaterNinja
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Obierz 200 ziemniaków, a otworzy się TaterNinja. Ziemniaki są podrzucane, a ty kroisz je nożem do frytek. Pokrój kilka jednym cięciem, żeby dostać bonus, ale nie tnij spleśniałych: masz tylko trzy życia.
+Cheese	Ser
+Chili	Chili
+Bacon	Bekon
+Sour cream	Kwaśna śmietana
+Chives	Szczypiorek
+Cajun	Cajun
+Garlic parm	Czosnek z parmezanem
+Ketchup	Keczup
+Ranch	Ranch
+BBQ	BBQ
+Chili cheese fries	Frytki chili z serem
+Cheese fries	Frytki z serem
+Chili fries	Frytki z chili
+Cajun fries	Frytki cajun
+Garlic parm fries	Frytki z czosnkiem i parmezanem
+Salted fries	Solone frytki
+Loaded baked potato	Pieczony ziemniak ze wszystkim
+Chili cheese potato	Ziemniak z chili i serem
+Baked potato	Pieczony ziemniak
+Hi there!	Cześć!
+Hey! How's it going?	Hej! Co słychać?
+Hello!	Dzień dobry!
+Hi, can I order?	Cześć, mogę zamówić?
+Hey there!	Siemka!
+Good afternoon!	Dzień dobry!
+Thanks, bye!	Dzięki, pa!
+Drive-off! They didn't pay. Lost {0}	Odjechali bez płacenia! Stracone {0}
+Perfect, thank you!	Idealnie, dziękuję!
+Looks great, thanks!	Wygląda super, dzięki!
+Thanks, have a good one!	Dzięki, miłego dnia!
+Smells amazing. Thank you!	Pachnie obłędnie. Dziękuję!
+Hey, you forgot something!	Hej, o czymś zapomniałeś!
+Where's my sauce?	Gdzie mój sos?
+These fries are cold...	Te frytki są zimne...
+That's not what I ordered...	To nie to, co zamawiałem...
++{0} tip	+{0} napiwku
+The fries burnt!	Frytki się spaliły!
+Hello? Is anyone there?	Halo? Jest tu ktoś?
+Forget it, I'm leaving.	Daj spokój, jadę.
+They got tired of waiting.	Znudziło im się czekanie.
+The fry bin is full	Pojemnik na frytki jest pełny
+Burnt fries in the trash	Spalone frytki do kosza
+Still frying...	Jeszcze się smaży...
+Tap the fryer to fry some fries	Stuknij frytownicę, żeby usmażyć frytki
+Wait for the fries	Poczekaj na frytki
+Bag what's on the board first	Najpierw zapakuj to, co jest na desce
+Those fries are cold. Refry them?	Te frytki są zimne. Usmażyć jeszcze raz?
+The microwave's busy	Mikrofalówka jest zajęta
+Take the potato out first	Najpierw wyjmij ziemniaka
+Tap the potatoes to put one in	Stuknij ziemniaki, żeby włożyć jednego
+Almost done...	Prawie gotowe...
+Get fries from the bin or a potato from the microwave	Weź frytki z pojemnika albo ziemniaka z mikrofalówki
+The bag is full	Torba jest pełna
+No one's at the window yet	Nikogo jeszcze nie ma przy okienku
+Wait for the next car	Poczekaj na następny samochód
+Tap the board to bag it first	Najpierw stuknij deskę, żeby to zapakować
+The bag is empty	Torba jest pusta
+In the trash	Do kosza
+Emptied the bag	Torba opróżniona
+Nothing to throw away	Nie ma czego wyrzucić
+Put fries or a potato on the board first	Najpierw połóż na desce frytki albo ziemniaka
+That doesn't go on fries	To nie pasuje do frytek
+That doesn't go on a baked potato	To nie pasuje do pieczonego ziemniaka
+It already has that	To już jest
+Order #{0}	Zamówienie nr {0}
+{0} x{1}	{0} x{1}
+Report plate	Zgłoś tablicę
+Microwave	Mikrofalówka
+Board	Deska
+Bag	Torba
+Trash	Kosz
+That's a lot of sauce	To bardzo dużo sosu
+Refry	Usmaż znowu
+The fryer's busy	Frytownica jest zajęta
+Hand out	Wydaj
+Report the plate	Zgłoś tablicę
+Which plate was it?	Która to była tablica?
+That's them! The police got your {0} back.	To oni! Policja odzyskała twoje {0}.
+That wasn't their plate. The money's gone.	To nie była ich tablica. Pieniądze przepadły.
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	Samochody podjeżdżają do twojego okienka i zamawiają. Smaż frytki, podgrzewaj ziemniaki w mikrofalówce, dodaj to, o co prosili, zapakuj z sosami i wydaj. Frytki stygną, więc smaż je jeszcze raz. Jeśli ktoś odjedzie bez płacenia, zgłoś jego tablicę z kamery.
+Best shift {0}	Najlepsza zmiana {0}
+Shift over	Koniec zmiany
+{0} car served	{0} obsłużony samochód
+{0} cars served	{0} obsłużonych samochodów
+{0} perfect order	{0} idealne zamówienie
+{0} perfect orders	{0} idealnych zamówień
+Tips: {0}	Napiwki: {0}
+Lost to drive-offs: {0}	Stracone przez uciekinierów: {0}
+New best shift!	Nowa najlepsza zmiana!
+Start shift	Zacznij zmianę
+Drive-Thru Pro	Mistrz drive-thru
+Plate Spotter	Oko na tablice
+Take $50 in one TaterAngle shift	Zarób 50 $ podczas jednej zmiany w TaterAngle
+Report a drive-off's plate and get the money back	Zgłoś tablicę kogoś, kto odjechał bez płacenia, i odzyskaj pieniądze
+The drive-thru	Drive-thru
+Peel {0} more potato to open TaterAngle	Obierz jeszcze {0} ziemniaka, żeby otworzyć TaterAngle
+Peel {0} more potatoes to open TaterAngle	Obierz jeszcze {0} ziemniaków, żeby otworzyć TaterAngle
+Drive-thru	Drive-thru
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Obierz 300 ziemniaków, a staniesz przy okienku drive-thru. Smaż frytki, podgrzewaj ziemniaki w mikrofalówce, dodaj to, o co prosił każdy samochód, zapakuj z sosami i wydaj. Frytki stygną, więc smaż je jeszcze raz, a jeśli ktoś odjedzie bez płacenia, zgłoś jego tablicę z kamery monitoringu.
+{0} cars served#few	{0} obsłużone samochody
+{0} perfect orders#few	{0} idealne zamówienia
+Peel {0} more potatoes to open TaterAngle#few	Obierz jeszcze {0} ziemniaki, żeby otworzyć TaterAngle
+TaterAngle is coming soon	TaterAngle już niedługo
+Missed!	Pudło!
+Follow TaterPeeler on Instagram	Obserwuj TaterPeeler na Instagramie
+Wash the one in the sink first	Najpierw umyj tę w zlewie
+Put the clean one in the microwave first	Najpierw włóż czystą do mikrofalówki
+Tap the potatoes to put one in the sink	Stuknij ziemniaki, aby włożyć jeden do zlewu
+Rub it back and forth to wash it	Pocieraj w tę i z powrotem, aby umyć
+Tap the clean potato in the sink	Stuknij czysty ziemniak w zlewie
+Wash a potato in the sink first	Najpierw umyj ziemniaka w zlewie
+Clean! Tap it to put it in the microwave	Czysty! Stuknij, aby włożyć do mikrofalówki
+Rub to wash	Pocieraj, aby umyć
+Tap: microwave	Stuknij: mikrofalówka
+Sink	Zlew
+Down for maintenance	Przerwa techniczna
+Down for maintenance for everyone else. You're the owner, so it's open for you	Dla innych trwa przerwa techniczna. Jesteś właścicielem, więc dla ciebie jest otwarte
+This gamemode is currently down for maintenance. Check again later.	Ten tryb gry ma teraz przerwę techniczną. Zajrzyj później.

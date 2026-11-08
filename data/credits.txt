@@ -1,6 +1,10 @@
-# TaterPeeler credits
-# Edit this file on GitHub and the website shows the new credits the next time it's opened.
-# The apps (iPhone, iPad, Android, Mac, Windows) pick it up the next time they're built.
+# ==================================================================================
+#   📜  TATERPEELER CREDITS  📜     the list at the very bottom of Settings
+# ==================================================================================
+#   ✏️  HOW: tap the ✏️ pencil (Edit) at the top right ➜ change the lines below the notes ➜ press
+#           the green "Commit changes" button.
+#   ⏱️  The website shows the new credits the next time it's opened. The apps (iPhone, iPad,
+#       Android, Mac, Windows) pick it up the next time they're built.
 #
 # How it works:
 #   - Each line is one line of the credits (Settings, at the very bottom).

@@ -715,3 +715,121 @@ Game over	Игра окончена
 {0} sliced	Разрезано: {0}
 Peel {0} more potatoes to open TaterNinja#few	Почисти ещё {0} картофелины, чтобы открыть TaterNinja
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Почисти 200 картофелин, и откроется TaterNinja. Картошку подбрасывают, а ты режешь её ножом для фри. Разрежь несколько одним взмахом, чтобы получить бонус, но не режь заплесневелые: жизней всего три.
+Cheese	Сыр
+Chili	Чили
+Bacon	Бекон
+Sour cream	Сметана
+Chives	Зелёный лук
+Cajun	Каджун
+Garlic parm	Чеснок с пармезаном
+Ketchup	Кетчуп
+Ranch	Ранч
+BBQ	Барбекю
+Chili cheese fries	Картошка фри с чили и сыром
+Cheese fries	Картошка фри с сыром
+Chili fries	Картошка фри с чили
+Cajun fries	Картошка фри каджун
+Garlic parm fries	Картошка фри с чесноком и пармезаном
+Salted fries	Солёная картошка фри
+Loaded baked potato	Печёная картошка со всем
+Chili cheese potato	Картошка с чили и сыром
+Baked potato	Печёная картошка
+Hi there!	Привет!
+Hey! How's it going?	Эй! Как дела?
+Hello!	Здравствуйте!
+Hi, can I order?	Привет, можно заказать?
+Hey there!	Приветик!
+Good afternoon!	Добрый день!
+Thanks, bye!	Спасибо, пока!
+Drive-off! They didn't pay. Lost {0}	Уехали без оплаты! Потеряно {0}
+Perfect, thank you!	Отлично, спасибо!
+Looks great, thanks!	Выглядит здорово, спасибо!
+Thanks, have a good one!	Спасибо, хорошего дня!
+Smells amazing. Thank you!	Пахнет потрясающе. Спасибо!
+Hey, you forgot something!	Эй, ты что-то забыл!
+Where's my sauce?	А где мой соус?
+These fries are cold...	Картошка холодная...
+That's not what I ordered...	Я не это заказывал...
++{0} tip	+{0} чаевых
+The fries burnt!	Картошка сгорела!
+Hello? Is anyone there?	Алло? Тут кто-нибудь есть?
+Forget it, I'm leaving.	Всё, я уезжаю.
+They got tired of waiting.	Им надоело ждать.
+The fry bin is full	Лоток для картошки полон
+Burnt fries in the trash	Сгоревшая картошка в мусор
+Still frying...	Ещё жарится...
+Tap the fryer to fry some fries	Нажми на фритюрницу, чтобы пожарить картошку
+Wait for the fries	Подожди картошку
+Bag what's on the board first	Сначала положи в пакет то, что на доске
+Those fries are cold. Refry them?	Картошка остыла. Пожарить ещё раз?
+The microwave's busy	Микроволновка занята
+Take the potato out first	Сначала достань картошку
+Tap the potatoes to put one in	Нажми на картошку, чтобы положить одну
+Almost done...	Почти готово...
+Get fries from the bin or a potato from the microwave	Возьми фри из лотка или картошку из микроволновки
+The bag is full	Пакет полон
+No one's at the window yet	У окна пока никого
+Wait for the next car	Подожди следующую машину
+Tap the board to bag it first	Сначала нажми на доску, чтобы положить в пакет
+The bag is empty	Пакет пуст
+In the trash	В мусор
+Emptied the bag	Пакет опустошён
+Nothing to throw away	Нечего выбрасывать
+Put fries or a potato on the board first	Сначала положи на доску фри или картошку
+That doesn't go on fries	Это не кладут на фри
+That doesn't go on a baked potato	Это не кладут на печёную картошку
+It already has that	Это уже есть
+Order #{0}	Заказ №{0}
+{0} x{1}	{0} x{1}
+Report plate	Сообщить номер
+Microwave	Микроволновка
+Board	Доска
+Bag	Пакет
+Trash	Мусор
+That's a lot of sauce	Это слишком много соуса
+Refry	Дожарить
+The fryer's busy	Фритюрница занята
+Hand out	Отдать
+Report the plate	Сообщи номер
+Which plate was it?	Какой был номер?
+That's them! The police got your {0} back.	Это они! Полиция вернула твои {0}.
+That wasn't their plate. The money's gone.	Это был не их номер. Деньги пропали.
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	Машины подъезжают к твоему окну и делают заказ. Жарь картошку фри, грей картошку в микроволновке, клади то, что просили, складывай в пакет с соусами и отдавай. Картошка остывает, так что дожаривай её. Если кто-то уедет без оплаты, сообщи его номер по камере.
+Best shift {0}	Лучшая смена {0}
+Shift over	Смена окончена
+{0} car served	Обслужена {0} машина
+{0} cars served	Обслужено {0} машин
+{0} perfect order	{0} идеальный заказ
+{0} perfect orders	{0} идеальных заказов
+Tips: {0}	Чаевые: {0}
+Lost to drive-offs: {0}	Потеряно из-за уехавших без оплаты: {0}
+New best shift!	Новая лучшая смена!
+Start shift	Начать смену
+Drive-Thru Pro	Профи драйв-тру
+Plate Spotter	Зоркий глаз
+Take $50 in one TaterAngle shift	Заработай 50 $ за одну смену в TaterAngle
+Report a drive-off's plate and get the money back	Сообщи номер уехавшего без оплаты и верни деньги
+The drive-thru	Драйв-тру
+Peel {0} more potato to open TaterAngle	Почисти ещё {0} картофелину, чтобы открыть TaterAngle
+Peel {0} more potatoes to open TaterAngle	Почисти ещё {0} картофелин, чтобы открыть TaterAngle
+Drive-thru	Драйв-тру
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Почисти 300 картофелин, и ты будешь работать у окна драйв-тру. Жарь картошку фри, грей картошку в микроволновке, клади то, что просила каждая машина, складывай в пакет с соусами и отдавай. Картошка остывает, так что дожаривай её, а если кто-то уедет без оплаты, сообщи его номер по камере наблюдения.
+{0} cars served#few	Обслужено {0} машины
+{0} perfect orders#few	{0} идеальных заказа
+Peel {0} more potatoes to open TaterAngle#few	Почисти ещё {0} картофелины, чтобы открыть TaterAngle
+TaterAngle is coming soon	TaterAngle скоро появится
+Missed!	Упущено!
+Follow TaterPeeler on Instagram	Подписывайся на TaterPeeler в Instagram
+Wash the one in the sink first	Сначала помой ту, что в раковине
+Put the clean one in the microwave first	Сначала положи чистую в микроволновку
+Tap the potatoes to put one in the sink	Нажми на картошку, чтобы положить одну в раковину
+Rub it back and forth to wash it	Три туда-сюда, чтобы помыть
+Tap the clean potato in the sink	Нажми на чистую картошку в раковине
+Wash a potato in the sink first	Сначала помой картошку в раковине
+Clean! Tap it to put it in the microwave	Чистая! Нажми, чтобы положить в микроволновку
+Rub to wash	Три, чтобы помыть
+Tap: microwave	Нажми: микроволновка
+Sink	Раковина
+Down for maintenance	На обслуживании
+Down for maintenance for everyone else. You're the owner, so it's open for you	Для всех остальных — на обслуживании. Ты владелец, поэтому для тебя открыто
+This gamemode is currently down for maintenance. Check again later.	Этот режим сейчас на обслуживании. Загляни позже.

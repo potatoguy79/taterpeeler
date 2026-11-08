@@ -700,3 +700,118 @@ Swipe to slice. Don't slice the mouldy ones	Wische zum Schneiden. Schneide nicht
 Game over	Spiel vorbei
 {0} sliced	{0} geschnitten
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Schäle 200 Kartoffeln und TaterNinja öffnet sich. Kartoffeln werden hochgeworfen und du schneidest sie mit deinem Pommesmesser. Schneide mehrere mit einem Wisch für einen Bonus, aber nicht die schimmligen: Du hast nur drei Leben.
+Cheese	Käse
+Chili	Chili
+Bacon	Speck
+Sour cream	Saure Sahne
+Chives	Schnittlauch
+Cajun	Cajun
+Garlic parm	Knoblauch-Parmesan
+Ketchup	Ketchup
+Ranch	Ranch
+BBQ	BBQ
+Chili cheese fries	Chili-Cheese-Pommes
+Cheese fries	Käse-Pommes
+Chili fries	Chili-Pommes
+Cajun fries	Cajun-Pommes
+Garlic parm fries	Knoblauch-Parmesan-Pommes
+Salted fries	Gesalzene Pommes
+Loaded baked potato	Ofenkartoffel mit allem
+Chili cheese potato	Chili-Cheese-Kartoffel
+Baked potato	Ofenkartoffel
+Hi there!	Hallo!
+Hey! How's it going?	Hey! Wie läuft's?
+Hello!	Hallo!
+Hi, can I order?	Hi, kann ich bestellen?
+Hey there!	Hey!
+Good afternoon!	Guten Tag!
+Thanks, bye!	Danke, tschüss!
+Drive-off! They didn't pay. Lost {0}	Abgehauen! Sie haben nicht bezahlt. {0} weg
+Perfect, thank you!	Perfekt, danke!
+Looks great, thanks!	Sieht super aus, danke!
+Thanks, have a good one!	Danke, schönen Tag noch!
+Smells amazing. Thank you!	Riecht unglaublich. Danke!
+Hey, you forgot something!	Hey, du hast was vergessen!
+Where's my sauce?	Wo ist meine Soße?
+These fries are cold...	Die Pommes sind kalt ...
+That's not what I ordered...	Das hab ich nicht bestellt ...
++{0} tip	+{0} Trinkgeld
+The fries burnt!	Die Pommes sind verbrannt!
+Hello? Is anyone there?	Hallo? Ist da jemand?
+Forget it, I'm leaving.	Vergiss es, ich fahre.
+They got tired of waiting.	Sie hatten keine Lust mehr zu warten.
+The fry bin is full	Die Pommesschale ist voll
+Burnt fries in the trash	Verbrannte Pommes in den Müll
+Still frying...	Wird noch frittiert ...
+Tap the fryer to fry some fries	Tippe auf die Fritteuse, um Pommes zu frittieren
+Wait for the fries	Warte auf die Pommes
+Bag what's on the board first	Pack erst ein, was auf dem Brett liegt
+Those fries are cold. Refry them?	Die Pommes sind kalt. Nochmal frittieren?
+The microwave's busy	Die Mikrowelle ist besetzt
+Take the potato out first	Nimm zuerst die Kartoffel raus
+Tap the potatoes to put one in	Tippe auf die Kartoffeln, um eine reinzulegen
+Almost done...	Fast fertig ...
+Get fries from the bin or a potato from the microwave	Hol Pommes aus der Schale oder eine Kartoffel aus der Mikrowelle
+The bag is full	Die Tüte ist voll
+No one's at the window yet	Noch niemand am Fenster
+Wait for the next car	Warte auf das nächste Auto
+Tap the board to bag it first	Tippe erst aufs Brett, um es einzupacken
+The bag is empty	Die Tüte ist leer
+In the trash	Ab in den Müll
+Emptied the bag	Tüte ausgeleert
+Nothing to throw away	Nichts zum Wegwerfen
+Put fries or a potato on the board first	Leg erst Pommes oder eine Kartoffel aufs Brett
+That doesn't go on fries	Das kommt nicht auf Pommes
+That doesn't go on a baked potato	Das kommt nicht auf eine Ofenkartoffel
+It already has that	Das ist schon drauf
+Order #{0}	Bestellung #{0}
+{0} x{1}	{0} x{1}
+Report plate	Kennzeichen melden
+Microwave	Mikrowelle
+Board	Brett
+Bag	Tüte
+Trash	Müll
+That's a lot of sauce	Das ist ganz schön viel Soße
+Refry	Nochmal
+The fryer's busy	Die Fritteuse ist besetzt
+Hand out	Rausgeben
+Report the plate	Kennzeichen melden
+Which plate was it?	Welches Kennzeichen war es?
+That's them! The police got your {0} back.	Das sind sie! Die Polizei hat deine {0} zurückgeholt.
+That wasn't their plate. The money's gone.	Das war nicht ihr Kennzeichen. Das Geld ist weg.
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	Autos fahren an dein Fenster und bestellen. Frittiere Pommes, mach Kartoffeln in der Mikrowelle, gib drauf, was sie wollten, pack es mit ihren Soßen in die Tüte und gib es raus. Pommes werden kalt, also frittiere sie nochmal. Fährt jemand ohne zu zahlen weg, melde sein Kennzeichen über die Kamera.
+Best shift {0}	Beste Schicht {0}
+Shift over	Schicht vorbei
+{0} car served	{0} Auto bedient
+{0} cars served	{0} Autos bedient
+{0} perfect order	{0} perfekte Bestellung
+{0} perfect orders	{0} perfekte Bestellungen
+Tips: {0}	Trinkgeld: {0}
+Lost to drive-offs: {0}	Verloren durch Abhauer: {0}
+New best shift!	Neue beste Schicht!
+Start shift	Schicht starten
+Drive-Thru Pro	Drive-in-Profi
+Plate Spotter	Kennzeichen-Detektiv
+Take $50 in one TaterAngle shift	Nimm 50 $ in einer TaterAngle-Schicht ein
+Report a drive-off's plate and get the money back	Melde das Kennzeichen eines Abhauers und hol das Geld zurück
+The drive-thru	Der Drive-in
+Peel {0} more potato to open TaterAngle	Schäle noch {0} Kartoffel, um TaterAngle zu öffnen
+Peel {0} more potatoes to open TaterAngle	Schäle noch {0} Kartoffeln, um TaterAngle zu öffnen
+Drive-thru	Drive-in
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Schäle 300 Kartoffeln und du arbeitest am Drive-in-Fenster. Frittiere Pommes, mach Kartoffeln in der Mikrowelle, gib drauf, was jedes Auto wollte, pack es mit den Soßen in die Tüte und gib es raus. Pommes werden kalt, also frittiere sie nochmal, und fährt jemand ohne zu zahlen weg, melde sein Kennzeichen über die Überwachungskamera.
+TaterAngle is coming soon	TaterAngle kommt bald
+Missed!	Verpasst!
+Follow TaterPeeler on Instagram	Folge TaterPeeler auf Instagram
+Wash the one in the sink first	Wasch zuerst die Kartoffel im Spülbecken
+Put the clean one in the microwave first	Tu zuerst die saubere in die Mikrowelle
+Tap the potatoes to put one in the sink	Tippe auf die Kartoffeln, um eine ins Spülbecken zu legen
+Rub it back and forth to wash it	Reib sie hin und her, um sie zu waschen
+Tap the clean potato in the sink	Tippe auf die saubere Kartoffel im Spülbecken
+Wash a potato in the sink first	Wasch zuerst eine Kartoffel im Spülbecken
+Clean! Tap it to put it in the microwave	Sauber! Tippe darauf, um sie in die Mikrowelle zu tun
+Rub to wash	Reiben zum Waschen
+Tap: microwave	Tippen: Mikrowelle
+Sink	Spüle
+Down for maintenance	Wird gewartet
+Down for maintenance for everyone else. You're the owner, so it's open for you	Für alle anderen wird gewartet. Du bist der Besitzer, also ist es für dich offen
+This gamemode is currently down for maintenance. Check again later.	Dieser Spielmodus wird gerade gewartet. Schau später wieder vorbei.

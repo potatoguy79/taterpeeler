@@ -1,12 +1,18 @@
-# TaterPeeler end credits: the movie-style roll after the 1,000th potato.
-# Edit this file on GitHub (open it, tap the pencil, change it, then "Commit changes"). The game reads the
-# new one the next time it's opened, on the website and in the apps.
+# ==================================================================================
+#   🎬  TATERPEELER END CREDITS  🎬     the movie-style roll after the 1,000th potato
+# ==================================================================================
 #
-# How it works (one line here = one line of the credits, scrolling up in this order):
-#   [Like this]       a small heading above the names under it
-#   anything else     a name or a line of text, in big letters
-#   an empty line     a gap
-#   lines starting with # are notes like these and don't show up
+#   ✏️  HOW:  tap the ✏️ pencil (Edit) at the top right of this file ➜ change the lines under
+#            the 👇 below ➜ press the green "Commit changes" button.
+#   ⏱️  The game reads the new one the next time it's opened, on the website and in the apps.
+#
+#   One line here = one line of the credits, scrolling up in this order:
+#     [Like this]       a small heading above the names under it
+#     anything else     a name or a line of text, in big letters
+#     an empty line     a gap
+#   📝  Lines starting with # are notes like these and don't show up.
+#
+#   👉👉👉  THE CREDITS START HERE  👇
 
 [Game made by]
 Andres Campos

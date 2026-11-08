@@ -700,3 +700,118 @@ Swipe to slice. Don't slice the mouldy ones	밀어서 자르세요. 곰팡이 �
 Game over	게임 오버
 {0} sliced	{0}개 자름
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	감자를 200개 깎으면 TaterNinja가 열려요. 위로 던져지는 감자를 감자튀김 칼로 잘라요. 한 번에 여러 개를 자르면 보너스가 있지만, 곰팡이 핀 건 자르지 마세요. 목숨은 세 개뿐이에요.
+Cheese	치즈
+Chili	칠리
+Bacon	베이컨
+Sour cream	사워크림
+Chives	차이브
+Cajun	케이준
+Garlic parm	갈릭 파마산
+Ketchup	케첩
+Ranch	랜치
+BBQ	바비큐
+Chili cheese fries	칠리 치즈 감자튀김
+Cheese fries	치즈 감자튀김
+Chili fries	칠리 감자튀김
+Cajun fries	케이준 감자튀김
+Garlic parm fries	갈릭 파마산 감자튀김
+Salted fries	소금 감자튀김
+Loaded baked potato	토핑 가득 구운 감자
+Chili cheese potato	칠리 치즈 감자
+Baked potato	구운 감자
+Hi there!	안녕하세요!
+Hey! How's it going?	안녕! 잘 지내?
+Hello!	안녕하세요!
+Hi, can I order?	저기요, 주문해도 될까요?
+Hey there!	안녕!
+Good afternoon!	좋은 오후예요!
+Thanks, bye!	고마워요, 안녕!
+Drive-off! They didn't pay. Lost {0}	먹튀다! 돈을 안 냈어요. {0} 손해
+Perfect, thank you!	완벽해요, 고마워요!
+Looks great, thanks!	맛있어 보여요, 고마워요!
+Thanks, have a good one!	고마워요, 좋은 하루 보내요!
+Smells amazing. Thank you!	냄새 끝내준다. 고마워요!
+Hey, you forgot something!	저기, 뭐 빠뜨렸어요!
+Where's my sauce?	제 소스는요?
+These fries are cold...	감자튀김이 식었네요...
+That's not what I ordered...	이거 제가 주문한 거 아닌데요...
++{0} tip	팁 +{0}
+The fries burnt!	감자튀김이 탔어요!
+Hello? Is anyone there?	여보세요? 아무도 없어요?
+Forget it, I'm leaving.	됐어요, 그냥 갈게요.
+They got tired of waiting.	기다리다 지쳐서 가 버렸어요.
+The fry bin is full	감자튀김 통이 꽉 찼어요
+Burnt fries in the trash	탄 감자튀김은 쓰레기통으로
+Still frying...	아직 튀기는 중...
+Tap the fryer to fry some fries	튀김기를 눌러 감자튀김을 튀기세요
+Wait for the fries	감자튀김을 기다리세요
+Bag what's on the board first	먼저 도마 위에 있는 걸 봉투에 담으세요
+Those fries are cold. Refry them?	감자튀김이 식었어요. 다시 튀길까요?
+The microwave's busy	전자레인지 사용 중
+Take the potato out first	먼저 감자를 꺼내세요
+Tap the potatoes to put one in	감자를 눌러서 하나 넣으세요
+Almost done...	거의 다 됐어요...
+Get fries from the bin or a potato from the microwave	통에서 감자튀김을 꺼내거나 전자레인지에서 감자를 꺼내세요
+The bag is full	봉투가 꽉 찼어요
+No one's at the window yet	아직 창구에 아무도 없어요
+Wait for the next car	다음 차를 기다리세요
+Tap the board to bag it first	먼저 도마를 눌러 봉투에 담으세요
+The bag is empty	봉투가 비었어요
+In the trash	쓰레기통으로
+Emptied the bag	봉투를 비웠어요
+Nothing to throw away	버릴 게 없어요
+Put fries or a potato on the board first	먼저 도마에 감자튀김이나 감자를 올리세요
+That doesn't go on fries	그건 감자튀김에 안 올려요
+That doesn't go on a baked potato	그건 구운 감자에 안 올려요
+It already has that	이미 올라가 있어요
+Order #{0}	주문 #{0}
+{0} x{1}	{0} x{1}
+Report plate	번호판 신고
+Microwave	전자레인지
+Board	도마
+Bag	봉투
+Trash	쓰레기통
+That's a lot of sauce	소스가 너무 많아요
+Refry	다시 튀기기
+The fryer's busy	튀김기 사용 중
+Hand out	건네주기
+Report the plate	번호판을 신고하세요
+Which plate was it?	어떤 번호판이었죠?
+That's them! The police got your {0} back.	그 차예요! 경찰이 {0}을 되찾아 줬어요.
+That wasn't their plate. The money's gone.	그 차 번호판이 아니었어요. 돈은 못 찾아요.
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	차들이 창구에 와서 주문해요. 감자튀김을 튀기고, 감자를 전자레인지에 데우고, 주문한 걸 올려서 소스와 함께 봉투에 담아 건네주세요. 감자튀김은 식으니까 다시 튀기세요. 돈을 안 내고 가 버리면 카메라로 번호판을 신고하세요.
+Best shift {0}	최고 근무 {0}
+Shift over	근무 끝
+{0} car served	{0}대 응대
+{0} cars served	{0}대 응대
+{0} perfect order	완벽한 주문 {0}건
+{0} perfect orders	완벽한 주문 {0}건
+Tips: {0}	팁: {0}
+Lost to drive-offs: {0}	먹튀로 잃은 돈: {0}
+New best shift!	최고 근무 기록!
+Start shift	근무 시작
+Drive-Thru Pro	드라이브스루 프로
+Plate Spotter	번호판 탐정
+Take $50 in one TaterAngle shift	TaterAngle 한 번 근무에 50달러 벌기
+Report a drive-off's plate and get the money back	먹튀 차량 번호판을 신고해서 돈 되찾기
+The drive-thru	드라이브스루
+Peel {0} more potato to open TaterAngle	감자를 {0}개 더 깎으면 TaterAngle이 열려요
+Peel {0} more potatoes to open TaterAngle	감자를 {0}개 더 깎으면 TaterAngle이 열려요
+Drive-thru	드라이브스루
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	감자를 300개 깎으면 드라이브스루 창구에서 일할 수 있어요. 감자튀김을 튀기고, 감자를 전자레인지에 데우고, 차마다 주문한 걸 올려서 소스와 함께 봉투에 담아 건네주세요. 감자튀김은 식으니까 다시 튀기고, 돈을 안 내고 가 버리면 보안 카메라로 번호판을 신고하세요.
+TaterAngle is coming soon	TaterAngle 곧 출시
+Missed!	놓쳤다!
+Follow TaterPeeler on Instagram	Instagram에서 TaterPeeler 팔로우
+Wash the one in the sink first	먼저 싱크대의 감자를 씻어요
+Put the clean one in the microwave first	먼저 깨끗한 감자를 전자레인지에 넣어요
+Tap the potatoes to put one in the sink	감자를 탭해서 하나를 싱크대에 넣어요
+Rub it back and forth to wash it	앞뒤로 문질러서 씻어요
+Tap the clean potato in the sink	싱크대의 깨끗한 감자를 탭해요
+Wash a potato in the sink first	먼저 싱크대에서 감자를 씻어요
+Clean! Tap it to put it in the microwave	깨끗해요! 탭해서 전자레인지에 넣어요
+Rub to wash	문질러 씻기
+Tap: microwave	탭: 전자레인지
+Sink	싱크대
+Down for maintenance	점검 중
+Down for maintenance for everyone else. You're the owner, so it's open for you	다른 사람에게는 점검 중이에요. 주인이라서 당신에게는 열려 있어요
+This gamemode is currently down for maintenance. Check again later.	이 게임 모드는 현재 점검 중이에요. 나중에 다시 확인해 주세요.

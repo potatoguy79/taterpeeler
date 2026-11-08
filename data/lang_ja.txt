@@ -700,3 +700,118 @@ Swipe to slice. Don't slice the mouldy ones	スワイプして切ろう。カビ
 Game over	ゲームオーバー
 {0} sliced	{0}個切った
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	ジャガイモを200個むくとTaterNinjaが開きます。投げ上げられるジャガイモをフライドポテト用の包丁で切りましょう。ひと振りで何個も切るとボーナス。でもカビたのは切らないで。ライフは3つだけです。
+Cheese	チーズ
+Chili	チリ
+Bacon	ベーコン
+Sour cream	サワークリーム
+Chives	チャイブ
+Cajun	ケイジャン
+Garlic parm	ガーリックパルメザン
+Ketchup	ケチャップ
+Ranch	ランチ
+BBQ	BBQ
+Chili cheese fries	チリチーズフライ
+Cheese fries	チーズフライ
+Chili fries	チリフライ
+Cajun fries	ケイジャンフライ
+Garlic parm fries	ガーリックパルメザンフライ
+Salted fries	塩フライ
+Loaded baked potato	全部のせベイクドポテト
+Chili cheese potato	チリチーズポテト
+Baked potato	ベイクドポテト
+Hi there!	こんにちは！
+Hey! How's it going?	やあ！調子どう？
+Hello!	こんにちは！
+Hi, can I order?	すみません、注文いいですか？
+Hey there!	どうも！
+Good afternoon!	こんにちは！
+Thanks, bye!	ありがとう、じゃあね！
+Drive-off! They didn't pay. Lost {0}	食い逃げだ！払わずに行った。{0}の損
+Perfect, thank you!	完璧、ありがとう！
+Looks great, thanks!	おいしそう、ありがとう！
+Thanks, have a good one!	ありがとう、良い一日を！
+Smells amazing. Thank you!	いい匂い。ありがとう！
+Hey, you forgot something!	ねえ、何か忘れてるよ！
+Where's my sauce?	ソースはどこ？
+These fries are cold...	このポテト冷たい…
+That's not what I ordered...	頼んだのと違う…
++{0} tip	チップ +{0}
+The fries burnt!	ポテトが焦げた！
+Hello? Is anyone there?	もしもし？誰かいますか？
+Forget it, I'm leaving.	もういい、行くよ。
+They got tired of waiting.	待ちくたびれて行ってしまった。
+The fry bin is full	ポテト入れがいっぱい
+Burnt fries in the trash	焦げたポテトはゴミ箱へ
+Still frying...	まだ揚げてるよ…
+Tap the fryer to fry some fries	フライヤーをタップしてポテトを揚げよう
+Wait for the fries	ポテトができるまで待って
+Bag what's on the board first	先にボードの上のものを袋に入れて
+Those fries are cold. Refry them?	このポテトは冷めてる。揚げ直す？
+The microwave's busy	電子レンジは使用中
+Take the potato out first	先にジャガイモを出して
+Tap the potatoes to put one in	ジャガイモをタップして1個入れよう
+Almost done...	もうすぐ…
+Get fries from the bin or a potato from the microwave	ポテト入れからポテトか、電子レンジからジャガイモを取って
+The bag is full	袋がいっぱい
+No one's at the window yet	まだ窓口に誰もいない
+Wait for the next car	次の車を待って
+Tap the board to bag it first	先にボードをタップして袋に入れて
+The bag is empty	袋は空っぽ
+In the trash	ゴミ箱へ
+Emptied the bag	袋を空にした
+Nothing to throw away	捨てるものがない
+Put fries or a potato on the board first	先にポテトかジャガイモをボードに置いて
+That doesn't go on fries	それはポテトにはのせない
+That doesn't go on a baked potato	それはベイクドポテトにはのせない
+It already has that	もうのってる
+Order #{0}	注文 #{0}
+{0} x{1}	{0} x{1}
+Report plate	ナンバーを通報
+Microwave	電子レンジ
+Board	ボード
+Bag	袋
+Trash	ゴミ箱
+That's a lot of sauce	ソースが多すぎ
+Refry	揚げ直す
+The fryer's busy	フライヤーは使用中
+Hand out	渡す
+Report the plate	ナンバーを通報
+Which plate was it?	どのナンバーだった？
+That's them! The police got your {0} back.	あの車だ！警察が{0}を取り戻してくれた。
+That wasn't their plate. The money's gone.	そのナンバーじゃなかった。お金は戻らない。
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	車が窓口に来て注文するよ。ポテトを揚げて、ジャガイモを電子レンジで温めて、頼まれたものをのせて、ソースと一緒に袋に入れて渡そう。ポテトは冷めるから揚げ直そう。払わずに行った人がいたら、カメラでナンバーを通報しよう。
+Best shift {0}	ベストシフト {0}
+Shift over	シフト終了
+{0} car served	{0}台に対応
+{0} cars served	{0}台に対応
+{0} perfect order	完璧な注文 {0}件
+{0} perfect orders	完璧な注文 {0}件
+Tips: {0}	チップ: {0}
+Lost to drive-offs: {0}	食い逃げの損: {0}
+New best shift!	ベストシフト更新！
+Start shift	シフト開始
+Drive-Thru Pro	ドライブスルーのプロ
+Plate Spotter	ナンバー探偵
+Take $50 in one TaterAngle shift	TaterAngleの1シフトで50ドル稼ぐ
+Report a drive-off's plate and get the money back	食い逃げのナンバーを通報してお金を取り戻す
+The drive-thru	ドライブスルー
+Peel {0} more potato to open TaterAngle	あと{0}個ジャガイモをむくとTaterAngleが開きます
+Peel {0} more potatoes to open TaterAngle	あと{0}個ジャガイモをむくとTaterAngleが開きます
+Drive-thru	ドライブスルー
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	ジャガイモを300個むくとドライブスルーの窓口で働けます。ポテトを揚げて、ジャガイモを電子レンジで温めて、それぞれの車が頼んだものをのせ、ソースと一緒に袋に入れて渡しましょう。ポテトは冷めるので揚げ直して、払わずに行く人がいたら防犯カメラでナンバーを通報しましょう。
+TaterAngle is coming soon	TaterAngleはもうすぐ登場
+Missed!	ミス！
+Follow TaterPeeler on Instagram	InstagramでTaterPeelerをフォロー
+Wash the one in the sink first	先にシンクのじゃがいもを洗おう
+Put the clean one in the microwave first	先にきれいなじゃがいもを電子レンジへ
+Tap the potatoes to put one in the sink	じゃがいもをタップしてシンクに入れよう
+Rub it back and forth to wash it	前後にこすって洗おう
+Tap the clean potato in the sink	シンクのきれいなじゃがいもをタップ
+Wash a potato in the sink first	先にシンクでじゃがいもを洗おう
+Clean! Tap it to put it in the microwave	きれいになった！タップして電子レンジへ
+Rub to wash	こすって洗う
+Tap: microwave	タップ：電子レンジ
+Sink	シンク
+Down for maintenance	メンテナンス中
+Down for maintenance for everyone else. You're the owner, so it's open for you	ほかのみんなにはメンテナンス中。オーナーなのであなたは遊べます
+This gamemode is currently down for maintenance. Check again later.	このモードは現在メンテナンス中です。あとでまた確認してね。

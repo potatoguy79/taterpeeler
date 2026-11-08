@@ -700,3 +700,118 @@ Swipe to slice. Don't slice the mouldy ones	Kesmek için kaydır. Küflüleri ke
 Game over	Oyun bitti
 {0} sliced	{0} kesildi
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	200 patates soyunca TaterNinja açılır. Patatesler havaya atılır, sen de kızartma bıçağınla onları kesersin. Bonus için tek hamlede birkaç tane kes ama küflüleri kesme: sadece üç canın var.
+Cheese	Peynir
+Chili	Chili
+Bacon	Pastırma
+Sour cream	Ekşi krema
+Chives	Frenk soğanı
+Cajun	Cajun
+Garlic parm	Sarımsaklı parmesan
+Ketchup	Ketçap
+Ranch	Ranch
+BBQ	Barbekü
+Chili cheese fries	Chili peynirli patates kızartması
+Cheese fries	Peynirli patates kızartması
+Chili fries	Chili patates kızartması
+Cajun fries	Cajun patates kızartması
+Garlic parm fries	Sarımsaklı parmesanlı patates kızartması
+Salted fries	Tuzlu patates kızartması
+Loaded baked potato	Her şeyli fırın patates
+Chili cheese potato	Chili peynirli patates
+Baked potato	Fırın patates
+Hi there!	Merhaba!
+Hey! How's it going?	Selam! Nasıl gidiyor?
+Hello!	Merhaba!
+Hi, can I order?	Selam, sipariş verebilir miyim?
+Hey there!	Selam!
+Good afternoon!	İyi günler!
+Thanks, bye!	Teşekkürler, görüşürüz!
+Drive-off! They didn't pay. Lost {0}	Ödemeden kaçtılar! {0} gitti
+Perfect, thank you!	Mükemmel, teşekkürler!
+Looks great, thanks!	Harika görünüyor, sağ ol!
+Thanks, have a good one!	Teşekkürler, iyi günler!
+Smells amazing. Thank you!	Harika kokuyor. Teşekkürler!
+Hey, you forgot something!	Hey, bir şeyi unuttun!
+Where's my sauce?	Sosum nerede?
+These fries are cold...	Bu patatesler soğuk...
+That's not what I ordered...	Ben bunu sipariş etmedim...
++{0} tip	+{0} bahşiş
+The fries burnt!	Patatesler yandı!
+Hello? Is anyone there?	Alo? Kimse yok mu?
+Forget it, I'm leaving.	Boş ver, gidiyorum.
+They got tired of waiting.	Beklemekten sıkıldılar.
+The fry bin is full	Patates kızartması kabı dolu
+Burnt fries in the trash	Yanmış patatesler çöpe
+Still frying...	Hâlâ kızarıyor...
+Tap the fryer to fry some fries	Patates kızartmak için fritöze dokun
+Wait for the fries	Patatesleri bekle
+Bag what's on the board first	Önce tahtadakini poşete koy
+Those fries are cold. Refry them?	Bu patatesler soğumuş. Tekrar kızartılsın mı?
+The microwave's busy	Mikrodalga meşgul
+Take the potato out first	Önce patatesi çıkar
+Tap the potatoes to put one in	Bir tane koymak için patateslere dokun
+Almost done...	Neredeyse hazır...
+Get fries from the bin or a potato from the microwave	Kaptan kızartma ya da mikrodalgadan patates al
+The bag is full	Poşet dolu
+No one's at the window yet	Pencerede henüz kimse yok
+Wait for the next car	Sonraki arabayı bekle
+Tap the board to bag it first	Poşete koymak için önce tahtaya dokun
+The bag is empty	Poşet boş
+In the trash	Çöpe
+Emptied the bag	Poşet boşaltıldı
+Nothing to throw away	Atılacak bir şey yok
+Put fries or a potato on the board first	Önce tahtaya kızartma ya da patates koy
+That doesn't go on fries	Bu kızartmaya konmaz
+That doesn't go on a baked potato	Bu fırın patatese konmaz
+It already has that	Zaten var
+Order #{0}	Sipariş #{0}
+{0} x{1}	{0} x{1}
+Report plate	Plakayı bildir
+Microwave	Mikrodalga
+Board	Tahta
+Bag	Poşet
+Trash	Çöp
+That's a lot of sauce	Bu çok fazla sos
+Refry	Tekrar kızart
+The fryer's busy	Fritöz meşgul
+Hand out	Teslim et
+Report the plate	Plakayı bildir
+Which plate was it?	Hangi plakaydı?
+That's them! The police got your {0} back.	Onlarmış! Polis {0} paranı geri aldı.
+That wasn't their plate. The money's gone.	Bu onların plakası değildi. Para gitti.
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	Arabalar pencerene gelip sipariş verir. Patates kızart, patatesleri mikrodalgada ısıt, istediklerini ekle, soslarıyla poşete koy ve teslim et. Kızartmalar soğur, o yüzden tekrar kızart. Biri ödemeden kaçarsa plakasını kameradan bildir.
+Best shift {0}	En iyi vardiya {0}
+Shift over	Vardiya bitti
+{0} car served	{0} araba hizmet aldı
+{0} cars served	{0} araba hizmet aldı
+{0} perfect order	{0} mükemmel sipariş
+{0} perfect orders	{0} mükemmel sipariş
+Tips: {0}	Bahşişler: {0}
+Lost to drive-offs: {0}	Ödemeden kaçanlara giden: {0}
+New best shift!	Yeni en iyi vardiya!
+Start shift	Vardiyayı başlat
+Drive-Thru Pro	Arabalı Servis Ustası
+Plate Spotter	Plaka Avcısı
+Take $50 in one TaterAngle shift	Bir TaterAngle vardiyasında 50 $ kazan
+Report a drive-off's plate and get the money back	Ödemeden kaçan birinin plakasını bildir ve parayı geri al
+The drive-thru	Arabalı servis
+Peel {0} more potato to open TaterAngle	TaterAngle'ı açmak için {0} patates daha soy
+Peel {0} more potatoes to open TaterAngle	TaterAngle'ı açmak için {0} patates daha soy
+Drive-thru	Arabalı servis
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	300 patates soy, arabalı servis penceresinde çalışmaya başla. Patates kızart, patatesleri mikrodalgada ısıt, her arabanın istediğini ekle, soslarıyla poşete koy ve teslim et. Kızartmalar soğur, o yüzden tekrar kızart; biri ödemeden kaçarsa plakasını güvenlik kamerasından bildir.
+TaterAngle is coming soon	TaterAngle çok yakında
+Missed!	Kaçırdın!
+Follow TaterPeeler on Instagram	TaterPeeler'ı Instagram'da takip et
+Wash the one in the sink first	Önce lavabodakini yıka
+Put the clean one in the microwave first	Önce temiz olanı mikrodalgaya koy
+Tap the potatoes to put one in the sink	Lavaboya bir tane koymak için patateslere dokun
+Rub it back and forth to wash it	Yıkamak için ileri geri ovala
+Tap the clean potato in the sink	Lavabodaki temiz patatese dokun
+Wash a potato in the sink first	Önce lavaboda bir patates yıka
+Clean! Tap it to put it in the microwave	Temiz! Mikrodalgaya koymak için dokun
+Rub to wash	Yıkamak için ovala
+Tap: microwave	Dokun: mikrodalga
+Sink	Lavabo
+Down for maintenance	Bakımda
+Down for maintenance for everyone else. You're the owner, so it's open for you	Diğer herkes için bakımda. Sahibi sensin, o yüzden sana açık
+This gamemode is currently down for maintenance. Check again later.	Bu oyun modu şu anda bakımda. Daha sonra tekrar bak.

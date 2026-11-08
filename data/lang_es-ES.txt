@@ -700,3 +700,118 @@ Swipe to slice. Don't slice the mouldy ones	Desliza para cortar. No cortes las q
 Game over	Fin de la partida
 {0} sliced	{0} cortadas
 Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Pela 200 patatas y se abre TaterNinja. Lanzan patatas al aire y las cortas con tu cuchillo de patatas fritas. Corta varias de un solo deslizamiento para ganar un bonus, pero no cortes las que tienen moho: solo tienes tres vidas.
+Cheese	Queso
+Chili	Chili
+Bacon	Beicon
+Sour cream	Nata agria
+Chives	Cebollino
+Cajun	Cajún
+Garlic parm	Ajo y parmesano
+Ketchup	Kétchup
+Ranch	Ranch
+BBQ	Barbacoa
+Chili cheese fries	Patatas fritas con chili y queso
+Cheese fries	Patatas fritas con queso
+Chili fries	Patatas fritas con chili
+Cajun fries	Patatas fritas cajún
+Garlic parm fries	Patatas fritas con ajo y parmesano
+Salted fries	Patatas fritas con sal
+Loaded baked potato	Patata asada completa
+Chili cheese potato	Patata con chili y queso
+Baked potato	Patata asada
+Hi there!	¡Hola!
+Hey! How's it going?	¡Ey! ¿Qué tal?
+Hello!	¡Hola!
+Hi, can I order?	Hola, ¿puedo pedir?
+Hey there!	¡Buenas!
+Good afternoon!	¡Buenas tardes!
+Thanks, bye!	¡Gracias, adiós!
+Drive-off! They didn't pay. Lost {0}	¡Se han ido sin pagar! Has perdido {0}
+Perfect, thank you!	¡Perfecto, gracias!
+Looks great, thanks!	¡Tiene una pinta genial, gracias!
+Thanks, have a good one!	¡Gracias, que vaya bien!
+Smells amazing. Thank you!	Huele de maravilla. ¡Gracias!
+Hey, you forgot something!	¡Oye, te has olvidado algo!
+Where's my sauce?	¿Y mi salsa?
+These fries are cold...	Estas patatas están frías...
+That's not what I ordered...	Esto no es lo que he pedido...
++{0} tip	+{0} de propina
+The fries burnt!	¡Se han quemado las patatas!
+Hello? Is anyone there?	¿Hola? ¿Hay alguien?
+Forget it, I'm leaving.	Déjalo, me voy.
+They got tired of waiting.	Se han cansado de esperar.
+The fry bin is full	La bandeja de patatas está llena
+Burnt fries in the trash	Patatas quemadas a la basura
+Still frying...	Todavía se están friendo...
+Tap the fryer to fry some fries	Toca la freidora para freír patatas
+Wait for the fries	Espera a que estén las patatas
+Bag what's on the board first	Primero mete en la bolsa lo que hay en la tabla
+Those fries are cold. Refry them?	Esas patatas están frías. ¿Las vuelves a freír?
+The microwave's busy	El microondas está ocupado
+Take the potato out first	Primero saca la patata
+Tap the potatoes to put one in	Toca las patatas para meter una
+Almost done...	Casi listo...
+Get fries from the bin or a potato from the microwave	Coge patatas fritas de la bandeja o una patata del microondas
+The bag is full	La bolsa está llena
+No one's at the window yet	Todavía no hay nadie en la ventanilla
+Wait for the next car	Espera al siguiente coche
+Tap the board to bag it first	Primero toca la tabla para meterlo en la bolsa
+The bag is empty	La bolsa está vacía
+In the trash	A la basura
+Emptied the bag	Bolsa vaciada
+Nothing to throw away	No hay nada que tirar
+Put fries or a potato on the board first	Primero pon patatas fritas o una patata en la tabla
+That doesn't go on fries	Eso no va en las patatas fritas
+That doesn't go on a baked potato	Eso no va en una patata asada
+It already has that	Ya lleva eso
+Order #{0}	Pedido #{0}
+{0} x{1}	{0} x{1}
+Report plate	Denunciar matrícula
+Microwave	Microondas
+Board	Tabla
+Bag	Bolsa
+Trash	Basura
+That's a lot of sauce	Eso es mucha salsa
+Refry	Refreír
+The fryer's busy	La freidora está ocupada
+Hand out	Entregar
+Report the plate	Denuncia la matrícula
+Which plate was it?	¿Qué matrícula era?
+That's them! The police got your {0} back.	¡Son ellos! La policía ha recuperado tus {0}.
+That wasn't their plate. The money's gone.	Esa no era su matrícula. El dinero se ha perdido.
+Cars pull up to your window and order. Fry fries, microwave potatoes, add what they asked for, bag it with their sauces and hand it out. Fries go cold, so refry them. If someone drives off without paying, report their plate from the camera.	Los coches llegan a tu ventanilla y piden. Fríe patatas, calienta patatas en el microondas, ponles lo que han pedido, mételo en la bolsa con sus salsas y entrégalo. Las patatas se enfrían, así que vuelve a freírlas. Si alguien se va sin pagar, denuncia su matrícula con la cámara.
+Best shift {0}	Mejor turno {0}
+Shift over	Fin del turno
+{0} car served	{0} coche atendido
+{0} cars served	{0} coches atendidos
+{0} perfect order	{0} pedido perfecto
+{0} perfect orders	{0} pedidos perfectos
+Tips: {0}	Propinas: {0}
+Lost to drive-offs: {0}	Perdido por los que se han ido sin pagar: {0}
+New best shift!	¡Nuevo mejor turno!
+Start shift	Empezar turno
+Drive-Thru Pro	Pro del autoservicio
+Plate Spotter	Ojo de matrícula
+Take $50 in one TaterAngle shift	Gana 50 $ en un turno de TaterAngle
+Report a drive-off's plate and get the money back	Denuncia la matrícula de alguien que se ha ido sin pagar y recupera el dinero
+The drive-thru	El autoservicio
+Peel {0} more potato to open TaterAngle	Pela {0} patata más para abrir TaterAngle
+Peel {0} more potatoes to open TaterAngle	Pela {0} patatas más para abrir TaterAngle
+Drive-thru	Autoservicio
+Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Pela 300 patatas y te toca atender la ventanilla del autoservicio. Fríe patatas, calienta patatas en el microondas, ponles lo que ha pedido cada coche, mételo en la bolsa con sus salsas y entrégalo. Las patatas se enfrían, así que vuelve a freírlas, y si alguien se va sin pagar, denuncia su matrícula con la cámara de seguridad.
+TaterAngle is coming soon	TaterAngle llega pronto
+Missed!	¡Se te escapó!
+Follow TaterPeeler on Instagram	Sigue a TaterPeeler en Instagram
+Wash the one in the sink first	Lava primero la que está en el fregadero
+Put the clean one in the microwave first	Mete primero la limpia en el microondas
+Tap the potatoes to put one in the sink	Toca las patatas para poner una en el fregadero
+Rub it back and forth to wash it	Frótala de un lado a otro para lavarla
+Tap the clean potato in the sink	Toca la patata limpia del fregadero
+Wash a potato in the sink first	Lava primero una patata en el fregadero
+Clean! Tap it to put it in the microwave	¡Limpia! Tócala para meterla en el microondas
+Rub to wash	Frota para lavar
+Tap: microwave	Toca: microondas
+Sink	Fregadero
+Down for maintenance	En mantenimiento
+Down for maintenance for everyone else. You're the owner, so it's open for you	En mantenimiento para los demás. Eres el dueño, así que para ti está abierto
+This gamemode is currently down for maintenance. Check again later.	Este modo de juego está en mantenimiento. Vuelve a mirar más tarde.
