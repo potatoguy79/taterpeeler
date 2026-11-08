@@ -51,4 +51,4 @@ maintenance message: This gamemode is currently down for maintenance. Check agai
 #   up the relay (see server/relay/README.txt). Then paste its address here, for example:
 #   relay: https://script.google.com/macros/s/AKfy.../exec
 #   👉👉👉  change the next line  👇
-relay:
+relay: https://script.google.com/macros/s/AKfycbxw96gr9N3pH3XLA6zMnVcF9XRzwDMaCOvNWzIg7Pu1zKL2UX5NEWPmLLIHNKVs7x7m2w/exec
