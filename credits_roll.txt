@@ -47,4 +47,4 @@ Archivo by Omnibus-Type
 Henry Lopez, Johnathan Avitia, Diego Gutteriez
 
 [Feature and bug reports]
-Daniel Neggrete, Daniel Lopez, Johnathan Avitia, Ricardo Cabrales and others
+Daniel Neggrete, Daniel Lopez, Daniel Gomez Johnathan Avitia, Ricardo Cabrales and others
