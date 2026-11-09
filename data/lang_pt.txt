@@ -886,3 +886,5 @@ It's a tie!	Empate!
 That's not a room code	Isso não é um código de sala
 Room codes are 5 letters, like SPUDS.	Códigos de sala têm 5 letras, como SPUDS.
 Play a different game	Jogar outro jogo
+{0}, your opponent, left the game	{0}, seu adversário, saiu do jogo
+{0} left the game	{0} saiu do jogo

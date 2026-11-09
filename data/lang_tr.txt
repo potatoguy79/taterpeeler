@@ -886,3 +886,5 @@ It's a tie!	Berabere!
 That's not a room code	Bu bir oda kodu değil
 Room codes are 5 letters, like SPUDS.	Oda kodları 5 harflidir, örneğin SPUDS.
 Play a different game	Başka bir oyun oyna
+{0}, your opponent, left the game	Rakibin {0} oyundan çıktı
+{0} left the game	{0} oyundan çıktı

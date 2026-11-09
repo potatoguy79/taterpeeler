@@ -886,3 +886,5 @@ It's a tie!	平局！
 That's not a room code	这不是房间代码
 Room codes are 5 letters, like SPUDS.	房间代码是 5 个字母，比如 SPUDS。
 Play a different game	玩另一个游戏
+{0}, your opponent, left the game	你的对手 {0} 离开了游戏
+{0} left the game	{0} 离开了游戏
