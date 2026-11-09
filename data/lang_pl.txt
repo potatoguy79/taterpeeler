@@ -903,3 +903,4 @@ It's a tie!	Remis!
 {0} wins	Wygrywa {0}
 That's not a room code	To nie jest kod pokoju
 Room codes are 5 letters, like SPUDS.	Kody pokoi mają 5 liter, np. SPUDS.
+Play a different game	Zagraj w inną grę

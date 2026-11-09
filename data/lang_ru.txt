@@ -903,3 +903,4 @@ It's a tie!	Ничья!
 {0} wins	{0} побеждает
 That's not a room code	Это не код комнаты
 Room codes are 5 letters, like SPUDS.	Коды комнат из 5 букв, например SPUDS.
+Play a different game	Сыграть в другую игру

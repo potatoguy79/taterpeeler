@@ -885,3 +885,4 @@ It's a tie!	Unentschieden!
 {0} wins	{0} gewinnt
 That's not a room code	Das ist kein Raumcode
 Room codes are 5 letters, like SPUDS.	Raumcodes haben 5 Buchstaben, wie SPUDS.
+Play a different game	Ein anderes Spiel spielen

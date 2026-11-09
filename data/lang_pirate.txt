@@ -885,3 +885,4 @@ It's a tie!	A draw!
 {0} wins	{0} wins
 That's not a room code	That ain't a cabin code
 Room codes are 5 letters, like SPUDS.	Cabin codes be 5 letters, like SPUDS.
+Play a different game	Play a different game, arr

@@ -885,3 +885,4 @@ It's a tie!	Égalité !
 {0} wins	{0} gagne
 That's not a room code	Ce n'est pas un code de salon
 Room codes are 5 letters, like SPUDS.	Les codes de salon font 5 lettres, comme SPUDS.
+Play a different game	Jouer à un autre jeu

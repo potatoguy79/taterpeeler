@@ -885,3 +885,4 @@ It's a tie!	무승부!
 {0} wins	{0} 승리
 That's not a room code	방 코드가 아니에요
 Room codes are 5 letters, like SPUDS.	방 코드는 SPUDS처럼 5글자예요.
+Play a different game	다른 게임 하기
