@@ -103,6 +103,11 @@
     }).then(function (perm) { if (perm === 'granted') subscribe(); });
   }
 
+  /* the game's Settings: a "Turn on notifications" button while they're off */
+  window.TP_PUSH = {
+    state: function () { var p = Notification.permission; return p === 'granted' ? 3 : p === 'denied' ? 2 : 1; },
+    ask: function () { if (Notification.permission === 'granted') subscribe(); else ask(); }
+  };
   if (Notification.permission === 'granted') subscribe();
   else if (Notification.permission === 'default') {
     var chromium = !!(navigator.userAgentData && navigator.userAgentData.brands);

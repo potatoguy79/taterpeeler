@@ -833,3 +833,7 @@ Sink	Раковина
 Down for maintenance	На обслуживании
 Down for maintenance for everyone else. You're the owner, so it's open for you	Для всех остальных — на обслуживании. Ты владелец, поэтому для тебя открыто
 This gamemode is currently down for maintenance. Check again later.	Этот режим сейчас на обслуживании. Загляни позже.
+Turn on notifications	Включить уведомления
+Hear about updates and news, even when the game is closed	Узнавай об обновлениях и новостях, даже когда игра закрыта
+Notifications are blocked	Уведомления заблокированы
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Этот браузер блокирует уведомления от TaterPeeler. Чтобы включить их, разреши уведомления для этого сайта в настройках браузера.

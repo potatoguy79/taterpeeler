@@ -815,3 +815,7 @@ Sink	Lavabo
 Down for maintenance	Bakımda
 Down for maintenance for everyone else. You're the owner, so it's open for you	Diğer herkes için bakımda. Sahibi sensin, o yüzden sana açık
 This gamemode is currently down for maintenance. Check again later.	Bu oyun modu şu anda bakımda. Daha sonra tekrar bak.
+Turn on notifications	Bildirimleri aç
+Hear about updates and news, even when the game is closed	Oyun kapalıyken bile güncellemelerden ve haberlerden haberdar ol
+Notifications are blocked	Bildirimler engellendi
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Bu tarayıcı TaterPeeler bildirimlerini engelliyor. Açmak için tarayıcı ayarlarından bu siteye bildirim izni ver.

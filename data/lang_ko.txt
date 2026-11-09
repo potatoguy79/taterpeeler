@@ -815,3 +815,7 @@ Sink	싱크대
 Down for maintenance	점검 중
 Down for maintenance for everyone else. You're the owner, so it's open for you	다른 사람에게는 점검 중이에요. 주인이라서 당신에게는 열려 있어요
 This gamemode is currently down for maintenance. Check again later.	이 게임 모드는 현재 점검 중이에요. 나중에 다시 확인해 주세요.
+Turn on notifications	알림 켜기
+Hear about updates and news, even when the game is closed	게임을 닫아도 업데이트와 소식을 받아요
+Notifications are blocked	알림이 차단되어 있어요
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	이 브라우저가 TaterPeeler 알림을 차단하고 있어요. 켜려면 브라우저 설정에서 이 사이트의 알림을 허용하세요.

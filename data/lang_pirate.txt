@@ -815,3 +815,7 @@ Sink	Sink
 Down for maintenance	Down for repairs
 Down for maintenance for everyone else. You're the owner, so it's open for you	Down for repairs for the rest o' the crew. Ye be the captain, so it's open for ye
 This gamemode is currently down for maintenance. Check again later.	This game mode be down for repairs, matey. Check back later.
+Turn on notifications	Hoist the notifications
+Hear about updates and news, even when the game is closed	Hear o' updates an' news, even when the game be closed
+Notifications are blocked	Notifications be blocked
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	This here browser be blockin' notifications from TaterPeeler. To turn 'em on, allow notifications fer this site in yer browser's settings.

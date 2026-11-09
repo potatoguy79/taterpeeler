@@ -815,3 +815,7 @@ Sink	シンク
 Down for maintenance	メンテナンス中
 Down for maintenance for everyone else. You're the owner, so it's open for you	ほかのみんなにはメンテナンス中。オーナーなのであなたは遊べます
 This gamemode is currently down for maintenance. Check again later.	このモードは現在メンテナンス中です。あとでまた確認してね。
+Turn on notifications	通知をオンにする
+Hear about updates and news, even when the game is closed	ゲームを閉じていてもアップデートやお知らせが届きます
+Notifications are blocked	通知がブロックされています
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	このブラウザはTaterPeelerからの通知をブロックしています。オンにするには、ブラウザの設定でこのサイトの通知を許可してください。

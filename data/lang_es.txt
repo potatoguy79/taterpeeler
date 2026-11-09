@@ -815,3 +815,7 @@ Sink	Fregadero
 Down for maintenance	En mantenimiento
 Down for maintenance for everyone else. You're the owner, so it's open for you	En mantenimiento para los demás. Eres el dueño, así que para ti está abierto
 This gamemode is currently down for maintenance. Check again later.	Este modo de juego está en mantenimiento. Vuelve a revisar más tarde.
+Turn on notifications	Activar notificaciones
+Hear about updates and news, even when the game is closed	Entérate de actualizaciones y novedades, incluso con el juego cerrado
+Notifications are blocked	Las notificaciones están bloqueadas
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Este navegador bloquea las notificaciones de TaterPeeler. Para activarlas, permite las notificaciones de este sitio en la configuración de tu navegador.

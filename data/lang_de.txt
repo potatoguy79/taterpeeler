@@ -815,3 +815,7 @@ Sink	Spüle
 Down for maintenance	Wird gewartet
 Down for maintenance for everyone else. You're the owner, so it's open for you	Für alle anderen wird gewartet. Du bist der Besitzer, also ist es für dich offen
 This gamemode is currently down for maintenance. Check again later.	Dieser Spielmodus wird gerade gewartet. Schau später wieder vorbei.
+Turn on notifications	Benachrichtigungen einschalten
+Hear about updates and news, even when the game is closed	Erfahre von Updates und Neuigkeiten, auch wenn das Spiel geschlossen ist
+Notifications are blocked	Benachrichtigungen sind blockiert
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Dieser Browser blockiert Benachrichtigungen von TaterPeeler. Um sie einzuschalten, erlaube Benachrichtigungen für diese Seite in den Einstellungen deines Browsers.

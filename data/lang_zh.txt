@@ -815,3 +815,7 @@ Sink	水槽
 Down for maintenance	维护中
 Down for maintenance for everyone else. You're the owner, so it's open for you	对其他人来说正在维护。你是主人，所以对你开放
 This gamemode is currently down for maintenance. Check again later.	此游戏模式正在维护中。请稍后再来看看。
+Turn on notifications	开启通知
+Hear about updates and news, even when the game is closed	即使游戏关着，也能收到更新和消息
+Notifications are blocked	通知已被屏蔽
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	这个浏览器屏蔽了 TaterPeeler 的通知。要开启，请在浏览器设置里允许这个网站发送通知。

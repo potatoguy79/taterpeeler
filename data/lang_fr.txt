@@ -815,3 +815,7 @@ Sink	Évier
 Down for maintenance	En maintenance
 Down for maintenance for everyone else. You're the owner, so it's open for you	En maintenance pour tous les autres. Tu es le propriétaire, alors c'est ouvert pour toi
 This gamemode is currently down for maintenance. Check again later.	Ce mode de jeu est en maintenance. Reviens plus tard.
+Turn on notifications	Activer les notifications
+Hear about updates and news, even when the game is closed	Sois au courant des mises à jour et des nouveautés, même jeu fermé
+Notifications are blocked	Les notifications sont bloquées
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Ce navigateur bloque les notifications de TaterPeeler. Pour les activer, autorise les notifications pour ce site dans les réglages de ton navigateur.

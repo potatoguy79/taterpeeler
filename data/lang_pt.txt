@@ -815,3 +815,7 @@ Sink	Pia
 Down for maintenance	Em manutenção
 Down for maintenance for everyone else. You're the owner, so it's open for you	Em manutenção para os outros. Você é o dono, então está aberto para você
 This gamemode is currently down for maintenance. Check again later.	Este modo de jogo está em manutenção. Volte mais tarde.
+Turn on notifications	Ativar notificações
+Hear about updates and news, even when the game is closed	Fique sabendo das atualizações e novidades, mesmo com o jogo fechado
+Notifications are blocked	As notificações estão bloqueadas
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Este navegador está bloqueando as notificações do TaterPeeler. Para ativá-las, permita notificações deste site nas configurações do navegador.

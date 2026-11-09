@@ -833,3 +833,7 @@ Sink	Zlew
 Down for maintenance	Przerwa techniczna
 Down for maintenance for everyone else. You're the owner, so it's open for you	Dla innych trwa przerwa techniczna. Jesteś właścicielem, więc dla ciebie jest otwarte
 This gamemode is currently down for maintenance. Check again later.	Ten tryb gry ma teraz przerwę techniczną. Zajrzyj później.
+Turn on notifications	Włącz powiadomienia
+Hear about updates and news, even when the game is closed	Dowiaduj się o aktualizacjach i nowościach, nawet gdy gra jest zamknięta
+Notifications are blocked	Powiadomienia są zablokowane
+This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Ta przeglądarka blokuje powiadomienia od TaterPeeler. Aby je włączyć, zezwól na powiadomienia dla tej strony w ustawieniach przeglądarki.
