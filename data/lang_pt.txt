@@ -640,7 +640,7 @@ Start	Iniciar
 That photo couldn't be opened. Try a JPG or PNG photo	Não deu para abrir essa foto. Tente uma foto JPG ou PNG
 potatoes peeled. The fry station is open.	batatas descascadas. A fritadeira está aberta.
 potatoes peeled. TaterNinja is open.	batatas descascadas. O TaterNinja está aberto.
-potatoes peeled. TaterAngle is open.	batatas descascadas. O TaterAngle está aberto.
+potatoes peeled. TaterCorner is open.	batatas descascadas. O TaterCorner está aberto.
 About {0} kg of potatoes	Uns {0} kg de batatas
 {0} hour of peeling	{0} hora descascando
 {0} hours of peeling	{0} horas descascando
@@ -792,14 +792,14 @@ New best shift!	Novo melhor turno!
 Start shift	Começar turno
 Drive-Thru Pro	Mestre do drive-thru
 Plate Spotter	Olho na placa
-Take $50 in one TaterAngle shift	Fature US$ 50 em um turno do TaterAngle
+Take $50 in one TaterCorner shift	Fature US$ 50 em um turno do TaterCorner
 Report a drive-off's plate and get the money back	Denuncie a placa de alguém que foi embora sem pagar e recupere o dinheiro
 The drive-thru	O drive-thru
-Peel {0} more potato to open TaterAngle	Descasque mais {0} batata para abrir o TaterAngle
-Peel {0} more potatoes to open TaterAngle	Descasque mais {0} batatas para abrir o TaterAngle
+Peel {0} more potato to open TaterCorner	Descasque mais {0} batata para abrir o TaterCorner
+Peel {0} more potatoes to open TaterCorner	Descasque mais {0} batatas para abrir o TaterCorner
 Drive-thru	Drive-thru
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Descasque 300 batatas e você vai trabalhar na janela do drive-thru. Frite batatas, esquente batatas no micro-ondas, coloque o que cada carro pediu, ponha no saco com os molhos e entregue. As batatas esfriam, então frite de novo, e se alguém for embora sem pagar, denuncie a placa pela câmera de segurança.
-TaterAngle is coming soon	TaterAngle chega em breve
+TaterCorner is coming soon	TaterCorner chega em breve
 Missed!	Perdeu!
 Follow TaterPeeler on Instagram	Siga o TaterPeeler no Instagram
 Wash the one in the sink first	Lave primeiro a que está na pia
@@ -819,3 +819,69 @@ Turn on notifications	Ativar notificações
 Hear about updates and news, even when the game is closed	Fique sabendo das atualizações e novidades, mesmo com o jogo fechado
 Notifications are blocked	As notificações estão bloqueadas
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Este navegador está bloqueando as notificações do TaterPeeler. Para ativá-las, permita notificações deste site nas configurações do navegador.
+Leave	Sair
+Back to the room	Voltar à sala
+Leaves this match	Sai desta partida
+Race to peel	Corrida de descascar
+Most points	Mais pontos
+Most fries	Mais batatas fritas
+Most sliced	Mais cortadas
+Best shift	Melhor turno
+No room with that code	Nenhuma sala com esse código
+That room is full	Essa sala está cheia
+Typed chat is only in private rooms	O chat digitado é só em salas privadas
+That room is playing a game this version doesn't have. Update TaterPeeler	Essa sala está jogando algo que esta versão não tem. Atualize o TaterPeeler
+First to peel {0} potatoes wins	Ganha quem descascar {0} batatas primeiro
+Most potatoes peeled in {0} wins	Ganha quem descascar mais batatas em {0}
+Peel until the host ends it	Descasque até o anfitrião encerrar
+Most points in {0} wins	Ganha quem fizer mais pontos em {0}
+First to {0} fries wins	Ganha quem chegar primeiro a {0} batatas fritas
+Most fries in {0} wins	Ganha quem fizer mais batatas fritas em {0}
+Most points in {0} wins. Out of lives? You're done	Ganha quem fizer mais pontos em {0}. Sem vidas? Você terminou
+One shift. Whoever makes the most money wins	Um turno. Ganha quem ganhar mais dinheiro
+Looking for the room...	Procurando a sala...
+You left the room	Você saiu da sala
+Lost the connection to the room	A conexão com a sala caiu
+Locked	Bloqueado
+Peel {0} more potatoes to open {1}	Descasque mais {0} batatas para abrir {1}
+Play someone online, one on one. Pick a game:	Jogue online, um contra um. Escolha um jogo:
+Find an opponent	Achar um adversário
+Play with friends	Jogar com amigos
+Make a room and send your friends its code, or join theirs. Up to 6 players.	Crie uma sala e mande o código para os amigos, ou entre na deles. Até 6 jogadores.
+Make a room	Criar uma sala
+The room's code	O código da sala
+Public rooms	Salas públicas
+None open right now	Nenhuma aberta agora
+{0}'s room	Sala de {0}
+Typed chat is only in private rooms.	O chat digitado é só em salas privadas.
+1v1 · {0}	1v1 · {0}
+Finding an opponent	Procurando um adversário
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	Ninguém ainda. Peça a um amigo para escolher 1v1 e o mesmo jogo, ou crie uma sala e mande o código.
+The match is on	A partida está rolando
+Get ready...	Prepare-se...
+Back to the match	Voltar à partida
+Last match: a tie	Última partida: empate
+Last match: you won	Última partida: você ganhou
+Last match: they won	Última partida: eles ganharam
+Waiting for them...	Esperando por eles...
+They want a rematch!	Eles querem revanche!
+Rematch	Revanche
+Tap to play again	Toque para jogar de novo
+New opponent	Novo adversário
+Public room. Anyone can join, or use the code	Sala pública. Qualquer um pode entrar, ou use o código
+Send your friends this code to join	Mande este código para os amigos entrarem
+Pick the game	Escolha o jogo
+The game	O jogo
+Back to picking a game	Voltar à escolha do jogo
+Leave room	Sair da sala
+Room	Sala
+Get ready	Prepare-se
+You vs {0}	Você contra {0}
+Out of lives!	Sem vidas!
+Shift over!	Turno acabou!
+Time's up!	Acabou o tempo!
+Waiting for the others	Esperando os outros
+It's a tie!	Empate!
+{0} wins	{0} ganhou
+That's not a room code	Isso não é um código de sala
+Room codes are 5 letters, like SPUDS.	Códigos de sala têm 5 letras, como SPUDS.

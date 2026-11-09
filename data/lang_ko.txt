@@ -640,7 +640,7 @@ Start	시작
 That photo couldn't be opened. Try a JPG or PNG photo	그 사진을 열 수 없어요. JPG나 PNG 사진으로 해 보세요
 potatoes peeled. The fry station is open.	개의 감자를 깎았어요. 감자튀김 코너가 열렸어요.
 potatoes peeled. TaterNinja is open.	개의 감자를 깎았어요. TaterNinja가 열렸어요.
-potatoes peeled. TaterAngle is open.	개의 감자를 깎았어요. TaterAngle이 열렸어요.
+potatoes peeled. TaterCorner is open.	개의 감자를 깎았어요. TaterCorner이 열렸어요.
 About {0} kg of potatoes	감자 약 {0}kg
 {0} hour of peeling	깎은 시간 {0}시간
 {0} hours of peeling	깎은 시간 {0}시간
@@ -792,14 +792,14 @@ New best shift!	최고 근무 기록!
 Start shift	근무 시작
 Drive-Thru Pro	드라이브스루 프로
 Plate Spotter	번호판 탐정
-Take $50 in one TaterAngle shift	TaterAngle 한 번 근무에 50달러 벌기
+Take $50 in one TaterCorner shift	TaterCorner 한 번 근무에 50달러 벌기
 Report a drive-off's plate and get the money back	먹튀 차량 번호판을 신고해서 돈 되찾기
 The drive-thru	드라이브스루
-Peel {0} more potato to open TaterAngle	감자를 {0}개 더 깎으면 TaterAngle이 열려요
-Peel {0} more potatoes to open TaterAngle	감자를 {0}개 더 깎으면 TaterAngle이 열려요
+Peel {0} more potato to open TaterCorner	감자를 {0}개 더 깎으면 TaterCorner이 열려요
+Peel {0} more potatoes to open TaterCorner	감자를 {0}개 더 깎으면 TaterCorner이 열려요
 Drive-thru	드라이브스루
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	감자를 300개 깎으면 드라이브스루 창구에서 일할 수 있어요. 감자튀김을 튀기고, 감자를 전자레인지에 데우고, 차마다 주문한 걸 올려서 소스와 함께 봉투에 담아 건네주세요. 감자튀김은 식으니까 다시 튀기고, 돈을 안 내고 가 버리면 보안 카메라로 번호판을 신고하세요.
-TaterAngle is coming soon	TaterAngle 곧 출시
+TaterCorner is coming soon	TaterCorner 곧 출시
 Missed!	놓쳤다!
 Follow TaterPeeler on Instagram	Instagram에서 TaterPeeler 팔로우
 Wash the one in the sink first	먼저 싱크대의 감자를 씻어요
@@ -819,3 +819,69 @@ Turn on notifications	알림 켜기
 Hear about updates and news, even when the game is closed	게임을 닫아도 업데이트와 소식을 받아요
 Notifications are blocked	알림이 차단되어 있어요
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	이 브라우저가 TaterPeeler 알림을 차단하고 있어요. 켜려면 브라우저 설정에서 이 사이트의 알림을 허용하세요.
+Leave	나가기
+Back to the room	방으로 돌아가기
+Leaves this match	이 경기에서 나가요
+Race to peel	껍질 벗기기 경주
+Most points	최고 점수
+Most fries	감자튀김 최다
+Most sliced	최다 자르기
+Best shift	최고의 근무
+No room with that code	그 코드의 방이 없어요
+That room is full	방이 꽉 찼어요
+Typed chat is only in private rooms	채팅 입력은 비공개 방에서만 돼요
+That room is playing a game this version doesn't have. Update TaterPeeler	그 방은 이 버전에 없는 게임을 하고 있어요. TaterPeeler를 업데이트하세요
+First to peel {0} potatoes wins	감자 {0}개를 먼저 깎으면 승리
+Most potatoes peeled in {0} wins	{0} 동안 감자를 가장 많이 깎으면 승리
+Peel until the host ends it	방장이 끝낼 때까지 깎기
+Most points in {0} wins	{0} 동안 점수가 가장 높으면 승리
+First to {0} fries wins	감자튀김 {0}개를 먼저 만들면 승리
+Most fries in {0} wins	{0} 동안 감자튀김을 가장 많이 만들면 승리
+Most points in {0} wins. Out of lives? You're done	{0} 동안 점수가 가장 높으면 승리. 목숨이 다 떨어지면 끝
+One shift. Whoever makes the most money wins	근무 한 번. 돈을 가장 많이 벌면 승리
+Looking for the room...	방을 찾는 중...
+You left the room	방에서 나갔어요
+Lost the connection to the room	방과 연결이 끊겼어요
+Locked	잠김
+Peel {0} more potatoes to open {1}	감자를 {0}개 더 깎으면 {1}이 열려요
+Play someone online, one on one. Pick a game:	온라인 일대일. 게임을 고르세요:
+Find an opponent	상대 찾기
+Play with friends	친구와 하기
+Make a room and send your friends its code, or join theirs. Up to 6 players.	방을 만들고 코드를 친구에게 보내거나 친구 방에 들어가요. 최대 6명.
+Make a room	방 만들기
+The room's code	방 코드
+Public rooms	공개 방
+None open right now	지금 열린 방이 없어요
+{0}'s room	{0}의 방
+Typed chat is only in private rooms.	채팅 입력은 비공개 방에서만 돼요.
+1v1 · {0}	1v1 · {0}
+Finding an opponent	상대를 찾는 중
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	아직 아무도 없어요. 친구에게 1v1과 같은 게임을 고르라고 하거나 방을 만들어 코드를 보내세요.
+The match is on	경기 중
+Get ready...	준비하세요...
+Back to the match	경기로 돌아가기
+Last match: a tie	지난 경기: 무승부
+Last match: you won	지난 경기: 승리
+Last match: they won	지난 경기: 패배
+Waiting for them...	상대를 기다리는 중...
+They want a rematch!	상대가 재대결을 원해요!
+Rematch	재대결
+Tap to play again	눌러서 다시 하기
+New opponent	새 상대
+Public room. Anyone can join, or use the code	공개 방. 누구나 들어오거나 코드를 쓸 수 있어요
+Send your friends this code to join	친구에게 이 코드를 보내세요
+Pick the game	게임 고르기
+The game	게임
+Back to picking a game	게임 고르기로 돌아가기
+Leave room	방 나가기
+Room	방
+Get ready	준비하세요
+You vs {0}	나 vs {0}
+Out of lives!	목숨이 다 떨어졌어요!
+Shift over!	근무 끝!
+Time's up!	시간 끝!
+Waiting for the others	다른 사람을 기다리는 중
+It's a tie!	무승부!
+{0} wins	{0} 승리
+That's not a room code	방 코드가 아니에요
+Room codes are 5 letters, like SPUDS.	방 코드는 SPUDS처럼 5글자예요.

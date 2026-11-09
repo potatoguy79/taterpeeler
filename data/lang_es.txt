@@ -640,7 +640,7 @@ Start	Iniciar
 That photo couldn't be opened. Try a JPG or PNG photo	No se pudo abrir esa foto. Prueba con una foto JPG o PNG
 potatoes peeled. The fry station is open.	papas peladas. La freidora está abierta.
 potatoes peeled. TaterNinja is open.	papas peladas. TaterNinja está abierto.
-potatoes peeled. TaterAngle is open.	papas peladas. TaterAngle está abierto.
+potatoes peeled. TaterCorner is open.	papas peladas. TaterCorner está abierto.
 About {0} kg of potatoes	Unos {0} kg de papas
 {0} hour of peeling	{0} hora pelando
 {0} hours of peeling	{0} horas pelando
@@ -792,14 +792,14 @@ New best shift!	¡Nuevo mejor turno!
 Start shift	Empezar turno
 Drive-Thru Pro	Pro del autoservicio
 Plate Spotter	Ojo de placa
-Take $50 in one TaterAngle shift	Junta $50 en un turno de TaterAngle
+Take $50 in one TaterCorner shift	Junta $50 en un turno de TaterCorner
 Report a drive-off's plate and get the money back	Reporta la placa de alguien que se fue sin pagar y recupera el dinero
 The drive-thru	El autoservicio
-Peel {0} more potato to open TaterAngle	Pela {0} papa más para abrir TaterAngle
-Peel {0} more potatoes to open TaterAngle	Pela {0} papas más para abrir TaterAngle
+Peel {0} more potato to open TaterCorner	Pela {0} papa más para abrir TaterCorner
+Peel {0} more potatoes to open TaterCorner	Pela {0} papas más para abrir TaterCorner
 Drive-thru	Autoservicio
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Pela 300 papas y te toca atender la ventanilla del autoservicio. Fríe papas, calienta papas en el microondas, ponles lo que pidió cada carro, mételo en la bolsa con sus salsas y entrégalo. Las papas se enfrían, así que vuelve a freírlas, y si alguien se va sin pagar, reporta su placa con la cámara de seguridad.
-TaterAngle is coming soon	TaterAngle llega pronto
+TaterCorner is coming soon	TaterCorner llega pronto
 Missed!	¡Se te escapó!
 Follow TaterPeeler on Instagram	Sigue a TaterPeeler en Instagram
 Wash the one in the sink first	Lava primero la que está en el fregadero
@@ -819,3 +819,69 @@ Turn on notifications	Activar notificaciones
 Hear about updates and news, even when the game is closed	Entérate de actualizaciones y novedades, incluso con el juego cerrado
 Notifications are blocked	Las notificaciones están bloqueadas
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Este navegador bloquea las notificaciones de TaterPeeler. Para activarlas, permite las notificaciones de este sitio en la configuración de tu navegador.
+Leave	Salir
+Back to the room	Volver a la sala
+Leaves this match	Sales de esta partida
+Race to peel	Carrera de pelar
+Most points	Más puntos
+Most fries	Más papas fritas
+Most sliced	Más cortadas
+Best shift	Mejor turno
+No room with that code	No hay ninguna sala con ese código
+That room is full	Esa sala está llena
+Typed chat is only in private rooms	El chat escrito es solo para salas privadas
+That room is playing a game this version doesn't have. Update TaterPeeler	Esa sala juega a algo que esta versión no tiene. Actualiza TaterPeeler
+First to peel {0} potatoes wins	Gana quien pele primero {0} papas
+Most potatoes peeled in {0} wins	Gana quien pele más papas en {0}
+Peel until the host ends it	Pelar hasta que el anfitrión lo termine
+Most points in {0} wins	Gana quien haga más puntos en {0}
+First to {0} fries wins	Gana quien llegue primero a {0} papas fritas
+Most fries in {0} wins	Gana quien haga más papas fritas en {0}
+Most points in {0} wins. Out of lives? You're done	Gana quien haga más puntos en {0}. ¿Sin vidas? Terminaste
+One shift. Whoever makes the most money wins	Un turno. Gana quien gane más dinero
+Looking for the room...	Buscando la sala...
+You left the room	Saliste de la sala
+Lost the connection to the room	Se perdió la conexión con la sala
+Locked	Bloqueado
+Peel {0} more potatoes to open {1}	Pela {0} papas más para abrir {1}
+Play someone online, one on one. Pick a game:	Juega en línea, uno contra uno. Elige un juego:
+Find an opponent	Buscar rival
+Play with friends	Jugar con amigos
+Make a room and send your friends its code, or join theirs. Up to 6 players.	Crea una sala y manda el código a tus amigos, o únete a la suya. Hasta 6 jugadores.
+Make a room	Crear una sala
+The room's code	El código de la sala
+Public rooms	Salas públicas
+None open right now	Ninguna abierta ahora
+{0}'s room	Sala de {0}
+Typed chat is only in private rooms.	El chat escrito es solo para salas privadas.
+1v1 · {0}	1v1 · {0}
+Finding an opponent	Buscando un rival
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	Nadie todavía. Pídele a un amigo que elija 1v1 y el mismo juego, o crea una sala y mándale el código.
+The match is on	La partida está en marcha
+Get ready...	Prepárate...
+Back to the match	Volver a la partida
+Last match: a tie	Última partida: empate
+Last match: you won	Última partida: ganaste
+Last match: they won	Última partida: ganaron ellos
+Waiting for them...	Esperándolos...
+They want a rematch!	¡Quieren la revancha!
+Rematch	Revancha
+Tap to play again	Toca para jugar otra vez
+New opponent	Nuevo rival
+Public room. Anyone can join, or use the code	Sala pública. Cualquiera puede entrar, o usa el código
+Send your friends this code to join	Manda este código a tus amigos para que entren
+Pick the game	Elige el juego
+The game	El juego
+Back to picking a game	Volver a elegir juego
+Leave room	Salir de la sala
+Room	Sala
+Get ready	Prepárate
+You vs {0}	Tú contra {0}
+Out of lives!	¡Sin vidas!
+Shift over!	¡Turno terminado!
+Time's up!	¡Se acabó el tiempo!
+Waiting for the others	Esperando a los demás
+It's a tie!	¡Empate!
+{0} wins	Gana {0}
+That's not a room code	Ese no es un código de sala
+Room codes are 5 letters, like SPUDS.	Los códigos de sala tienen 5 letras, como SPUDS.

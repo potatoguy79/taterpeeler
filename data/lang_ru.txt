@@ -653,7 +653,7 @@ Start	Включить
 That photo couldn't be opened. Try a JPG or PNG photo	Не получилось открыть это фото. Попробуй фото в JPG или PNG
 potatoes peeled. The fry station is open.	картошек почищено. Фритюрница открыта.
 potatoes peeled. TaterNinja is open.	картошек почищено. TaterNinja открыт.
-potatoes peeled. TaterAngle is open.	картошек почищено. TaterAngle открыт.
+potatoes peeled. TaterCorner is open.	картошек почищено. TaterCorner открыт.
 About {0} kg of potatoes	Около {0} кг картошки
 {0} hour of peeling	{0} час чистки
 {0} hours of peeling	{0} часов чистки
@@ -807,17 +807,17 @@ New best shift!	Новая лучшая смена!
 Start shift	Начать смену
 Drive-Thru Pro	Профи драйв-тру
 Plate Spotter	Зоркий глаз
-Take $50 in one TaterAngle shift	Заработай 50 $ за одну смену в TaterAngle
+Take $50 in one TaterCorner shift	Заработай 50 $ за одну смену в TaterCorner
 Report a drive-off's plate and get the money back	Сообщи номер уехавшего без оплаты и верни деньги
 The drive-thru	Драйв-тру
-Peel {0} more potato to open TaterAngle	Почисти ещё {0} картофелину, чтобы открыть TaterAngle
-Peel {0} more potatoes to open TaterAngle	Почисти ещё {0} картофелин, чтобы открыть TaterAngle
+Peel {0} more potato to open TaterCorner	Почисти ещё {0} картофелину, чтобы открыть TaterCorner
+Peel {0} more potatoes to open TaterCorner	Почисти ещё {0} картофелин, чтобы открыть TaterCorner
 Drive-thru	Драйв-тру
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Почисти 300 картофелин, и ты будешь работать у окна драйв-тру. Жарь картошку фри, грей картошку в микроволновке, клади то, что просила каждая машина, складывай в пакет с соусами и отдавай. Картошка остывает, так что дожаривай её, а если кто-то уедет без оплаты, сообщи его номер по камере наблюдения.
 {0} cars served#few	Обслужено {0} машины
 {0} perfect orders#few	{0} идеальных заказа
-Peel {0} more potatoes to open TaterAngle#few	Почисти ещё {0} картофелины, чтобы открыть TaterAngle
-TaterAngle is coming soon	TaterAngle скоро появится
+Peel {0} more potatoes to open TaterCorner#few	Почисти ещё {0} картофелины, чтобы открыть TaterCorner
+TaterCorner is coming soon	TaterCorner скоро появится
 Missed!	Упущено!
 Follow TaterPeeler on Instagram	Подписывайся на TaterPeeler в Instagram
 Wash the one in the sink first	Сначала помой ту, что в раковине
@@ -837,3 +837,69 @@ Turn on notifications	Включить уведомления
 Hear about updates and news, even when the game is closed	Узнавай об обновлениях и новостях, даже когда игра закрыта
 Notifications are blocked	Уведомления заблокированы
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Этот браузер блокирует уведомления от TaterPeeler. Чтобы включить их, разреши уведомления для этого сайта в настройках браузера.
+Leave	Выйти
+Back to the room	Назад в комнату
+Leaves this match	Выйти из матча
+Race to peel	Гонка чистки
+Most points	Больше всего очков
+Most fries	Больше всего картошки фри
+Most sliced	Больше всего нарезано
+Best shift	Лучшая смена
+No room with that code	Нет комнаты с таким кодом
+That room is full	Эта комната заполнена
+Typed chat is only in private rooms	Писать в чат можно только в закрытых комнатах
+That room is playing a game this version doesn't have. Update TaterPeeler	В этой комнате игра, которой нет в этой версии. Обнови TaterPeeler
+First to peel {0} potatoes wins	Побеждает тот, кто первым почистит {0} картофелин
+Most potatoes peeled in {0} wins	Побеждает тот, кто почистит больше картофелин за {0}
+Peel until the host ends it	Чистим, пока хозяин не закончит
+Most points in {0} wins	Больше всего очков за {0} побеждает
+First to {0} fries wins	Побеждает тот, кто первым сделает {0} картошки фри
+Most fries in {0} wins	Больше всего картошки фри за {0} побеждает
+Most points in {0} wins. Out of lives? You're done	Больше всего очков за {0} побеждает. Жизни кончились? Ты закончил
+One shift. Whoever makes the most money wins	Одна смена. Побеждает тот, кто заработает больше
+Looking for the room...	Ищем комнату...
+You left the room	Ты вышел из комнаты
+Lost the connection to the room	Связь с комнатой потеряна
+Locked	Закрыто
+Peel {0} more potatoes to open {1}	Почисти ещё {0} картофелин, чтобы открыть {1}
+Play someone online, one on one. Pick a game:	Играй онлайн один на один. Выбери игру:
+Find an opponent	Найти соперника
+Play with friends	Играть с друзьями
+Make a room and send your friends its code, or join theirs. Up to 6 players.	Создай комнату и отправь друзьям её код или зайди в их комнату. До 6 игроков.
+Make a room	Создать комнату
+The room's code	Код комнаты
+Public rooms	Открытые комнаты
+None open right now	Сейчас открытых нет
+{0}'s room	Комната {0}
+Typed chat is only in private rooms.	Писать в чат можно только в закрытых комнатах.
+1v1 · {0}	1v1 · {0}
+Finding an opponent	Ищем соперника
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	Пока никого. Попроси друга выбрать 1v1 и ту же игру или создай комнату и отправь ему код.
+The match is on	Матч идёт
+Get ready...	Приготовься...
+Back to the match	Назад в матч
+Last match: a tie	Прошлый матч: ничья
+Last match: you won	Прошлый матч: ты победил
+Last match: they won	Прошлый матч: они победили
+Waiting for them...	Ждём их...
+They want a rematch!	Они хотят реванш!
+Rematch	Реванш
+Tap to play again	Нажми, чтобы сыграть ещё
+New opponent	Новый соперник
+Public room. Anyone can join, or use the code	Открытая комната. Зайти может любой, или по коду
+Send your friends this code to join	Отправь друзьям этот код
+Pick the game	Выбери игру
+The game	Игра
+Back to picking a game	Назад к выбору игры
+Leave room	Выйти из комнаты
+Room	Комната
+Get ready	Приготовься
+You vs {0}	Ты против {0}
+Out of lives!	Жизни кончились!
+Shift over!	Смена окончена!
+Time's up!	Время вышло!
+Waiting for the others	Ждём остальных
+It's a tie!	Ничья!
+{0} wins	{0} побеждает
+That's not a room code	Это не код комнаты
+Room codes are 5 letters, like SPUDS.	Коды комнат из 5 букв, например SPUDS.

@@ -640,7 +640,7 @@ Start	Lancer
 That photo couldn't be opened. Try a JPG or PNG photo	Impossible d'ouvrir cette photo. Essaie une photo JPG ou PNG
 potatoes peeled. The fry station is open.	patates épluchées. La friteuse est ouverte.
 potatoes peeled. TaterNinja is open.	patates épluchées. TaterNinja est ouvert.
-potatoes peeled. TaterAngle is open.	patates épluchées. TaterAngle est ouvert.
+potatoes peeled. TaterCorner is open.	patates épluchées. TaterCorner est ouvert.
 About {0} kg of potatoes	Environ {0} kg de patates
 {0} hour of peeling	{0} heure d'épluchage
 {0} hours of peeling	{0} heures d'épluchage
@@ -792,14 +792,14 @@ New best shift!	Nouveau meilleur service !
 Start shift	Commencer le service
 Drive-Thru Pro	Pro du drive
 Plate Spotter	Œil de lynx
-Take $50 in one TaterAngle shift	Encaisse 50 $ en un service de TaterAngle
+Take $50 in one TaterCorner shift	Encaisse 50 $ en un service de TaterCorner
 Report a drive-off's plate and get the money back	Signale la plaque de quelqu'un parti sans payer et récupère l'argent
 The drive-thru	Le drive
-Peel {0} more potato to open TaterAngle	Épluche encore {0} pomme de terre pour ouvrir TaterAngle
-Peel {0} more potatoes to open TaterAngle	Épluche encore {0} pommes de terre pour ouvrir TaterAngle
+Peel {0} more potato to open TaterCorner	Épluche encore {0} pomme de terre pour ouvrir TaterCorner
+Peel {0} more potatoes to open TaterCorner	Épluche encore {0} pommes de terre pour ouvrir TaterCorner
 Drive-thru	Drive
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Épluche 300 pommes de terre et tu travailles au guichet du drive. Fais frire des frites, passe des pommes de terre au micro-ondes, ajoute ce que chaque voiture a demandé, mets tout dans le sac avec leurs sauces et donne-le. Les frites refroidissent, alors refais-les frire, et si quelqu'un part sans payer, signale sa plaque avec la caméra de surveillance.
-TaterAngle is coming soon	TaterAngle arrive bientôt
+TaterCorner is coming soon	TaterCorner arrive bientôt
 Missed!	Raté !
 Follow TaterPeeler on Instagram	Suis TaterPeeler sur Instagram
 Wash the one in the sink first	Lave d'abord celle dans l'évier
@@ -819,3 +819,69 @@ Turn on notifications	Activer les notifications
 Hear about updates and news, even when the game is closed	Sois au courant des mises à jour et des nouveautés, même jeu fermé
 Notifications are blocked	Les notifications sont bloquées
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Ce navigateur bloque les notifications de TaterPeeler. Pour les activer, autorise les notifications pour ce site dans les réglages de ton navigateur.
+Leave	Quitter
+Back to the room	Retour au salon
+Leaves this match	Quitte ce match
+Race to peel	Course à l'épluchage
+Most points	Le plus de points
+Most fries	Le plus de frites
+Most sliced	Le plus de coupes
+Best shift	Meilleur service
+No room with that code	Aucun salon avec ce code
+That room is full	Ce salon est plein
+Typed chat is only in private rooms	Le chat écrit est réservé aux salons privés
+That room is playing a game this version doesn't have. Update TaterPeeler	Ce salon joue à un jeu que cette version n'a pas. Mets à jour TaterPeeler
+First to peel {0} potatoes wins	Le premier à éplucher {0} pommes de terre gagne
+Most potatoes peeled in {0} wins	Celui qui épluche le plus de pommes de terre en {0} gagne
+Peel until the host ends it	Épluchez jusqu'à ce que l'hôte arrête
+Most points in {0} wins	Le plus de points en {0} gagne
+First to {0} fries wins	Le premier à {0} frites gagne
+Most fries in {0} wins	Le plus de frites en {0} gagne
+Most points in {0} wins. Out of lives? You're done	Le plus de points en {0} gagne. Plus de vies ? Tu as fini
+One shift. Whoever makes the most money wins	Un service. Celui qui gagne le plus d'argent gagne
+Looking for the room...	Recherche du salon...
+You left the room	Tu as quitté le salon
+Lost the connection to the room	Connexion au salon perdue
+Locked	Verrouillé
+Peel {0} more potatoes to open {1}	Épluche encore {0} pommes de terre pour ouvrir {1}
+Play someone online, one on one. Pick a game:	Joue en ligne, en un contre un. Choisis un jeu :
+Find an opponent	Trouver un adversaire
+Play with friends	Jouer avec des amis
+Make a room and send your friends its code, or join theirs. Up to 6 players.	Crée un salon et envoie son code à tes amis, ou rejoins le leur. Jusqu'à 6 joueurs.
+Make a room	Créer un salon
+The room's code	Le code du salon
+Public rooms	Salons publics
+None open right now	Aucun ouvert pour l'instant
+{0}'s room	Salon de {0}
+Typed chat is only in private rooms.	Le chat écrit est réservé aux salons privés.
+1v1 · {0}	1v1 · {0}
+Finding an opponent	Recherche d'un adversaire
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	Personne pour l'instant. Demande à un ami de choisir 1v1 et le même jeu, ou crée un salon et envoie-lui le code.
+The match is on	Le match est en cours
+Get ready...	Prépare-toi...
+Back to the match	Retour au match
+Last match: a tie	Dernier match : égalité
+Last match: you won	Dernier match : tu as gagné
+Last match: they won	Dernier match : ils ont gagné
+Waiting for them...	On les attend...
+They want a rematch!	Ils veulent une revanche !
+Rematch	Revanche
+Tap to play again	Touche pour rejouer
+New opponent	Nouvel adversaire
+Public room. Anyone can join, or use the code	Salon public. Tout le monde peut entrer, ou utilise le code
+Send your friends this code to join	Envoie ce code à tes amis pour qu'ils entrent
+Pick the game	Choisis le jeu
+The game	Le jeu
+Back to picking a game	Retour au choix du jeu
+Leave room	Quitter le salon
+Room	Salon
+Get ready	Prépare-toi
+You vs {0}	Toi contre {0}
+Out of lives!	Plus de vies !
+Shift over!	Service terminé !
+Time's up!	Temps écoulé !
+Waiting for the others	On attend les autres
+It's a tie!	Égalité !
+{0} wins	{0} gagne
+That's not a room code	Ce n'est pas un code de salon
+Room codes are 5 letters, like SPUDS.	Les codes de salon font 5 lettres, comme SPUDS.

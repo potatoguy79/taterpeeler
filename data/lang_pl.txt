@@ -653,7 +653,7 @@ Start	Włącz
 That photo couldn't be opened. Try a JPG or PNG photo	Nie udało się otworzyć tego zdjęcia. Spróbuj zdjęcia JPG albo PNG
 potatoes peeled. The fry station is open.	obranych ziemniaków. Smażalnia jest otwarta.
 potatoes peeled. TaterNinja is open.	obranych ziemniaków. TaterNinja jest otwarte.
-potatoes peeled. TaterAngle is open.	obranych ziemniaków. TaterAngle jest otwarte.
+potatoes peeled. TaterCorner is open.	obranych ziemniaków. TaterCorner jest otwarte.
 About {0} kg of potatoes	Około {0} kg ziemniaków
 {0} hour of peeling	{0} godzina obierania
 {0} hours of peeling	{0} godzin obierania
@@ -807,17 +807,17 @@ New best shift!	Nowa najlepsza zmiana!
 Start shift	Zacznij zmianę
 Drive-Thru Pro	Mistrz drive-thru
 Plate Spotter	Oko na tablice
-Take $50 in one TaterAngle shift	Zarób 50 $ podczas jednej zmiany w TaterAngle
+Take $50 in one TaterCorner shift	Zarób 50 $ podczas jednej zmiany w TaterCorner
 Report a drive-off's plate and get the money back	Zgłoś tablicę kogoś, kto odjechał bez płacenia, i odzyskaj pieniądze
 The drive-thru	Drive-thru
-Peel {0} more potato to open TaterAngle	Obierz jeszcze {0} ziemniaka, żeby otworzyć TaterAngle
-Peel {0} more potatoes to open TaterAngle	Obierz jeszcze {0} ziemniaków, żeby otworzyć TaterAngle
+Peel {0} more potato to open TaterCorner	Obierz jeszcze {0} ziemniaka, żeby otworzyć TaterCorner
+Peel {0} more potatoes to open TaterCorner	Obierz jeszcze {0} ziemniaków, żeby otworzyć TaterCorner
 Drive-thru	Drive-thru
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Obierz 300 ziemniaków, a staniesz przy okienku drive-thru. Smaż frytki, podgrzewaj ziemniaki w mikrofalówce, dodaj to, o co prosił każdy samochód, zapakuj z sosami i wydaj. Frytki stygną, więc smaż je jeszcze raz, a jeśli ktoś odjedzie bez płacenia, zgłoś jego tablicę z kamery monitoringu.
 {0} cars served#few	{0} obsłużone samochody
 {0} perfect orders#few	{0} idealne zamówienia
-Peel {0} more potatoes to open TaterAngle#few	Obierz jeszcze {0} ziemniaki, żeby otworzyć TaterAngle
-TaterAngle is coming soon	TaterAngle już niedługo
+Peel {0} more potatoes to open TaterCorner#few	Obierz jeszcze {0} ziemniaki, żeby otworzyć TaterCorner
+TaterCorner is coming soon	TaterCorner już niedługo
 Missed!	Pudło!
 Follow TaterPeeler on Instagram	Obserwuj TaterPeeler na Instagramie
 Wash the one in the sink first	Najpierw umyj tę w zlewie
@@ -837,3 +837,69 @@ Turn on notifications	Włącz powiadomienia
 Hear about updates and news, even when the game is closed	Dowiaduj się o aktualizacjach i nowościach, nawet gdy gra jest zamknięta
 Notifications are blocked	Powiadomienia są zablokowane
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Ta przeglądarka blokuje powiadomienia od TaterPeeler. Aby je włączyć, zezwól na powiadomienia dla tej strony w ustawieniach przeglądarki.
+Leave	Wyjdź
+Back to the room	Wróć do pokoju
+Leaves this match	Opuszcza ten mecz
+Race to peel	Wyścig obierania
+Most points	Najwięcej punktów
+Most fries	Najwięcej frytek
+Most sliced	Najwięcej pociętych
+Best shift	Najlepsza zmiana
+No room with that code	Nie ma pokoju z tym kodem
+That room is full	Ten pokój jest pełny
+Typed chat is only in private rooms	Pisany czat jest tylko w prywatnych pokojach
+That room is playing a game this version doesn't have. Update TaterPeeler	Ten pokój gra w grę, której ta wersja nie ma. Zaktualizuj TaterPeeler
+First to peel {0} potatoes wins	Wygrywa ten, kto pierwszy obierze {0} ziemniaków
+Most potatoes peeled in {0} wins	Wygrywa ten, kto obierze najwięcej ziemniaków w {0}
+Peel until the host ends it	Obieraj, aż gospodarz zakończy
+Most points in {0} wins	Najwięcej punktów w {0} wygrywa
+First to {0} fries wins	Wygrywa ten, kto pierwszy zrobi {0} frytek
+Most fries in {0} wins	Najwięcej frytek w {0} wygrywa
+Most points in {0} wins. Out of lives? You're done	Najwięcej punktów w {0} wygrywa. Koniec żyć? Koniec gry dla ciebie
+One shift. Whoever makes the most money wins	Jedna zmiana. Wygrywa ten, kto zarobi najwięcej
+Looking for the room...	Szukam pokoju...
+You left the room	Opuszczono pokój
+Lost the connection to the room	Utracono połączenie z pokojem
+Locked	Zablokowane
+Peel {0} more potatoes to open {1}	Obierz jeszcze {0} ziemniaków, by otworzyć {1}
+Play someone online, one on one. Pick a game:	Graj online jeden na jeden. Wybierz grę:
+Find an opponent	Znajdź przeciwnika
+Play with friends	Graj ze znajomymi
+Make a room and send your friends its code, or join theirs. Up to 6 players.	Załóż pokój i wyślij znajomym jego kod albo dołącz do ich pokoju. Do 6 graczy.
+Make a room	Załóż pokój
+The room's code	Kod pokoju
+Public rooms	Publiczne pokoje
+None open right now	Teraz żaden nie jest otwarty
+{0}'s room	Pokój: {0}
+Typed chat is only in private rooms.	Pisany czat jest tylko w prywatnych pokojach.
+1v1 · {0}	1v1 · {0}
+Finding an opponent	Szukam przeciwnika
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	Jeszcze nikogo. Poproś znajomego, by wybrał 1v1 i tę samą grę, albo załóż pokój i wyślij mu kod.
+The match is on	Mecz trwa
+Get ready...	Przygotuj się...
+Back to the match	Wróć do meczu
+Last match: a tie	Ostatni mecz: remis
+Last match: you won	Ostatni mecz: wygrana
+Last match: they won	Ostatni mecz: przegrana
+Waiting for them...	Czekam na nich...
+They want a rematch!	Chcą rewanżu!
+Rematch	Rewanż
+Tap to play again	Dotknij, by zagrać znowu
+New opponent	Nowy przeciwnik
+Public room. Anyone can join, or use the code	Publiczny pokój. Każdy może dołączyć, albo użyj kodu
+Send your friends this code to join	Wyślij znajomym ten kod
+Pick the game	Wybierz grę
+The game	Gra
+Back to picking a game	Wróć do wyboru gry
+Leave room	Opuść pokój
+Room	Pokój
+Get ready	Przygotuj się
+You vs {0}	Ty kontra {0}
+Out of lives!	Koniec żyć!
+Shift over!	Koniec zmiany!
+Time's up!	Koniec czasu!
+Waiting for the others	Czekam na resztę
+It's a tie!	Remis!
+{0} wins	Wygrywa {0}
+That's not a room code	To nie jest kod pokoju
+Room codes are 5 letters, like SPUDS.	Kody pokoi mają 5 liter, np. SPUDS.

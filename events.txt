@@ -38,7 +38,7 @@ peel: on
 rush: on
 fries: on
 taterninja: on
-taterangle: on
+tatercorner: on
 #
 #   💬  What the maintenance popup says. Write anything after the colon, all on one line.
 #   👉👉👉  change the next line  👇

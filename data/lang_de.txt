@@ -640,7 +640,7 @@ Start	Starten
 That photo couldn't be opened. Try a JPG or PNG photo	Dieses Foto ließ sich nicht öffnen. Versuch ein JPG- oder PNG-Foto
 potatoes peeled. The fry station is open.	Kartoffeln geschält. Die Pommes-Station ist offen.
 potatoes peeled. TaterNinja is open.	Kartoffeln geschält. TaterNinja ist offen.
-potatoes peeled. TaterAngle is open.	Kartoffeln geschält. TaterAngle ist offen.
+potatoes peeled. TaterCorner is open.	Kartoffeln geschält. TaterCorner ist offen.
 About {0} kg of potatoes	Etwa {0} kg Kartoffeln
 {0} hour of peeling	{0} Stunde Schälen
 {0} hours of peeling	{0} Stunden Schälen
@@ -792,14 +792,14 @@ New best shift!	Neue beste Schicht!
 Start shift	Schicht starten
 Drive-Thru Pro	Drive-in-Profi
 Plate Spotter	Kennzeichen-Detektiv
-Take $50 in one TaterAngle shift	Nimm 50 $ in einer TaterAngle-Schicht ein
+Take $50 in one TaterCorner shift	Nimm 50 $ in einer TaterCorner-Schicht ein
 Report a drive-off's plate and get the money back	Melde das Kennzeichen eines Abhauers und hol das Geld zurück
 The drive-thru	Der Drive-in
-Peel {0} more potato to open TaterAngle	Schäle noch {0} Kartoffel, um TaterAngle zu öffnen
-Peel {0} more potatoes to open TaterAngle	Schäle noch {0} Kartoffeln, um TaterAngle zu öffnen
+Peel {0} more potato to open TaterCorner	Schäle noch {0} Kartoffel, um TaterCorner zu öffnen
+Peel {0} more potatoes to open TaterCorner	Schäle noch {0} Kartoffeln, um TaterCorner zu öffnen
 Drive-thru	Drive-in
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Schäle 300 Kartoffeln und du arbeitest am Drive-in-Fenster. Frittiere Pommes, mach Kartoffeln in der Mikrowelle, gib drauf, was jedes Auto wollte, pack es mit den Soßen in die Tüte und gib es raus. Pommes werden kalt, also frittiere sie nochmal, und fährt jemand ohne zu zahlen weg, melde sein Kennzeichen über die Überwachungskamera.
-TaterAngle is coming soon	TaterAngle kommt bald
+TaterCorner is coming soon	TaterCorner kommt bald
 Missed!	Verpasst!
 Follow TaterPeeler on Instagram	Folge TaterPeeler auf Instagram
 Wash the one in the sink first	Wasch zuerst die Kartoffel im Spülbecken
@@ -819,3 +819,69 @@ Turn on notifications	Benachrichtigungen einschalten
 Hear about updates and news, even when the game is closed	Erfahre von Updates und Neuigkeiten, auch wenn das Spiel geschlossen ist
 Notifications are blocked	Benachrichtigungen sind blockiert
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Dieser Browser blockiert Benachrichtigungen von TaterPeeler. Um sie einzuschalten, erlaube Benachrichtigungen für diese Seite in den Einstellungen deines Browsers.
+Leave	Verlassen
+Back to the room	Zurück in den Raum
+Leaves this match	Verlässt dieses Match
+Race to peel	Wettrennen ums Schälen
+Most points	Die meisten Punkte
+Most fries	Die meisten Pommes
+Most sliced	Die meisten geschnitten
+Best shift	Beste Schicht
+No room with that code	Kein Raum mit diesem Code
+That room is full	Dieser Raum ist voll
+Typed chat is only in private rooms	Getippter Chat nur in privaten Räumen
+That room is playing a game this version doesn't have. Update TaterPeeler	Dieser Raum spielt ein Spiel, das diese Version nicht hat. Aktualisiere TaterPeeler
+First to peel {0} potatoes wins	Wer zuerst {0} Kartoffeln schält, gewinnt
+Most potatoes peeled in {0} wins	Wer in {0} die meisten Kartoffeln schält, gewinnt
+Peel until the host ends it	Schälen, bis der Gastgeber es beendet
+Most points in {0} wins	Die meisten Punkte in {0} gewinnen
+First to {0} fries wins	Wer zuerst {0} Pommes hat, gewinnt
+Most fries in {0} wins	Die meisten Pommes in {0} gewinnen
+Most points in {0} wins. Out of lives? You're done	Die meisten Punkte in {0} gewinnen. Keine Leben mehr? Dann bist du fertig
+One shift. Whoever makes the most money wins	Eine Schicht. Wer am meisten Geld macht, gewinnt
+Looking for the room...	Suche den Raum ...
+You left the room	Du hast den Raum verlassen
+Lost the connection to the room	Verbindung zum Raum verloren
+Locked	Gesperrt
+Peel {0} more potatoes to open {1}	Schäle noch {0} Kartoffeln, um {1} zu öffnen
+Play someone online, one on one. Pick a game:	Spiel online eins gegen eins. Wähle ein Spiel:
+Find an opponent	Gegner finden
+Play with friends	Mit Freunden spielen
+Make a room and send your friends its code, or join theirs. Up to 6 players.	Mach einen Raum und schick deinen Freunden den Code, oder tritt ihrem bei. Bis zu 6 Spieler.
+Make a room	Raum erstellen
+The room's code	Der Code des Raums
+Public rooms	Öffentliche Räume
+None open right now	Gerade keine offen
+{0}'s room	Raum von {0}
+Typed chat is only in private rooms.	Getippter Chat nur in privaten Räumen.
+1v1 · {0}	1v1 · {0}
+Finding an opponent	Suche einen Gegner
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	Noch niemand. Bitte einen Freund, 1v1 und dasselbe Spiel zu wählen, oder mach einen Raum und schick ihm den Code.
+The match is on	Das Match läuft
+Get ready...	Mach dich bereit ...
+Back to the match	Zurück zum Match
+Last match: a tie	Letztes Match: unentschieden
+Last match: you won	Letztes Match: du hast gewonnen
+Last match: they won	Letztes Match: sie haben gewonnen
+Waiting for them...	Warte auf sie ...
+They want a rematch!	Sie wollen eine Revanche!
+Rematch	Revanche
+Tap to play again	Tippen, um nochmal zu spielen
+New opponent	Neuer Gegner
+Public room. Anyone can join, or use the code	Öffentlicher Raum. Jeder kann beitreten, oder nutze den Code
+Send your friends this code to join	Schick deinen Freunden diesen Code
+Pick the game	Wähle das Spiel
+The game	Das Spiel
+Back to picking a game	Zurück zur Spielauswahl
+Leave room	Raum verlassen
+Room	Raum
+Get ready	Mach dich bereit
+You vs {0}	Du gegen {0}
+Out of lives!	Keine Leben mehr!
+Shift over!	Schicht vorbei!
+Time's up!	Zeit um!
+Waiting for the others	Warte auf die anderen
+It's a tie!	Unentschieden!
+{0} wins	{0} gewinnt
+That's not a room code	Das ist kein Raumcode
+Room codes are 5 letters, like SPUDS.	Raumcodes haben 5 Buchstaben, wie SPUDS.

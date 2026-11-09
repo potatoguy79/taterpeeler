@@ -640,7 +640,7 @@ Start	启动
 That photo couldn't be opened. Try a JPG or PNG photo	这张照片打不开。请换一张 JPG 或 PNG 照片
 potatoes peeled. The fry station is open.	个土豆已削完。炸薯条站开放了。
 potatoes peeled. TaterNinja is open.	个土豆已削完。TaterNinja 开放了。
-potatoes peeled. TaterAngle is open.	个土豆已削完。TaterAngle 开放了。
+potatoes peeled. TaterCorner is open.	个土豆已削完。TaterCorner 开放了。
 About {0} kg of potatoes	大约 {0} 公斤土豆
 {0} hour of peeling	削了 {0} 小时
 {0} hours of peeling	削了 {0} 小时
@@ -792,14 +792,14 @@ New best shift!	新的最佳班次！
 Start shift	开始上班
 Drive-Thru Pro	得来速达人
 Plate Spotter	车牌侦探
-Take $50 in one TaterAngle shift	在一个 TaterAngle 班次里赚到 50 美元
+Take $50 in one TaterCorner shift	在一个 TaterCorner 班次里赚到 50 美元
 Report a drive-off's plate and get the money back	举报逃单的车牌并追回钱
 The drive-thru	得来速
-Peel {0} more potato to open TaterAngle	再削 {0} 个土豆就能打开 TaterAngle
-Peel {0} more potatoes to open TaterAngle	再削 {0} 个土豆就能打开 TaterAngle
+Peel {0} more potato to open TaterCorner	再削 {0} 个土豆就能打开 TaterCorner
+Peel {0} more potatoes to open TaterCorner	再削 {0} 个土豆就能打开 TaterCorner
 Drive-thru	得来速
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	削满 300 个土豆就能在得来速窗口上班。炸薯条，用微波炉热土豆，按每辆车的要求加料，连同酱一起装袋递出去。薯条会变凉，所以要复炸；如果有人不付钱就开走，就用监控摄像头举报他们的车牌。
-TaterAngle is coming soon	TaterAngle 即将推出
+TaterCorner is coming soon	TaterCorner 即将推出
 Missed!	漏掉了！
 Follow TaterPeeler on Instagram	在 Instagram 上关注 TaterPeeler
 Wash the one in the sink first	先洗水槽里的那个
@@ -819,3 +819,69 @@ Turn on notifications	开启通知
 Hear about updates and news, even when the game is closed	即使游戏关着，也能收到更新和消息
 Notifications are blocked	通知已被屏蔽
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	这个浏览器屏蔽了 TaterPeeler 的通知。要开启，请在浏览器设置里允许这个网站发送通知。
+Leave	离开
+Back to the room	回到房间
+Leaves this match	离开这场比赛
+Race to peel	削皮竞赛
+Most points	最高分
+Most fries	薯条最多
+Most sliced	切得最多
+Best shift	最佳班次
+No room with that code	没有这个代码的房间
+That room is full	这个房间满了
+Typed chat is only in private rooms	只有私人房间才能打字聊天
+That room is playing a game this version doesn't have. Update TaterPeeler	这个房间在玩这个版本没有的游戏。请更新 TaterPeeler
+First to peel {0} potatoes wins	先削完 {0} 个土豆的人赢
+Most potatoes peeled in {0} wins	{0} 内削最多土豆的人赢
+Peel until the host ends it	一直削，直到房主结束
+Most points in {0} wins	{0} 内分数最高的人赢
+First to {0} fries wins	先做出 {0} 根薯条的人赢
+Most fries in {0} wins	{0} 内薯条最多的人赢
+Most points in {0} wins. Out of lives? You're done	{0} 内分数最高的人赢。没命了？你就结束了
+One shift. Whoever makes the most money wins	一个班次。赚钱最多的人赢
+Looking for the room...	正在找房间...
+You left the room	你离开了房间
+Lost the connection to the room	和房间的连接断了
+Locked	未解锁
+Peel {0} more potatoes to open {1}	再削 {0} 个土豆就能打开 {1}
+Play someone online, one on one. Pick a game:	在线一对一。选一个游戏：
+Find an opponent	找对手
+Play with friends	和朋友玩
+Make a room and send your friends its code, or join theirs. Up to 6 players.	建一个房间，把代码发给朋友，或者加入他们的房间。最多 6 人。
+Make a room	建房间
+The room's code	房间代码
+Public rooms	公开房间
+None open right now	现在没有开着的房间
+{0}'s room	{0} 的房间
+Typed chat is only in private rooms.	只有私人房间才能打字聊天。
+1v1 · {0}	1v1 · {0}
+Finding an opponent	正在找对手
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	还没有人。让朋友也选 1v1 和同一个游戏，或者建个房间把代码发给他。
+The match is on	比赛进行中
+Get ready...	准备...
+Back to the match	回到比赛
+Last match: a tie	上一场：平局
+Last match: you won	上一场：你赢了
+Last match: they won	上一场：对方赢了
+Waiting for them...	等对方...
+They want a rematch!	对方想再来一局！
+Rematch	再来一局
+Tap to play again	点一下再玩一次
+New opponent	新对手
+Public room. Anyone can join, or use the code	公开房间。谁都能加入，也可以用代码
+Send your friends this code to join	把这个代码发给朋友
+Pick the game	选游戏
+The game	游戏
+Back to picking a game	回去选游戏
+Leave room	离开房间
+Room	房间
+Get ready	准备
+You vs {0}	你 vs {0}
+Out of lives!	没命了！
+Shift over!	班次结束！
+Time's up!	时间到！
+Waiting for the others	等其他人
+It's a tie!	平局！
+{0} wins	{0} 赢了
+That's not a room code	这不是房间代码
+Room codes are 5 letters, like SPUDS.	房间代码是 5 个字母，比如 SPUDS。

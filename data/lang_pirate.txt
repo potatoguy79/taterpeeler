@@ -640,7 +640,7 @@ Start	Start
 That photo couldn't be opened. Try a JPG or PNG photo	That paintin' couldn't be opened. Try a JPG or PNG one
 potatoes peeled. The fry station is open.	spuds skinned. The fry galley be open.
 potatoes peeled. TaterNinja is open.	spuds skinned. TaterNinja be open.
-potatoes peeled. TaterAngle is open.	spuds skinned. TaterAngle be open.
+potatoes peeled. TaterCorner is open.	spuds skinned. TaterCorner be open.
 About {0} kg of potatoes	About {0} kg o' spuds
 {0} hour of peeling	{0} hour o' skinnin'
 {0} hours of peeling	{0} hours o' skinnin'
@@ -792,14 +792,14 @@ New best shift!	New best shift!
 Start shift	Start shift
 Drive-Thru Pro	Drive-Thru Captain
 Plate Spotter	Eagle Eye
-Take $50 in one TaterAngle shift	Take $50 in one TaterAngle shift
+Take $50 in one TaterCorner shift	Take $50 in one TaterCorner shift
 Report a drive-off's plate and get the money back	Report a scallywag's plate an' get th' doubloons back
 The drive-thru	Th' drive-thru
-Peel {0} more potato to open TaterAngle	Peel {0} more spud to open TaterAngle
-Peel {0} more potatoes to open TaterAngle	Peel {0} more spuds to open TaterAngle
+Peel {0} more potato to open TaterCorner	Peel {0} more spud to open TaterCorner
+Peel {0} more potatoes to open TaterCorner	Peel {0} more spuds to open TaterCorner
 Drive-thru	Drive-thru
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	Peel 300 spuds an' ye get t' work th' drive-thru window. Fry fries, microwave spuds, put on what each ship asked fer, bag it with their sauces an' hand it out. Fries go cold, so refry 'em, an' if some scallywag sails off without payin', report their plate from th' security camera.
-TaterAngle is coming soon	TaterAngle be comin' soon, arr
+TaterCorner is coming soon	TaterCorner be comin' soon, arr
 Missed!	Ye missed it!
 Follow TaterPeeler on Instagram	Follow TaterPeeler on Instagram, matey
 Wash the one in the sink first	Scrub the one in the sink first, matey
@@ -819,3 +819,69 @@ Turn on notifications	Hoist the notifications
 Hear about updates and news, even when the game is closed	Hear o' updates an' news, even when the game be closed
 Notifications are blocked	Notifications be blocked
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	This here browser be blockin' notifications from TaterPeeler. To turn 'em on, allow notifications fer this site in yer browser's settings.
+Leave	Abandon ship
+Back to the room	Back to the cabin
+Leaves this match	Leaves this battle
+Race to peel	Race to peel, arr
+Most points	Most doubloons o' points
+Most fries	Most fries
+Most sliced	Most sliced
+Best shift	Best watch
+No room with that code	No cabin with that code
+That room is full	That cabin be full
+Typed chat is only in private rooms	Typed chat be only in private cabins
+That room is playing a game this version doesn't have. Update TaterPeeler	That cabin be playin' a game this version don't have. Update TaterPeeler
+First to peel {0} potatoes wins	First to peel {0} spuds wins the treasure
+Most potatoes peeled in {0} wins	Most spuds peeled in {0} wins
+Peel until the host ends it	Peel 'til the captain ends it
+Most points in {0} wins	Most points in {0} wins
+First to {0} fries wins	First to {0} fries wins
+Most fries in {0} wins	Most fries in {0} wins
+Most points in {0} wins. Out of lives? You're done	Most points in {0} wins. Outta lives? Ye be done
+One shift. Whoever makes the most money wins	One watch. Whoever hauls the most coin wins
+Looking for the room...	Searchin' fer the cabin...
+You left the room	Ye left the cabin
+Lost the connection to the room	Lost the line to the cabin
+Locked	Locked in the brig
+Peel {0} more potatoes to open {1}	Peel {0} more spuds to open {1}
+Play someone online, one on one. Pick a game:	Duel a scallywag online, one on one. Pick yer game:
+Find an opponent	Find a rival
+Play with friends	Sail with yer crew
+Make a room and send your friends its code, or join theirs. Up to 6 players.	Make a cabin an' send yer mates its code, or board theirs. Up to 6 pirates.
+Make a room	Make a cabin
+The room's code	The cabin's code
+Public rooms	Open cabins
+None open right now	None open right now
+{0}'s room	{0}'s cabin
+Typed chat is only in private rooms.	Typed chat be only in private cabins.
+1v1 · {0}	1v1 · {0}
+Finding an opponent	Searchin' fer a rival
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	Nobody yet. Ask a mate to pick 1v1 an' the same game, or make a cabin an' send 'em the code.
+The match is on	The battle be on
+Get ready...	Ready yerself...
+Back to the match	Back to the battle
+Last match: a tie	Last battle: a draw
+Last match: you won	Last battle: ye won
+Last match: they won	Last battle: they won
+Waiting for them...	Waitin' fer 'em...
+They want a rematch!	They want a rematch, arr!
+Rematch	Rematch
+Tap to play again	Tap to play again
+New opponent	New rival
+Public room. Anyone can join, or use the code	Open cabin. Any pirate can board, or use the code
+Send your friends this code to join	Send yer mates this code to board
+Pick the game	Pick the game
+The game	The game
+Back to picking a game	Back to pickin' a game
+Leave room	Leave the cabin
+Room	Cabin
+Get ready	Ready yerself
+You vs {0}	Ye vs {0}
+Out of lives!	Outta lives!
+Shift over!	Watch be over!
+Time's up!	Time's up!
+Waiting for the others	Waitin' fer the others
+It's a tie!	A draw!
+{0} wins	{0} wins
+That's not a room code	That ain't a cabin code
+Room codes are 5 letters, like SPUDS.	Cabin codes be 5 letters, like SPUDS.

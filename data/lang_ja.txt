@@ -640,7 +640,7 @@ Start	開始
 That photo couldn't be opened. Try a JPG or PNG photo	その写真は開けませんでした。JPGかPNGの写真を試してください
 potatoes peeled. The fry station is open.	個のじゃがいもをむきました。フライステーションが開きました。
 potatoes peeled. TaterNinja is open.	個のじゃがいもをむきました。TaterNinjaが開きました。
-potatoes peeled. TaterAngle is open.	個のじゃがいもをむきました。TaterAngleが開きました。
+potatoes peeled. TaterCorner is open.	個のじゃがいもをむきました。TaterCornerが開きました。
 About {0} kg of potatoes	じゃがいも約{0}kg
 {0} hour of peeling	むいた時間 {0}時間
 {0} hours of peeling	むいた時間 {0}時間
@@ -792,14 +792,14 @@ New best shift!	ベストシフト更新！
 Start shift	シフト開始
 Drive-Thru Pro	ドライブスルーのプロ
 Plate Spotter	ナンバー探偵
-Take $50 in one TaterAngle shift	TaterAngleの1シフトで50ドル稼ぐ
+Take $50 in one TaterCorner shift	TaterCornerの1シフトで50ドル稼ぐ
 Report a drive-off's plate and get the money back	食い逃げのナンバーを通報してお金を取り戻す
 The drive-thru	ドライブスルー
-Peel {0} more potato to open TaterAngle	あと{0}個ジャガイモをむくとTaterAngleが開きます
-Peel {0} more potatoes to open TaterAngle	あと{0}個ジャガイモをむくとTaterAngleが開きます
+Peel {0} more potato to open TaterCorner	あと{0}個ジャガイモをむくとTaterCornerが開きます
+Peel {0} more potatoes to open TaterCorner	あと{0}個ジャガイモをむくとTaterCornerが開きます
 Drive-thru	ドライブスルー
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	ジャガイモを300個むくとドライブスルーの窓口で働けます。ポテトを揚げて、ジャガイモを電子レンジで温めて、それぞれの車が頼んだものをのせ、ソースと一緒に袋に入れて渡しましょう。ポテトは冷めるので揚げ直して、払わずに行く人がいたら防犯カメラでナンバーを通報しましょう。
-TaterAngle is coming soon	TaterAngleはもうすぐ登場
+TaterCorner is coming soon	TaterCornerはもうすぐ登場
 Missed!	ミス！
 Follow TaterPeeler on Instagram	InstagramでTaterPeelerをフォロー
 Wash the one in the sink first	先にシンクのじゃがいもを洗おう
@@ -819,3 +819,69 @@ Turn on notifications	通知をオンにする
 Hear about updates and news, even when the game is closed	ゲームを閉じていてもアップデートやお知らせが届きます
 Notifications are blocked	通知がブロックされています
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	このブラウザはTaterPeelerからの通知をブロックしています。オンにするには、ブラウザの設定でこのサイトの通知を許可してください。
+Leave	やめる
+Back to the room	ルームにもどる
+Leaves this match	この試合をぬけます
+Race to peel	皮むきレース
+Most points	最高ポイント
+Most fries	最多フライ
+Most sliced	最多スライス
+Best shift	ベストシフト
+No room with that code	そのコードのルームはありません
+That room is full	そのルームは満員です
+Typed chat is only in private rooms	チャットの入力は非公開ルームだけです
+That room is playing a game this version doesn't have. Update TaterPeeler	そのルームはこのバージョンにないゲームをしています。TaterPeelerを更新してね
+First to peel {0} potatoes wins	先に{0}個むいた人の勝ち
+Most potatoes peeled in {0} wins	{0}でいちばん多くむいた人の勝ち
+Peel until the host ends it	ホストが終えるまでむき続けよう
+Most points in {0} wins	{0}でいちばんポイントが多い人の勝ち
+First to {0} fries wins	先に{0}本フライを作った人の勝ち
+Most fries in {0} wins	{0}でいちばん多くフライを作った人の勝ち
+Most points in {0} wins. Out of lives? You're done	{0}でいちばんポイントが多い人の勝ち。ライフがなくなったら終わり
+One shift. Whoever makes the most money wins	1シフト。いちばん稼いだ人の勝ち
+Looking for the room...	ルームをさがしています...
+You left the room	ルームをぬけました
+Lost the connection to the room	ルームとの接続が切れました
+Locked	ロック中
+Peel {0} more potatoes to open {1}	あと{0}個むくと{1}が開きます
+Play someone online, one on one. Pick a game:	オンラインで1対1。ゲームを選んでね：
+Find an opponent	相手をさがす
+Play with friends	友だちと遊ぶ
+Make a room and send your friends its code, or join theirs. Up to 6 players.	ルームを作ってコードを友だちに送るか、友だちのルームに入ろう。最大6人。
+Make a room	ルームを作る
+The room's code	ルームのコード
+Public rooms	公開ルーム
+None open right now	いま開いているルームはありません
+{0}'s room	{0}のルーム
+Typed chat is only in private rooms.	チャットの入力は非公開ルームだけです。
+1v1 · {0}	1v1 · {0}
+Finding an opponent	相手をさがしています
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	まだだれもいません。友だちに1v1で同じゲームを選んでもらうか、ルームを作ってコードを送ろう。
+The match is on	試合中
+Get ready...	準備して...
+Back to the match	試合にもどる
+Last match: a tie	前の試合：引き分け
+Last match: you won	前の試合：あなたの勝ち
+Last match: they won	前の試合：相手の勝ち
+Waiting for them...	相手を待っています...
+They want a rematch!	相手がリベンジしたがっています！
+Rematch	リベンジ
+Tap to play again	タップしてもう一度
+New opponent	新しい相手
+Public room. Anyone can join, or use the code	公開ルーム。だれでも入れます。コードでも入れます
+Send your friends this code to join	このコードを友だちに送ってね
+Pick the game	ゲームを選ぶ
+The game	ゲーム
+Back to picking a game	ゲーム選びにもどる
+Leave room	ルームを出る
+Room	ルーム
+Get ready	準備して
+You vs {0}	あなた vs {0}
+Out of lives!	ライフがなくなった！
+Shift over!	シフト終了！
+Time's up!	時間切れ！
+Waiting for the others	ほかの人を待っています
+It's a tie!	引き分け！
+{0} wins	{0}の勝ち
+That's not a room code	ルームのコードではありません
+Room codes are 5 letters, like SPUDS.	ルームのコードはSPUDSのような5文字です。

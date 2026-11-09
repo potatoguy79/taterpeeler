@@ -640,7 +640,7 @@ Start	Başlat
 That photo couldn't be opened. Try a JPG or PNG photo	Bu fotoğraf açılamadı. JPG ya da PNG bir fotoğraf dene
 potatoes peeled. The fry station is open.	patates soyuldu. Kızartma tezgâhı açıldı.
 potatoes peeled. TaterNinja is open.	patates soyuldu. TaterNinja açıldı.
-potatoes peeled. TaterAngle is open.	patates soyuldu. TaterAngle açıldı.
+potatoes peeled. TaterCorner is open.	patates soyuldu. TaterCorner açıldı.
 About {0} kg of potatoes	Yaklaşık {0} kg patates
 {0} hour of peeling	{0} saat soyma
 {0} hours of peeling	{0} saat soyma
@@ -792,14 +792,14 @@ New best shift!	Yeni en iyi vardiya!
 Start shift	Vardiyayı başlat
 Drive-Thru Pro	Arabalı Servis Ustası
 Plate Spotter	Plaka Avcısı
-Take $50 in one TaterAngle shift	Bir TaterAngle vardiyasında 50 $ kazan
+Take $50 in one TaterCorner shift	Bir TaterCorner vardiyasında 50 $ kazan
 Report a drive-off's plate and get the money back	Ödemeden kaçan birinin plakasını bildir ve parayı geri al
 The drive-thru	Arabalı servis
-Peel {0} more potato to open TaterAngle	TaterAngle'ı açmak için {0} patates daha soy
-Peel {0} more potatoes to open TaterAngle	TaterAngle'ı açmak için {0} patates daha soy
+Peel {0} more potato to open TaterCorner	TaterCorner'ı açmak için {0} patates daha soy
+Peel {0} more potatoes to open TaterCorner	TaterCorner'ı açmak için {0} patates daha soy
 Drive-thru	Arabalı servis
 Peel 300 potatoes and you get to work the drive-thru window. Fry fries, microwave potatoes, put on what each car asked for, bag it with their sauces and hand it out. Fries go cold, so refry them, and if someone drives off without paying, report their plate from the security camera.	300 patates soy, arabalı servis penceresinde çalışmaya başla. Patates kızart, patatesleri mikrodalgada ısıt, her arabanın istediğini ekle, soslarıyla poşete koy ve teslim et. Kızartmalar soğur, o yüzden tekrar kızart; biri ödemeden kaçarsa plakasını güvenlik kamerasından bildir.
-TaterAngle is coming soon	TaterAngle çok yakında
+TaterCorner is coming soon	TaterCorner çok yakında
 Missed!	Kaçırdın!
 Follow TaterPeeler on Instagram	TaterPeeler'ı Instagram'da takip et
 Wash the one in the sink first	Önce lavabodakini yıka
@@ -819,3 +819,69 @@ Turn on notifications	Bildirimleri aç
 Hear about updates and news, even when the game is closed	Oyun kapalıyken bile güncellemelerden ve haberlerden haberdar ol
 Notifications are blocked	Bildirimler engellendi
 This browser is blocking notifications from TaterPeeler. To turn them on, allow notifications for this site in your browser's settings.	Bu tarayıcı TaterPeeler bildirimlerini engelliyor. Açmak için tarayıcı ayarlarından bu siteye bildirim izni ver.
+Leave	Ayrıl
+Back to the room	Odaya dön
+Leaves this match	Bu maçtan çıkar
+Race to peel	Soyma yarışı
+Most points	En çok puan
+Most fries	En çok patates kızartması
+Most sliced	En çok kesilen
+Best shift	En iyi vardiya
+No room with that code	Bu koda sahip oda yok
+That room is full	Bu oda dolu
+Typed chat is only in private rooms	Yazılı sohbet sadece özel odalarda
+That room is playing a game this version doesn't have. Update TaterPeeler	Bu oda, bu sürümde olmayan bir oyun oynuyor. TaterPeeler'ı güncelle
+First to peel {0} potatoes wins	İlk {0} patatesi soyan kazanır
+Most potatoes peeled in {0} wins	{0} içinde en çok patates soyan kazanır
+Peel until the host ends it	Ev sahibi bitirene kadar soy
+Most points in {0} wins	{0} içinde en çok puanı alan kazanır
+First to {0} fries wins	İlk {0} kızartmaya ulaşan kazanır
+Most fries in {0} wins	{0} içinde en çok kızartmayı yapan kazanır
+Most points in {0} wins. Out of lives? You're done	{0} içinde en çok puanı alan kazanır. Canın bitti mi? Sen bitirdin
+One shift. Whoever makes the most money wins	Tek vardiya. En çok parayı kazanan kazanır
+Looking for the room...	Oda aranıyor...
+You left the room	Odadan çıktın
+Lost the connection to the room	Odayla bağlantı koptu
+Locked	Kilitli
+Peel {0} more potatoes to open {1}	{1} için {0} patates daha soy
+Play someone online, one on one. Pick a game:	Çevrimiçi bire bir oyna. Bir oyun seç:
+Find an opponent	Rakip bul
+Play with friends	Arkadaşlarla oyna
+Make a room and send your friends its code, or join theirs. Up to 6 players.	Bir oda kur ve kodunu arkadaşlarına gönder, ya da onlarınkine katıl. En fazla 6 oyuncu.
+Make a room	Oda kur
+The room's code	Odanın kodu
+Public rooms	Herkese açık odalar
+None open right now	Şu an açık oda yok
+{0}'s room	{0} odası
+Typed chat is only in private rooms.	Yazılı sohbet sadece özel odalarda.
+1v1 · {0}	1v1 · {0}
+Finding an opponent	Rakip aranıyor
+Nobody yet. Ask a friend to pick 1v1 and the same game, or make a room and send them its code.	Henüz kimse yok. Bir arkadaşından 1v1 ve aynı oyunu seçmesini iste, ya da bir oda kurup kodu gönder.
+The match is on	Maç sürüyor
+Get ready...	Hazırlan...
+Back to the match	Maça dön
+Last match: a tie	Son maç: berabere
+Last match: you won	Son maç: kazandın
+Last match: they won	Son maç: onlar kazandı
+Waiting for them...	Onlar bekleniyor...
+They want a rematch!	Rövanş istiyorlar!
+Rematch	Rövanş
+Tap to play again	Tekrar oynamak için dokun
+New opponent	Yeni rakip
+Public room. Anyone can join, or use the code	Herkese açık oda. Herkes katılabilir ya da kodu kullan
+Send your friends this code to join	Katılmaları için bu kodu arkadaşlarına gönder
+Pick the game	Oyunu seç
+The game	Oyun
+Back to picking a game	Oyun seçimine dön
+Leave room	Odadan çık
+Room	Oda
+Get ready	Hazırlan
+You vs {0}	Sen ve {0}
+Out of lives!	Canın bitti!
+Shift over!	Vardiya bitti!
+Time's up!	Süre doldu!
+Waiting for the others	Diğerleri bekleniyor
+It's a tie!	Berabere!
+{0} wins	{0} kazandı
+That's not a room code	Bu bir oda kodu değil
+Room codes are 5 letters, like SPUDS.	Oda kodları 5 harflidir, örneğin SPUDS.
