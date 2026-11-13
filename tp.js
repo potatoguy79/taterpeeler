@@ -651,19 +651,19 @@
     logmsg: p => console.log('[TaterPeeler]', str(p)),
     plat_file: (np, sp) => {
       const n = str(np); let f = filePtrs[n];
-      if (!f && files[n] && /^(lang_|font_|credits|candle|disco|turkey|potato_l1)/.test(n)) {   /* arrived since: copy it in */
+      if (!f && files[n] && /^(lang_|font_|credits|candle|disco|turkey|potato_l1|tc_)/.test(n)) {   /* arrived since: copy it in */
         const d = files[n]; const p = ex.tp_malloc(d.length); views(); u8.set(d, p);
         f = filePtrs[n] = { ptr: p, size: d.length };
       }
       views();
-      if (!f) { if (/^(lang_|font_|candle|disco|turkey|credits_roll|potato_l1)/.test(n)) lazyFile(n); if (sp) i32[sp >> 2] = 0; return 0; }
+      if (!f) { if (/^(lang_|font_|candle|disco|turkey|credits_roll|potato_l1|tc_)/.test(n)) lazyFile(n); if (sp) i32[sp >> 2] = 0; return 0; }
       if (sp) i32[sp >> 2] = f.size;
       return f.ptr;
     },
     plat_texture: (np, wp, hp, flags) => {
       const n = str(np); let im = images[n];
       if (!im && SHARP[n] && images[SHARP[n]]) im = images[SHARP[n]];   /* the sharp one isn't here yet: start on the 1024 */
-      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|ta_|fry_tut)/.test(n)) lazyImage(n); return 0; }
+      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|ta_|tc_|fry_tut)/.test(n)) lazyImage(n); return 0; }
       const t = gl.createTexture();
       if (SHARP[n] && !images[n]) sharpWait.push([n, t, flags]);
       gl.bindTexture(gl.TEXTURE_2D, t);
@@ -934,6 +934,13 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
       let k = map[e.key] || (e.key && e.key.length === 1 ? e.key.charCodeAt(0) : 0);
       if (k) { ex.tp_key(k, 1); if (k >= 37 && k <= 40) e.preventDefault(); }
     });
+    window.addEventListener('keyup', e => {   /* 4.0: TaterCorner walks while a key is held */
+      if (textBox) return;
+      const map = { Escape: 27, ArrowLeft: 37, ArrowUp: 38, ArrowRight: 39, ArrowDown: 40 };
+      let k = map[e.key] || (e.key && e.key.length === 1 ? e.key.charCodeAt(0) : 0);
+      if (k) ex.tp_key(k, 0);
+    });
+    window.addEventListener('blur', () => { try { ex.tp_key(-1, 0); } catch (e) {} });
     document.addEventListener('visibilitychange', () => {
       if (document.hidden) { ex.tp_background(); music.pause(); musicStarted = false; }
       else {
