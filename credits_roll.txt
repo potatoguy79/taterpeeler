@@ -48,6 +48,3 @@ Henry Lopez, Johnathan Avitia, Diego Gutteriez
 
 [Feature and bug reports]
 Daniel Neggrete, Daniel Lopez, Johnathan Avitia, Ricardo Cabrales and others
-
-[TaterNinja idea]
-Daniel Gomez
