@@ -888,3 +888,292 @@ Room codes are 5 letters, like SPUDS.	Les codes de salon font 5 lettres, comme S
 Play a different game	Jouer à un autre jeu
 {0}, your opponent, left the game	{0}, ton adversaire, a quitté la partie
 {0} left the game	{0} a quitté la partie
+tp_car.inc	tp_car.inc
+Secret. Keep playing to find out how	Secret. Continue de jouer pour le découvrir
+Typed chat is off in this room	Le chat écrit est désactivé dans ce salon
+Exploding Potato	Patate explosive
+Kaboom!	Kaboum !
+Burnt to a Crisp	Carbonisées
+Flip It	Retournée
+Meter Peeler	Éplucheur du mètre
+The Big One	La très grosse
+Spud Overlord	Seigneur des patates
+Tater Deity	Divinité patate
+Fry Empire	Empire de la frite
+Every Day Peeler	Éplucheur de tous les jours
+Peel of Habit	L'habitude d'éplucher
+New World	Nouveau monde
+Peel the Exploding Potato	Épluche la patate explosive
+Burn a whole batch of fries	Brûle toute une fournée de frites
+Flip the potato over on the cutting board	Retourne la patate sur la planche à découper
+Peel one strip 1 m long	Épluche une bande de 1 m
+Peel a Russet Burbank	Épluche une Russet Burbank
+Peel 5,000 potatoes	Épluche 5 000 patates
+Peel 10,000 potatoes	Épluche 10 000 patates
+Fry 250 potatoes	Fais frire 250 patates
+Peel potatoes 7 days in a row	Épluche 7 jours de suite
+Peel potatoes 30 days in a row	Épluche 30 jours de suite
+Find every variety new in 4.0	Trouve chaque nouvelle variété de la 4.0
+{0} days in a row! +{1} TaterCoins	{0} jours de suite ! +{1} TaterCoins
+It's going to blow!	Elle va exploser !
+KABOOM! +25 TaterCoins	KABOUM ! +25 TaterCoins
+{0} days in a row	{0} jours de suite
+  ·  	  ·  
+Drag the basket handle down to fry	Tire la poignée du panier vers le bas pour frire
+They're burning!	Elles brûlent !
+Getting dark...	Ça brunit...
+Golden! Lift the basket out	Dorées ! Sors le panier
+Holding them in the oil	Tu les gardes dans l'huile
+Swipe down to cut, or tap to chop. Swipe sideways on the potato to flip it.	Glisse vers le bas pour couper, ou touche pour hacher. Glisse sur le côté de la patate pour la retourner.
+Click to chop where the knife is, or drag down to slice. Drag sideways on the potato to flip it	Clique pour hacher où est le couteau, ou glisse vers le bas pour trancher. Glisse sur le côté de la patate pour la retourner
+Making fries	Faire des frites
+1  Slice: swipe down, or tap to chop	1  Couper : glisse vers le bas, ou touche
+2  Swipe sideways to push it all into the fryer	2  Glisse sur le côté pour tout pousser dans la friteuse
+3  It fries. Hold the basket to keep it in, but they burn!	3  Ça frit. Tiens le panier pour les garder dedans, mais elles brûlent !
+1  Slice: drag down, or click to chop	1  Couper : glisse vers le bas, ou clique
+2  Drag sideways to push it all into the fryer	2  Glisse sur le côté pour tout pousser dans la friteuse
+Got it	Compris
+Fry basket by hand	Panier à la main
+Lower the basket into the oil and lift it out yourself. Leave it too long and they burn	Plonge le panier dans l'huile et ressors-le toi-même. Trop longtemps, et elles brûlent
+Here's everything that's new in 4.0. Thanks for playing!	Voici tout ce qui est nouveau dans la 4.0. Merci de jouer !
+Online works now	Le jeu en ligne marche
+Online got rebuilt and every game has a competitive mode. There's chat in public rooms too (it's filtered), and a chat box at the bottom while you play, so you can talk without leaving the game.	Le jeu en ligne a été refait et chaque jeu a un mode compétitif. Il y a aussi un chat dans les salons publics (filtré), et une zone de chat en bas pendant la partie pour parler sans quitter le jeu.
+Fewer crashes	Moins de plantages
+A lot of the crashes and freezes got fixed, and if the screen glitches out the game fixes itself and picks up where you were.	Beaucoup de plantages et de gels sont réglés, et si l'écran bugue, le jeu se répare tout seul et reprend là où tu étais.
+The fry station	La friteuse
+Cutting is more accurate, you can flip the potato with a sideways swipe, and you can grab the basket and keep the fries in on purpose. They burn though, and burnt fries cost you coins. Want to work the basket yourself? Turn on Fry basket by hand in Settings. There's a quick how-to the first time too.	La découpe est plus précise, tu peux retourner la patate d'un glissement sur le côté, et tu peux tenir le panier pour laisser les frites dedans exprès. Mais elles brûlent, et les frites brûlées coûtent des pièces. Tu veux gérer le panier toi-même ? Active Panier à la main dans les Réglages. Il y a aussi un petit tuto la première fois.
+New potatoes	Nouvelles patates
+Six new ones, including a really big one (way longer peels now, no more 42 cm limit), a red-inside one, a tiny one, a horn-shaped one, and a super rare one that explodes. Good luck.	Six nouvelles, dont une vraiment grosse (des épluchures bien plus longues, fini la limite de 42 cm), une rouge à l'intérieur, une minuscule, une en forme de corne et une super rare qui explose. Bonne chance.
+Potato pages	Pages des patates
+Tap a potato's sticker (its number) in the Collection or while you peel to see where it grows, what it's for, and something cool about it.	Touche l'autocollant d'une patate (son numéro) dans la Collection ou en épluchant pour voir où elle pousse, à quoi elle sert et un truc cool sur elle.
+Portfolios	Profils
+Tap anyone on the online leaderboard to see their portfolio: what they've peeled and their stats. Yours can have a photo, a line about you, a colour and a favourite potato.	Touche quelqu'un dans le classement en ligne pour voir son profil : ce qu'il a épluché et ses stats. Le tien peut avoir une photo, une phrase sur toi, une couleur et une patate préférée.
+More to go for	Plus d'objectifs
+New achievements (some are secret), a streak for peeling every day with coins for keeping it going, and some bigger goals for later.	De nouveaux succès (certains sont secrets), une série pour éplucher chaque jour avec des pièces si tu continues, et quelques grands objectifs pour plus tard.
+Faster	Plus rapide
+The game loads a lot faster, especially the second time, and it shows what it's loading, how fast, and how long is left.	Le jeu charge beaucoup plus vite, surtout la deuxième fois, et il montre ce qu'il charge, à quelle vitesse et combien de temps il reste.
+The all-time counter is on to start with, the credits scroll a little faster, the Apple Watch version is easier to tap, and I can answer your ideas now. If I do, you'll see it when you open the game.	Le compteur total est activé dès le début, le générique défile un peu plus vite, l'Apple Watch est plus facile à toucher, et je peux maintenant répondre à vos idées. Si je le fais, tu le verras en ouvrant le jeu.
+d  	d  
+Coming up in	Encore
+It's here!	C'est là !
+Update 4.0 is now out! Here's what's new!	La mise à jour 4.0 est sortie ! Voici les nouveautés !
+Most dedicated peeler: {0}, {1} hours peeling	Éplucheur le plus assidu : {0}, {1} heures d'épluchage
+Most dedicated peeler: {0}	Éplucheur le plus assidu : {0}
+You suggested:	Ton idée :
+"\n\n	"\n\n
+Andres answered your idea!	Andres a répondu à ton idée !
+Your stats were changed by TaterPeeler staff	Tes stats ont été modifiées par l'équipe TaterPeeler
+Your portfolio	Ton profil
+Tap anyone above to see theirs	Touche quelqu'un ci-dessus pour voir le sien
+To get on the leaderboard and have a portfolio, save your progress to the cloud. It only takes a code.	Pour être dans le classement et avoir un profil, sauvegarde ta progression dans le cloud. Il suffit d'un code.
+Idaho, Washington and the rest of the northern US	Idaho, Washington and the rest of the northern US
+Baking, mashing and French fries	Baking, mashing and French fries
+Its rough, netted brown skin gives it the name: russet means reddish brown.	Its rough, netted brown skin gives it the name: russet means reddish brown.
+Bred in Ontario, Canada, in the 1960s	Bred in Ontario, Canada, in the 1960s
+Roasting, mashing and potato salad	Roasting, mashing and potato salad
+Named after the Yukon gold rush, for its golden flesh, which tastes a little buttery.	Named after the Yukon gold rush, for its golden flesh, which tastes a little buttery.
+Bred in Maine, USA, in 1948	Bred in Maine, USA, in 1948
+French fries and chips	French fries and chips
+Lots of small fry shops say it makes the best fries.	Lots of small fry shops say it makes the best fries.
+All over the United States	All over the United States
+Boiling, roasting and salads	Boiling, roasting and salads
+Waxy and smooth, so it keeps its shape when it's cooked.	Waxy and smooth, so it keeps its shape when it's cooked.
+The Baltic countries and the US Pacific Northwest	The Baltic countries and the US Pacific Northwest
+Roasting and salads	Roasting and salads
+A fingerling shaped like a little banana, with yellow, waxy flesh.	A fingerling shaped like a little banana, with yellow, waxy flesh.
+First grown in Central and South America, now everywhere warm	First grown in Central and South America, now everywhere warm
+Baking, fries and pies	Baking, fries and pies
+Not a true potato at all: it's related to the morning glory flower.	Not a true potato at all: it's related to the morning glory flower.
+Bred in Colorado, USA	Bred in Colorado, USA
+Roasting, chips and salads	Roasting, chips and salads
+Purple from anthocyanins, the same colour that's in blueberries.	Purple from anthocyanins, the same colour that's in blueberries.
+Bred at Cornell University in New York	Bred at Cornell University in New York
+Mashing, salads and chips	Mashing, salads and chips
+Blue right through, and it mostly stays blue when it's cooked.	Blue right through, and it mostly stays blue when it's cooked.
+Colorado, USA	Colorado, USA
+Roasting and boiling	Roasting and boiling
+Its creamy skin is splashed with purple, like a mask.	Its creamy skin is splashed with purple, like a mask.
+Bred in Cambridge, England, in 1966	Bred in Cambridge, England, in 1966
+Chips, roasting and mashing	Chips, roasting and mashing
+The most grown potato in the UK, and the classic chip shop potato.	The most grown potato in the UK, and the classic chip shop potato.
+Bred in the Netherlands in 1905	Bred in the Netherlands in 1905
+Belgian fries are traditionally made with Bintje.	Belgian fries are traditionally made with Bintje.
+Roasting whole and steaming	Roasting whole and steaming
+Picked young, so its skin is thin and tender.	Picked young, so its skin is thin and tender.
+Bred in the Netherlands in 1962	Bred in the Netherlands in 1962
+Roasting, wedges and mashing	Roasting, wedges and mashing
+Red skin, yellow flesh, and a favourite in Australia and the UK.	Red skin, yellow flesh, and a favourite in Australia and the UK.
+Bred in England in 1902, named after King Edward VII	Bred in England in 1902, named after King Edward VII
+Roasting and mashing	Roasting and mashing
+Its creamy skin has pink patches.	Its creamy skin has pink patches.
+North Carolina and Louisiana, USA	North Carolina and Louisiana, USA
+Baking and pies	Baking and pies
+Called a yam, but it's really a sweet potato.	Called a yam, but it's really a sweet potato.
+The northern United States	The northern United States
+Purple on the outside, golden inside.	Purple on the outside, golden inside.
+Japan and California	Japan and California
+Roasting (yaki-imo)	Roasting (yaki-imo)
+In Japan, trucks sell them roasted on hot stones in winter.	In Japan, trucks sell them roasted on hot stones in winter.
+Salads and roasting	Salads and roasting
+Red flesh that turns pink when it's cooked.	Red flesh that turns pink when it's cooked.
+Hawaii and Okinawa, Japan	Hawaii and Okinawa, Japan
+Steaming and pies	Steaming and pies
+Its pale skin hides bright purple flesh.	Its pale skin hides bright purple flesh.
+France, since the 1800s	France, since the 1800s
+Purees, chips and salads	Purees, chips and salads
+Almost black outside, deep violet inside.	Almost black outside, deep violet inside.
+Only in TaterPeeler	Only in TaterPeeler
+Being admired	Being admired
+Every colour of the rainbow, from one end to the other.	Every colour of the rainbow, from one end to the other.
+Only ever your 1,000th potato	Only ever your 1,000th potato
+Celebrating	Celebrating
+It looks like solid gold. It isn't. Probably.	It looks like solid gold. It isn't. Probably.
+Bred in France in 1981	Bred in France in 1981
+Salads and boiling	Salads and boiling
+A waxy salad potato that holds together when it's cooked.	A waxy salad potato that holds together when it's cooked.
+Bred in Ireland in 1991	Bred in Ireland in 1991
+Roasting, mashing and chips	Roasting, mashing and chips
+Ireland's favourite red potato.	Ireland's favourite red potato.
+Bred in North Dakota, USA, in 1957	Bred in North Dakota, USA, in 1957
+Boiling and salads	Boiling and salads
+One of the first potatoes ready to dig up each summer.	One of the first potatoes ready to dig up each summer.
+An old European variety, now grown in the US Pacific Northwest	An old European variety, now grown in the US Pacific Northwest
+A little sweet, with dense yellow flesh.	A little sweet, with dense yellow flesh.
+Bred in Germany in 1973	Bred in Germany in 1973
+Waxy and low in starch.	Waxy and low in starch.
+Bred in Germany in 1985	Bred in Germany in 1985
+Fries, roasting and mashing	Fries, roasting and mashing
+Big and yellow, and very popular in New Zealand.	Big and yellow, and very popular in New Zealand.
+Bred in Scotland in 1907	Bred in Scotland in 1907
+Mashing and roasting	Mashing and roasting
+Pink skin and very floury flesh, a favourite in Ireland.	Pink skin and very floury flesh, a favourite in Ireland.
+The US Pacific Northwest	The US Pacific Northwest
+Mashing, roasting and frying	Mashing, roasting and frying
+Its yellow flesh is rich, like butter.	Its yellow flesh is rich, like butter.
+Mashing and baking	Mashing and baking
+Purple skin with pink splashes, and bright white flesh.	Purple skin with pink splashes, and bright white flesh.
+Bred in Scotland in 1918	Bred in Scotland in 1918
+Named to celebrate the end of World War I.	Named to celebrate the end of World War I.
+California, USA	California, USA
+Baking	Baking
+A sweet potato with pale skin and white flesh.	A sweet potato with pale skin and white flesh.
+A sweet potato with red-purple skin and deep orange flesh.	A sweet potato with red-purple skin and deep orange flesh.
+France, since the 1870s	France, since the 1870s
+Steaming and salads	Steaming and salads
+Famous for its nutty taste in French restaurants.	Famous for its nutty taste in French restaurants.
+England, since 1850	England, since 1850
+Salads	Salads
+Knobbly and twisty, with rosy pink skin.	Knobbly and twisty, with rosy pink skin.
+The United States	The United States
+Red skin and red flesh.	Red skin and red flesh.
+Roasting	Roasting
+Red skin and yellow flesh, sometimes with pink streaks.	Red skin and yellow flesh, sometimes with pink streaks.
+Only on the island of Jersey	Only on the island of Jersey
+Boiled, with butter	Boiled, with butter
+Its name is protected, like Champagne: only Jersey can grow it.	Its name is protected, like Champagne: only Jersey can grow it.
+The Shetland Islands, Scotland	The Shetland Islands, Scotland
+Almost black skin, and a purple ring inside.	Almost black skin, and a purple ring inside.
+A purple fingerling that stays purple when it's cooked.	A purple fingerling that stays purple when it's cooked.
+Pale skin with rosy patches.	Pale skin with rosy patches.
+Bred in the United States in 1976	Bred in the United States in 1976
+Potato chips	Potato chips
+One of the most used potatoes for chips and crisps.	One of the most used potatoes for chips and crisps.
+Bred in Wisconsin, USA, in 1962	Bred in Wisconsin, USA, in 1962
+Boiling and chips	Boiling and chips
+An early, round, white potato.	An early, round, white potato.
+Bred in Iowa, USA, in 1966	Bred in Iowa, USA, in 1966
+Boiling, mashing and baking	Boiling, mashing and baking
+A bright red potato that's good at everything.	A bright red potato that's good at everything.
+Bred in Germany	Bred in Germany
+Boiling and roasting	Boiling and roasting
+Creamy and yellow, and good for almost anything.	Creamy and yellow, and good for almost anything.
+Grown by the Makah people in Washington State for over 200 years	Grown by the Makah people in Washington State for over 200 years
+It may have come straight from South America, not by way of Europe.	It may have come straight from South America, not by way of Europe.
+Bred in Ireland in 1976	Bred in Ireland in 1976
+White with pink eyes, and great as a jacket potato.	White with pink eyes, and great as a jacket potato.
+Bred in Scotland in 1992	Bred in Scotland in 1992
+Roasting and chips	Roasting and chips
+Creamy skin with purple eyes.	Creamy skin with purple eyes.
+A Scottish heritage variety	A Scottish heritage variety
+Mashing and chips	Mashing and chips
+Red right through, and rare.	Red right through, and rare.
+Blue skin and blue flesh.	Blue skin and blue flesh.
+Austria, and now the United States	Austria, and now the United States
+Long and curved like a crescent moon.	Long and curved like a crescent moon.
+The Philippines	The Philippines
+Desserts like ube halaya and ice cream	Desserts like ube halaya and ice cream
+A purple yam, not a potato, and the star of Filipino sweets.	A purple yam, not a potato, and the star of Filipino sweets.
+Startling people	Startling people
+It looks just like a Russet. It is not a Russet.	It looks just like a Russet. It is not a Russet.
+Only in TaterPeeler, fresh from the oven	Only in TaterPeeler, fresh from the oven
+Eating, right now	Eating, right now
+It comes wrapped in foil, still steaming.	It comes wrapped in foil, still steaming.
+Only on Andres's birthday	Only on Andres's birthday
+Making a wish	Making a wish
+Blow out the candles before you peel.	Blow out the candles before you peel.
+Only around Thanksgiving	Only around Thanksgiving
+Thanksgiving dinner	Thanksgiving dinner
+Half potato, half turkey. Gobble.	Half potato, half turkey. Gobble.
+Bred by Luther Burbank in the 1870s, grown in Idaho	Bred by Luther Burbank in the 1870s, grown in Idaho
+Baking and fries	Baking and fries
+The most grown potato in the US, and a big one: long peels.	The most grown potato in the US, and a big one: long peels.
+Red skin and rosy pink flesh.	Red skin and rosy pink flesh.
+The Andes in Peru	The Andes in Peru
+Causa, mashing and soups	Causa, mashing and soups
+Peru's famous yellow potato: knobbly, deep-eyed and floury.	Peru's famous yellow potato: knobbly, deep-eyed and floury.
+Only on the island of Noirmoutier, France	Only on the island of Noirmoutier, France
+Steamed, with butter and salt	Steamed, with butter and salt
+Dug up by hand, it has sold for hundreds of euros a kilo.	Dug up by hand, it has sold for hundreds of euros a kilo.
+Long and curved like a bull's horn, which is what its name means.	Long and curved like a bull's horn, which is what its name means.
+Nothing. Run	Nothing. Run
+Peel a third of it, then you've got about three seconds.	Peel a third of it, then you've got about three seconds.
+You've peeled {0}	Tu en as épluché {0}
+Peel one to learn about it	Épluches-en une pour en savoir plus
+Sticker number {0}	Autocollant n° {0}
+Where it grows	Où elle pousse
+What it's for	À quoi elle sert
+Did you know?	Le savais-tu ?
+Keep peeling: when this one turns up, its page fills in.	Continue d'éplucher : quand elle arrivera, sa page se remplira.
+Potato	Patate
+rate	rate
+Too many changes. Wait a minute	Trop de changements. Attends une minute
+Couldn't save that. Try again	Impossible d'enregistrer. Réessaie
+Photo sent. It shows once TaterPeeler staff have looked at it	Photo envoyée. Elle apparaîtra quand l'équipe TaterPeeler l'aura vue
+Saved	Enregistré
+That photo is too big	Cette photo est trop grande
+Sending your photo...	Envoi de ta photo...
+Couldn't load this portfolio	Impossible de charger ce profil
+Portfolio	Profil
+#{0} on the leaderboard	#{0} au classement
+Add a line about you below	Ajoute une phrase sur toi plus bas
+Your new photo is waiting for TaterPeeler staff to look at it.	Ta nouvelle photo attend d'être vue par l'équipe TaterPeeler.
+best Rush	meilleur Rush
+hours peeling	heures d'épluchage
+days in a row	jours de suite
+What you've peeled	Ce que tu as épluché
+What they've peeled	Ce qui a été épluché
+Nothing yet	Rien pour l'instant
+Make it yours	Personnalise-le
+Write about you	Écris sur toi
+A line about you	Une phrase sur toi
+No photo	Pas de photo
+Colour	Couleur
+Favourite potato (shown when there's no photo)	Patate préférée (affichée sans photo)
+None	Aucune
+Tap to change	Touche pour changer
+Burnt to a crisp! {0} burnt fries: -{1} TaterCoins	Carbonisées ! {0} frites brûlées : -{1} TaterCoins
+{0} burnt fries: -{1} TaterCoins	{0} frites brûlées : -{1} TaterCoins
+Staring Potato	Patate qui fixe
+Staring Contest	Concours de regards
+Peel the Staring Potato	Épluche la patate qui fixe
+Update {0} is out	La mise à jour {0} est sortie
+tp_stare.inc	tp_stare.inc
+And one more	Et une de plus
+There's also a super rare one that watches you while you peel it. You'll know it when you see it.	Il y en a aussi une super rare qui te regarde pendant que tu l'épluches. Tu la reconnaîtras.
+TaterPeeler {0} is out!	TaterPeeler {0} est sorti !
+You have {0}. Get the new version from the download page: your progress stays.	Tu as la {0}. Prends la nouvelle version sur la page de téléchargement : ta progression reste.
+Get it	L'avoir
+Later	Plus tard
+https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.github.io/taterpeeler/version.txt?n=
+Keeping an eye on you	Keeping an eye on you
+It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.

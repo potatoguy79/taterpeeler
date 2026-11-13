@@ -40,6 +40,14 @@
     ok: { en: 'OK', zh: '确定', es: 'OK', 'es-ES': 'Vale', ru: 'ОК', pt: 'OK', de: 'OK', ja: 'OK', fr: 'OK', ko: '확인', pl: 'OK', tr: 'Tamam', pirate: 'Aye' },
     photo: { en: 'Choose a photo', zh: '选择一张照片', es: 'Elige una foto', 'es-ES': 'Elige una foto', ru: 'Выбери фото', pt: 'Escolha uma foto', de: 'Wähl ein Foto', ja: '写真を選ぶ', fr: 'Choisis une photo', ko: '사진 고르기', pl: 'Wybierz zdjęcie', tr: 'Bir fotoğraf seç', pirate: 'Pick a paintin\'' },
     photos: { en: 'Open photos', zh: '打开照片', es: 'Abrir fotos', 'es-ES': 'Abrir fotos', ru: 'Открыть фото', pt: 'Abrir fotos', de: 'Fotos öffnen', ja: '写真を開く', fr: 'Ouvrir les photos', ko: '사진 열기', pl: 'Otwórz zdjęcia', tr: 'Fotoğrafları aç', pirate: 'Open the gallery' },
+    sgame: { en: 'Getting the game', zh: '正在获取游戏', es: 'Descargando el juego', 'es-ES': 'Descargando el juego', ru: 'Скачиваем игру', pt: 'Baixando o jogo', de: 'Lade das Spiel', ja: 'ゲームを取得中', fr: 'Téléchargement du jeu', ko: '게임 받는 중', pl: 'Pobieranie gry', tr: 'Oyun indiriliyor', pirate: 'Haulin\' in the game' },
+    spotato: { en: 'Getting the potatoes', zh: '正在获取土豆', es: 'Descargando las papas', 'es-ES': 'Descargando las patatas', ru: 'Скачиваем картошку', pt: 'Baixando as batatas', de: 'Lade die Kartoffeln', ja: 'じゃがいもを取得中', fr: 'Téléchargement des patates', ko: '감자 받는 중', pl: 'Pobieranie ziemniaków', tr: 'Patatesler indiriliyor', pirate: 'Haulin\' in the spuds' },
+    speeler: { en: 'Sharpening the peeler', zh: '正在磨削皮器', es: 'Afilando el pelador', 'es-ES': 'Afilando el pelador', ru: 'Точим овощечистку', pt: 'Afiando o descascador', de: 'Schärfe den Schäler', ja: 'ピーラーを研いでいます', fr: 'Affûtage de l\'éplucheur', ko: '필러 가는 중', pl: 'Ostrzenie obieraczki', tr: 'Soyacak bileniyor', pirate: 'Sharpenin\' the peeler' },
+    swords: { en: 'Getting the words', zh: '正在获取文字', es: 'Descargando los textos', 'es-ES': 'Descargando los textos', ru: 'Скачиваем тексты', pt: 'Baixando os textos', de: 'Lade die Texte', ja: '文字を取得中', fr: 'Téléchargement des textes', ko: '글자 받는 중', pl: 'Pobieranie tekstów', tr: 'Yazılar indiriliyor', pirate: 'Fetchin\' the scrolls' },
+    skitchen: { en: 'Setting up the kitchen', zh: '正在布置厨房', es: 'Preparando la cocina', 'es-ES': 'Preparando la cocina', ru: 'Готовим кухню', pt: 'Arrumando a cozinha', de: 'Richte die Küche ein', ja: 'キッチンを準備中', fr: 'Installation de la cuisine', ko: '주방 준비 중', pl: 'Przygotowanie kuchni', tr: 'Mutfak hazırlanıyor', pirate: 'Riggin\' the galley' },
+    sstart: { en: 'Starting up', zh: '正在启动', es: 'Iniciando', 'es-ES': 'Iniciando', ru: 'Запускаем', pt: 'Iniciando', de: 'Starte', ja: '起動中', fr: 'Démarrage', ko: '시작하는 중', pl: 'Uruchamianie', tr: 'Başlatılıyor', pirate: 'Hoistin\' the sails' },
+    lefts: { en: 'about # s left', zh: '还剩约 # 秒', es: 'faltan unos # s', 'es-ES': 'faltan unos # s', ru: 'осталось ~# с', pt: 'faltam uns # s', de: 'noch etwa # s', ja: '残り約 # 秒', fr: 'encore ~# s', ko: '약 #초 남음', pl: 'jeszcze ok. # s', tr: 'yaklaşık # sn kaldı', pirate: 'about # ticks left' },
+    leftm: { en: 'about # min left', zh: '还剩约 # 分钟', es: 'faltan unos # min', 'es-ES': 'faltan unos # min', ru: 'осталось ~# мин', pt: 'faltam uns # min', de: 'noch etwa # Min.', ja: '残り約 # 分', fr: 'encore ~# min', ko: '약 #분 남음', pl: 'jeszcze ok. # min', tr: 'yaklaşık # dk kaldı', pirate: 'about # turns o\' the glass left' },
     nowebgl: { en: 'TaterPeeler needs WebGL, which this browser has turned off. Please try another browser.' },
     failed: { en: 'TaterPeeler could not load its files. Reload the page to try again. If this persists try using the web app or website.' }
   };
@@ -72,8 +80,11 @@
   /* ---------------- random shit called assets ---------------- */
   const big = quality >= 2;
   const FILES = ['font.tpf', 'peeler.tpk', (big && extUint) ? 'potato_l3.tpm' : (quality === 0 ? 'potato_l1.tpm' : 'potato_l2.tpm')];
-  const IMAGES = ['font_atlas.png', big ? 'potato_detail_2048.jpg' : 'potato_detail_1024.jpg'].concat(quality >= 1 ? [big ? 'potato_normal_2048.jpg' : 'potato_normal_1024.jpg'] : [])
-    .concat([quality >= 1 ? 'logo_512.png' : 'logo_256.png', big ? 'wood_2048.jpg' : (quality >= 1 ? 'wood_1024.jpg' : 'wood_512.jpg')])
+  /* 4.0: the sharpest pictures (2048) come AFTER the game has started; it starts on the 1024 ones and swaps them in
+     place when they arrive (about 3.5 MB less to wait for) */
+  const SHARP = big ? { 'potato_detail_2048.jpg': 'potato_detail_1024.jpg', 'potato_normal_2048.jpg': 'potato_normal_1024.jpg', 'wood_2048.jpg': 'wood_1024.jpg' } : {};
+  const IMAGES = ['font_atlas.png', 'potato_detail_1024.jpg'].concat(quality >= 1 ? ['potato_normal_1024.jpg'] : [])
+    .concat([quality >= 1 ? 'logo_512.png' : 'logo_256.png', quality >= 1 ? 'wood_1024.jpg' : 'wood_512.jpg'])
     .concat(quality === 0 ? ['potato_mix_1024.png'] : []);
   /* index = SFX_* id in the core; slot 0 (the old synthesized loop) is unused -idk what that means chatgpt told me to fix that */
   const SOUNDS = [null, 'sfx_snap.wav', 'sfx_done.wav', 'sfx_land.wav', 'sfx_tap.wav', 'sfx_unlock.wav', 'sfx_tick.wav', 'sfx_timeup.wav', 'sfx_whoosh.wav']
@@ -96,7 +107,56 @@
   const files = {}, images = {}, soundData = {};
   let total = FILES.length + IMAGES.length + 1, done = 0;   /* (the sounds load after the game has started) */
   let joking = false;
-  function tick() { done++; if (!joking) bar.style.transform = 'scaleX(' + (done / total).toFixed(3) + ')'; }
+  /* 4.0: under the bar, what it's getting, how fast, and about how long is left. Sizes are guesses until each file
+     answers (then its real size); the bar follows the bytes, so it moves smoothly instead of in jumps. */
+  const GUESS = { 'taterpeeler.wasm': 260e3, 'peeler.tpk': 1.49e6, 'potato_l3.tpm': 1.26e6, 'potato_l2.tpm': 330e3, 'potato_l1.tpm': 82e3, 'font.tpf': 22e3,
+    'font_atlas.png': 230e3, 'potato_detail_1024.jpg': 957e3, 'potato_normal_1024.jpg': 325e3, 'logo_512.png': 158e3, 'logo_256.png': 50e3,
+    'wood_1024.jpg': 192e3, 'wood_512.jpg': 50e3, 'potato_mix_1024.png': 2.81e6 };
+  const prog = {};   /* name -> [got, size] */
+  let t0 = performance.now(), speedT = t0, speed = 0, infoShown = false, infoTimer = 0;
+  const info = document.createElement('div'); info.className = 'msg-info';
+  { const tr = loader.querySelector('.track'); if (tr && tr.parentNode) tr.parentNode.insertBefore(info, tr.nextSibling); }
+  function stageOf(n) { return /\.wasm$/.test(n) ? 'sgame' : /^potato_l|^potato_detail|^potato_normal|^potato_mix/.test(n) ? 'spotato' : /^peeler/.test(n) ? 'speeler' : /^font|^lang_/.test(n) ? 'swords' : 'skitchen'; }
+  function want(n) { if (!prog[n]) prog[n] = [0, GUESS[n] || 150e3]; }
+  function got(n, bytes, size) { want(n); const p = prog[n]; if (size > 0) p[1] = size; p[0] = Math.min(p[1], bytes); showInfo(); }
+  function bytesNow() { let g = 0, t = 0; for (const k in prog) { g += prog[k][0]; t += prog[k][1]; } return [g, t]; }
+  let lastG = 0;
+  function showInfo() {
+    const now = performance.now(), [g, t] = bytesNow();
+    if (now - speedT > 400) { const inst = (g - lastG) / ((now - speedT) / 1000); speed = speed ? speed * 0.6 + inst * 0.4 : inst; lastG = g; speedT = now; }
+    if (!joking) bar.style.transform = 'scaleX(' + Math.min(1, t ? g / t * 0.96 + done / total * 0.04 : done / total).toFixed(3) + ')';
+    if (infoTimer) return;
+    infoTimer = setTimeout(() => { infoTimer = 0; drawInfo(); }, 250);
+  }
+  function drawInfo() {
+    if (!document.getElementById('loader')) return;
+    const [g, t] = bytesNow();
+    let what = 'sstart';
+    for (const k in prog) if (prog[k][0] < prog[k][1]) { what = stageOf(k); if (what === 'spotato' || what === 'sgame') break; }
+    let line = W(what);
+    const el = (performance.now() - t0) / 1000;
+    if (what !== 'sstart' && el > 0.8 && speed > 1000) {
+      line += ' \u00b7 ' + (speed >= 1e6 ? (speed / 1e6).toFixed(1) + ' MB/s' : Math.round(speed / 1e3) + ' KB/s');
+      const left = Math.max(0, t - g) / speed;
+      if (left >= 1) line += ' \u00b7 ' + W(left < 60 ? 'lefts' : 'leftm').replace('#', left < 60 ? Math.ceil(left) : Math.ceil(left / 60));
+    }
+    info.textContent = line;
+    if (!infoShown) { infoShown = true; info.classList.add('on'); const sb = loader.querySelector('.msg-sub'); if (sb && !joking) sb.style.display = 'none'; }
+  }
+  function tick() { done++; showInfo(); }
+  /* a fetch, counted as it arrives (when the browser can stream it) */
+  function counted(name, r) {
+    const size = +(r.headers.get('content-length') || 0), enc = r.headers.get('content-encoding');
+    want(name);
+    if (size && !enc) prog[name][1] = size;   /* (gzip: the header is the packed size; the guess is closer) */
+    if (!r.body || !r.body.getReader || typeof Response === 'undefined') return r.arrayBuffer().then(b => { got(name, b.byteLength, b.byteLength); return b; });
+    const rd = r.body.getReader(), parts = []; let n = 0;
+    const pump = () => rd.read().then(({ done: d, value }) => {
+      if (d) { const out = new Uint8Array(n); let o = 0; for (const c of parts) { out.set(c, o); o += c.length; } prog[name][1] = n; got(name, n, n); return out.buffer; }
+      parts.push(value); n += value.length; got(name, n, Math.max(prog[name][1], n)); return pump();
+    });
+    return pump();
+  }
   /* still loading after 10 seconds: a little game to play meanwhile. The snake is a peeler, the apples are
      potatoes; run the peeler over one to peel it, and a new one turns up somewhere else. */
   setTimeout(() => { if (done < total && document.getElementById('loader')) waitGame(); }, 10000);
@@ -260,10 +320,18 @@
   function loadBin(name) {
     /* hosts that only serve common file types get the data as base64 text -#sounded so pro*/
     if (window.TP_DATA_B64) return fetchRetry('data/' + name + '.txt' + V).then(r => r.text()).then(t => { files[name] = b64(t); tick(); });
-    return fetchRetry('data/' + name + V).then(r => r.arrayBuffer()).then(b => { files[name] = new Uint8Array(b); tick(); });
+    want(name);
+    return fetchRetry('data/' + name + V).then(r => counted(name, r)).then(b => { files[name] = new Uint8Array(b); tick(); });
   }
+  /* pictures come through fetch too (so they're counted), then become an <img>; a plain <img> if that fails */
   function loadImg(name) {
-    return imgRetry('data/' + name + V).then(im => { images[name] = im; tick(); });
+    want(name);
+    const viaImg = () => imgRetry('data/' + name + V).then(im => { images[name] = im; got(name, prog[name][1], prog[name][1]); tick(); });
+    if (typeof URL === 'undefined' || !URL.createObjectURL || typeof Blob === 'undefined') return viaImg();
+    return fetchRetry('data/' + name + V).then(r => counted(name, r)).then(b => new Promise((res, rej) => {
+      const u = URL.createObjectURL(new Blob([b], { type: /\.png$/.test(name) ? 'image/png' : 'image/jpeg' }));
+      const im = new Image(); im.onload = () => { images[name] = im; res(); }; im.onerror = () => { URL.revokeObjectURL(u); rej(new Error(name)); }; im.src = u;
+    })).then(tick, viaImg);
   }
   /* a language's words and letters: fetched when it's picked (or before the game starts, for the saved one) */
   const lazyF = {};
@@ -313,7 +381,8 @@
       if (actx && i > 0) actx.decodeAudioData(b.slice(0), buf => { buffers[i] = buf; }, () => {});
     }).catch(() => {});
   }
-  const wasmP = fetchRetry('taterpeeler.wasm' + V).then(r => r.arrayBuffer()).then(b => { tick(); return b; });
+  want('taterpeeler.wasm');
+  const wasmP = fetchRetry('taterpeeler.wasm' + V).then(r => counted('taterpeeler.wasm', r)).then(b => { tick(); return b; });
 
   /* ---------------- audio ---------------- */
   let actx = null, master = null, buffers = [], unlocked = false;
@@ -460,10 +529,10 @@
       st.textContent = `
         @font-face { font-family: "Archivo"; src: url("archivo.woff2") format("woff2"); font-weight: 100 900; font-stretch: 62% 125%; font-display: swap; }
         #tp-tb { position: fixed; inset: 0; z-index: 40; display: flex; align-items: center; justify-content: center; padding: 18px;
-          background: rgba(20,18,16,.32); opacity: 0; transition: opacity .16s ease; font-family: Archivo, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+          background: rgba(20,18,16,.32); opacity: 0; transition: opacity .09s ease; font-family: Archivo, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
         #tp-tb.on { opacity: 1; }
         #tp-tb .card { width: min(420px, 100%); background: #fff; color: #26221e; border-radius: 22px; padding: 22px 20px 16px;
-          box-shadow: 0 24px 60px rgba(0,0,0,.22); transform: translateY(8px); transition: transform .16s ease; }
+          box-shadow: 0 24px 60px rgba(0,0,0,.22); transform: translateY(6px); transition: transform .09s ease; }
         #tp-tb.on .card { transform: none; }
         :root.dark #tp-tb .card { background: #26221e; color: #f1ede7; }
         #tp-tb h3 { margin: 0 0 14px; font-size: 19px; font-weight: 640; letter-spacing: -.01em; }
@@ -572,8 +641,8 @@
       else if (e.key === 'Enter' && (kind !== 3 || e.metaKey || e.ctrlKey)) { e.preventDefault(); finish(field.value.trim()); }
     });
     document.body.appendChild(wrap);
-    requestAnimationFrame(() => wrap.classList.add('on'));
-    setTimeout(() => field.focus(), 30);
+    void wrap.offsetWidth; wrap.classList.add('on');   /* (at once, not on the next frame) */
+    try { field.focus(); } catch (e) {}
   }
 
   let cursorKind = -1;
@@ -592,9 +661,11 @@
       return f.ptr;
     },
     plat_texture: (np, wp, hp, flags) => {
-      const n = str(np); const im = images[n];
-      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|ta_)/.test(n)) lazyImage(n); return 0; }
+      const n = str(np); let im = images[n];
+      if (!im && SHARP[n] && images[SHARP[n]]) im = images[SHARP[n]];   /* the sharp one isn't here yet: start on the 1024 */
+      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|ta_|fry_tut)/.test(n)) lazyImage(n); return 0; }
       const t = gl.createTexture();
+      if (SHARP[n] && !images[n]) sharpWait.push([n, t, flags]);
       gl.bindTexture(gl.TEXTURE_2D, t);
       gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, false);
       gl.pixelStorei(gl.UNPACK_PREMULTIPLY_ALPHA_WEBGL, false);
@@ -666,6 +737,7 @@
     /* ---- online (2.0) ---- */
     plat_http: (req, up, kp, bp) => {
       const url = str(up), key = str(kp), body = str(bp);
+      if (key && url.indexOf('/rest/v1/rpc/') > 0) { rpcBase = url.slice(0, url.indexOf('/rest/v1/rpc/') + 13); rpcKey = key; }   /* (for a crash report) */
       const deliver = (status, text) => {
         if (!ex) return;
         const b = te.encode(text || ''), p = ex.tp_net_buf(b.length + 1);
@@ -711,8 +783,9 @@
       if (wp) i32[wp >> 2] = e.img.naturalWidth; if (hp) i32[hp >> 2] = e.img.naturalHeight;
       return e.tex;
     },
-    plat_pick_image: req => pickFile(f => shrinkPhoto(f, 900, 0.82, (c, d) => {   /* the admin's popup photo, as a data: URL */
-        if (d.length > 560000) d = c.toDataURL('image/jpeg', 0.6);
+    plat_pick_image: req => pickFile(f => shrinkPhoto(f, req >= 1000000 ? 320 : 900, 0.82, (c, d) => {   /* the admin's popup photo (or, 4.0, a small portfolio photo), as a data: URL */
+        if (req >= 1000000) { if (d.length > 88000) d = c.toDataURL('image/jpeg', 0.6); if (d.length > 88000) d = c.toDataURL('image/jpeg', 0.4); }
+        else if (d.length > 560000) d = c.toDataURL('image/jpeg', 0.6);
         const b = te.encode(d), p = ex.tp_net_buf(b.length + 1); views(); if (p) u8.set(b, p);
         ex.tp_image_picked(req, p ? 1 : 0, p ? b.length : 0);
       }, () => ex.tp_image_picked(req, 0, 0)), () => ex.tp_image_picked(req, 0, 0)),
@@ -863,8 +936,17 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
     });
     document.addEventListener('visibilitychange', () => {
       if (document.hidden) { ex.tp_background(); music.pause(); musicStarted = false; }
-      else if (musicWanted && unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {});
+      else {
+        if (gl.isContextLost && gl.isContextLost()) { relaunch(); return; }
+        if (musicWanted && unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {});
+      }
     });
+    /* 3.0: when a device sleeps (a watch, a phone, a TV) the browser can take the graphics away; the picture went grey
+       and stayed grey. Now the game starts again where it was as soon as it's back (it saves as you play). */
+    let relaunching = false;
+    function relaunch() { if (relaunching) return; relaunching = true; try { ex.tp_background(); } catch (e) {} setTimeout(() => location.reload(), 150); }
+    canvas.addEventListener('webglcontextlost', e => { e.preventDefault(); try { ex.tp_background(); } catch (e2) {} }, false);
+    canvas.addEventListener('webglcontextrestored', () => relaunch(), false);
     window.addEventListener('resize', resize);
     if (window.visualViewport) window.visualViewport.addEventListener('resize', resize);
     /* iOS reports the new size a little after it rotates */
@@ -877,6 +959,55 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
   }
 
   /* WebAssembly first; a plain-JavaScript build of the same core covers hosts that block it */
+  /* 3.0: a crash inside the game (a WebAssembly trap) used to stop everything: the picture froze half-drawn, and online
+     you were dropped from the room. Now every call into the game is caught: that frame (or tap) is skipped and the game
+     carries on; the first one is sent to the owner's ideas list as a crash report, and if it keeps happening the page
+     reloads (your progress is saved as you play). */
+  let crashes = 0, crashRun = 0, crashSent = false, rpcBase = '', rpcKey = '';
+  function crashed(name, e) {
+    crashes++; crashRun++;
+    console.error('[TaterPeeler] crash in ' + name + ': ' + String((e && e.stack) || e));
+    if (!crashSent && rpcBase) {
+      crashSent = true;
+      const st = String((e && e.stack) || e).replace(/https?:\/\/[^\s)]+\//g, '').slice(0, 700);
+      const text = '[crash report] 4.0 ' + (window.TP_PLATFORM || 'web') + ' in ' + name + ': ' + String(e && e.message || e).slice(0, 120) + ' | ' + st + ' | ' + navigator.userAgent.slice(0, 120);
+      fetch(rpcBase + 'tp_suggest', { method: 'POST', headers: { apikey: rpcKey, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ p_device: 'crash-report', p_name: 'Crash report', p_text: text }) }).catch(() => {});
+    }
+    if (crashRun > 45) {   /* every frame for a while: start fresh */
+      crashRun = -1e9;
+      try { ex.tp_background && ex.tp_background(1); } catch (e2) {}
+      setTimeout(() => location.reload(), 300);
+    }
+  }
+  function guard(raw) {
+    const g = {};
+    for (const k of Object.keys(raw)) {
+      const f = raw[k];
+      if (typeof f !== 'function') { g[k] = f; continue; }
+      g[k] = k === 'tp_frame'
+        ? function () { try { const r = f.apply(null, arguments); if (crashRun > 0) crashRun--; return r; } catch (e) { crashed(k, e); return 0; } }
+        : function () { try { return f.apply(null, arguments); } catch (e) { crashed(k, e); return 0; } };
+    }
+    return g;
+  }
+  /* the sharp pictures: re-filled into the same textures the game already holds, between frames */
+  const sharpWait = [], sharpReady = [];
+  function sharpSwap() {
+    const n = sharpReady.shift(), im = images[n];
+    const prevUnit = gl.getParameter(gl.ACTIVE_TEXTURE); gl.activeTexture(gl.TEXTURE0);
+    const prev = gl.getParameter(gl.TEXTURE_BINDING_2D);
+    for (let i = sharpWait.length - 1; i >= 0; i--) {
+      if (sharpWait[i][0] !== n) continue;
+      const [, t, flags] = sharpWait[i]; sharpWait.splice(i, 1);
+      if (gl.isContextLost()) continue;
+      gl.bindTexture(gl.TEXTURE_2D, t);
+      gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, false); gl.pixelStorei(gl.UNPACK_PREMULTIPLY_ALPHA_WEBGL, false); gl.pixelStorei(gl.UNPACK_COLORSPACE_CONVERSION_WEBGL, gl.NONE);
+      gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGB, gl.RGB, gl.UNSIGNED_BYTE, im);
+      if (flags & 1) gl.generateMipmap(gl.TEXTURE_2D);
+    }
+    gl.bindTexture(gl.TEXTURE_2D, prev); gl.activeTexture(prevUnit);
+  }
   function instantiate(bytes, imports) {
     const fallback = err => {
       console.warn('[TaterPeeler] WebAssembly unavailable, using the JavaScript build', err && err.message);
@@ -896,9 +1027,10 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
   total += LF.files.length + LF.images.length;
   Promise.all([wasmP.catch(() => null), ...FILES.map(loadBin), ...IMAGES.map(loadImg),
                ...LF.files.map(n => loadBin(n).catch(() => tick())), ...LF.images.map(n => loadImg(n).catch(() => tick()))]).then(([wasmBytes]) => {
+    if (infoShown) { clearTimeout(infoTimer); infoTimer = 0; info.textContent = W('sstart'); }
     return instantiate(wasmBytes, { env: envImports, gl: glImports });
   }).then(exports => {
-    ex = exports; mem = ex.memory;
+    ex = guard(exports); mem = ex.memory;
     for (const n of FILES.concat(LF.files)) {
       const d = files[n]; if (!d) continue;
       const p = ex.tp_malloc(d.length); views(); u8.set(d, p);
@@ -919,13 +1051,17 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
     const frame = t => {
       requestAnimationFrame(frame);
       if (t - lastFrameT < minFrameMs) return;
+      if (sharpReady.length) sharpSwap();
       perfSample(t - lastFrameT);
       lastFrameT = t; ex.tp_frame(t / 1000);
     };
     requestAnimationFrame(frame);
-    window.__taterpeeler = { exports: ex };
+    window.__taterpeeler = { exports: ex, crashes: () => crashes };
+    setTimeout(tbStyle, 1500);   /* the text box's style and font, ready before it's first needed (it opens faster) */
     /* now the sounds and the music, so they never hold up the start */
     SOUNDS.reduce((p, n) => p.then(() => loadSnd(n)), Promise.resolve());
+    /* and the sharp pictures, one after another, swapped in as each arrives */
+    Object.keys(SHARP).reduce((p, n) => p.then(() => imgRetry('data/' + n + V, 3).then(im => { images[n] = im; sharpReady.push(n); }).catch(() => {})), new Promise(r => setTimeout(r, 1500)));
     if (window.TP_PLATFORM !== 'android') { music.preload = 'auto'; music.load(); }
   }).catch(err => {
     console.error(err);

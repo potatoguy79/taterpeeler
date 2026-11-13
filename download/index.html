@@ -54,6 +54,11 @@
   summary::before { content: ""; width: 7px; height: 7px; border-right: 1.6px solid currentColor; border-bottom: 1.6px solid currentColor; transform: rotate(-45deg); transition: transform .15s ease; }
   details[open] summary::before { transform: rotate(45deg); }
   ol { margin: 10px 0 0; padding-left: 22px; font-size: 15px; }
+  .bhead { margin: 16px 0 2px; font-size: 14px; font-weight: 640; color: var(--ink); }
+  details.brand { margin: 6px 0 0 2px; padding: 8px 12px; border-radius: 12px; background: color-mix(in srgb, var(--ink) 4%, transparent); }
+  details.brand summary { color: var(--ink); font-weight: 600; }
+  details.brand ol, details.brand ul { margin-top: 8px; padding-left: 22px; font-size: 14.5px; }
+  details.brand li { margin: 4px 0; }
   ol li { margin: 4px 0; }
   ol li::marker { color: var(--soft); font-weight: 580; }
   code { font: 13.5px/1.4 ui-monospace, "SF Mono", Menlo, Consolas, monospace; background: var(--panel); border: 1px solid var(--hair); border-radius: 6px; padding: 1px 5px; word-break: break-all; }
@@ -87,8 +92,8 @@
     <img src="../icon-192.png" alt="" width="72" height="72">
     <div>
       <h1>Get TaterPeeler</h1>
-      <p class="lead">Last updated 11/8/26 - 2:15AM</p>
-      <p class="lead">The whole game, on your own device. Version 3.0 is out on every app now.</p>
+      <p class="lead">Last updated 11/12/26 - 8:30PM</p>
+      <p class="lead">The whole game, on your own device. Version 4.0 is out on every app now.</p>
     </div>
   </header>
 
@@ -151,6 +156,66 @@
         'If Android asks, let your browser (or Files) install apps: tap <b>Settings</b>, turn on <b>Allow from this source</b>, then go back.',
         'Tap <b>Install</b>, then <b>Open</b>. If Google Play Protect warns about an unknown app, tap <b>More details</b> and <b>Install anyway</b>.',
         'To update later, install the new APK over the old one. Your progress stays.'
+      ],
+      /* 4.0: the exact taps differ by phone maker: one set each (the one for this phone opens by itself) */
+      brands: [
+        { name: 'Samsung Galaxy', ua: /SM-|SAMSUNG|Galaxy/i, steps: [
+          'Download the APK in <b>Chrome</b> or <b>Samsung Internet</b>.',
+          'Tap the download when it finishes, or open <b>My Files → Downloads</b> and tap <b>TaterPeeler-Android.apk</b>.',
+          'If it says your phone isn’t allowed to install unknown apps from this source, tap <b>Settings</b>, turn on <b>Allow permission</b> (or <b>Allow from this source</b>), then press Back.',
+          'If it still won’t install, <b>Auto Blocker</b> may be on: <b>Settings → Security and privacy → Auto Blocker</b>, turn it off, install TaterPeeler, then turn it back on.',
+          'Tap <b>Install</b>. If Play Protect asks, tap <b>More details → Install anyway</b>.'
+        ] },
+        { name: 'Google Pixel', ua: /Pixel/i, steps: [
+          'Download the APK in <b>Chrome</b>, then tap <b>Open</b> on the bar at the bottom (or open <b>Files → Downloads</b>).',
+          'If it says Chrome isn’t allowed to install unknown apps, tap <b>Settings</b>, turn on <b>Allow from this source</b>, then press Back.',
+          'Tap <b>Install</b>. If Play Protect asks, tap <b>More details → Install anyway</b>.',
+          'If installing is blocked completely, check <b>Settings → Security &amp; privacy → Advanced Protection</b>: while it’s on, apps from outside the Play Store can’t be installed.'
+        ] },
+        { name: 'Motorola', ua: /moto|XT\d{4}/i, steps: [
+          'Download the APK in <b>Chrome</b> and tap <b>Open</b>, or open <b>Files → Downloads</b> and tap it.',
+          'If asked, tap <b>Settings</b> and turn on <b>Allow from this source</b>. (Also in <b>Settings → Apps → Special app access → Install unknown apps</b>.)',
+          'Press Back, tap <b>Install</b>, and if Play Protect asks, <b>More details → Install anyway</b>.'
+        ] },
+        { name: 'OnePlus', ua: /OnePlus/i, steps: [
+          'Download the APK in <b>Chrome</b>, then open it from the notification or <b>Files → Downloads</b>.',
+          'If asked, tap <b>Settings</b>, turn on <b>Allow from this source</b>, and press Back. (Also in <b>Settings → Apps → Special app access → Install unknown apps</b>.)',
+          'Tap <b>Install</b>. OnePlus may run a quick safety check first; when it finishes tap <b>Install</b> again, or <b>More details → Install anyway</b> for Play Protect.'
+        ] },
+        { name: 'Xiaomi, Redmi or POCO', ua: /Xiaomi|Redmi|POCO|\bMi \d|MIX/i, steps: [
+          'Download the APK in <b>Chrome</b> (or the Mi Browser), then open it from <b>File Manager → Downloads</b>.',
+          'If it says installing is blocked, tap <b>Settings</b> and turn on <b>Allow from this source</b>. (Also in <b>Settings → Privacy protection → Special permissions → Install unknown apps</b>; on some phones it’s under <b>Apps → Permissions</b>.)',
+          'Xiaomi phones scan new apps first. Wait for the scan, then tap <b>Continue installation</b> or <b>Install anyway</b> (some show a short countdown first).',
+          'If Play Protect asks, tap <b>More details → Install anyway</b>.'
+        ] },
+        { name: 'OPPO or realme', ua: /OPPO|realme|CPH\d|RMX\d/i, steps: [
+          'Download the APK in <b>Chrome</b>, then open it from <b>Files → Downloads</b>.',
+          'If asked, tap <b>Settings</b> and turn on <b>Allow from this source</b>, then press Back.',
+          'Your phone may ask for its PIN or your account password to allow the install, and may run a safety check. Then tap <b>Install</b>.',
+          'If Play Protect asks, tap <b>More details → Install anyway</b>.'
+        ] },
+        { name: 'vivo or iQOO', ua: /vivo|iQOO|V\d{4}[A-Z]?\b/i, steps: [
+          'Download the APK in <b>Chrome</b>, then open it from <b>File Manager → Downloads</b>.',
+          'If asked, tap <b>Settings</b> and turn on <b>Allow from this source</b> (search Settings for <b>unknown apps</b> if you can’t find it).',
+          'vivo may show a safety check or ask for your vivo account password; then tap <b>Install</b>. If Play Protect asks, <b>More details → Install anyway</b>.'
+        ] },
+        { name: 'Amazon Fire tablet', ua: /KF[A-Z]{2,5}|Silk/, steps: [
+          'Open this page in the <b>Silk Browser</b> and download the APK.',
+          'Open <b>Settings → Security &amp; Privacy → Apps from Unknown Sources</b> and turn it on for <b>Silk Browser</b> (or <b>Files</b>).',
+          'Open the download (pull down the notifications, or <b>Files → Downloads</b>) and tap <b>Install</b>.'
+        ] },
+        { name: 'Any other Android', ua: null, steps: [
+          'Download the APK in <b>Chrome</b> and open it from the notification, or from your Files app under <b>Downloads</b>.',
+          'If it says installing unknown apps isn’t allowed, tap <b>Settings</b> on that message and turn on <b>Allow from this source</b>. Can’t find it? Search your Settings for <b>unknown apps</b>.',
+          'Press Back and tap <b>Install</b>. If Play Protect asks, tap <b>More details → Install anyway</b>.',
+          'On a Chromebook, just play on the website: it runs right in Chrome.'
+        ] }
+      ],
+      trouble: [
+        '<b>“App not installed”</b>: make sure the download finished (download it again), and that there’s some free space. If an old TaterPeeler from somewhere else is on the phone, uninstall it first (save to the cloud in Settings before, so you keep your progress).',
+        '<b>“There was a problem parsing the package”</b>: the file didn’t download completely. Delete it and download it again.',
+        '<b>Nothing happens when you tap it</b>: open your Files app → Downloads and tap the APK there instead.',
+        '<b>School or work phone</b>: some managed phones block installing apps. Play on the website instead.'
       ] },
     { id: 'deb', group: 'mobile', file: 'TaterPeeler-iOS-Cydia.deb', name: 'Cydia package', sub: 'any jailbroken iPad or iPhone, including the iPad 1',
       steps: [
@@ -162,6 +227,20 @@
       ] }
   ];
 
+  /* Android: the taps for each phone maker, this phone's open; then what to do if it goes wrong */
+  function brandSteps(it) {
+    if (!it.brands) return '';
+    var ua = navigator.userAgent || '', mine = -1;
+    if (/Android/i.test(ua)) for (var i = 0; i < it.brands.length; i++) if (it.brands[i].ua && it.brands[i].ua.test(ua)) { mine = i; break; }
+    if (/Android/i.test(ua) && mine < 0) mine = it.brands.length - 1;
+    var h = '<p class="bhead">Step by step for your phone</p>';
+    it.brands.forEach(function (b, i) {
+      h += '<details class="brand"' + (i === mine ? ' open' : '') + '><summary>' + b.name + (i === mine && b.ua ? ' <span class="tag">This phone</span>' : '') + '</summary><ol>' +
+        b.steps.map(function (st) { return '<li>' + st + '</li>'; }).join('') + '</ol></details>';
+    });
+    if (it.trouble) h += '<details class="brand"><summary>If it won’t install</summary><ul>' + it.trouble.map(function (t) { return '<li>' + t + '</li>'; }).join('') + '</ul></details>';
+    return h;
+  }
   function fmtMB(n) { var mb = n / 1e6; return mb.toFixed(mb < 100 ? 1 : 0) + ' MB'; }
 
   function detect() {
@@ -249,7 +328,7 @@
                    : '<a class="btn" href="files/' + it.file + '" download="' + it.file + '">' + DL + '<span>Download</span></a>') +
           '</div><div class="progress" aria-hidden="true"><i></i></div><div class="status" role="status"></div>' +
           '<details' + (pick.indexOf(it.id) >= 0 ? ' open' : '') + '><summary>How to install</summary><ol>' +
-          steps.map(function (s) { return '<li>' + s + '</li>'; }).join('') + '</ol></details>';
+          steps.map(function (s) { return '<li>' + s + '</li>'; }).join('') + '</ol>' + brandSteps(it) + '</details>';
         list.appendChild(row);
         if (pick.length === 2 && it.id === 'mac-intel') {
           var hint = document.createElement('div'); hint.className = 'status';
