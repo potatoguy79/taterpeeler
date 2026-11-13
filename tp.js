@@ -663,7 +663,7 @@
     plat_texture: (np, wp, hp, flags) => {
       const n = str(np); let im = images[n];
       if (!im && SHARP[n] && images[SHARP[n]]) im = images[SHARP[n]];   /* the sharp one isn't here yet: start on the 1024 */
-      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|ta_|tc_|fry_tut)/.test(n)) lazyImage(n); return 0; }
+      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|ta_|tc_|fry_tut|share_)/.test(n)) lazyImage(n); return 0; }
       const t = gl.createTexture();
       if (SHARP[n] && !images[n]) sharpWait.push([n, t, flags]);
       gl.bindTexture(gl.TEXTURE_2D, t);
@@ -790,6 +790,15 @@
         ex.tp_image_picked(req, p ? 1 : 0, p ? b.length : 0);
       }, () => ex.tp_image_picked(req, 0, 0)), () => ex.tp_image_picked(req, 0, 0)),
     plat_open_url: p => { const u = str(p); if (/^https:\/\//.test(u)) window.open(u, '_blank', 'noopener'); },
+    plat_copy_text: p => {   /* 4.0: Share: the link onto the clipboard */
+      const t = str(p);
+      const old = () => { const a = document.createElement('textarea'); a.value = t; a.style.position = 'fixed'; a.style.opacity = '0'; document.body.appendChild(a); a.select(); try { document.execCommand('copy'); } catch (e) {} a.remove(); };
+      try { if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(t).catch(old); else old(); } catch (e) { old(); }
+    },
+    plat_save_image: (np, sp) => {   /* 4.0: Share: the QR code, downloaded */
+      const a = document.createElement('a'); a.href = 'data/' + str(np); a.download = str(sp);
+      document.body.appendChild(a); a.click(); a.remove();
+    },
     plat_audio_mode: mix => {   /* Safari 16.4+: "ambient" lets YouTube or Music keep playing alongside the game */
       try { if (navigator.audioSession) navigator.audioSession.type = mix ? 'ambient' : 'auto'; } catch (e) {}
     },
