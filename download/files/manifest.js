@@ -115,7 +115,7 @@ window.TP_FILES = {
  },
  "TaterPeeler-Android.apk": {
   "size": 52878797,
-  "sha256": "ddfe96f65bfb1bb747e7fda506b72bf7228d5b3e488828659d1175b740e5d57e",
+  "sha256": "7b0f50115b514a87989e105218108cff8f0576220bfb8117af0c8f27a3e127f9",
   "parts": [
    "TaterPeeler-Android.apk.part01",
    "TaterPeeler-Android.apk.part02",
