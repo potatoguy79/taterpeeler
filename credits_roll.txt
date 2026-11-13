@@ -44,7 +44,7 @@ Jonathon Jongsma, xeno-canto (CC BY-SA 3.0)
 Archivo by Omnibus-Type
 
 [Dedicated Peelers]
-Henry Lopez, Johnathan Avitia, Diego Gutteriez
+Henry Lopez, Johnathan Avitia, Diego Gutteriez, Felix Chavez
 
 [Feature and bug reports]
 Daniel Neggrete, Daniel Lopez, Johnathan Avitia, Ricardo Cabrales and others
