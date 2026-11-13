@@ -645,6 +645,20 @@
     try { field.focus(); } catch (e) {}
   }
 
+  /* 4.0: game controllers (the Gamepad API): the first one connected, every frame, into the game */
+  let padWas = false;
+  function pollPads() {
+    if (!ex || !ex.tp_pad || !navigator.getGamepads) return;
+    let gp = null;
+    try { for (const g of navigator.getGamepads()) if (g && g.connected) { gp = g; break; } } catch (e) { return; }
+    if (!gp) { if (padWas) { ex.tp_pad(0, 0, 0, 0, 0); padWas = false; } return; }
+    const B = i => !!(gp.buttons[i] && gp.buttons[i].pressed);
+    let b = 0;
+    if (B(0)) b |= 1; if (B(1)) b |= 2; if (B(2)) b |= 4; if (B(3)) b |= 8; if (B(4)) b |= 16; if (B(5)) b |= 32;
+    if (B(8)) b |= 64; if (B(9)) b |= 128; if (B(12)) b |= 256; if (B(13)) b |= 512; if (B(14)) b |= 1024; if (B(15)) b |= 2048;
+    const a = gp.axes || [];
+    ex.tp_pad(a[0] || 0, a[1] || 0, a[2] || 0, a[3] || 0, b); padWas = true;
+  }
   let cursorKind = -1;
   const envImports = {
     sin: Math.sin, cos: Math.cos, tan: Math.tan, atan2: Math.atan2, exp: Math.exp, pow: Math.pow, acos: Math.acos, log: Math.log,
@@ -939,13 +953,15 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
     }, { passive: false });
     window.addEventListener('keydown', e => {
       if (textBox) return;   /* typing in the text box */
-      const map = { Escape: 27, ArrowLeft: 37, ArrowUp: 38, ArrowRight: 39, ArrowDown: 40 };
+      /* 4.0: TV remotes: OK is Enter; their Back button (webOS 461, Tizen 10009, others GoBack) goes back */
+      if (e.key === 'GoBack' || e.key === 'BrowserBack' || e.keyCode === 461 || e.keyCode === 10009) { e.preventDefault(); ex.tp_back(); return; }
+      const map = { Escape: 27, ArrowLeft: 37, ArrowUp: 38, ArrowRight: 39, ArrowDown: 40, Enter: 13 };
       let k = map[e.key] || (e.key && e.key.length === 1 ? e.key.charCodeAt(0) : 0);
-      if (k) { ex.tp_key(k, 1); if (k >= 37 && k <= 40) e.preventDefault(); }
+      if (k) { ex.tp_key(k, 1); if ((k >= 37 && k <= 40) || k === 13) e.preventDefault(); }
     });
     window.addEventListener('keyup', e => {   /* 4.0: TaterCorner walks while a key is held */
       if (textBox) return;
-      const map = { Escape: 27, ArrowLeft: 37, ArrowUp: 38, ArrowRight: 39, ArrowDown: 40 };
+      const map = { Escape: 27, ArrowLeft: 37, ArrowUp: 38, ArrowRight: 39, ArrowDown: 40, Enter: 13 };
       let k = map[e.key] || (e.key && e.key.length === 1 ? e.key.charCodeAt(0) : 0);
       if (k) ex.tp_key(k, 0);
     });
@@ -1069,7 +1085,7 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
       if (t - lastFrameT < minFrameMs) return;
       if (sharpReady.length) sharpSwap();
       perfSample(t - lastFrameT);
-      lastFrameT = t; ex.tp_frame(t / 1000);
+      lastFrameT = t; pollPads(); ex.tp_frame(t / 1000);
     };
     requestAnimationFrame(frame);
     window.__taterpeeler = { exports: ex, crashes: () => crashes };
