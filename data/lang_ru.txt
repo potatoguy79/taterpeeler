@@ -1195,3 +1195,4 @@ Later	Потом
 https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.github.io/taterpeeler/version.txt?n=
 Keeping an eye on you	Keeping an eye on you
 It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.
+What's new in {0}	Что нового в {0}

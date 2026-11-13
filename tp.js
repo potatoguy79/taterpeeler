@@ -103,7 +103,7 @@
     .concat(['sfx_car_in.wav', 'sfx_car_out.wav', 'sfx_driveoff.wav', 'sfx_horn0.wav', 'sfx_horn1.wav', 'sfx_micro_run.wav',
              'sfx_micro_beep.wav', 'sfx_micro_door.wav', 'sfx_micro_open.wav', 'sfx_register.wav', 'sfx_squelch0.wav', 'sfx_squelch1.wav',
              'sfx_sink_plop0.wav', 'sfx_sink_plop1.wav', 'sfx_sink_on.wav', 'sfx_sink_off.wav', 'sfx_sink_run.wav', 'sfx_scrub.wav',
-             'sfx_ev_spill.wav', 'sfx_ev_door.wav', 'sfx_ev_hum.wav', 'sfx_ev_flicker.wav', 'sfx_ev_breaker.wav', 'sfx_ev_growl0.wav', 'sfx_ev_growl1.wav', 'sfx_ev_growl2.wav', 'sfx_ev_roar.wav', 'sfx_ev_heart.wav', 'sfx_ev_run.wav', 'sfx_ev_meow.wav', 'sfx_ev_mrrp.wav', 'sfx_ev_purr.wav', 'sfx_ev_sweep0.wav', 'sfx_ev_sweep1.wav', 'sfx_ev_sweep2.wav']);
+             'sfx_ev_spill.wav', 'sfx_ev_door.wav', 'sfx_ev_hum.wav', 'sfx_ev_flicker.wav', 'sfx_ev_breaker.wav', 'sfx_ev_growl0.wav', 'sfx_ev_growl1.wav', 'sfx_ev_growl2.wav', 'sfx_ev_roar.wav', 'sfx_ev_heart.wav', 'sfx_ev_run.wav', 'sfx_ev_meow.wav', 'sfx_ev_mrrp.wav', 'sfx_ev_purr.wav', 'sfx_ev_sweep0.wav', 'sfx_ev_sweep1.wav', 'sfx_ev_sweep2.wav', 'sfx_tractor.wav']);
   const files = {}, images = {}, soundData = {};
   let total = FILES.length + IMAGES.length + 1, done = 0;   /* (the sounds load after the game has started) */
   let joking = false;
