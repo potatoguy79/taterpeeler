@@ -639,7 +639,7 @@ The bouncing logo, right now. Tap anywhere to stop it	Das hüpfende Logo, sofort
 Start	Starten
 That photo couldn't be opened. Try a JPG or PNG photo	Dieses Foto ließ sich nicht öffnen. Versuch ein JPG- oder PNG-Foto
 potatoes peeled. The fry station is open.	Kartoffeln geschält. Die Pommes-Station ist offen.
-potatoes peeled. TaterNinja is open.	Kartoffeln geschält. TaterNinja ist offen.
+potatoes peeled. TaterSlice is open.	Kartoffeln geschält. TaterSlice ist offen.
 potatoes peeled. TaterCorner is open.	Kartoffeln geschält. TaterCorner ist offen.
 About {0} kg of potatoes	Etwa {0} kg Kartoffeln
 {0} hour of peeling	{0} Stunde Schälen
@@ -691,15 +691,15 @@ The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	Di
 Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	Bis zum 30. November gibt es eine gemütliche Thanksgiving-Küche mit einem Truthahn im Ofen, und halte Ausschau nach der Truthahn-Kartoffel. Feierst du es nicht? Schalte alles in den Einstellungen aus.
 Happy Thanksgiving!	Happy Thanksgiving!
 Look out for the Turkey Potato until November 30	Halte bis zum 30. November Ausschau nach der Truthahn-Kartoffel
-Slice 50 potatoes in one game of TaterNinja	Schneide 50 Kartoffeln in einer Runde TaterNinja
+Slice 50 potatoes in one game of TaterSlice	Schneide 50 Kartoffeln in einer Runde TaterSlice
 Slice them	Zerschneiden
-Peel {0} more potato to open TaterNinja	Schäle noch {0} Kartoffel, um TaterNinja zu öffnen
-Peel {0} more potatoes to open TaterNinja	Schäle noch {0} Kartoffeln, um TaterNinja zu öffnen
+Peel {0} more potato to open TaterSlice	Schäle noch {0} Kartoffel, um TaterSlice zu öffnen
+Peel {0} more potatoes to open TaterSlice	Schäle noch {0} Kartoffeln, um TaterSlice zu öffnen
 {0} in one swipe!	{0} mit einem Wisch!
 Swipe to slice. Don't slice the mouldy ones	Wische zum Schneiden. Schneide nicht die schimmligen
 Game over	Spiel vorbei
 {0} sliced	{0} geschnitten
-Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Schäle 200 Kartoffeln und TaterNinja öffnet sich. Kartoffeln werden hochgeworfen und du schneidest sie mit deinem Pommesmesser. Schneide mehrere mit einem Wisch für einen Bonus, aber nicht die schimmligen: Du hast nur drei Leben.
+Peel 200 potatoes and TaterSlice opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Schäle 200 Kartoffeln und TaterSlice öffnet sich. Kartoffeln werden hochgeworfen und du schneidest sie mit deinem Pommesmesser. Schneide mehrere mit einem Wisch für einen Bonus, aber nicht die schimmligen: Du hast nur drei Leben.
 Cheese	Käse
 Chili	Chili
 Bacon	Speck
@@ -1178,3 +1178,219 @@ https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.git
 Keeping an eye on you	Keeping an eye on you
 It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.
 What's new in {0}	Neu in {0}
+Fry dump	Pommes-Station
+Bags	Tüten
+Till	Kasse
+Security camera	Überwachungskamera
+Drive-thru window	Drive-in-Schalter
+Bacon bits	Speckwürfel
+Garlic parmesan	Knoblauch-Parmesan
+BBQ sauce	BBQ-Soße
+Spilled fries	Verschüttete Pommes
+TV	TV
+TV remote	TV-Fernbedienung
+Hold on the sink to scrub it	Halte die Spüle gedrückt, um zu schrubben
+In the bag: {0} food, {1} sauces. Hand it out at the window	In der Tüte: {0} Essen, {1} Soßen. Gib sie am Schalter raus
+The camera on the lane. If someone drives off without paying, report their plate here	Die Kamera an der Spur. Wenn jemand ohne Bezahlen wegfährt, melde hier das Kennzeichen
+Paying...	Bezahlt wird...
+They pay here when you hand the food out	Hier wird bezahlt, wenn du das Essen rausgibst
+You've got the broom. Sweep up the fries	Du hast den Besen. Kehr die Pommes zusammen
+The supply closet. Nothing you need in there right now	Die Abstellkammer. Gerade brauchst du nichts daraus
+Press the red button to turn the TV on	Drück den roten Knopf, um den Fernseher einzuschalten
+You need the broom: it's in the supply closet	Du brauchst den Besen: Er ist in der Abstellkammer
+Hold the click and rub back and forth to sweep	Klick halten und hin und her reiben, um zu kehren
+Hold and rub back and forth to sweep	Halten und hin und her reiben, um zu kehren
+Take them out!	Raus damit!
+Ready	Fertig
+Burnt	Verbrannt
+Cooking	Gart
+Hold the click to scrub	Klick halten zum Schrubben
+Hold to scrub	Halten zum Schrubben
+Clean: to the microwave	Sauber: ab in die Mikrowelle
+{0} portion	{0} Portion
+{0} portions	{0} Portionen
+Cold	Kalt
+In the bag: {0}	In der Tüte: {0}
+Hold the click and rub	Klick halten und reiben
+Hold and rub	Halten und reiben
+A car is pulling up...	Ein Auto fährt vor...
+Waiting for a car	Warte auf ein Auto
+Tater Corner	Tater Corner
+Opening up...	Wird geöffnet...
+Click to use	Klicken zum Benutzen
+Get the broom from the supply closet	Hol den Besen aus der Abstellkammer
+Hold the click (or E) and rub to sweep	Klick (oder E) halten und reiben zum Kehren
+Slide here to walk	Hier wischen zum Gehen
+Drag here to look	Hier ziehen zum Umsehen
+W A S D to walk, drag to look, click to use	W A S D zum Gehen, ziehen zum Umsehen, klicken zum Benutzen
+Giant Potato	Riesenkartoffel
+Share	Teilen
+Share with friends	Mit Freunden teilen
+The link and a QR code to send	Der Link und ein QR-Code zum Verschicken
+Unlinked. Your own account and progress are back	Getrennt. Dein eigenes Konto und dein Fortschritt sind zurück
+Unlinked. Your progress from before is back	Getrennt. Dein Fortschritt von vorher ist zurück
+Credits	Abspann
+Wherever a potato gets left in the ground a long time	Wo eine Kartoffel lange in der Erde bleibt
+Feeding the whole street	Genug für die ganze Straße
+The heaviest potato on record weighed 4.98 kg (almost 11 lb). It was grown in England in 2011.	Die schwerste je gemessene Kartoffel wog 4,98 kg. Sie wuchs 2011 in England.
+Giant	Riesig
+Send your friends TaterPeeler. It's free, with no ads, on phones, tablets and computers.	Schick deinen Freunden TaterPeeler. Kostenlos, ohne Werbung, auf Handys, Tablets und Computern.
+Point a phone's camera at it	Halte eine Handykamera darauf
+Copy the link	Link kopieren
+Link copied. Paste it in a message to a friend	Link kopiert. Füg ihn in eine Nachricht an einen Freund ein
+Save the QR code	QR-Code speichern
+Saved to your downloads	In deinen Downloads gespeichert
+Saved to your photos	In deinen Fotos gespeichert
+Videos	Videos
+Menu Board	Speisekarte
+Today at Tater Corner	Heute bei Tater Corner
+Weather	Wetter
+Sunny and warm	Sonnig und warm
+Scoreboard	Punktestand
+Your shift, live	Deine Schicht, live
+Picture, sound, about	Bild, Ton, Info
+How to make fries	So macht man Pommes
+Videos can't play on this device yet	Videos laufen auf diesem Gerät noch nicht
+Press OK to open	Drück OK zum Öffnen
+More videos are coming soon	Bald gibt es mehr Videos
+This video can't play here yet	Dieses Video läuft hier noch nicht
+Baked potatoes	Ofenkartoffeln
+Toppings and sauces	Toppings und Soßen
+With one topping	Mit einem Topping
+With two toppings	Mit zwei Toppings
+Cheese, chili, bacon	Käse, Chili, Speck
+Sour cream, chives	Sauerrahm, Schnittlauch
+Salt, Cajun, garlic parm	Salz, Cajun, Knoblauch-Parmesan
+Ketchup, ranch, BBQ	Ketchup, Ranch, BBQ
++60¢ each	+60¢ pro Stück
+Free	Gratis
+Sunny, light breeze	Sonnig, leichte Brise
+Sat	Sa
+Sun	So
+Mon	Mo
+Tue	Di
+Wed	Mi
+Made this shift	Diese Schicht verdient
+Cars served	Bediente Autos
+Perfect orders	Perfekte Bestellungen
+Potatoes you've peeled	Von dir geschälte Kartoffeln
+15 minutes	15 Minuten
+30 minutes	30 Minuten
+1 hour	1 Stunde
+Brightness	Helligkeit
+Volume	Lautstärke
+Sleep timer	Ausschalttimer
+TaterTV OS 1.0  ·  Made by Andres Campos	TaterTV OS 1.0  ·  Gemacht von Andres Campos
+Mute	Stumm
+Put it down	Weglegen
+Arrows, Enter, Backspace work too	Pfeiltasten, Enter und Rücktaste gehen auch
+Co-owner	Mitinhaber
+Your shift at Tater Corner	Deine Schicht bei Tater Corner
+Sweep up the fries: rub back and forth	Kehr die Pommes zusammen: hin und her reiben
+All clean. Back to work!	Alles sauber. Zurück an die Arbeit!
+Supply closet	Abstellkammer
+Get the broom	Hol den Besen
+Tap the broom	Tipp auf den Besen
+Grab the broom	Schnapp dir den Besen
+RUN!	RENN!
+...it was just the cat.	...es war nur die Katze.
+Tap as fast as you can	Tipp so schnell du kannst
+Oops! Fries all over the floor. Get the broom from the supply closet	Hoppla! Überall Pommes auf dem Boden. Hol den Besen aus der Abstellkammer
+You're in! You're a beta tester now	Du bist dabei! Jetzt bist du Betatester
+That code works, but it doesn't open anything yet	Der Code stimmt, aber er schaltet noch nichts frei
+That code isn't right	Der Code stimmt nicht
+Check the 4 numbers and try again. Codes come from Andres.	Prüf die 4 Ziffern und versuch es nochmal. Codes gibt es von Andres.
+That's a lot of wrong codes. Wait an hour, then try again.	Ganz schön viele falsche Codes. Warte eine Stunde und versuch es dann nochmal.
+Beta codes are 4 numbers	Beta-Codes haben 4 Ziffern
+Your beta code (4 numbers)	Dein Beta-Code (4 Ziffern)
+Try new game modes and big features before everyone else, and tell me what's broken. You need a 4-digit code from Andres.	Probier neue Spielmodi und große Funktionen vor allen anderen aus und sag mir, was kaputt ist. Du brauchst einen 4-stelligen Code von Andres.
+Be a beta tester	Werde Betatester
+Your code: {0}	Dein Code: {0}
+What you can test	Was du testen kannst
+Out for everyone now	Jetzt für alle draußen
+Not out yet: only testers can play it	Noch nicht draußen: nur Tester können es spielen
+Secret: only testers can see it	Geheim: nur Tester sehen es
+Nothing to test right now. Check again later	Gerade gibt es nichts zu testen. Schau später wieder vorbei
+Use a different code	Anderen Code nutzen
+Leave the program	Programm verlassen
+You left the beta tester program	Du hast das Betatester-Programm verlassen
+Checking...	Wird geprüft...
+Enter a code	Code eingeben
+You're signed in as the owner, so everything is open for you. Make codes in Admin > Beta.	Du bist als Inhaber angemeldet, also ist alles für dich offen. Codes machst du unter Admin > Beta.
+Beta tester program	Betatester-Programm
+Beta test	Betatest
+{0} is coming soon	{0} kommt bald
+Online (beta)	Online (Beta)
+tp_beta.inc	tp_beta.inc
+Try new game modes before everyone else	Probier neue Spielmodi vor allen anderen
+On	An
+Floury	Mehligkochend
+All-rounder	Allrounder
+Waxy	Festkochend
+Sweet	Süß
+One of a kind	Einzigartig
+Fluffy inside: best baked, mashed or as fries	Innen locker: am besten gebacken, als Püree oder Pommes
+Good at almost anything	Für fast alles gut
+Firm and creamy: holds its shape boiled or in salads	Fest und cremig: zerfällt nicht beim Kochen oder im Salat
+Sweet and soft when it's cooked	Gekocht süß und weich
+Not for eating	Nicht zum Essen
+White	Weiß
+Grey	Grau
+Cream	Creme
+Pale	Blass
+Dark red	Dunkelrot
+Brown	Braun
+Tan	Hellbraun
+Orange	Orange
+Green	Grün
+Blue	Blau
+Purple	Lila
+Pink	Rosa
+Knobbly	Knubbelig
+Long and curved	Lang und gebogen
+Long and thin (a fingerling)	Lang und dünn
+Long	Lang
+Round	Rund
+Oval	Oval
+Huge	Riesig
+Big	Groß
+Medium	Mittel
+Small	Klein
+Tiny	Winzig
+Turns up all the time	Kommt ständig vor
+About 1 in every {0} potatoes	Etwa 1 von {0} Kartoffeln
+Very, very rare	Sehr, sehr selten
+Skin	Schale
+Inside	Inneres
+Shape	Form
+Size	Größe
+Texture	Konsistenz
+Your share	Dein Anteil
+How it cooks	So gart sie
+Not on the leaderboards yet	Noch nicht in den Bestenlisten
+best TaterSlice	beste TaterSlice-Runde
+best TaterCorner shift	beste TaterCorner-Schicht
+You: {0}	Du: {0}
+Your rarest find	Dein seltenster Fund
+Their rarest find	Ihr seltenster Fund
+New potato: {0}!	Neue Kartoffel: {0}!
+NEW POTATO DISCOVERED	NEUE KARTOFFEL ENTDECKT
+Learn more	Mehr erfahren
+Keep peeling	Weiterschälen
+{0}, live	{0}, live
+It's in here somewhere	Er ist hier irgendwo
+Take the broom	Besen nehmen
+And get out of here	Und raus hier
+Click! Click! Run!	Klick! Klick! Lauf!
+Tap! Tap! Run!	Tipp! Tipp! Lauf!
+Here's what's new in 4.1. Thanks for playing!	Das ist neu in 4.1. Danke fürs Spielen!
+TaterNinja is called TaterSlice now, and it has its own leaderboard.	TaterNinja heißt jetzt TaterSlice und hat eine eigene Bestenliste.
+Your photo on the leaderboards	Dein Foto in den Bestenlisten
+Everyone's profile photo shows next to their name on the leaderboards now.	Das Profilfoto aller steht jetzt neben ihrem Namen in den Bestenlisten.
+Portfolios got redone	Profile neu gemacht
+Your rank on every board (tap one to see that board), your rarest find, every achievement, and on someone else's you can see how your numbers stack up against theirs.	Dein Rang auf jeder Bestenliste (tippe eine an, um sie zu sehen), dein seltenster Fund, alle Erfolge, und bei anderen siehst du, wie deine Zahlen gegen ihre abschneiden.
+Finding a new potato	Eine neue Kartoffel finden
+Find a new potato after a long time without one and it's a big moment now.	Findest du nach langer Zeit wieder eine neue Kartoffel, ist das jetzt ein großer Moment.
+Always the newest version	Immer die neueste Version
+The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Die Website lädt jetzt immer die neueste Version, und wenn beim Spielen ein Update erscheint, sagt sie es dir.
+Everything you had before is still there. Thanks for playing.	Alles, was du vorher hattest, ist noch da. Danke fürs Spielen.

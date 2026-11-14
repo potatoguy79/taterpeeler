@@ -1,11 +1,16 @@
 /* TaterPeeler website - shows the notifications the owner sends, and opens the game when one is tapped.
  * 4.0: it also keeps this release's game files (the ones stamped ?v=...), so the next visit starts in a moment
  * instead of downloading them all again. A new release has a new stamp, so it never serves an old game: the page
- * itself always comes fresh, and the old release's files are thrown away once the new one is used. Made by Andres Campos. */
+ * itself always comes fresh, and the old release's files are thrown away once the new one is used. Made by Andres Campos.
+ * 4.1: the page is fetched past every cache, so no browser keeps showing an old release. */
 var KEEP = 'tp-files';
 self.addEventListener('fetch', function (e) {
   var q = e.request;
   if (q.method !== 'GET' || q.headers.get('range')) return;
+  if (q.mode === 'navigate' || /\/stamp\.txt/.test(q.url)) {   /* 4.1: the page itself (and its stamp) always from the website, never a cache */
+    e.respondWith(fetch(q.url, { cache: 'no-store', credentials: 'same-origin' }).catch(function () { return fetch(q); }));
+    return;
+  }
   var u = new URL(q.url), m = /^\?v=([0-9]+)$/.exec(u.search);
   if (!m || u.origin !== self.location.origin) return;
   e.respondWith(caches.open(KEEP).then(function (c) {
@@ -24,7 +29,10 @@ self.addEventListener('fetch', function (e) {
   }).catch(function () { return fetch(q); }));
 });
 self.addEventListener('install', function () { self.skipWaiting(); });
-self.addEventListener('activate', function (e) { e.waitUntil(self.clients.claim()); });
+self.addEventListener('activate', function (e) {   /* (4.1: and any other cache an older release left behind goes) */
+  e.waitUntil(caches.keys().then(function (ks) { return Promise.all(ks.filter(function (k) { return k !== KEEP; }).map(function (k) { return caches.delete(k); })); })
+    .catch(function () {}).then(function () { return self.clients.claim(); }));
+});
 
 self.addEventListener('push', function (e) {
   var d = {};

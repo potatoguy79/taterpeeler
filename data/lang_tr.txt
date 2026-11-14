@@ -639,7 +639,7 @@ The bouncing logo, right now. Tap anywhere to stop it	Zıplayan logo, hemen şim
 Start	Başlat
 That photo couldn't be opened. Try a JPG or PNG photo	Bu fotoğraf açılamadı. JPG ya da PNG bir fotoğraf dene
 potatoes peeled. The fry station is open.	patates soyuldu. Kızartma tezgâhı açıldı.
-potatoes peeled. TaterNinja is open.	patates soyuldu. TaterNinja açıldı.
+potatoes peeled. TaterSlice is open.	patates soyuldu. TaterSlice açıldı.
 potatoes peeled. TaterCorner is open.	patates soyuldu. TaterCorner açıldı.
 About {0} kg of potatoes	Yaklaşık {0} kg patates
 {0} hour of peeling	{0} saat soyma
@@ -691,15 +691,15 @@ The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	Hi
 Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	30 Kasım'a kadar fırında hindi olan sıcacık bir Şükran Günü mutfağı var, Hindi Patates'i de gözden kaçırma. Kutlamıyor musun? Hepsini Ayarlar'dan kapat.
 Happy Thanksgiving!	Mutlu Şükran Günleri!
 Look out for the Turkey Potato until November 30	30 Kasım'a kadar Hindi Patates'i gözden kaçırma
-Slice 50 potatoes in one game of TaterNinja	Bir TaterNinja oyununda 50 patates kes
+Slice 50 potatoes in one game of TaterSlice	Bir TaterSlice oyununda 50 patates kes
 Slice them	Kes onları
-Peel {0} more potato to open TaterNinja	TaterNinja'yı açmak için {0} patates daha soy
-Peel {0} more potatoes to open TaterNinja	TaterNinja'yı açmak için {0} patates daha soy
+Peel {0} more potato to open TaterSlice	TaterSlice'yı açmak için {0} patates daha soy
+Peel {0} more potatoes to open TaterSlice	TaterSlice'yı açmak için {0} patates daha soy
 {0} in one swipe!	Tek hamlede {0}!
 Swipe to slice. Don't slice the mouldy ones	Kesmek için kaydır. Küflüleri kesme
 Game over	Oyun bitti
 {0} sliced	{0} kesildi
-Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	200 patates soyunca TaterNinja açılır. Patatesler havaya atılır, sen de kızartma bıçağınla onları kesersin. Bonus için tek hamlede birkaç tane kes ama küflüleri kesme: sadece üç canın var.
+Peel 200 potatoes and TaterSlice opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	200 patates soyunca TaterSlice açılır. Patatesler havaya atılır, sen de kızartma bıçağınla onları kesersin. Bonus için tek hamlede birkaç tane kes ama küflüleri kesme: sadece üç canın var.
 Cheese	Peynir
 Chili	Chili
 Bacon	Pastırma
@@ -1178,3 +1178,219 @@ https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.git
 Keeping an eye on you	Keeping an eye on you
 It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.
 What's new in {0}	{0}'daki yenilikler
+Fry dump	Patates süzgeci
+Bags	Poşetler
+Till	Kasa
+Security camera	Güvenlik kamerası
+Drive-thru window	Arabaya servis penceresi
+Bacon bits	Pastırma parçaları
+Garlic parmesan	Sarımsaklı parmesan
+BBQ sauce	Barbekü sos
+Spilled fries	Dökülen patatesler
+TV	TV
+TV remote	TV kumandası
+Hold on the sink to scrub it	Ovmak için lavaboya basılı tut
+In the bag: {0} food, {1} sauces. Hand it out at the window	Poşette: {0} yemek, {1} sos. Pencereden ver
+The camera on the lane. If someone drives off without paying, report their plate here	Şeritteki kamera. Biri ödemeden giderse plakasını buradan bildir
+Paying...	Ödüyor...
+They pay here when you hand the food out	Yemeği verince burada öderler
+You've got the broom. Sweep up the fries	Süpürge sende. Patatesleri süpür
+The supply closet. Nothing you need in there right now	Temizlik dolabı. Şu an oradan bir şeye ihtiyacın yok
+Press the red button to turn the TV on	TV'yi açmak için kırmızı düğmeye bas
+You need the broom: it's in the supply closet	Süpürge lazım: temizlik dolabında
+Hold the click and rub back and forth to sweep	Süpürmek için tıklamayı basılı tut ve ileri geri sür
+Hold and rub back and forth to sweep	Süpürmek için basılı tut ve ileri geri sür
+Take them out!	Çıkar onları!
+Ready	Hazır
+Burnt	Yandı
+Cooking	Pişiyor
+Hold the click to scrub	Ovmak için tıklamayı basılı tut
+Hold to scrub	Ovmak için basılı tut
+Clean: to the microwave	Temiz: mikrodalgaya
+{0} portion	{0} porsiyon
+{0} portions	{0} porsiyon
+Cold	Soğuk
+In the bag: {0}	Poşette: {0}
+Hold the click and rub	Tıklamayı basılı tut ve sür
+Hold and rub	Basılı tut ve sür
+A car is pulling up...	Bir araba geliyor...
+Waiting for a car	Araba bekleniyor
+Tater Corner	Tater Corner
+Opening up...	Açılıyor...
+Click to use	Kullanmak için tıkla
+Get the broom from the supply closet	Süpürgeyi temizlik dolabından al
+Hold the click (or E) and rub to sweep	Süpürmek için tıklamayı (ya da E'yi) basılı tut ve sür
+Slide here to walk	Yürümek için buraya kaydır
+Drag here to look	Bakmak için buraya sürükle
+W A S D to walk, drag to look, click to use	Yürümek için W A S D, bakmak için sürükle, kullanmak için tıkla
+Giant Potato	Dev patates
+Share	Paylaş
+Share with friends	Arkadaşlarınla paylaş
+The link and a QR code to send	Göndermek için bağlantı ve QR kodu
+Unlinked. Your own account and progress are back	Bağlantı kesildi. Kendi hesabın ve ilerlemen geri geldi
+Unlinked. Your progress from before is back	Bağlantı kesildi. Önceki ilerlemen geri geldi
+Credits	Jenerik
+Wherever a potato gets left in the ground a long time	Bir patatesin toprakta uzun süre kaldığı yerde
+Feeding the whole street	Bütün sokağı doyurmaya yeter
+The heaviest potato on record weighed 4.98 kg (almost 11 lb). It was grown in England in 2011.	Kayıtlardaki en ağır patates 4,98 kg geldi. 2011'de İngiltere'de yetiştirildi.
+Giant	Dev
+Send your friends TaterPeeler. It's free, with no ads, on phones, tablets and computers.	TaterPeeler'ı arkadaşlarına gönder. Ücretsiz, reklamsız; telefon, tablet ve bilgisayarda.
+Point a phone's camera at it	Bir telefonun kamerasını ona tut
+Copy the link	Bağlantıyı kopyala
+Link copied. Paste it in a message to a friend	Bağlantı kopyalandı. Bir arkadaşına mesajla yapıştır
+Save the QR code	QR kodunu kaydet
+Saved to your downloads	İndirilenlere kaydedildi
+Saved to your photos	Fotoğraflarına kaydedildi
+Videos	Videolar
+Menu Board	Menü
+Today at Tater Corner	Bugün Tater Corner'da
+Weather	Hava durumu
+Sunny and warm	Güneşli ve ılık
+Scoreboard	Skor tablosu
+Your shift, live	Vardiyan, canlı
+Picture, sound, about	Görüntü, ses, hakkında
+How to make fries	Patates kızartması nasıl yapılır
+Videos can't play on this device yet	Videolar bu cihazda henüz oynamıyor
+Press OK to open	Açmak için OK'a bas
+More videos are coming soon	Yakında daha çok video
+This video can't play here yet	Bu video burada henüz oynamıyor
+Baked potatoes	Fırın patatesler
+Toppings and sauces	Malzemeler ve soslar
+With one topping	Bir malzemeli
+With two toppings	İki malzemeli
+Cheese, chili, bacon	Peynir, acı biber, pastırma
+Sour cream, chives	Ekşi krema, frenk soğanı
+Salt, Cajun, garlic parm	Tuz, cajun, sarımsaklı parmesan
+Ketchup, ranch, BBQ	Ketçap, ranch, barbekü
++60¢ each	Her biri +60¢
+Free	Ücretsiz
+Sunny, light breeze	Güneşli, hafif esinti
+Sat	Cmt
+Sun	Paz
+Mon	Pzt
+Tue	Sal
+Wed	Çar
+Made this shift	Bu vardiya kazanılan
+Cars served	Hizmet verilen arabalar
+Perfect orders	Kusursuz siparişler
+Potatoes you've peeled	Soyduğun patatesler
+15 minutes	15 dakika
+30 minutes	30 dakika
+1 hour	1 saat
+Brightness	Parlaklık
+Volume	Ses
+Sleep timer	Uyku zamanlayıcısı
+TaterTV OS 1.0  ·  Made by Andres Campos	TaterTV OS 1.0  ·  Yapan: Andres Campos
+Mute	Sessiz
+Put it down	Bırak
+Arrows, Enter, Backspace work too	Oklar, Enter ve Geri tuşu da çalışır
+Co-owner	Ortak sahip
+Your shift at Tater Corner	Tater Corner'daki vardiyan
+Sweep up the fries: rub back and forth	Patatesleri süpür: ileri geri sür
+All clean. Back to work!	Her yer temiz. İşe dönüş!
+Supply closet	Temizlik dolabı
+Get the broom	Süpürgeyi al
+Tap the broom	Süpürgeye dokun
+Grab the broom	Süpürgeyi kap
+RUN!	KOŞ!
+...it was just the cat.	...sadece kediymiş.
+Tap as fast as you can	Olabildiğince hızlı dokun
+Oops! Fries all over the floor. Get the broom from the supply closet	Eyvah! Her yer patates. Süpürgeyi temizlik dolabından al
+You're in! You're a beta tester now	Girdin! Artık bir beta testçisin
+That code works, but it doesn't open anything yet	Bu kod geçerli ama henüz bir şey açmıyor
+That code isn't right	Bu kod doğru değil
+Check the 4 numbers and try again. Codes come from Andres.	4 rakamı kontrol edip tekrar dene. Kodlar Andres'ten gelir.
+That's a lot of wrong codes. Wait an hour, then try again.	Çok fazla yanlış kod. Bir saat bekle, sonra tekrar dene.
+Beta codes are 4 numbers	Beta kodları 4 rakamdır
+Your beta code (4 numbers)	Beta kodun (4 rakam)
+Try new game modes and big features before everyone else, and tell me what's broken. You need a 4-digit code from Andres.	Yeni oyun modlarını ve büyük özellikleri herkesten önce dene, bozuk olanı bana söyle. Andres'ten 4 haneli bir kod gerekir.
+Be a beta tester	Beta testçi ol
+Your code: {0}	Kodun: {0}
+What you can test	Test edebileceklerin
+Out for everyone now	Artık herkese açık
+Not out yet: only testers can play it	Henüz çıkmadı: sadece testçiler oynayabilir
+Secret: only testers can see it	Gizli: sadece testçiler görebilir
+Nothing to test right now. Check again later	Şu an test edilecek bir şey yok. Sonra tekrar bak
+Use a different code	Başka bir kod kullan
+Leave the program	Programdan çık
+You left the beta tester program	Beta testçi programından çıktın
+Checking...	Kontrol ediliyor...
+Enter a code	Bir kod gir
+You're signed in as the owner, so everything is open for you. Make codes in Admin > Beta.	Sahip olarak giriş yaptın, bu yüzden her şey sana açık. Kodları Yönetim > Beta'dan oluştur.
+Beta tester program	Beta testçi programı
+Beta test	Beta testi
+{0} is coming soon	{0} yakında
+Online (beta)	Çevrimiçi (beta)
+tp_beta.inc	tp_beta.inc
+Try new game modes before everyone else	Yeni oyun modlarını herkesten önce dene
+On	Açık
+Floury	Unlu
+All-rounder	Her işe uygun
+Waxy	Mumsu
+Sweet	Tatlı
+One of a kind	Eşi benzeri yok
+Fluffy inside: best baked, mashed or as fries	İçi yumuşacık: fırında, püre ya da kızartma olarak en iyisi
+Good at almost anything	Neredeyse her şeye uygun
+Firm and creamy: holds its shape boiled or in salads	Sıkı ve kremamsı: haşlanınca ve salatada dağılmaz
+Sweet and soft when it's cooked	Pişince tatlı ve yumuşak
+Not for eating	Yenmez
+White	Beyaz
+Grey	Gri
+Cream	Krem
+Pale	Soluk
+Dark red	Koyu kırmızı
+Brown	Kahverengi
+Tan	Açık kahve
+Orange	Turuncu
+Green	Yeşil
+Blue	Mavi
+Purple	Mor
+Pink	Pembe
+Knobbly	Yumrulu
+Long and curved	Uzun ve kıvrık
+Long and thin (a fingerling)	Uzun ve ince
+Long	Uzun
+Round	Yuvarlak
+Oval	Oval
+Huge	Kocaman
+Big	Büyük
+Medium	Orta
+Small	Küçük
+Tiny	Minicik
+Turns up all the time	Sık sık çıkar
+About 1 in every {0} potatoes	Yaklaşık {0} patateste 1
+Very, very rare	Çok ama çok nadir
+Skin	Kabuk
+Inside	İç
+Shape	Şekil
+Size	Boyut
+Texture	Doku
+Your share	Payın
+How it cooks	Nasıl pişer
+Not on the leaderboards yet	Henüz sıralamalarda değil
+best TaterSlice	en iyi TaterSlice
+best TaterCorner shift	en iyi TaterCorner vardiyası
+You: {0}	Sen: {0}
+Your rarest find	En nadir bulduğun
+Their rarest find	En nadir buluşu
+New potato: {0}!	Yeni patates: {0}!
+NEW POTATO DISCOVERED	YENİ PATATES KEŞFEDİLDİ
+Learn more	Daha fazla
+Keep peeling	Soymaya devam
+{0}, live	{0}, canlı
+It's in here somewhere	Burada bir yerde
+Take the broom	Süpürgeyi al
+And get out of here	Ve buradan çık
+Click! Click! Run!	Tıkla! Tıkla! Kaç!
+Tap! Tap! Run!	Dokun! Dokun! Kaç!
+Here's what's new in 4.1. Thanks for playing!	İşte 4.1'deki yenilikler. Oynadığın için teşekkürler!
+TaterNinja is called TaterSlice now, and it has its own leaderboard.	TaterNinja'nın adı artık TaterSlice ve kendi sıralaması var.
+Your photo on the leaderboards	Sıralamalarda fotoğrafın
+Everyone's profile photo shows next to their name on the leaderboards now.	Artık herkesin profil fotoğrafı sıralamalarda adının yanında görünüyor.
+Portfolios got redone	Portfolyolar yenilendi
+Your rank on every board (tap one to see that board), your rarest find, every achievement, and on someone else's you can see how your numbers stack up against theirs.	Her sıralamadaki yerin (görmek için birine dokun), en nadir bulduğun, tüm başarımlar; başkasınınkinde de sayılarının onlarınkiyle nasıl kıyaslandığını görürsün.
+Finding a new potato	Yeni patates bulmak
+Find a new potato after a long time without one and it's a big moment now.	Uzun süre sonra yeni bir patates bulursan artık bu büyük bir an.
+Always the newest version	Her zaman en yeni sürüm
+The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Web sitesi artık her zaman en yeni sürümü yüklüyor ve oynarken bir güncelleme çıkarsa sana söylüyor.
+Everything you had before is still there. Thanks for playing.	Önceden sahip olduğun her şey hâlâ duruyor. Oynadığın için teşekkürler.

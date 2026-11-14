@@ -639,7 +639,7 @@ The bouncing logo, right now. Tap anywhere to stop it	O logo quicando, agora mes
 Start	Iniciar
 That photo couldn't be opened. Try a JPG or PNG photo	Não deu para abrir essa foto. Tente uma foto JPG ou PNG
 potatoes peeled. The fry station is open.	batatas descascadas. A fritadeira está aberta.
-potatoes peeled. TaterNinja is open.	batatas descascadas. O TaterNinja está aberto.
+potatoes peeled. TaterSlice is open.	batatas descascadas. O TaterSlice está aberto.
 potatoes peeled. TaterCorner is open.	batatas descascadas. O TaterCorner está aberto.
 About {0} kg of potatoes	Uns {0} kg de batatas
 {0} hour of peeling	{0} hora descascando
@@ -691,15 +691,15 @@ The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	A 
 Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	Até 30 de novembro tem uma cozinha aconchegante de Ação de Graças com um peru no forno, e fique de olho na Batata Peru. Não comemora? Desligue tudo nas Configurações.
 Happy Thanksgiving!	Feliz Dia de Ação de Graças!
 Look out for the Turkey Potato until November 30	Fique de olho na Batata Peru até 30 de novembro
-Slice 50 potatoes in one game of TaterNinja	Corte 50 batatas em uma partida de TaterNinja
+Slice 50 potatoes in one game of TaterSlice	Corte 50 batatas em uma partida de TaterSlice
 Slice them	Corte todas
-Peel {0} more potato to open TaterNinja	Descasque mais {0} batata para abrir o TaterNinja
-Peel {0} more potatoes to open TaterNinja	Descasque mais {0} batatas para abrir o TaterNinja
+Peel {0} more potato to open TaterSlice	Descasque mais {0} batata para abrir o TaterSlice
+Peel {0} more potatoes to open TaterSlice	Descasque mais {0} batatas para abrir o TaterSlice
 {0} in one swipe!	{0} de uma vez só!
 Swipe to slice. Don't slice the mouldy ones	Deslize para cortar. Não corte as mofadas
 Game over	Fim de jogo
 {0} sliced	{0} cortadas
-Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Descasque 200 batatas e o TaterNinja abre. Batatas são jogadas para cima e você corta com a sua faca de fritas. Corte várias de uma vez para ganhar bônus, mas não corte as mofadas: você só tem três vidas.
+Peel 200 potatoes and TaterSlice opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Descasque 200 batatas e o TaterSlice abre. Batatas são jogadas para cima e você corta com a sua faca de fritas. Corte várias de uma vez para ganhar bônus, mas não corte as mofadas: você só tem três vidas.
 Cheese	Queijo
 Chili	Chili
 Bacon	Bacon
@@ -1178,3 +1178,219 @@ https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.git
 Keeping an eye on you	Keeping an eye on you
 It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.
 What's new in {0}	Novidades da {0}
+Fry dump	Escorredor de fritas
+Bags	Sacolas
+Till	Caixa
+Security camera	Câmera de segurança
+Drive-thru window	Janela do drive-thru
+Bacon bits	Pedacinhos de bacon
+Garlic parmesan	Parmesão com alho
+BBQ sauce	Molho barbecue
+Spilled fries	Batatas derramadas
+TV	TV
+TV remote	Controle da TV
+Hold on the sink to scrub it	Segure na pia para esfregar
+In the bag: {0} food, {1} sauces. Hand it out at the window	Na sacola: {0} de comida, {1} molhos. Entregue na janela
+The camera on the lane. If someone drives off without paying, report their plate here	A câmera da pista. Se alguém for embora sem pagar, denuncie a placa aqui
+Paying...	Pagando...
+They pay here when you hand the food out	Eles pagam aqui quando você entrega a comida
+You've got the broom. Sweep up the fries	Você pegou a vassoura. Varra as batatas
+The supply closet. Nothing you need in there right now	O armário de limpeza. Nada que você precise lá agora
+Press the red button to turn the TV on	Aperte o botão vermelho para ligar a TV
+You need the broom: it's in the supply closet	Você precisa da vassoura: ela está no armário de limpeza
+Hold the click and rub back and forth to sweep	Segure o clique e esfregue para varrer
+Hold and rub back and forth to sweep	Segure e esfregue de um lado para o outro para varrer
+Take them out!	Tire-as!
+Ready	Prontas
+Burnt	Queimadas
+Cooking	Cozinhando
+Hold the click to scrub	Segure o clique para esfregar
+Hold to scrub	Segure para esfregar
+Clean: to the microwave	Limpa: para o micro-ondas
+{0} portion	{0} porção
+{0} portions	{0} porções
+Cold	Frias
+In the bag: {0}	Na sacola: {0}
+Hold the click and rub	Segure o clique e esfregue
+Hold and rub	Segure e esfregue
+A car is pulling up...	Um carro está chegando...
+Waiting for a car	Esperando um carro
+Tater Corner	Tater Corner
+Opening up...	Abrindo...
+Click to use	Clique para usar
+Get the broom from the supply closet	Pegue a vassoura no armário de limpeza
+Hold the click (or E) and rub to sweep	Segure o clique (ou E) e esfregue para varrer
+Slide here to walk	Deslize aqui para andar
+Drag here to look	Arraste aqui para olhar
+W A S D to walk, drag to look, click to use	W A S D para andar, arraste para olhar, clique para usar
+Giant Potato	Batata gigante
+Share	Compartilhar
+Share with friends	Compartilhar com amigos
+The link and a QR code to send	O link e um QR code para enviar
+Unlinked. Your own account and progress are back	Desvinculado. Sua conta e seu progresso voltaram
+Unlinked. Your progress from before is back	Desvinculado. Seu progresso de antes voltou
+Credits	Créditos
+Wherever a potato gets left in the ground a long time	Onde uma batata fica muito tempo na terra
+Feeding the whole street	Para alimentar a rua inteira
+The heaviest potato on record weighed 4.98 kg (almost 11 lb). It was grown in England in 2011.	A batata mais pesada registrada pesava 4,98 kg (quase 11 lb). Foi cultivada na Inglaterra em 2011.
+Giant	Gigante
+Send your friends TaterPeeler. It's free, with no ads, on phones, tablets and computers.	Mande o TaterPeeler para seus amigos. É grátis, sem anúncios, em celulares, tablets e computadores.
+Point a phone's camera at it	Aponte a câmera de um celular para ele
+Copy the link	Copiar o link
+Link copied. Paste it in a message to a friend	Link copiado. Cole numa mensagem para um amigo
+Save the QR code	Salvar o QR code
+Saved to your downloads	Salvo nos seus downloads
+Saved to your photos	Salvo nas suas fotos
+Videos	Vídeos
+Menu Board	Cardápio
+Today at Tater Corner	Hoje no Tater Corner
+Weather	Clima
+Sunny and warm	Ensolarado e quente
+Scoreboard	Placar
+Your shift, live	Seu turno, ao vivo
+Picture, sound, about	Imagem, som, sobre
+How to make fries	Como fazer batata frita
+Videos can't play on this device yet	Os vídeos ainda não tocam neste aparelho
+Press OK to open	Aperte OK para abrir
+More videos are coming soon	Mais vídeos em breve
+This video can't play here yet	Este vídeo ainda não toca aqui
+Baked potatoes	Batatas assadas
+Toppings and sauces	Coberturas e molhos
+With one topping	Com uma cobertura
+With two toppings	Com duas coberturas
+Cheese, chili, bacon	Queijo, chili, bacon
+Sour cream, chives	Creme azedo, cebolinha
+Salt, Cajun, garlic parm	Sal, cajun, parmesão com alho
+Ketchup, ranch, BBQ	Ketchup, ranch, barbecue
++60¢ each	+60¢ cada
+Free	Grátis
+Sunny, light breeze	Ensolarado, brisa leve
+Sat	Sáb
+Sun	Dom
+Mon	Seg
+Tue	Ter
+Wed	Qua
+Made this shift	Ganho neste turno
+Cars served	Carros atendidos
+Perfect orders	Pedidos perfeitos
+Potatoes you've peeled	Batatas que você descascou
+15 minutes	15 minutos
+30 minutes	30 minutos
+1 hour	1 hora
+Brightness	Brilho
+Volume	Volume
+Sleep timer	Desligar em
+TaterTV OS 1.0  ·  Made by Andres Campos	TaterTV OS 1.0  ·  Feito por Andres Campos
+Mute	Mudo
+Put it down	Largar
+Arrows, Enter, Backspace work too	Setas, Enter e Backspace também funcionam
+Co-owner	Coproprietário
+Your shift at Tater Corner	Seu turno no Tater Corner
+Sweep up the fries: rub back and forth	Varra as batatas: esfregue de um lado para o outro
+All clean. Back to work!	Tudo limpo. De volta ao trabalho!
+Supply closet	Armário de limpeza
+Get the broom	Pegue a vassoura
+Tap the broom	Toque na vassoura
+Grab the broom	Agarre a vassoura
+RUN!	CORRA!
+...it was just the cat.	...era só o gato.
+Tap as fast as you can	Toque o mais rápido que puder
+Oops! Fries all over the floor. Get the broom from the supply closet	Opa! Batata frita no chão todo. Pegue a vassoura no armário de limpeza
+You're in! You're a beta tester now	Você entrou! Agora você é beta tester
+That code works, but it doesn't open anything yet	Esse código funciona, mas ainda não abre nada
+That code isn't right	Esse código não está certo
+Check the 4 numbers and try again. Codes come from Andres.	Confira os 4 números e tente de novo. Os códigos vêm do Andres.
+That's a lot of wrong codes. Wait an hour, then try again.	Muitos códigos errados. Espere uma hora e tente de novo.
+Beta codes are 4 numbers	Códigos beta têm 4 números
+Your beta code (4 numbers)	Seu código beta (4 números)
+Try new game modes and big features before everyone else, and tell me what's broken. You need a 4-digit code from Andres.	Teste modos de jogo e recursos grandes antes de todo mundo e me diga o que está quebrado. Você precisa de um código de 4 dígitos do Andres.
+Be a beta tester	Seja beta tester
+Your code: {0}	Seu código: {0}
+What you can test	O que você pode testar
+Out for everyone now	Já saiu para todos
+Not out yet: only testers can play it	Ainda não saiu: só testers podem jogar
+Secret: only testers can see it	Segredo: só testers podem ver
+Nothing to test right now. Check again later	Nada para testar agora. Volte mais tarde
+Use a different code	Usar outro código
+Leave the program	Sair do programa
+You left the beta tester program	Você saiu do programa de beta testers
+Checking...	Verificando...
+Enter a code	Digite um código
+You're signed in as the owner, so everything is open for you. Make codes in Admin > Beta.	Você entrou como dono, então tudo está aberto para você. Crie códigos em Admin > Beta.
+Beta tester program	Programa de beta testers
+Beta test	Teste beta
+{0} is coming soon	{0} chega em breve
+Online (beta)	Online (beta)
+tp_beta.inc	tp_beta.inc
+Try new game modes before everyone else	Teste novos modos de jogo antes de todo mundo
+On	Ligado
+Floury	Farinhenta
+All-rounder	Para tudo
+Waxy	Cerosa
+Sweet	Doce
+One of a kind	Única
+Fluffy inside: best baked, mashed or as fries	Macia por dentro: melhor assada, em purê ou frita
+Good at almost anything	Boa para quase tudo
+Firm and creamy: holds its shape boiled or in salads	Firme e cremosa: não desmancha cozida ou em saladas
+Sweet and soft when it's cooked	Doce e macia quando cozida
+Not for eating	Não é para comer
+White	Branca
+Grey	Cinza
+Cream	Creme
+Pale	Clara
+Dark red	Vermelho-escura
+Brown	Marrom
+Tan	Bege
+Orange	Laranja
+Green	Verde
+Blue	Azul
+Purple	Roxa
+Pink	Rosa
+Knobbly	Nodosa
+Long and curved	Longa e curva
+Long and thin (a fingerling)	Longa e fina
+Long	Longa
+Round	Redonda
+Oval	Oval
+Huge	Enorme
+Big	Grande
+Medium	Média
+Small	Pequena
+Tiny	Minúscula
+Turns up all the time	Aparece toda hora
+About 1 in every {0} potatoes	Mais ou menos 1 a cada {0} batatas
+Very, very rare	Muito, muito rara
+Skin	Casca
+Inside	Polpa
+Shape	Formato
+Size	Tamanho
+Texture	Textura
+Your share	Sua parte
+How it cooks	Como cozinha
+Not on the leaderboards yet	Ainda não está nos rankings
+best TaterSlice	melhor TaterSlice
+best TaterCorner shift	melhor turno no TaterCorner
+You: {0}	Você: {0}
+Your rarest find	Seu achado mais raro
+Their rarest find	O achado mais raro
+New potato: {0}!	Batata nova: {0}!
+NEW POTATO DISCOVERED	BATATA NOVA DESCOBERTA
+Learn more	Saiba mais
+Keep peeling	Continuar descascando
+{0}, live	{0}, ao vivo
+It's in here somewhere	Está aqui em algum lugar
+Take the broom	Pegar a vassoura
+And get out of here	E sair daqui
+Click! Click! Run!	Clique! Clique! Corre!
+Tap! Tap! Run!	Toque! Toque! Corre!
+Here's what's new in 4.1. Thanks for playing!	Aqui está o que há de novo na 4.1. Obrigado por jogar!
+TaterNinja is called TaterSlice now, and it has its own leaderboard.	O TaterNinja agora se chama TaterSlice e tem seu próprio ranking.
+Your photo on the leaderboards	Sua foto nos rankings
+Everyone's profile photo shows next to their name on the leaderboards now.	A foto de perfil de todo mundo aparece ao lado do nome nos rankings agora.
+Portfolios got redone	Portfólios refeitos
+Your rank on every board (tap one to see that board), your rarest find, every achievement, and on someone else's you can see how your numbers stack up against theirs.	Sua posição em cada ranking (toque em um para ver), seu achado mais raro, todas as conquistas, e no de outra pessoa dá para ver como seus números se comparam aos dela.
+Finding a new potato	Encontrar uma batata nova
+Find a new potato after a long time without one and it's a big moment now.	Encontrar uma batata nova depois de muito tempo sem nenhuma agora é um grande momento.
+Always the newest version	Sempre a versão mais nova
+The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	O site agora sempre carrega a versão mais nova e, se sair uma atualização enquanto você joga, ele avisa.
+Everything you had before is still there. Thanks for playing.	Tudo o que você tinha continua lá. Obrigado por jogar.

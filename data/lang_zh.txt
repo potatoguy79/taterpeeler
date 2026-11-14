@@ -639,7 +639,7 @@ The bouncing logo, right now. Tap anywhere to stop it	弹跳的标志，马上�
 Start	启动
 That photo couldn't be opened. Try a JPG or PNG photo	这张照片打不开。请换一张 JPG 或 PNG 照片
 potatoes peeled. The fry station is open.	个土豆已削完。炸薯条站开放了。
-potatoes peeled. TaterNinja is open.	个土豆已削完。TaterNinja 开放了。
+potatoes peeled. TaterSlice is open.	个土豆已削完。TaterSlice 开放了。
 potatoes peeled. TaterCorner is open.	个土豆已削完。TaterCorner 开放了。
 About {0} kg of potatoes	大约 {0} 公斤土豆
 {0} hour of peeling	削了 {0} 小时
@@ -691,15 +691,15 @@ The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	�
 Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	到 11 月 30 日为止,有一个烤箱里烤着火鸡的温馨感恩节厨房,还会出现火鸡土豆。不过感恩节?可以在设置里全部关掉。
 Happy Thanksgiving!	感恩节快乐!
 Look out for the Turkey Potato until November 30	11 月 30 日之前留意火鸡土豆
-Slice 50 potatoes in one game of TaterNinja	在一局 TaterNinja 里切 50 个土豆
+Slice 50 potatoes in one game of TaterSlice	在一局 TaterSlice 里切 50 个土豆
 Slice them	切开它们
-Peel {0} more potato to open TaterNinja	再削 {0} 个土豆就能打开 TaterNinja
-Peel {0} more potatoes to open TaterNinja	再削 {0} 个土豆就能打开 TaterNinja
+Peel {0} more potato to open TaterSlice	再削 {0} 个土豆就能打开 TaterSlice
+Peel {0} more potatoes to open TaterSlice	再削 {0} 个土豆就能打开 TaterSlice
 {0} in one swipe!	一刀切了 {0} 个!
 Swipe to slice. Don't slice the mouldy ones	滑动来切。别切发霉的
 Game over	游戏结束
 {0} sliced	切了 {0} 个
-Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	削满 200 个土豆就会打开 TaterNinja。土豆会被抛起来,你用薯条刀把它们切开。一刀切好几个有奖励,但别切发霉的:你只有三条命。
+Peel 200 potatoes and TaterSlice opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	削满 200 个土豆就会打开 TaterSlice。土豆会被抛起来,你用薯条刀把它们切开。一刀切好几个有奖励,但别切发霉的:你只有三条命。
 Cheese	奶酪
 Chili	辣肉酱
 Bacon	培根
@@ -1178,3 +1178,219 @@ https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.git
 Keeping an eye on you	Keeping an eye on you
 It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.
 What's new in {0}	{0} 新内容
+Fry dump	薯条沥油台
+Bags	袋子
+Till	收银台
+Security camera	监控摄像头
+Drive-thru window	得来速窗口
+Bacon bits	培根碎
+Garlic parmesan	蒜香帕玛森
+BBQ sauce	烧烤酱
+Spilled fries	撒了的薯条
+TV	电视
+TV remote	电视遥控器
+Hold on the sink to scrub it	按住水槽来刷洗
+In the bag: {0} food, {1} sauces. Hand it out at the window	袋里：{0} 份食物，{1} 份酱。去窗口递出去
+The camera on the lane. If someone drives off without paying, report their plate here	车道上的摄像头。有人不付钱就开走的话，在这里举报车牌
+Paying...	正在付款...
+They pay here when you hand the food out	你递出食物后，他们在这里付款
+You've got the broom. Sweep up the fries	扫帚到手了。把薯条扫干净
+The supply closet. Nothing you need in there right now	杂物间。现在那里没有你需要的东西
+Press the red button to turn the TV on	按红色按钮打开电视
+You need the broom: it's in the supply closet	你需要扫帚：在杂物间里
+Hold the click and rub back and forth to sweep	按住鼠标来回擦动来扫地
+Hold and rub back and forth to sweep	按住并来回擦动来扫地
+Take them out!	快拿出来！
+Ready	好了
+Burnt	烧焦了
+Cooking	烹饪中
+Hold the click to scrub	按住鼠标来刷洗
+Hold to scrub	按住来刷洗
+Clean: to the microwave	洗干净了：放进微波炉
+{0} portion	{0} 份
+{0} portions	{0} 份
+Cold	凉了
+In the bag: {0}	袋里：{0}
+Hold the click and rub	按住鼠标擦动
+Hold and rub	按住擦动
+A car is pulling up...	有车开过来了...
+Waiting for a car	等车中
+Tater Corner	Tater Corner
+Opening up...	开门中...
+Click to use	点击使用
+Get the broom from the supply closet	去杂物间拿扫帚
+Hold the click (or E) and rub to sweep	按住鼠标（或 E）擦动来扫地
+Slide here to walk	在这里滑动行走
+Drag here to look	在这里拖动观看
+W A S D to walk, drag to look, click to use	W A S D 行走，拖动观看，点击使用
+Giant Potato	巨型土豆
+Share	分享
+Share with friends	分享给朋友
+The link and a QR code to send	发送用的链接和二维码
+Unlinked. Your own account and progress are back	已解除关联。你自己的账号和进度回来了
+Unlinked. Your progress from before is back	已解除关联。你之前的进度回来了
+Credits	制作人员
+Wherever a potato gets left in the ground a long time	土豆在地里放了很久的地方
+Feeding the whole street	够整条街吃
+The heaviest potato on record weighed 4.98 kg (almost 11 lb). It was grown in England in 2011.	有记录以来最重的土豆重 4.98 公斤，2011 年种于英国。
+Giant	巨型
+Send your friends TaterPeeler. It's free, with no ads, on phones, tablets and computers.	把 TaterPeeler 发给朋友。免费、无广告，手机、平板和电脑都能玩。
+Point a phone's camera at it	用手机相机对准它
+Copy the link	复制链接
+Link copied. Paste it in a message to a friend	链接已复制。粘贴到发给朋友的消息里
+Save the QR code	保存二维码
+Saved to your downloads	已保存到下载
+Saved to your photos	已保存到相册
+Videos	视频
+Menu Board	菜单
+Today at Tater Corner	今天的 Tater Corner
+Weather	天气
+Sunny and warm	晴朗温暖
+Scoreboard	记分板
+Your shift, live	你的班次，实时
+Picture, sound, about	画面、声音、关于
+How to make fries	怎么做薯条
+Videos can't play on this device yet	这台设备暂时还不能播放视频
+Press OK to open	按 OK 打开
+More videos are coming soon	更多视频即将上线
+This video can't play here yet	这个视频暂时还不能在这里播放
+Baked potatoes	烤土豆
+Toppings and sauces	配料和酱
+With one topping	加一种配料
+With two toppings	加两种配料
+Cheese, chili, bacon	芝士、辣肉酱、培根
+Sour cream, chives	酸奶油、香葱
+Salt, Cajun, garlic parm	盐、卡津、蒜香帕玛森
+Ketchup, ranch, BBQ	番茄酱、牧场酱、烧烤酱
++60¢ each	每种 +60¢
+Free	免费
+Sunny, light breeze	晴，微风
+Sat	周六
+Sun	周日
+Mon	周一
+Tue	周二
+Wed	周三
+Made this shift	本班收入
+Cars served	服务车辆
+Perfect orders	完美订单
+Potatoes you've peeled	你削过的土豆
+15 minutes	15 分钟
+30 minutes	30 分钟
+1 hour	1 小时
+Brightness	亮度
+Volume	音量
+Sleep timer	睡眠定时
+TaterTV OS 1.0  ·  Made by Andres Campos	TaterTV OS 1.0  ·  Andres Campos 制作
+Mute	静音
+Put it down	放下
+Arrows, Enter, Backspace work too	方向键、Enter 和退格键也能用
+Co-owner	联合所有者
+Your shift at Tater Corner	你在 Tater Corner 的班次
+Sweep up the fries: rub back and forth	把薯条扫干净：来回擦动
+All clean. Back to work!	全扫干净了。回去干活！
+Supply closet	杂物间
+Get the broom	去拿扫帚
+Tap the broom	点一下扫帚
+Grab the broom	抓起扫帚
+RUN!	快跑！
+...it was just the cat.	……原来只是猫。
+Tap as fast as you can	尽可能快地点
+Oops! Fries all over the floor. Get the broom from the supply closet	哎呀！薯条撒了一地。去杂物间拿扫帚
+You're in! You're a beta tester now	你加入了！现在你是测试员了
+That code works, but it doesn't open anything yet	这个码有效，但暂时还不能解锁任何东西
+That code isn't right	这个码不对
+Check the 4 numbers and try again. Codes come from Andres.	检查一下这 4 个数字再试。码由 Andres 提供。
+That's a lot of wrong codes. Wait an hour, then try again.	错误的码太多了。等一小时再试。
+Beta codes are 4 numbers	测试码是 4 个数字
+Your beta code (4 numbers)	你的测试码（4 个数字）
+Try new game modes and big features before everyone else, and tell me what's broken. You need a 4-digit code from Andres.	比所有人更早试玩新模式和大功能，告诉我哪里坏了。需要 Andres 给的 4 位数码。
+Be a beta tester	成为测试员
+Your code: {0}	你的码：{0}
+What you can test	可以测试的内容
+Out for everyone now	已向所有人开放
+Not out yet: only testers can play it	还没发布：只有测试员能玩
+Secret: only testers can see it	秘密：只有测试员能看到
+Nothing to test right now. Check again later	现在没有可测试的内容。稍后再来看看
+Use a different code	换一个码
+Leave the program	退出计划
+You left the beta tester program	你已退出测试员计划
+Checking...	检查中……
+Enter a code	输入一个码
+You're signed in as the owner, so everything is open for you. Make codes in Admin > Beta.	你以所有者身份登录，所以一切都对你开放。在 管理 > 测试 里生成码。
+Beta tester program	测试员计划
+Beta test	测试版
+{0} is coming soon	{0} 即将推出
+Online (beta)	在线（测试版）
+tp_beta.inc	tp_beta.inc
+Try new game modes before everyone else	比所有人更早试玩新模式
+On	开
+Floury	粉质
+All-rounder	万能
+Waxy	蜡质
+Sweet	甜
+One of a kind	独一无二
+Fluffy inside: best baked, mashed or as fries	内里松软：最适合烤、做土豆泥或薯条
+Good at almost anything	几乎做什么都好吃
+Firm and creamy: holds its shape boiled or in salads	紧实细腻：煮或拌沙拉都不散
+Sweet and soft when it's cooked	煮熟后又甜又软
+Not for eating	不能吃
+White	白色
+Grey	灰色
+Cream	奶油色
+Pale	浅色
+Dark red	深红色
+Brown	棕色
+Tan	浅棕色
+Orange	橙色
+Green	绿色
+Blue	蓝色
+Purple	紫色
+Pink	粉色
+Knobbly	疙疙瘩瘩
+Long and curved	又长又弯
+Long and thin (a fingerling)	又长又细
+Long	长
+Round	圆
+Oval	椭圆
+Huge	巨大
+Big	大
+Medium	中
+Small	小
+Tiny	很小
+Turns up all the time	经常出现
+About 1 in every {0} potatoes	大约每 {0} 个土豆出 1 个
+Very, very rare	非常非常稀有
+Skin	皮
+Inside	肉
+Shape	形状
+Size	大小
+Texture	口感
+Your share	你的份额
+How it cooks	怎么烹饪
+Not on the leaderboards yet	还没有上榜
+best TaterSlice	TaterSlice最佳
+best TaterCorner shift	TaterCorner最佳班次
+You: {0}	你：{0}
+Your rarest find	你最稀有的发现
+Their rarest find	最稀有的发现
+New potato: {0}!	新土豆：{0}！
+NEW POTATO DISCOVERED	发现新土豆
+Learn more	了解更多
+Keep peeling	继续削皮
+{0}, live	{0}，直播
+It's in here somewhere	就在这里某处
+Take the broom	拿起扫帚
+And get out of here	然后离开这里
+Click! Click! Run!	点击！点击！快跑！
+Tap! Tap! Run!	点击！点击！快跑！
+Here's what's new in 4.1. Thanks for playing!	这是4.1的新内容。感谢游玩！
+TaterNinja is called TaterSlice now, and it has its own leaderboard.	TaterNinja现在叫TaterSlice了，还有了自己的排行榜。
+Your photo on the leaderboards	排行榜上的你的照片
+Everyone's profile photo shows next to their name on the leaderboards now.	现在排行榜上每个人的名字旁边都会显示头像。
+Portfolios got redone	作品集重新做了
+Your rank on every board (tap one to see that board), your rarest find, every achievement, and on someone else's you can see how your numbers stack up against theirs.	你在每个排行榜上的名次（点一下查看该榜）、最稀有的发现、所有成就；在别人的作品集里还能看到你的数据和他们比怎么样。
+Finding a new potato	发现新土豆
+Find a new potato after a long time without one and it's a big moment now.	隔了很久再发现新土豆，现在会是个大时刻。
+Always the newest version	始终是最新版本
+The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	网站现在总会加载最新版本，你玩的时候如果出了更新也会告诉你。
+Everything you had before is still there. Thanks for playing.	你之前的一切都还在。感谢游玩。

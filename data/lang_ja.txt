@@ -639,7 +639,7 @@ The bouncing logo, right now. Tap anywhere to stop it	跳ねるロゴを今す�
 Start	開始
 That photo couldn't be opened. Try a JPG or PNG photo	その写真は開けませんでした。JPGかPNGの写真を試してください
 potatoes peeled. The fry station is open.	個のじゃがいもをむきました。フライステーションが開きました。
-potatoes peeled. TaterNinja is open.	個のじゃがいもをむきました。TaterNinjaが開きました。
+potatoes peeled. TaterSlice is open.	個のじゃがいもをむきました。TaterSliceが開きました。
 potatoes peeled. TaterCorner is open.	個のじゃがいもをむきました。TaterCornerが開きました。
 About {0} kg of potatoes	じゃがいも約{0}kg
 {0} hour of peeling	むいた時間 {0}時間
@@ -691,15 +691,15 @@ The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	�
 Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	11月30日まで、オーブンでターキーを焼いている居心地のいいサンクスギビングのキッチンがあり、ターキーポテトも出てきます。お祝いしない人は設定で全部オフにできます。
 Happy Thanksgiving!	ハッピーサンクスギビング!
 Look out for the Turkey Potato until November 30	11月30日までターキーポテトを探してね
-Slice 50 potatoes in one game of TaterNinja	TaterNinjaの1ゲームでジャガイモを50個切る
+Slice 50 potatoes in one game of TaterSlice	TaterSliceの1ゲームでジャガイモを50個切る
 Slice them	切りまくれ
-Peel {0} more potato to open TaterNinja	あと{0}個ジャガイモをむくとTaterNinjaが開きます
-Peel {0} more potatoes to open TaterNinja	あと{0}個ジャガイモをむくとTaterNinjaが開きます
+Peel {0} more potato to open TaterSlice	あと{0}個ジャガイモをむくとTaterSliceが開きます
+Peel {0} more potatoes to open TaterSlice	あと{0}個ジャガイモをむくとTaterSliceが開きます
 {0} in one swipe!	ひと振りで{0}個!
 Swipe to slice. Don't slice the mouldy ones	スワイプして切ろう。カビたのは切らないで
 Game over	ゲームオーバー
 {0} sliced	{0}個切った
-Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	ジャガイモを200個むくとTaterNinjaが開きます。投げ上げられるジャガイモをフライドポテト用の包丁で切りましょう。ひと振りで何個も切るとボーナス。でもカビたのは切らないで。ライフは3つだけです。
+Peel 200 potatoes and TaterSlice opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	ジャガイモを200個むくとTaterSliceが開きます。投げ上げられるジャガイモをフライドポテト用の包丁で切りましょう。ひと振りで何個も切るとボーナス。でもカビたのは切らないで。ライフは3つだけです。
 Cheese	チーズ
 Chili	チリ
 Bacon	ベーコン
@@ -1178,3 +1178,219 @@ https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.git
 Keeping an eye on you	Keeping an eye on you
 It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.
 What's new in {0}	{0}の新機能
+Fry dump	ポテトの油切り台
+Bags	袋
+Till	レジ
+Security camera	防犯カメラ
+Drive-thru window	ドライブスルーの窓
+Bacon bits	ベーコンビッツ
+Garlic parmesan	ガーリックパルメザン
+BBQ sauce	BBQソース
+Spilled fries	こぼれたポテト
+TV	テレビ
+TV remote	テレビのリモコン
+Hold on the sink to scrub it	シンクを長押しして洗う
+In the bag: {0} food, {1} sauces. Hand it out at the window	袋の中：料理 {0}、ソース {1}。窓口で渡そう
+The camera on the lane. If someone drives off without paying, report their plate here	レーンのカメラ。払わずに走り去った車がいたら、ここでナンバーを報告
+Paying...	支払い中...
+They pay here when you hand the food out	料理を渡すと、ここで支払います
+You've got the broom. Sweep up the fries	ほうきを持った。ポテトを掃こう
+The supply closet. Nothing you need in there right now	用具室。今は必要なものはない
+Press the red button to turn the TV on	赤いボタンでテレビをつけよう
+You need the broom: it's in the supply closet	ほうきが必要：用具室にある
+Hold the click and rub back and forth to sweep	クリックしたまま左右にこすって掃く
+Hold and rub back and forth to sweep	押したまま左右にこすって掃く
+Take them out!	取り出して！
+Ready	できあがり
+Burnt	焦げた
+Cooking	調理中
+Hold the click to scrub	クリックしたまま洗う
+Hold to scrub	押したまま洗う
+Clean: to the microwave	きれいになった：電子レンジへ
+{0} portion	{0}人分
+{0} portions	{0}人分
+Cold	冷めた
+In the bag: {0}	袋の中：{0}
+Hold the click and rub	クリックしたままこする
+Hold and rub	押したままこする
+A car is pulling up...	車が来た...
+Waiting for a car	車を待っています
+Tater Corner	Tater Corner
+Opening up...	開店準備中...
+Click to use	クリックで使う
+Get the broom from the supply closet	用具室からほうきを取ってこよう
+Hold the click (or E) and rub to sweep	クリック（または E）を押したままこすって掃く
+Slide here to walk	ここをスライドして歩く
+Drag here to look	ここをドラッグして見回す
+W A S D to walk, drag to look, click to use	W A S D で歩く、ドラッグで見回す、クリックで使う
+Giant Potato	巨大ポテト
+Share	シェア
+Share with friends	友だちにシェア
+The link and a QR code to send	送れるリンクとQRコード
+Unlinked. Your own account and progress are back	連携を解除しました。自分のアカウントと進み具合が戻りました
+Unlinked. Your progress from before is back	連携を解除しました。前の進み具合が戻りました
+Credits	クレジット
+Wherever a potato gets left in the ground a long time	ジャガイモが長いあいだ土の中に残されていたところ
+Feeding the whole street	通り全体のお腹を満たせる
+The heaviest potato on record weighed 4.98 kg (almost 11 lb). It was grown in England in 2011.	記録上いちばん重いジャガイモは4.98 kg。2011年にイギリスで育ちました。
+Giant	巨大
+Send your friends TaterPeeler. It's free, with no ads, on phones, tablets and computers.	友だちに TaterPeeler を送ろう。無料・広告なしで、スマホ、タブレット、パソコンで遊べます。
+Point a phone's camera at it	スマホのカメラを向けてね
+Copy the link	リンクをコピー
+Link copied. Paste it in a message to a friend	リンクをコピーしました。友だちへのメッセージに貼り付けよう
+Save the QR code	QRコードを保存
+Saved to your downloads	ダウンロードに保存しました
+Saved to your photos	写真に保存しました
+Videos	動画
+Menu Board	メニュー
+Today at Tater Corner	今日の Tater Corner
+Weather	天気
+Sunny and warm	晴れて暖か
+Scoreboard	スコアボード
+Your shift, live	あなたのシフト、ライブ
+Picture, sound, about	映像、音、情報
+How to make fries	ポテトフライの作り方
+Videos can't play on this device yet	この端末ではまだ動画を再生できません
+Press OK to open	OK で開く
+More videos are coming soon	動画はまもなく追加されます
+This video can't play here yet	この動画はここではまだ再生できません
+Baked potatoes	ベイクドポテト
+Toppings and sauces	トッピングとソース
+With one topping	トッピング1つ
+With two toppings	トッピング2つ
+Cheese, chili, bacon	チーズ、チリ、ベーコン
+Sour cream, chives	サワークリーム、チャイブ
+Salt, Cajun, garlic parm	塩、ケイジャン、ガーリックパルメザン
+Ketchup, ranch, BBQ	ケチャップ、ランチ、BBQ
++60¢ each	1つ +60¢
+Free	無料
+Sunny, light breeze	晴れ、そよ風
+Sat	土
+Sun	日
+Mon	月
+Tue	火
+Wed	水
+Made this shift	このシフトの売上
+Cars served	対応した車
+Perfect orders	完璧な注文
+Potatoes you've peeled	あなたがむいたジャガイモ
+15 minutes	15分
+30 minutes	30分
+1 hour	1時間
+Brightness	明るさ
+Volume	音量
+Sleep timer	スリープタイマー
+TaterTV OS 1.0  ·  Made by Andres Campos	TaterTV OS 1.0  ·  Andres Campos 作
+Mute	ミュート
+Put it down	置く
+Arrows, Enter, Backspace work too	矢印キー、Enter、Backspace も使えます
+Co-owner	共同オーナー
+Your shift at Tater Corner	Tater Corner でのシフト
+Sweep up the fries: rub back and forth	ポテトを掃こう：左右にこする
+All clean. Back to work!	きれいになった。仕事に戻ろう！
+Supply closet	用具室
+Get the broom	ほうきを取ってこよう
+Tap the broom	ほうきをタップ
+Grab the broom	ほうきをつかもう
+RUN!	逃げて！
+...it was just the cat.	……ただのネコだった。
+Tap as fast as you can	できるだけ速くタップ
+Oops! Fries all over the floor. Get the broom from the supply closet	おっと！床じゅうポテトだらけ。用具室からほうきを取ってこよう
+You're in! You're a beta tester now	参加完了！これでベータテスターです
+That code works, but it doesn't open anything yet	そのコードは有効ですが、まだ何も開きません
+That code isn't right	そのコードは違います
+Check the 4 numbers and try again. Codes come from Andres.	4つの数字を確かめてもう一度。コードは Andres からもらえます。
+That's a lot of wrong codes. Wait an hour, then try again.	間違ったコードが多すぎます。1時間待ってからもう一度。
+Beta codes are 4 numbers	ベータコードは4桁の数字です
+Your beta code (4 numbers)	ベータコード（4桁）
+Try new game modes and big features before everyone else, and tell me what's broken. You need a 4-digit code from Andres.	新しいモードや大きな機能をだれより先に試して、壊れているところを教えてね。Andres の4桁のコードが必要です。
+Be a beta tester	ベータテスターになる
+Your code: {0}	あなたのコード：{0}
+What you can test	テストできるもの
+Out for everyone now	全員に公開済み
+Not out yet: only testers can play it	まだ公開前：テスターだけが遊べます
+Secret: only testers can see it	ひみつ：テスターだけが見られます
+Nothing to test right now. Check again later	今はテストするものがありません。また見に来てね
+Use a different code	別のコードを使う
+Leave the program	プログラムをやめる
+You left the beta tester program	ベータテスタープログラムをやめました
+Checking...	確認中...
+Enter a code	コードを入力
+You're signed in as the owner, so everything is open for you. Make codes in Admin > Beta.	オーナーとしてログイン中なので、すべて開いています。コードは 管理 > ベータ で作れます。
+Beta tester program	ベータテスタープログラム
+Beta test	ベータテスト
+{0} is coming soon	{0} はもうすぐ
+Online (beta)	オンライン（ベータ）
+tp_beta.inc	tp_beta.inc
+Try new game modes before everyone else	新しいモードをだれより先に試そう
+On	オン
+Floury	粉質
+All-rounder	万能
+Waxy	粘質
+Sweet	甘い
+One of a kind	唯一無二
+Fluffy inside: best baked, mashed or as fries	中はほくほく：焼く、つぶす、フライに最適
+Good at almost anything	ほとんど何にでも合う
+Firm and creamy: holds its shape boiled or in salads	しっかりなめらか：煮てもサラダでも崩れない
+Sweet and soft when it's cooked	火を通すと甘くやわらか
+Not for eating	食用ではない
+White	白
+Grey	灰色
+Cream	クリーム色
+Pale	淡い色
+Dark red	暗い赤
+Brown	茶色
+Tan	薄茶色
+Orange	オレンジ
+Green	緑
+Blue	青
+Purple	紫
+Pink	ピンク
+Knobbly	でこぼこ
+Long and curved	長くて曲がっている
+Long and thin (a fingerling)	細長い
+Long	長い
+Round	丸い
+Oval	楕円
+Huge	特大
+Big	大きい
+Medium	中くらい
+Small	小さい
+Tiny	とても小さい
+Turns up all the time	しょっちゅう出る
+About 1 in every {0} potatoes	約 {0} 個に1個
+Very, very rare	とてもとてもレア
+Skin	皮
+Inside	中身
+Shape	形
+Size	大きさ
+Texture	食感
+Your share	あなたの割合
+How it cooks	料理すると
+Not on the leaderboards yet	まだランキングに入っていません
+best TaterSlice	TaterSlice最高記録
+best TaterCorner shift	TaterCorner最高シフト
+You: {0}	あなた: {0}
+Your rarest find	あなたの一番レアな発見
+Their rarest find	一番レアな発見
+New potato: {0}!	新しいじゃがいも：{0}！
+NEW POTATO DISCOVERED	新しいじゃがいもを発見
+Learn more	詳しく見る
+Keep peeling	皮むきを続ける
+{0}, live	{0}・ライブ
+It's in here somewhere	このどこかにある
+Take the broom	ほうきを取る
+And get out of here	そしてここから出る
+Click! Click! Run!	クリック！クリック！逃げろ！
+Tap! Tap! Run!	タップ！タップ！逃げろ！
+Here's what's new in 4.1. Thanks for playing!	4.1の新機能です。遊んでくれてありがとう！
+TaterNinja is called TaterSlice now, and it has its own leaderboard.	TaterNinjaはTaterSliceという名前になり、専用のランキングもできました。
+Your photo on the leaderboards	ランキングにあなたの写真
+Everyone's profile photo shows next to their name on the leaderboards now.	ランキングで、みんなのプロフィール写真が名前の横に出るようになりました。
+Portfolios got redone	ポートフォリオを作り直しました
+Your rank on every board (tap one to see that board), your rarest find, every achievement, and on someone else's you can see how your numbers stack up against theirs.	各ランキングでの順位（タップでそのランキングへ）、一番レアな発見、すべての実績。ほかの人のものでは、自分の数字と比べられます。
+Finding a new potato	新しいじゃがいもを見つける
+Find a new potato after a long time without one and it's a big moment now.	しばらくぶりに新しいじゃがいもを見つけると、大きな瞬間になります。
+Always the newest version	いつも最新バージョン
+The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	ウェブサイトは常に最新バージョンを読み込み、遊んでいる間にアップデートが出たら知らせてくれます。
+Everything you had before is still there. Thanks for playing.	前に持っていたものはすべてそのままです。遊んでくれてありがとう。

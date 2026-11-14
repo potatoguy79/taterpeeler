@@ -11,6 +11,10 @@
 #     anything else     a name or a line of text, in big letters
 #     an empty line     a gap
 #   📝  Lines starting with # are notes like these and don't show up.
+#   📸  To link a name to their Instagram, put @ and their username right after the name:
+#            Henry Lopez @henrylopez
+#            Henry Lopez @henrylopez, Diego Gutteriez @diego.g, Johnathan Avitia
+#        In the credits the name shows underlined, and tapping it opens their Instagram.
 #
 #   👉👉👉  THE CREDITS START HERE  👇
 
@@ -48,3 +52,9 @@ Henry Lopez, Johnathan Avitia, Diego Gutteriez
 
 [Feature and bug reports]
 Daniel Neggrete, Daniel Lopez, Johnathan Avitia, Ricardo Cabrales and others
+
+[Potato with mouth and eyes idea]
+Julio 
+
+[Baked Potato Idea]
+Diego Gutteriez

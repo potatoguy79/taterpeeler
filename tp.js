@@ -414,6 +414,7 @@
     music.src = TRACKS[t];
     return true;
   }
+  const tvVids = [];   /* 4.0: TaterTV's videos */
   const loops = {};
   function ensureAudio() {
     if (actx) return;
@@ -670,14 +671,14 @@
         f = filePtrs[n] = { ptr: p, size: d.length };
       }
       views();
-      if (!f) { if (/^(lang_|font_|candle|disco|turkey|credits_roll|potato_l1|tc_)/.test(n)) lazyFile(n); if (sp) i32[sp >> 2] = 0; return 0; }
+      if (!f) { if (/^(lang_|font_|candle|disco|turkey|credits_roll|potato_l1|tc_|tv_)/.test(n)) lazyFile(n); if (sp) i32[sp >> 2] = 0; return 0; }
       if (sp) i32[sp >> 2] = f.size;
       return f.ptr;
     },
     plat_texture: (np, wp, hp, flags) => {
       const n = str(np); let im = images[n];
       if (!im && SHARP[n] && images[SHARP[n]]) im = images[SHARP[n]];   /* the sharp one isn't here yet: start on the 1024 */
-      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|ta_|tc_|fry_tut|share_)/.test(n)) lazyImage(n); return 0; }
+      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|ta_|tc_|tv_|fry_tut|share_)/.test(n)) lazyImage(n); return 0; }
       const t = gl.createTexture();
       if (SHARP[n] && !images[n]) sharpWait.push([n, t, flags]);
       gl.bindTexture(gl.TEXTURE_2D, t);
@@ -808,6 +809,54 @@
       const t = str(p);
       const old = () => { const a = document.createElement('textarea'); a.value = t; a.style.position = 'fixed'; a.style.opacity = '0'; document.body.appendChild(a); a.select(); try { document.execCommand('copy'); } catch (e) {} a.remove(); };
       try { if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(t).catch(old); else old(); } catch (e) { old(); }
+    },
+    /* 4.0: a little text kept apart from the save (before linking to someone else's account) */
+    plat_keep: (kp, vp) => { try { const k = 'taterpeeler.keep.' + str(kp), v = str(vp); if (v) localStorage.setItem(k, v); else localStorage.removeItem(k); } catch (e) {} },
+    plat_kept: kp => {
+      let v = null; try { v = localStorage.getItem('taterpeeler.keep.' + str(kp)); } catch (e) {}
+      if (!v) return 0;
+      const b = te.encode(v), p = ex.tp_net_buf(b.length + 1); views(); if (!p) return 0;
+      u8.set(b, p); u8[p + b.length] = 0; return p;
+    },
+    /* 4.0: TaterTV's videos: a <video> each, its picture copied into a texture when it moves on */
+    plat_video_open: p => {
+      try {
+        const v = document.createElement('video');
+        v.src = str(p); v.playsInline = true; v.setAttribute('playsinline', ''); v.preload = 'auto'; v.crossOrigin = 'anonymous';
+        const id = tvVids.length; tvVids.push({ v, tex: 0, t: -1 });
+        v.play().catch(() => {});
+        return id;
+      } catch (e) { return -1; }
+    },
+    plat_video_ctl: (id, cmd, val) => {
+      const o = tvVids[id]; if (!o) return;
+      const v = o.v;
+      if (cmd === 0) v.play().catch(() => {});
+      else if (cmd === 1) v.pause();
+      else if (cmd === 2) { try { v.currentTime = val; } catch (e) {} }
+      else if (cmd === 3) v.volume = Math.max(0, Math.min(1, val));
+      else if (cmd === 4) { v.pause(); v.removeAttribute('src'); try { v.load(); } catch (e) {} if (o.tex) { gl.deleteTexture(objs.tex[o.tex]); objs.tex[o.tex] = null; } tvVids[id] = null; }
+    },
+    plat_video_info: (id, what) => {
+      const o = tvVids[id]; if (!o) return 0;
+      const v = o.v;
+      return what === 0 ? v.currentTime : what === 1 ? (isFinite(v.duration) ? v.duration : 0) : what === 2 ? (v.paused ? 0 : 1) : what === 3 ? (v.ended ? 1 : 0) : (v.readyState >= 2 ? 1 : 0);
+    },
+    plat_video_frame: (id, wp, hp) => {
+      const o = tvVids[id]; if (!o || o.v.readyState < 2 || !o.v.videoWidth) return 0;
+      if (!o.tex) {
+        const t = gl.createTexture(); gl.bindTexture(gl.TEXTURE_2D, t);
+        gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR); gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+        gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE); gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+        o.tex = add(objs.tex, t); o.t = -1;
+      }
+      if (o.v.currentTime !== o.t) {
+        gl.bindTexture(gl.TEXTURE_2D, objs.tex[o.tex]);
+        gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, false); gl.pixelStorei(gl.UNPACK_PREMULTIPLY_ALPHA_WEBGL, false);
+        try { gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGB, gl.RGB, gl.UNSIGNED_BYTE, o.v); o.t = o.v.currentTime; } catch (e) {}
+      }
+      views(); if (wp) i32[wp >> 2] = o.v.videoWidth; if (hp) i32[hp >> 2] = o.v.videoHeight;
+      return o.tex;
     },
     plat_save_image: (np, sp) => {   /* 4.0: Share: the QR code, downloaded */
       const a = document.createElement('a'); a.href = 'data/' + str(np); a.download = str(sp);

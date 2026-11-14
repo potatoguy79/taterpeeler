@@ -652,7 +652,7 @@ The bouncing logo, right now. Tap anywhere to stop it	Прыгающий лог�
 Start	Включить
 That photo couldn't be opened. Try a JPG or PNG photo	Не получилось открыть это фото. Попробуй фото в JPG или PNG
 potatoes peeled. The fry station is open.	картошек почищено. Фритюрница открыта.
-potatoes peeled. TaterNinja is open.	картошек почищено. TaterNinja открыт.
+potatoes peeled. TaterSlice is open.	картошек почищено. TaterSlice открыт.
 potatoes peeled. TaterCorner is open.	картошек почищено. TaterCorner открыт.
 About {0} kg of potatoes	Около {0} кг картошки
 {0} hour of peeling	{0} час чистки
@@ -705,16 +705,16 @@ The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	К
 Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	До 30 ноября будет уютная кухня на День благодарения с индейкой в духовке, и ищи картошку-индейку. Не отмечаешь? Выключи всё в Настройках.
 Happy Thanksgiving!	С Днём благодарения!
 Look out for the Turkey Potato until November 30	Ищи картошку-индейку до 30 ноября
-Slice 50 potatoes in one game of TaterNinja	Разрежь 50 картофелин за одну игру в TaterNinja
+Slice 50 potatoes in one game of TaterSlice	Разрежь 50 картофелин за одну игру в TaterSlice
 Slice them	Режь их
-Peel {0} more potato to open TaterNinja	Почисти ещё {0} картофелину, чтобы открыть TaterNinja
-Peel {0} more potatoes to open TaterNinja	Почисти ещё {0} картофелин, чтобы открыть TaterNinja
+Peel {0} more potato to open TaterSlice	Почисти ещё {0} картофелину, чтобы открыть TaterSlice
+Peel {0} more potatoes to open TaterSlice	Почисти ещё {0} картофелин, чтобы открыть TaterSlice
 {0} in one swipe!	{0} одним взмахом!
 Swipe to slice. Don't slice the mouldy ones	Проведи пальцем, чтобы резать. Не режь заплесневелые
 Game over	Игра окончена
 {0} sliced	Разрезано: {0}
-Peel {0} more potatoes to open TaterNinja#few	Почисти ещё {0} картофелины, чтобы открыть TaterNinja
-Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Почисти 200 картофелин, и откроется TaterNinja. Картошку подбрасывают, а ты режешь её ножом для фри. Разрежь несколько одним взмахом, чтобы получить бонус, но не режь заплесневелые: жизней всего три.
+Peel {0} more potatoes to open TaterSlice#few	Почисти ещё {0} картофелины, чтобы открыть TaterSlice
+Peel 200 potatoes and TaterSlice opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Почисти 200 картофелин, и откроется TaterSlice. Картошку подбрасывают, а ты режешь её ножом для фри. Разрежь несколько одним взмахом, чтобы получить бонус, но не режь заплесневелые: жизней всего три.
 Cheese	Сыр
 Chili	Чили
 Bacon	Бекон
@@ -1196,3 +1196,220 @@ https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.git
 Keeping an eye on you	Keeping an eye on you
 It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.
 What's new in {0}	Что нового в {0}
+Fry dump	Лоток для картошки
+Bags	Пакеты
+Till	Касса
+Security camera	Камера наблюдения
+Drive-thru window	Окно выдачи
+Bacon bits	Кусочки бекона
+Garlic parmesan	Пармезан с чесноком
+BBQ sauce	Соус барбекю
+Spilled fries	Рассыпанная картошка
+TV	ТВ
+TV remote	Пульт от ТВ
+Hold on the sink to scrub it	Зажми на раковине, чтобы помыть
+In the bag: {0} food, {1} sauces. Hand it out at the window	В пакете: еды {0}, соусов {1}. Отдай его в окно
+The camera on the lane. If someone drives off without paying, report their plate here	Камера на полосе. Если кто-то уедет, не заплатив, сообщи здесь его номер
+Paying...	Оплата...
+They pay here when you hand the food out	Здесь платят, когда ты отдаёшь еду
+You've got the broom. Sweep up the fries	Метла у тебя. Подмети картошку
+The supply closet. Nothing you need in there right now	Подсобка. Сейчас тебе там ничего не нужно
+Press the red button to turn the TV on	Нажми красную кнопку, чтобы включить ТВ
+You need the broom: it's in the supply closet	Нужна метла: она в подсобке
+Hold the click and rub back and forth to sweep	Зажми кнопку мыши и води туда-сюда, чтобы подмести
+Hold and rub back and forth to sweep	Зажми и води туда-сюда, чтобы подмести
+Take them out!	Вынимай!
+Ready	Готово
+Burnt	Сгорело
+Cooking	Готовится
+Hold the click to scrub	Зажми кнопку мыши, чтобы помыть
+Hold to scrub	Зажми, чтобы помыть
+Clean: to the microwave	Чистая: в микроволновку
+{0} portion	{0} порция
+{0} portions	{0} порций
+Cold	Остыла
+In the bag: {0}	В пакете: {0}
+Hold the click and rub	Зажми кнопку мыши и води
+Hold and rub	Зажми и води
+A car is pulling up...	Подъезжает машина...
+Waiting for a car	Ждём машину
+Tater Corner	Tater Corner
+Opening up...	Открываемся...
+Click to use	Нажми, чтобы использовать
+Get the broom from the supply closet	Возьми метлу в подсобке
+Hold the click (or E) and rub to sweep	Зажми кнопку мыши (или E) и води, чтобы подмести
+Slide here to walk	Проведи здесь, чтобы идти
+Drag here to look	Тяни здесь, чтобы смотреть
+W A S D to walk, drag to look, click to use	W A S D — идти, тяни — смотреть, клик — использовать
+Giant Potato	Гигантская картошка
+Share	Поделиться
+Share with friends	Поделиться с друзьями
+The link and a QR code to send	Ссылка и QR-код, чтобы отправить
+Unlinked. Your own account and progress are back	Отвязано. Твой аккаунт и прогресс вернулись
+Unlinked. Your progress from before is back	Отвязано. Твой прежний прогресс вернулся
+Credits	Титры
+Wherever a potato gets left in the ground a long time	Там, где картошку надолго оставили в земле
+Feeding the whole street	Хватит на всю улицу
+The heaviest potato on record weighed 4.98 kg (almost 11 lb). It was grown in England in 2011.	Самая тяжёлая картошка в истории весила 4,98 кг. Её вырастили в Англии в 2011 году.
+Giant	Гигантская
+Send your friends TaterPeeler. It's free, with no ads, on phones, tablets and computers.	Отправь TaterPeeler друзьям. Бесплатно, без рекламы, на телефонах, планшетах и компьютерах.
+Point a phone's camera at it	Наведи на него камеру телефона
+Copy the link	Скопировать ссылку
+Link copied. Paste it in a message to a friend	Ссылка скопирована. Вставь её в сообщение другу
+Save the QR code	Сохранить QR-код
+Saved to your downloads	Сохранено в загрузках
+Saved to your photos	Сохранено в фото
+Videos	Видео
+Menu Board	Меню
+Today at Tater Corner	Сегодня в Tater Corner
+Weather	Погода
+Sunny and warm	Солнечно и тепло
+Scoreboard	Табло
+Your shift, live	Твоя смена в прямом эфире
+Picture, sound, about	Изображение, звук, о системе
+How to make fries	Как приготовить картошку фри
+Videos can't play on this device yet	На этом устройстве видео пока не играют
+Press OK to open	Нажми OK, чтобы открыть
+More videos are coming soon	Скоро будет больше видео
+This video can't play here yet	Это видео здесь пока не играет
+Baked potatoes	Печёный картофель
+Toppings and sauces	Добавки и соусы
+With one topping	С одной добавкой
+With two toppings	С двумя добавками
+Cheese, chili, bacon	Сыр, чили, бекон
+Sour cream, chives	Сметана, лук
+Salt, Cajun, garlic parm	Соль, каджун, пармезан с чесноком
+Ketchup, ranch, BBQ	Кетчуп, ранч, барбекю
++60¢ each	+60¢ за каждую
+Free	Бесплатно
+Sunny, light breeze	Солнечно, лёгкий ветер
+Sat	Сб
+Sun	Вс
+Mon	Пн
+Tue	Вт
+Wed	Ср
+Made this shift	Заработано за смену
+Cars served	Обслужено машин
+Perfect orders	Идеальные заказы
+Potatoes you've peeled	Очищено тобой картошек
+15 minutes	15 минут
+30 minutes	30 минут
+1 hour	1 час
+Brightness	Яркость
+Volume	Громкость
+Sleep timer	Таймер сна
+TaterTV OS 1.0  ·  Made by Andres Campos	TaterTV OS 1.0  ·  Сделал Andres Campos
+Mute	Без звука
+Put it down	Положить
+Arrows, Enter, Backspace work too	Стрелки, Enter и Backspace тоже работают
+Co-owner	Совладелец
+{0} portions#few	{0} порции
+Your shift at Tater Corner	Твоя смена в Tater Corner
+Sweep up the fries: rub back and forth	Подмети картошку: води туда-сюда
+All clean. Back to work!	Всё чисто. За работу!
+Supply closet	Подсобка
+Get the broom	Возьми метлу
+Tap the broom	Нажми на метлу
+Grab the broom	Хватай метлу
+RUN!	БЕГИ!
+...it was just the cat.	...это была просто кошка.
+Tap as fast as you can	Жми как можно быстрее
+Oops! Fries all over the floor. Get the broom from the supply closet	Ой! Картошка по всему полу. Возьми метлу в подсобке
+You're in! You're a beta tester now	Ты в деле! Теперь ты бета-тестер
+That code works, but it doesn't open anything yet	Код подходит, но пока ничего не открывает
+That code isn't right	Это неверный код
+Check the 4 numbers and try again. Codes come from Andres.	Проверь 4 цифры и попробуй ещё раз. Коды даёт Andres.
+That's a lot of wrong codes. Wait an hour, then try again.	Слишком много неверных кодов. Подожди час и попробуй снова.
+Beta codes are 4 numbers	Бета-коды состоят из 4 цифр
+Your beta code (4 numbers)	Твой бета-код (4 цифры)
+Try new game modes and big features before everyone else, and tell me what's broken. You need a 4-digit code from Andres.	Пробуй новые режимы и большие функции раньше всех и рассказывай мне, что сломано. Нужен 4-значный код от Andres.
+Be a beta tester	Стань бета-тестером
+Your code: {0}	Твой код: {0}
+What you can test	Что можно протестировать
+Out for everyone now	Уже доступно всем
+Not out yet: only testers can play it	Ещё не вышло: играть могут только тестеры
+Secret: only testers can see it	Секрет: видят только тестеры
+Nothing to test right now. Check again later	Сейчас нечего тестировать. Загляни позже
+Use a different code	Другой код
+Leave the program	Выйти из программы
+You left the beta tester program	Ты вышел из программы бета-тестеров
+Checking...	Проверяем...
+Enter a code	Введи код
+You're signed in as the owner, so everything is open for you. Make codes in Admin > Beta.	Ты вошёл как владелец, поэтому тебе открыто всё. Коды создаются в Админ > Бета.
+Beta tester program	Программа бета-тестеров
+Beta test	Бета-тест
+{0} is coming soon	{0} скоро
+Online (beta)	Онлайн (бета)
+tp_beta.inc	tp_beta.inc
+Try new game modes before everyone else	Пробуй новые режимы раньше всех
+On	Вкл
+Floury	Рассыпчатый
+All-rounder	Универсальный
+Waxy	Плотный
+Sweet	Сладкий
+One of a kind	Единственный в своём роде
+Fluffy inside: best baked, mashed or as fries	Рассыпчатый внутри: лучше всего запечь, сделать пюре или фри
+Good at almost anything	Подходит почти для всего
+Firm and creamy: holds its shape boiled or in salads	Плотный и сливочный: держит форму при варке и в салатах
+Sweet and soft when it's cooked	Сладкий и мягкий после готовки
+Not for eating	Не для еды
+White	Белая
+Grey	Серая
+Cream	Кремовая
+Pale	Бледная
+Dark red	Тёмно-красная
+Brown	Коричневая
+Tan	Светло-коричневая
+Orange	Оранжевая
+Green	Зелёная
+Blue	Синяя
+Purple	Фиолетовая
+Pink	Розовая
+Knobbly	Шишковатая
+Long and curved	Длинная и изогнутая
+Long and thin (a fingerling)	Длинная и тонкая
+Long	Длинная
+Round	Круглая
+Oval	Овальная
+Huge	Огромная
+Big	Большая
+Medium	Средняя
+Small	Маленькая
+Tiny	Крошечная
+Turns up all the time	Попадается постоянно
+About 1 in every {0} potatoes	Примерно 1 из {0} картошек
+Very, very rare	Очень-очень редкая
+Skin	Кожура
+Inside	Мякоть
+Shape	Форма
+Size	Размер
+Texture	Текстура
+Your share	Твоя доля
+How it cooks	Как готовится
+Not on the leaderboards yet	Пока нет в таблицах лидеров
+best TaterSlice	рекорд TaterSlice
+best TaterCorner shift	лучшая смена в TaterCorner
+You: {0}	Вы: {0}
+Your rarest find	Ваша самая редкая находка
+Their rarest find	Самая редкая находка
+New potato: {0}!	Новая картошка: {0}!
+NEW POTATO DISCOVERED	НОВАЯ КАРТОШКА НАЙДЕНА
+Learn more	Подробнее
+Keep peeling	Чистить дальше
+{0}, live	{0}, в прямом эфире
+It's in here somewhere	Она где-то здесь
+Take the broom	Взять метлу
+And get out of here	И бежать отсюда
+Click! Click! Run!	Жми! Жми! Беги!
+Tap! Tap! Run!	Тапай! Тапай! Беги!
+Here's what's new in 4.1. Thanks for playing!	Вот что нового в 4.1. Спасибо, что играете!
+TaterNinja is called TaterSlice now, and it has its own leaderboard.	TaterNinja теперь называется TaterSlice, и у него своя таблица лидеров.
+Your photo on the leaderboards	Ваше фото в таблицах лидеров
+Everyone's profile photo shows next to their name on the leaderboards now.	Теперь фото профиля каждого показывается рядом с именем в таблицах лидеров.
+Portfolios got redone	Портфолио переделаны
+Your rank on every board (tap one to see that board), your rarest find, every achievement, and on someone else's you can see how your numbers stack up against theirs.	Ваше место в каждой таблице (нажмите, чтобы открыть её), самая редкая находка, все достижения, а у других видно, как ваши цифры выглядят рядом с их.
+Finding a new potato	Новая картошка
+Find a new potato after a long time without one and it's a big moment now.	Найти новую картошку после долгого перерыва — теперь это целое событие.
+Always the newest version	Всегда новейшая версия
+The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Сайт теперь всегда загружает новейшую версию, а если во время игры выйдет обновление, он скажет.
+Everything you had before is still there. Thanks for playing.	Всё, что у вас было, на месте. Спасибо, что играете.

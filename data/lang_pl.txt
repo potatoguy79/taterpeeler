@@ -652,7 +652,7 @@ The bouncing logo, right now. Tap anywhere to stop it	Odbijające się logo, od 
 Start	Włącz
 That photo couldn't be opened. Try a JPG or PNG photo	Nie udało się otworzyć tego zdjęcia. Spróbuj zdjęcia JPG albo PNG
 potatoes peeled. The fry station is open.	obranych ziemniaków. Smażalnia jest otwarta.
-potatoes peeled. TaterNinja is open.	obranych ziemniaków. TaterNinja jest otwarte.
+potatoes peeled. TaterSlice is open.	obranych ziemniaków. TaterSlice jest otwarte.
 potatoes peeled. TaterCorner is open.	obranych ziemniaków. TaterCorner jest otwarte.
 About {0} kg of potatoes	Około {0} kg ziemniaków
 {0} hour of peeling	{0} godzina obierania
@@ -705,16 +705,16 @@ The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	Zi
 Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	Do 30 listopada jest przytulna kuchnia na Święto Dziękczynienia z indykiem w piekarniku, i wypatruj Ziemniaka Indyka. Nie obchodzisz go? Wyłącz wszystko w Ustawieniach.
 Happy Thanksgiving!	Szczęśliwego Święta Dziękczynienia!
 Look out for the Turkey Potato until November 30	Wypatruj Ziemniaka Indyka do 30 listopada
-Slice 50 potatoes in one game of TaterNinja	Pokrój 50 ziemniaków w jednej grze TaterNinja
+Slice 50 potatoes in one game of TaterSlice	Pokrój 50 ziemniaków w jednej grze TaterSlice
 Slice them	Tnij je
-Peel {0} more potato to open TaterNinja	Obierz jeszcze {0} ziemniaka, żeby otworzyć TaterNinja
-Peel {0} more potatoes to open TaterNinja	Obierz jeszcze {0} ziemniaków, żeby otworzyć TaterNinja
+Peel {0} more potato to open TaterSlice	Obierz jeszcze {0} ziemniaka, żeby otworzyć TaterSlice
+Peel {0} more potatoes to open TaterSlice	Obierz jeszcze {0} ziemniaków, żeby otworzyć TaterSlice
 {0} in one swipe!	{0} jednym cięciem!
 Swipe to slice. Don't slice the mouldy ones	Przesuń, żeby ciąć. Nie tnij spleśniałych
 Game over	Koniec gry
 {0} sliced	Pokrojone: {0}
-Peel {0} more potatoes to open TaterNinja#few	Obierz jeszcze {0} ziemniaki, żeby otworzyć TaterNinja
-Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Obierz 200 ziemniaków, a otworzy się TaterNinja. Ziemniaki są podrzucane, a ty kroisz je nożem do frytek. Pokrój kilka jednym cięciem, żeby dostać bonus, ale nie tnij spleśniałych: masz tylko trzy życia.
+Peel {0} more potatoes to open TaterSlice#few	Obierz jeszcze {0} ziemniaki, żeby otworzyć TaterSlice
+Peel 200 potatoes and TaterSlice opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Obierz 200 ziemniaków, a otworzy się TaterSlice. Ziemniaki są podrzucane, a ty kroisz je nożem do frytek. Pokrój kilka jednym cięciem, żeby dostać bonus, ale nie tnij spleśniałych: masz tylko trzy życia.
 Cheese	Ser
 Chili	Chili
 Bacon	Bekon
@@ -1196,3 +1196,220 @@ https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.git
 Keeping an eye on you	Keeping an eye on you
 It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.
 What's new in {0}	Co nowego w {0}
+Fry dump	Ociekacz na frytki
+Bags	Torby
+Till	Kasa
+Security camera	Kamera
+Drive-thru window	Okienko drive-thru
+Bacon bits	Kawałki bekonu
+Garlic parmesan	Parmezan z czosnkiem
+BBQ sauce	Sos BBQ
+Spilled fries	Rozsypane frytki
+TV	TV
+TV remote	Pilot do TV
+Hold on the sink to scrub it	Przytrzymaj zlew, żeby szorować
+In the bag: {0} food, {1} sauces. Hand it out at the window	W torbie: jedzenie {0}, sosy {1}. Podaj ją w okienku
+The camera on the lane. If someone drives off without paying, report their plate here	Kamera na pasie. Jeśli ktoś odjedzie bez płacenia, zgłoś tu jego tablicę
+Paying...	Płaci...
+They pay here when you hand the food out	Tu płacą, gdy podajesz jedzenie
+You've got the broom. Sweep up the fries	Masz miotłę. Zamieć frytki
+The supply closet. Nothing you need in there right now	Schowek. Teraz nic stamtąd nie potrzebujesz
+Press the red button to turn the TV on	Naciśnij czerwony przycisk, żeby włączyć TV
+You need the broom: it's in the supply closet	Potrzebujesz miotły: jest w schowku
+Hold the click and rub back and forth to sweep	Przytrzymaj klik i pocieraj tam i z powrotem, żeby zamiatać
+Hold and rub back and forth to sweep	Przytrzymaj i pocieraj tam i z powrotem, żeby zamiatać
+Take them out!	Wyjmij je!
+Ready	Gotowe
+Burnt	Spalone
+Cooking	Gotuje się
+Hold the click to scrub	Przytrzymaj klik, żeby szorować
+Hold to scrub	Przytrzymaj, żeby szorować
+Clean: to the microwave	Czyste: do mikrofali
+{0} portion	{0} porcja
+{0} portions	{0} porcji
+Cold	Zimne
+In the bag: {0}	W torbie: {0}
+Hold the click and rub	Przytrzymaj klik i pocieraj
+Hold and rub	Przytrzymaj i pocieraj
+A car is pulling up...	Podjeżdża samochód...
+Waiting for a car	Czekamy na samochód
+Tater Corner	Tater Corner
+Opening up...	Otwieramy...
+Click to use	Kliknij, żeby użyć
+Get the broom from the supply closet	Weź miotłę ze schowka
+Hold the click (or E) and rub to sweep	Przytrzymaj klik (lub E) i pocieraj, żeby zamiatać
+Slide here to walk	Przesuń tutaj, żeby iść
+Drag here to look	Przeciągnij tutaj, żeby patrzeć
+W A S D to walk, drag to look, click to use	W A S D — chodzenie, przeciąganie — patrzenie, klik — użycie
+Giant Potato	Gigantyczny ziemniak
+Share	Udostępnij
+Share with friends	Udostępnij znajomym
+The link and a QR code to send	Link i kod QR do wysłania
+Unlinked. Your own account and progress are back	Odłączono. Twoje konto i postępy wróciły
+Unlinked. Your progress from before is back	Odłączono. Twoje wcześniejsze postępy wróciły
+Credits	Napisy końcowe
+Wherever a potato gets left in the ground a long time	Tam, gdzie ziemniak długo został w ziemi
+Feeding the whole street	Wystarczy dla całej ulicy
+The heaviest potato on record weighed 4.98 kg (almost 11 lb). It was grown in England in 2011.	Najcięższy zważony ziemniak miał 4,98 kg. Wyhodowano go w Anglii w 2011 roku.
+Giant	Gigantyczny
+Send your friends TaterPeeler. It's free, with no ads, on phones, tablets and computers.	Wyślij znajomym TaterPeeler. Za darmo, bez reklam, na telefony, tablety i komputery.
+Point a phone's camera at it	Skieruj na niego aparat telefonu
+Copy the link	Kopiuj link
+Link copied. Paste it in a message to a friend	Skopiowano link. Wklej go w wiadomości do znajomego
+Save the QR code	Zapisz kod QR
+Saved to your downloads	Zapisano w pobranych
+Saved to your photos	Zapisano w zdjęciach
+Videos	Filmy
+Menu Board	Menu
+Today at Tater Corner	Dziś w Tater Corner
+Weather	Pogoda
+Sunny and warm	Słonecznie i ciepło
+Scoreboard	Tablica wyników
+Your shift, live	Twoja zmiana na żywo
+Picture, sound, about	Obraz, dźwięk, informacje
+How to make fries	Jak zrobić frytki
+Videos can't play on this device yet	Filmy nie działają jeszcze na tym urządzeniu
+Press OK to open	Naciśnij OK, żeby otworzyć
+More videos are coming soon	Wkrótce więcej filmów
+This video can't play here yet	Ten film nie działa tu jeszcze
+Baked potatoes	Ziemniaki pieczone
+Toppings and sauces	Dodatki i sosy
+With one topping	Z jednym dodatkiem
+With two toppings	Z dwoma dodatkami
+Cheese, chili, bacon	Ser, chili, bekon
+Sour cream, chives	Śmietana, szczypiorek
+Salt, Cajun, garlic parm	Sól, cajun, parmezan z czosnkiem
+Ketchup, ranch, BBQ	Keczup, ranch, BBQ
++60¢ each	+60¢ za każdy
+Free	Za darmo
+Sunny, light breeze	Słonecznie, lekki wiatr
+Sat	Sob
+Sun	Nd
+Mon	Pon
+Tue	Wt
+Wed	Śr
+Made this shift	Zarobione na tej zmianie
+Cars served	Obsłużone samochody
+Perfect orders	Idealne zamówienia
+Potatoes you've peeled	Obrane przez ciebie ziemniaki
+15 minutes	15 minut
+30 minutes	30 minut
+1 hour	1 godzina
+Brightness	Jasność
+Volume	Głośność
+Sleep timer	Wyłącznik czasowy
+TaterTV OS 1.0  ·  Made by Andres Campos	TaterTV OS 1.0  ·  Zrobił Andres Campos
+Mute	Wycisz
+Put it down	Odłóż
+Arrows, Enter, Backspace work too	Strzałki, Enter i Backspace też działają
+Co-owner	Współwłaściciel
+{0} portions#few	{0} porcje
+Your shift at Tater Corner	Twoja zmiana w Tater Corner
+Sweep up the fries: rub back and forth	Zamieć frytki: pocieraj tam i z powrotem
+All clean. Back to work!	Wszystko czyste. Wracaj do pracy!
+Supply closet	Schowek
+Get the broom	Weź miotłę
+Tap the broom	Dotknij miotły
+Grab the broom	Chwyć miotłę
+RUN!	UCIEKAJ!
+...it was just the cat.	...to był tylko kot.
+Tap as fast as you can	Stukaj jak najszybciej
+Oops! Fries all over the floor. Get the broom from the supply closet	Ups! Frytki na całej podłodze. Weź miotłę ze schowka
+You're in! You're a beta tester now	Jesteś w środku! Teraz jesteś beta testerem
+That code works, but it doesn't open anything yet	Ten kod działa, ale jeszcze nic nie otwiera
+That code isn't right	To nie jest dobry kod
+Check the 4 numbers and try again. Codes come from Andres.	Sprawdź 4 cyfry i spróbuj jeszcze raz. Kody daje Andres.
+That's a lot of wrong codes. Wait an hour, then try again.	Dużo złych kodów. Poczekaj godzinę i spróbuj ponownie.
+Beta codes are 4 numbers	Kody beta mają 4 cyfry
+Your beta code (4 numbers)	Twój kod beta (4 cyfry)
+Try new game modes and big features before everyone else, and tell me what's broken. You need a 4-digit code from Andres.	Wypróbuj nowe tryby i duże funkcje przed wszystkimi i powiedz mi, co nie działa. Potrzebujesz 4-cyfrowego kodu od Andresa.
+Be a beta tester	Zostań beta testerem
+Your code: {0}	Twój kod: {0}
+What you can test	Co możesz testować
+Out for everyone now	Już dostępne dla wszystkich
+Not out yet: only testers can play it	Jeszcze nie wyszło: grać mogą tylko testerzy
+Secret: only testers can see it	Sekret: widzą to tylko testerzy
+Nothing to test right now. Check again later	Na razie nic do testowania. Zajrzyj później
+Use a different code	Użyj innego kodu
+Leave the program	Opuść program
+You left the beta tester program	Opuściłeś program beta testerów
+Checking...	Sprawdzam...
+Enter a code	Wpisz kod
+You're signed in as the owner, so everything is open for you. Make codes in Admin > Beta.	Jesteś zalogowany jako właściciel, więc wszystko jest dla ciebie otwarte. Kody tworzysz w Admin > Beta.
+Beta tester program	Program beta testerów
+Beta test	Test beta
+{0} is coming soon	{0} już wkrótce
+Online (beta)	Online (beta)
+tp_beta.inc	tp_beta.inc
+Try new game modes before everyone else	Wypróbuj nowe tryby przed wszystkimi
+On	Wł.
+Floury	Mączysty
+All-rounder	Uniwersalny
+Waxy	Sałatkowy
+Sweet	Słodki
+One of a kind	Jedyny w swoim rodzaju
+Fluffy inside: best baked, mashed or as fries	Puszysty w środku: najlepszy pieczony, jako puree lub frytki
+Good at almost anything	Dobry prawie do wszystkiego
+Firm and creamy: holds its shape boiled or in salads	Zwarty i kremowy: nie rozpada się po ugotowaniu ani w sałatce
+Sweet and soft when it's cooked	Słodki i miękki po ugotowaniu
+Not for eating	Nie do jedzenia
+White	Biała
+Grey	Szara
+Cream	Kremowa
+Pale	Blada
+Dark red	Ciemnoczerwona
+Brown	Brązowa
+Tan	Jasnobrązowa
+Orange	Pomarańczowa
+Green	Zielona
+Blue	Niebieska
+Purple	Fioletowa
+Pink	Różowa
+Knobbly	Guzowata
+Long and curved	Długa i wygięta
+Long and thin (a fingerling)	Długa i cienka
+Long	Długa
+Round	Okrągła
+Oval	Owalna
+Huge	Ogromna
+Big	Duża
+Medium	Średnia
+Small	Mała
+Tiny	Malutka
+Turns up all the time	Trafia się cały czas
+About 1 in every {0} potatoes	Mniej więcej 1 na {0} ziemniaków
+Very, very rare	Bardzo, bardzo rzadki
+Skin	Skórka
+Inside	Miąższ
+Shape	Kształt
+Size	Wielkość
+Texture	Konsystencja
+Your share	Twój udział
+How it cooks	Jak się gotuje
+Not on the leaderboards yet	Jeszcze nie ma na tablicach wyników
+best TaterSlice	najlepszy TaterSlice
+best TaterCorner shift	najlepsza zmiana w TaterCorner
+You: {0}	Ty: {0}
+Your rarest find	Twoje najrzadsze znalezisko
+Their rarest find	Najrzadsze znalezisko
+New potato: {0}!	Nowy ziemniak: {0}!
+NEW POTATO DISCOVERED	ODKRYTO NOWEGO ZIEMNIAKA
+Learn more	Dowiedz się więcej
+Keep peeling	Obieraj dalej
+{0}, live	{0}, na żywo
+It's in here somewhere	Jest tu gdzieś
+Take the broom	Weź miotłę
+And get out of here	I uciekaj stąd
+Click! Click! Run!	Klikaj! Klikaj! Uciekaj!
+Tap! Tap! Run!	Stukaj! Stukaj! Uciekaj!
+Here's what's new in 4.1. Thanks for playing!	Oto co nowego w 4.1. Dzięki za grę!
+TaterNinja is called TaterSlice now, and it has its own leaderboard.	TaterNinja nazywa się teraz TaterSlice i ma własną tablicę wyników.
+Your photo on the leaderboards	Twoje zdjęcie na tablicach wyników
+Everyone's profile photo shows next to their name on the leaderboards now.	Zdjęcie profilowe każdego jest teraz obok jego nazwy na tablicach wyników.
+Portfolios got redone	Portfolio od nowa
+Your rank on every board (tap one to see that board), your rarest find, every achievement, and on someone else's you can see how your numbers stack up against theirs.	Twoje miejsce na każdej tablicy (stuknij, żeby ją zobaczyć), najrzadsze znalezisko, wszystkie osiągnięcia, a u kogoś innego widzisz, jak twoje wyniki wypadają przy jego.
+Finding a new potato	Nowy ziemniak
+Find a new potato after a long time without one and it's a big moment now.	Znajdź nowego ziemniaka po długiej przerwie, a teraz to wielka chwila.
+Always the newest version	Zawsze najnowsza wersja
+The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Strona zawsze wczytuje teraz najnowszą wersję, a jeśli w trakcie gry wyjdzie aktualizacja, da ci znać.
+Everything you had before is still there. Thanks for playing.	Wszystko, co miałeś, nadal jest. Dzięki za grę.

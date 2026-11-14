@@ -639,7 +639,7 @@ The bouncing logo, right now. Tap anywhere to stop it	The bouncin' logo, right n
 Start	Start
 That photo couldn't be opened. Try a JPG or PNG photo	That paintin' couldn't be opened. Try a JPG or PNG one
 potatoes peeled. The fry station is open.	spuds skinned. The fry galley be open.
-potatoes peeled. TaterNinja is open.	spuds skinned. TaterNinja be open.
+potatoes peeled. TaterSlice is open.	spuds skinned. TaterSlice be open.
 potatoes peeled. TaterCorner is open.	spuds skinned. TaterCorner be open.
 About {0} kg of potatoes	About {0} kg o' spuds
 {0} hour of peeling	{0} hour o' skinnin'
@@ -691,15 +691,15 @@ The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	Th
 Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	Till November 30 there be a cozy Thanksgivin' galley with a turkey in th' oven, an' keep a lookout fer th' Turkey Spud. Don't celebrate it? Turn it all off in Settings.
 Happy Thanksgiving!	Happy Thanksgivin'!
 Look out for the Turkey Potato until November 30	Keep a lookout fer th' Turkey Spud till November 30
-Slice 50 potatoes in one game of TaterNinja	Slice 50 spuds in one game o' TaterNinja
+Slice 50 potatoes in one game of TaterSlice	Slice 50 spuds in one game o' TaterSlice
 Slice them	Slice 'em
-Peel {0} more potato to open TaterNinja	Peel {0} more spud to open TaterNinja
-Peel {0} more potatoes to open TaterNinja	Peel {0} more spuds to open TaterNinja
+Peel {0} more potato to open TaterSlice	Peel {0} more spud to open TaterSlice
+Peel {0} more potatoes to open TaterSlice	Peel {0} more spuds to open TaterSlice
 {0} in one swipe!	{0} in one swipe!
 Swipe to slice. Don't slice the mouldy ones	Swipe to slice. Don't slice th' mouldy ones
 Game over	Game over
 {0} sliced	{0} sliced
-Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Peel 200 spuds an' TaterNinja opens. Spuds get tossed up an' ye slice 'em with yer fry blade. Slice a few in one swipe fer a bonus, but don't slice th' mouldy ones: ye only get three lives.
+Peel 200 potatoes and TaterSlice opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	Peel 200 spuds an' TaterSlice opens. Spuds get tossed up an' ye slice 'em with yer fry blade. Slice a few in one swipe fer a bonus, but don't slice th' mouldy ones: ye only get three lives.
 Cheese	Cheese
 Chili	Chili
 Bacon	Bacon
@@ -1178,3 +1178,219 @@ https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.git
 Keeping an eye on you	Keeping an eye on you
 It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.
 What's new in {0}	What be new in {0}
+Fry dump	Fry drippin' tray
+Bags	Sacks
+Till	Coin chest
+Security camera	Spyglass camera
+Drive-thru window	Drive-thru porthole
+Bacon bits	Bacon bits, arr
+Garlic parmesan	Garlic parmesan
+BBQ sauce	BBQ grog
+Spilled fries	Spilled fries, blast it
+TV	Picture box
+TV remote	Picture box wand
+Hold on the sink to scrub it	Hold on the sink to scrub it, matey
+In the bag: {0} food, {1} sauces. Hand it out at the window	In the sack: {0} vittles, {1} sauces. Hand it out the porthole
+The camera on the lane. If someone drives off without paying, report their plate here	The spyglass on the lane. If a scallywag sails off without payin', report their plate here
+Paying...	Payin' up...
+They pay here when you hand the food out	They pay their doubloons here when ye hand the grub out
+You've got the broom. Sweep up the fries	Ye've got the broom. Sweep up them fries
+The supply closet. Nothing you need in there right now	The supply hold. Naught ye need in there right now
+Press the red button to turn the TV on	Press the red button to wake the picture box
+You need the broom: it's in the supply closet	Ye need the broom: it be in the supply hold
+Hold the click and rub back and forth to sweep	Hold the click an' scrub back an' forth to sweep
+Hold and rub back and forth to sweep	Hold an' scrub back an' forth to sweep
+Take them out!	Haul 'em out!
+Ready	Ready
+Burnt	Burnt to cinders
+Cooking	Cookin'
+Hold the click to scrub	Hold the click to scrub
+Hold to scrub	Hold to scrub
+Clean: to the microwave	Clean: to the micro-oven
+{0} portion	{0} portion
+{0} portions	{0} portions
+Cold	Cold as the deep
+In the bag: {0}	In the sack: {0}
+Hold the click and rub	Hold the click an' scrub
+Hold and rub	Hold an' scrub
+A car is pulling up...	A ship be pullin' up...
+Waiting for a car	Waitin' for a ship
+Tater Corner	Tater Corner
+Opening up...	Openin' up...
+Click to use	Click to use
+Get the broom from the supply closet	Fetch the broom from the supply hold
+Hold the click (or E) and rub to sweep	Hold the click (or E) an' scrub to sweep
+Slide here to walk	Slide here to walk the deck
+Drag here to look	Drag here to look about
+W A S D to walk, drag to look, click to use	W A S D to walk, drag to look, click to use
+Giant Potato	Giant Tater
+Share	Share
+Share with friends	Share with yer mateys
+The link and a QR code to send	The link an' a QR map to send
+Unlinked. Your own account and progress are back	Unlinked. Yer own account an' plunder be back
+Unlinked. Your progress from before is back	Unlinked. Yer plunder from before be back
+Credits	Credits
+Wherever a potato gets left in the ground a long time	Wherever a tater gets left in the ground a long while
+Feeding the whole street	Enough to feed the whole port
+The heaviest potato on record weighed 4.98 kg (almost 11 lb). It was grown in England in 2011.	The heaviest tater ever weighed 4.98 kg (near 11 lb). Grown in England in 2011, it was.
+Giant	Giant
+Send your friends TaterPeeler. It's free, with no ads, on phones, tablets and computers.	Send yer mateys TaterPeeler. Free as the sea, no ads, on phones, tablets an' computers.
+Point a phone's camera at it	Point a phone's spyglass at it
+Copy the link	Copy the link
+Link copied. Paste it in a message to a friend	Link copied. Paste it in a message to a matey
+Save the QR code	Save the QR map
+Saved to your downloads	Stowed in yer downloads
+Saved to your photos	Stowed in yer pictures
+Videos	Movin' pictures
+Menu Board	Bill o' fare
+Today at Tater Corner	Today at Tater Corner
+Weather	Weather
+Sunny and warm	Sunny an' warm
+Scoreboard	Scoreboard
+Your shift, live	Yer watch, live
+Picture, sound, about	Picture, sound, about
+How to make fries	How to make fries
+Videos can't play on this device yet	Movin' pictures can't play on this contraption yet
+Press OK to open	Press OK to open
+More videos are coming soon	More movin' pictures be comin' soon
+This video can't play here yet	This one can't play here yet
+Baked potatoes	Baked taters
+Toppings and sauces	Toppin's an' sauces
+With one topping	With one toppin'
+With two toppings	With two toppin's
+Cheese, chili, bacon	Cheese, chili, bacon
+Sour cream, chives	Sour cream, chives
+Salt, Cajun, garlic parm	Salt, Cajun, garlic parm
+Ketchup, ranch, BBQ	Ketchup, ranch, BBQ
++60¢ each	+60¢ each
+Free	Free
+Sunny, light breeze	Sunny, a light breeze
+Sat	Sat
+Sun	Sun
+Mon	Mon
+Tue	Tue
+Wed	Wed
+Made this shift	Plunder this watch
+Cars served	Ships served
+Perfect orders	Perfect orders
+Potatoes you've peeled	Taters ye've peeled
+15 minutes	15 minutes
+30 minutes	30 minutes
+1 hour	1 hour
+Brightness	Brightness
+Volume	Volume
+Sleep timer	Sleep timer
+TaterTV OS 1.0  ·  Made by Andres Campos	TaterTV OS 1.0  ·  Made by Andres Campos
+Mute	Hush
+Put it down	Put it down
+Arrows, Enter, Backspace work too	Arrows, Enter, Backspace work too
+Co-owner	First Mate
+Your shift at Tater Corner	Yer watch at Tater Corner
+Sweep up the fries: rub back and forth	Sweep up them fries: scrub back an' forth
+All clean. Back to work!	All shipshape. Back to work!
+Supply closet	Supply hold
+Get the broom	Fetch the broom
+Tap the broom	Tap the broom
+Grab the broom	Grab the broom
+RUN!	RUN, MATEY!
+...it was just the cat.	...'twas just the ship's cat.
+Tap as fast as you can	Tap as fast as ye can
+Oops! Fries all over the floor. Get the broom from the supply closet	Blast! Fries all over the deck. Fetch the broom from the supply hold
+You're in! You're a beta tester now	Ye're aboard! Ye be a beta tester now
+That code works, but it doesn't open anything yet	That code be good, but it opens naught yet
+That code isn't right	That code be wrong
+Check the 4 numbers and try again. Codes come from Andres.	Check the 4 numbers an' try again. Codes come from Andres.
+That's a lot of wrong codes. Wait an hour, then try again.	That be a lot o' wrong codes. Wait an hour, then try again.
+Beta codes are 4 numbers	Beta codes be 4 numbers
+Your beta code (4 numbers)	Yer beta code (4 numbers)
+Try new game modes and big features before everyone else, and tell me what's broken. You need a 4-digit code from Andres.	Try new game modes an' big features afore everyone else, an' tell me what be broken. Ye need a 4-digit code from Andres.
+Be a beta tester	Be a beta tester
+Your code: {0}	Yer code: {0}
+What you can test	What ye can test
+Out for everyone now	Out fer everyone now
+Not out yet: only testers can play it	Not out yet: only testers can play it
+Secret: only testers can see it	Secret: only testers can see it
+Nothing to test right now. Check again later	Naught to test right now. Check again later
+Use a different code	Use a different code
+Leave the program	Leave the crew
+You left the beta tester program	Ye left the beta tester crew
+Checking...	Checkin'...
+Enter a code	Enter a code
+You're signed in as the owner, so everything is open for you. Make codes in Admin > Beta.	Ye be signed in as the captain, so everything be open fer ye. Make codes in Admin > Beta.
+Beta tester program	Beta tester crew
+Beta test	Beta test
+{0} is coming soon	{0} be comin' soon
+Online (beta)	Online (beta)
+tp_beta.inc	tp_beta.inc
+Try new game modes before everyone else	Try new game modes afore everyone else
+On	On
+Floury	Floury
+All-rounder	All-rounder
+Waxy	Waxy
+Sweet	Sweet
+One of a kind	One of a kind
+Fluffy inside: best baked, mashed or as fries	Fluffy inside: best baked, mashed or as fries
+Good at almost anything	Good at near anythin'
+Firm and creamy: holds its shape boiled or in salads	Firm an' creamy: holds its shape boiled or in salads
+Sweet and soft when it's cooked	Sweet an' soft when it's cooked
+Not for eating	Not fer eatin'
+White	White
+Grey	Grey
+Cream	Cream
+Pale	Pale
+Dark red	Dark red
+Brown	Brown
+Tan	Tan
+Orange	Orange
+Green	Green
+Blue	Blue
+Purple	Purple
+Pink	Pink
+Knobbly	Knobbly
+Long and curved	Long an' curved
+Long and thin (a fingerling)	Long an' thin (a fingerling)
+Long	Long
+Round	Round
+Oval	Oval
+Huge	Huge
+Big	Big
+Medium	Medium
+Small	Small
+Tiny	Tiny
+Turns up all the time	Turns up all the time
+About 1 in every {0} potatoes	About 1 in every {0} taters
+Very, very rare	Very, very rare
+Skin	Skin
+Inside	Inside
+Shape	Shape
+Size	Size
+Texture	Texture
+Your share	Yer share
+How it cooks	How it cooks
+Not on the leaderboards yet	Not on the leaderboards yet, matey
+best TaterSlice	best TaterSlice haul
+best TaterCorner shift	best TaterCorner watch
+You: {0}	Ye: {0}
+Your rarest find	Yer rarest treasure
+Their rarest find	Their rarest treasure
+New potato: {0}!	New spud: {0}!
+NEW POTATO DISCOVERED	NEW SPUD SIGHTED
+Learn more	Tell me more
+Keep peeling	Keep peelin'
+{0}, live	{0}, live
+It's in here somewhere	It be in here somewhere
+Take the broom	Grab the broom
+And get out of here	An' get out o' here
+Click! Click! Run!	Click! Click! Run, matey!
+Tap! Tap! Run!	Tap! Tap! Run, matey!
+Here's what's new in 4.1. Thanks for playing!	Here be what's new in 4.1. Thanks fer playin'!
+TaterNinja is called TaterSlice now, and it has its own leaderboard.	TaterNinja be called TaterSlice now, an' it has its own leaderboard.
+Your photo on the leaderboards	Yer portrait on the leaderboards
+Everyone's profile photo shows next to their name on the leaderboards now.	Every sailor's portrait shows next to their name on the leaderboards now.
+Portfolios got redone	Portfolios be redone
+Your rank on every board (tap one to see that board), your rarest find, every achievement, and on someone else's you can see how your numbers stack up against theirs.	Yer rank on every board (tap one to see it), yer rarest treasure, every achievement, an' on another sailor's ye can see how yer numbers stack up against theirs.
+Finding a new potato	Findin' a new spud
+Find a new potato after a long time without one and it's a big moment now.	Find a new spud after a long dry spell an' it be a big moment now.
+Always the newest version	Always the newest version
+The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	The website always loads the newest version now, an' if an update sails in while ye play, it tells ye.
+Everything you had before is still there. Thanks for playing.	Everythin' ye had before be still there. Thanks fer playin'.

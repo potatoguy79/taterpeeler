@@ -639,7 +639,7 @@ The bouncing logo, right now. Tap anywhere to stop it	튀어 다니는 로고를
 Start	시작
 That photo couldn't be opened. Try a JPG or PNG photo	그 사진을 열 수 없어요. JPG나 PNG 사진으로 해 보세요
 potatoes peeled. The fry station is open.	개의 감자를 깎았어요. 감자튀김 코너가 열렸어요.
-potatoes peeled. TaterNinja is open.	개의 감자를 깎았어요. TaterNinja가 열렸어요.
+potatoes peeled. TaterSlice is open.	개의 감자를 깎았어요. TaterSlice가 열렸어요.
 potatoes peeled. TaterCorner is open.	개의 감자를 깎았어요. TaterCorner이 열렸어요.
 About {0} kg of potatoes	감자 약 {0}kg
 {0} hour of peeling	깎은 시간 {0}시간
@@ -691,15 +691,15 @@ The Turkey Potato, the Thanksgiving kitchen and the banner, until November 30	�
 Until November 30 there's a cozy Thanksgiving kitchen with a turkey in the oven, and watch out for the Turkey Potato. Don't celebrate it? Turn it all off in Settings.	11월 30일까지 오븐에 칠면조가 구워지는 아늑한 추수감사절 부엌이 있고, 칠면조 감자도 나와요. 기념하지 않는다면 설정에서 전부 끌 수 있어요.
 Happy Thanksgiving!	즐거운 추수감사절!
 Look out for the Turkey Potato until November 30	11월 30일까지 칠면조 감자를 찾아보세요
-Slice 50 potatoes in one game of TaterNinja	TaterNinja 한 판에 감자 50개 자르기
+Slice 50 potatoes in one game of TaterSlice	TaterSlice 한 판에 감자 50개 자르기
 Slice them	잘라 버려
-Peel {0} more potato to open TaterNinja	감자를 {0}개 더 깎으면 TaterNinja가 열려요
-Peel {0} more potatoes to open TaterNinja	감자를 {0}개 더 깎으면 TaterNinja가 열려요
+Peel {0} more potato to open TaterSlice	감자를 {0}개 더 깎으면 TaterSlice가 열려요
+Peel {0} more potatoes to open TaterSlice	감자를 {0}개 더 깎으면 TaterSlice가 열려요
 {0} in one swipe!	한 번에 {0}개!
 Swipe to slice. Don't slice the mouldy ones	밀어서 자르세요. 곰팡이 핀 건 자르지 마세요
 Game over	게임 오버
 {0} sliced	{0}개 자름
-Peel 200 potatoes and TaterNinja opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	감자를 200개 깎으면 TaterNinja가 열려요. 위로 던져지는 감자를 감자튀김 칼로 잘라요. 한 번에 여러 개를 자르면 보너스가 있지만, 곰팡이 핀 건 자르지 마세요. 목숨은 세 개뿐이에요.
+Peel 200 potatoes and TaterSlice opens. Potatoes get thrown up and you slice them with your fry knife. Slice a few in one swipe for a bonus, but don't slice the mouldy ones: you only get three lives.	감자를 200개 깎으면 TaterSlice가 열려요. 위로 던져지는 감자를 감자튀김 칼로 잘라요. 한 번에 여러 개를 자르면 보너스가 있지만, 곰팡이 핀 건 자르지 마세요. 목숨은 세 개뿐이에요.
 Cheese	치즈
 Chili	칠리
 Bacon	베이컨
@@ -1178,3 +1178,219 @@ https://potatoguy79.github.io/taterpeeler/version.txt?n=	https://potatoguy79.git
 Keeping an eye on you	Keeping an eye on you
 It watches the peeler the whole time, and it does not like what it sees.	It watches the peeler the whole time, and it does not like what it sees.
 What's new in {0}	{0}의 새 기능
+Fry dump	감자튀김 거치대
+Bags	봉투
+Till	계산대
+Security camera	보안 카메라
+Drive-thru window	드라이브스루 창구
+Bacon bits	베이컨 조각
+Garlic parmesan	갈릭 파르메산
+BBQ sauce	바비큐 소스
+Spilled fries	쏟아진 감자튀김
+TV	TV
+TV remote	TV 리모컨
+Hold on the sink to scrub it	싱크대를 누르고 있으면 문질러 씻어요
+In the bag: {0} food, {1} sauces. Hand it out at the window	봉투 안: 음식 {0}개, 소스 {1}개. 창구에서 건네주세요
+The camera on the lane. If someone drives off without paying, report their plate here	차선 카메라. 돈을 안 내고 가버리면 여기서 번호판을 신고하세요
+Paying...	결제 중...
+They pay here when you hand the food out	음식을 건네면 여기서 결제해요
+You've got the broom. Sweep up the fries	빗자루를 챙겼어요. 감자튀김을 쓸어요
+The supply closet. Nothing you need in there right now	청소 도구함. 지금은 필요한 게 없어요
+Press the red button to turn the TV on	빨간 버튼을 눌러 TV를 켜세요
+You need the broom: it's in the supply closet	빗자루가 필요해요: 청소 도구함에 있어요
+Hold the click and rub back and forth to sweep	클릭한 채로 왔다 갔다 문질러 쓸어요
+Hold and rub back and forth to sweep	누른 채로 왔다 갔다 문질러 쓸어요
+Take them out!	꺼내요!
+Ready	완성
+Burnt	탔어요
+Cooking	조리 중
+Hold the click to scrub	클릭한 채로 씻어요
+Hold to scrub	누른 채로 씻어요
+Clean: to the microwave	깨끗해요: 전자레인지로
+{0} portion	{0}인분
+{0} portions	{0}인분
+Cold	식었어요
+In the bag: {0}	봉투 안: {0}
+Hold the click and rub	클릭한 채로 문질러요
+Hold and rub	누른 채로 문질러요
+A car is pulling up...	차가 들어오고 있어요...
+Waiting for a car	차를 기다리는 중
+Tater Corner	Tater Corner
+Opening up...	여는 중...
+Click to use	클릭해서 사용
+Get the broom from the supply closet	청소 도구함에서 빗자루를 가져와요
+Hold the click (or E) and rub to sweep	클릭(또는 E)한 채로 문질러 쓸어요
+Slide here to walk	여기를 밀어서 걷기
+Drag here to look	여기를 끌어서 둘러보기
+W A S D to walk, drag to look, click to use	W A S D로 걷기, 끌어서 둘러보기, 클릭해서 사용
+Giant Potato	거대 감자
+Share	공유
+Share with friends	친구에게 공유
+The link and a QR code to send	보낼 링크와 QR 코드
+Unlinked. Your own account and progress are back	연결을 끊었어요. 내 계정과 진행 상황이 돌아왔어요
+Unlinked. Your progress from before is back	연결을 끊었어요. 예전 진행 상황이 돌아왔어요
+Credits	크레딧
+Wherever a potato gets left in the ground a long time	감자가 땅속에 오래 남아 있던 곳
+Feeding the whole street	온 동네가 먹을 만큼
+The heaviest potato on record weighed 4.98 kg (almost 11 lb). It was grown in England in 2011.	기록상 가장 무거운 감자는 4.98kg이었어요. 2011년 영국에서 자랐어요.
+Giant	거대
+Send your friends TaterPeeler. It's free, with no ads, on phones, tablets and computers.	친구에게 TaterPeeler를 보내요. 무료이고 광고 없이 휴대폰, 태블릿, 컴퓨터에서 할 수 있어요.
+Point a phone's camera at it	휴대폰 카메라를 대 보세요
+Copy the link	링크 복사
+Link copied. Paste it in a message to a friend	링크를 복사했어요. 친구에게 보내는 메시지에 붙여 넣으세요
+Save the QR code	QR 코드 저장
+Saved to your downloads	다운로드에 저장했어요
+Saved to your photos	사진에 저장했어요
+Videos	동영상
+Menu Board	메뉴
+Today at Tater Corner	오늘의 Tater Corner
+Weather	날씨
+Sunny and warm	맑고 따뜻함
+Scoreboard	점수판
+Your shift, live	내 근무, 실시간
+Picture, sound, about	화면, 소리, 정보
+How to make fries	감자튀김 만드는 법
+Videos can't play on this device yet	이 기기에서는 아직 동영상을 재생할 수 없어요
+Press OK to open	OK를 눌러 열기
+More videos are coming soon	곧 동영상이 더 생겨요
+This video can't play here yet	이 동영상은 여기서 아직 재생할 수 없어요
+Baked potatoes	구운 감자
+Toppings and sauces	토핑과 소스
+With one topping	토핑 1개
+With two toppings	토핑 2개
+Cheese, chili, bacon	치즈, 칠리, 베이컨
+Sour cream, chives	사워크림, 차이브
+Salt, Cajun, garlic parm	소금, 케이준, 갈릭 파르메산
+Ketchup, ranch, BBQ	케첩, 랜치, 바비큐
++60¢ each	하나에 +60¢
+Free	무료
+Sunny, light breeze	맑음, 산들바람
+Sat	토
+Sun	일
+Mon	월
+Tue	화
+Wed	수
+Made this shift	이번 근무 수입
+Cars served	응대한 차
+Perfect orders	완벽한 주문
+Potatoes you've peeled	내가 깎은 감자
+15 minutes	15분
+30 minutes	30분
+1 hour	1시간
+Brightness	밝기
+Volume	음량
+Sleep timer	꺼짐 예약
+TaterTV OS 1.0  ·  Made by Andres Campos	TaterTV OS 1.0  ·  Andres Campos 제작
+Mute	음소거
+Put it down	내려놓기
+Arrows, Enter, Backspace work too	화살표, Enter, Backspace도 돼요
+Co-owner	공동 소유자
+Your shift at Tater Corner	Tater Corner에서의 근무
+Sweep up the fries: rub back and forth	감자튀김을 쓸어요: 왔다 갔다 문질러요
+All clean. Back to work!	다 깨끗해졌어요. 다시 일하러!
+Supply closet	청소 도구함
+Get the broom	빗자루를 가져와요
+Tap the broom	빗자루를 탭하세요
+Grab the broom	빗자루를 잡아요
+RUN!	도망쳐!
+...it was just the cat.	...그냥 고양이였어요.
+Tap as fast as you can	최대한 빨리 탭하세요
+Oops! Fries all over the floor. Get the broom from the supply closet	이런! 바닥이 온통 감자튀김이에요. 청소 도구함에서 빗자루를 가져와요
+You're in! You're a beta tester now	들어왔어요! 이제 베타 테스터예요
+That code works, but it doesn't open anything yet	코드는 맞지만 아직 열리는 게 없어요
+That code isn't right	코드가 틀렸어요
+Check the 4 numbers and try again. Codes come from Andres.	숫자 4개를 확인하고 다시 해 보세요. 코드는 Andres가 줘요.
+That's a lot of wrong codes. Wait an hour, then try again.	틀린 코드가 너무 많아요. 한 시간 뒤에 다시 해 보세요.
+Beta codes are 4 numbers	베타 코드는 숫자 4개예요
+Your beta code (4 numbers)	내 베타 코드(숫자 4개)
+Try new game modes and big features before everyone else, and tell me what's broken. You need a 4-digit code from Andres.	새 게임 모드와 큰 기능을 누구보다 먼저 해 보고, 고장 난 곳을 알려 주세요. Andres의 4자리 코드가 필요해요.
+Be a beta tester	베타 테스터 되기
+Your code: {0}	내 코드: {0}
+What you can test	테스트할 수 있는 것
+Out for everyone now	이제 모두에게 공개됨
+Not out yet: only testers can play it	아직 출시 전: 테스터만 할 수 있어요
+Secret: only testers can see it	비밀: 테스터만 볼 수 있어요
+Nothing to test right now. Check again later	지금은 테스트할 게 없어요. 나중에 다시 확인하세요
+Use a different code	다른 코드 사용
+Leave the program	프로그램 나가기
+You left the beta tester program	베타 테스터 프로그램에서 나갔어요
+Checking...	확인 중...
+Enter a code	코드 입력
+You're signed in as the owner, so everything is open for you. Make codes in Admin > Beta.	소유자로 로그인해서 모든 게 열려 있어요. 코드는 관리 > 베타에서 만들어요.
+Beta tester program	베타 테스터 프로그램
+Beta test	베타 테스트
+{0} is coming soon	{0} 곧 출시
+Online (beta)	온라인 (베타)
+tp_beta.inc	tp_beta.inc
+Try new game modes before everyone else	새 게임 모드를 누구보다 먼저 해 보세요
+On	켬
+Floury	분질
+All-rounder	만능
+Waxy	점질
+Sweet	달콤
+One of a kind	세상에 하나뿐
+Fluffy inside: best baked, mashed or as fries	속이 포슬포슬: 굽거나 으깨거나 튀기면 최고
+Good at almost anything	거의 모든 요리에 잘 어울림
+Firm and creamy: holds its shape boiled or in salads	단단하고 부드러움: 삶아도 샐러드에서도 모양 유지
+Sweet and soft when it's cooked	익히면 달고 부드러움
+Not for eating	먹는 용도 아님
+White	흰색
+Grey	회색
+Cream	크림색
+Pale	연한 색
+Dark red	진한 빨강
+Brown	갈색
+Tan	황갈색
+Orange	주황
+Green	초록
+Blue	파랑
+Purple	보라
+Pink	분홍
+Knobbly	울퉁불퉁
+Long and curved	길고 휘어짐
+Long and thin (a fingerling)	길고 가늚
+Long	긺
+Round	둥긂
+Oval	타원형
+Huge	아주 큼
+Big	큼
+Medium	중간
+Small	작음
+Tiny	아주 작음
+Turns up all the time	항상 나와요
+About 1 in every {0} potatoes	감자 {0}개 중 1개 정도
+Very, very rare	아주아주 희귀
+Skin	껍질
+Inside	속살
+Shape	모양
+Size	크기
+Texture	식감
+Your share	내 몫
+How it cooks	조리하면
+Not on the leaderboards yet	아직 순위표에 없어요
+best TaterSlice	TaterSlice 최고 기록
+best TaterCorner shift	TaterCorner 최고 근무
+You: {0}	나: {0}
+Your rarest find	가장 희귀한 발견
+Their rarest find	가장 희귀한 발견
+New potato: {0}!	새 감자: {0}!
+NEW POTATO DISCOVERED	새 감자 발견
+Learn more	더 알아보기
+Keep peeling	계속 깎기
+{0}, live	{0}, 실시간
+It's in here somewhere	여기 어딘가에 있어요
+Take the broom	빗자루 집기
+And get out of here	그리고 여기서 나가기
+Click! Click! Run!	클릭! 클릭! 도망쳐!
+Tap! Tap! Run!	탭! 탭! 도망쳐!
+Here's what's new in 4.1. Thanks for playing!	4.1의 새로운 점이에요. 플레이해 줘서 고마워요!
+TaterNinja is called TaterSlice now, and it has its own leaderboard.	TaterNinja는 이제 TaterSlice라고 부르고, 자체 순위표도 생겼어요.
+Your photo on the leaderboards	순위표에 내 사진
+Everyone's profile photo shows next to their name on the leaderboards now.	이제 순위표에서 모두의 프로필 사진이 이름 옆에 나와요.
+Portfolios got redone	포트폴리오가 새로워졌어요
+Your rank on every board (tap one to see that board), your rarest find, every achievement, and on someone else's you can see how your numbers stack up against theirs.	모든 순위표에서의 내 순위(눌러서 그 순위표 보기), 가장 희귀한 발견, 모든 업적, 그리고 다른 사람 것에서는 내 기록과 비교해 볼 수 있어요.
+Finding a new potato	새 감자 발견
+Find a new potato after a long time without one and it's a big moment now.	오랜만에 새 감자를 찾으면 이제 큰 순간이 돼요.
+Always the newest version	항상 최신 버전
+The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	이제 웹사이트는 항상 최신 버전을 불러오고, 플레이 중에 업데이트가 나오면 알려줘요.
+Everything you had before is still there. Thanks for playing.	예전에 있던 건 전부 그대로예요. 플레이해 줘서 고마워요.
