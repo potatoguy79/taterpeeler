@@ -5,7 +5,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<script>(function(){var V="20261113181101",K="tp.reloaded";function get(cb){try{fetch("stamp.txt?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.text():"";}).then(function(t){t=(t||"").replace(/\s/g,"");if(/^[0-9]{14}$/.test(t)&&t>V)cb(t);}).catch(function(){});}catch(e){}}get(function(t){var d="";try{d=sessionStorage.getItem(K)||"";}catch(e){}if(d===t)return;try{sessionStorage.setItem(K,t);}catch(e){}location.replace(location.pathname+"?r="+t+location.hash);});function bar(){if(document.getElementById("tp-new"))return;var b=document.createElement("div");b.id="tp-new";b.style.cssText="position:fixed;left:50%;bottom:calc(14px + env(safe-area-inset-bottom));transform:translateX(-50%);z-index:99999;background:#1d1d1f;color:#fff;font:600 15px -apple-system,system-ui,sans-serif;padding:11px 16px;border-radius:14px;box-shadow:0 6px 24px rgba(0,0,0,.3);display:flex;gap:12px;align-items:center";b.innerHTML="A new version of TaterPeeler is out <button style=\"font:inherit;background:#f2b84b;color:#1d1d1f;border:0;border-radius:9px;padding:6px 12px\">Update</button>";b.querySelector("button").onclick=function(){location.replace(location.pathname+"?r="+Date.now()+location.hash);};document.body.appendChild(b);}function later(){get(function(){bar();});}document.addEventListener("visibilitychange",function(){if(!document.hidden)later();});setInterval(later,600000);})();</script>
+<script>(function(){var V="20261113195839",K="tp.reloaded";function get(cb){try{fetch("stamp.txt?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.text():"";}).then(function(t){t=(t||"").replace(/\s/g,"");if(/^[0-9]{14}$/.test(t)&&t>V)cb(t);}).catch(function(){});}catch(e){}}get(function(t){var d="";try{d=sessionStorage.getItem(K)||"";}catch(e){}if(d===t)return;try{sessionStorage.setItem(K,t);}catch(e){}location.replace(location.pathname+"?r="+t+location.hash);});function bar(){if(document.getElementById("tp-new"))return;var b=document.createElement("div");b.id="tp-new";b.style.cssText="position:fixed;left:50%;bottom:calc(14px + env(safe-area-inset-bottom));transform:translateX(-50%);z-index:99999;background:#1d1d1f;color:#fff;font:600 15px -apple-system,system-ui,sans-serif;padding:11px 16px;border-radius:14px;box-shadow:0 6px 24px rgba(0,0,0,.3);display:flex;gap:12px;align-items:center";b.innerHTML="A new version of TaterPeeler is out <button style=\"font:inherit;background:#f2b84b;color:#1d1d1f;border:0;border-radius:9px;padding:6px 12px\">Update</button>";b.querySelector("button").onclick=function(){location.replace(location.pathname+"?r="+Date.now()+location.hash);};document.body.appendChild(b);}function later(){get(function(){bar();});}document.addEventListener("visibilitychange",function(){if(!document.hidden)later();});setInterval(later,600000);})();</script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="theme-color" content="#ffffff">
@@ -15,11 +15,11 @@
 <link rel="icon" type="image/png" href="icon-192.png">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icon-180.png">
-<link rel="preload" href="taterpeeler.wasm?v=20261113181101" as="fetch" crossorigin="anonymous">
-<link rel="preload" href="data/peeler.tpk?v=20261113181101" as="fetch" crossorigin="anonymous">
-<link rel="preload" href="data/font.tpf?v=20261113181101" as="fetch" crossorigin="anonymous">
-<link rel="preload" href="data/font_atlas.png?v=20261113181101" as="fetch" crossorigin="anonymous">
-<link rel="preload" href="data/potato_detail_1024.jpg?v=20261113181101" as="fetch" crossorigin="anonymous">
+<link rel="preload" href="taterpeeler.wasm?v=20261113195839" as="fetch" crossorigin="anonymous">
+<link rel="preload" href="data/peeler.tpk?v=20261113195839" as="fetch" crossorigin="anonymous">
+<link rel="preload" href="data/font.tpf?v=20261113195839" as="fetch" crossorigin="anonymous">
+<link rel="preload" href="data/font_atlas.png?v=20261113195839" as="fetch" crossorigin="anonymous">
+<link rel="preload" href="data/potato_detail_1024.jpg?v=20261113195839" as="fetch" crossorigin="anonymous">
 <style>
   :root { --bg: #ffffff; --ink: #26221e; --soft: #8a8279; --hair: #e6e1da; }
   :root.dark { --bg: #1b1916; --ink: #f1ede7; --soft: #9e968c; --hair: #37322d; }
@@ -45,9 +45,9 @@
 <body>
 <canvas id="game" tabindex="0" aria-label="TaterPeeler game"></canvas>
 <div id="loader" role="status"><div class="track"><div id="loader-bar"></div></div><div class="msg-stack"><div class="msg">Loading potatoes</div><div class="msg-sub">This may take a few minutes.</div></div></div>
-<script>window.TP_DOWNLOAD_PAGE = "download/"; window.TP_V = "20261113181101";</script>
-<script src="tp.js?v=20261113181101"></script>
-<script src="push.js?v=20261113181101"></script>
+<script>window.TP_DOWNLOAD_PAGE = "download/"; window.TP_V = "20261113195839";</script>
+<script src="tp.js?v=20261113195839"></script>
+<script src="push.js?v=20261113195839"></script>
 <script>try { if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(function () {}); } catch (e) {}</script>
 </body>
 </html>
