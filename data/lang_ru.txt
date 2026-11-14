@@ -1413,3 +1413,4 @@ Find a new potato after a long time without one and it's a big moment now.	На�
 Always the newest version	Всегда новейшая версия
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Сайт теперь всегда загружает новейшую версию, а если во время игры выйдет обновление, он скажет.
 Everything you had before is still there. Thanks for playing.	Всё, что у вас было, на месте. Спасибо, что играете.
+Update 4.1 is now out! Here's what's new!	Вышло обновление 4.1! Вот что нового!

@@ -1394,3 +1394,4 @@ Find a new potato after a long time without one and it's a big moment now.	Uzun 
 Always the newest version	Her zaman en yeni sürüm
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Web sitesi artık her zaman en yeni sürümü yüklüyor ve oynarken bir güncelleme çıkarsa sana söylüyor.
 Everything you had before is still there. Thanks for playing.	Önceden sahip olduğun her şey hâlâ duruyor. Oynadığın için teşekkürler.
+Update 4.1 is now out! Here's what's new!	4.1 güncellemesi çıktı! Yenilikler burada!

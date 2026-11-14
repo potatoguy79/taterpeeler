@@ -1394,3 +1394,4 @@ Find a new potato after a long time without one and it's a big moment now.	Finde
 Always the newest version	Immer die neueste Version
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Die Website lädt jetzt immer die neueste Version, und wenn beim Spielen ein Update erscheint, sagt sie es dir.
 Everything you had before is still there. Thanks for playing.	Alles, was du vorher hattest, ist noch da. Danke fürs Spielen.
+Update 4.1 is now out! Here's what's new!	Update 4.1 ist da! Das ist neu!

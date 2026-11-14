@@ -1394,3 +1394,4 @@ Find a new potato after a long time without one and it's a big moment now.	隔�
 Always the newest version	始终是最新版本
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	网站现在总会加载最新版本，你玩的时候如果出了更新也会告诉你。
 Everything you had before is still there. Thanks for playing.	你之前的一切都还在。感谢游玩。
+Update 4.1 is now out! Here's what's new!	4.1 更新来了！看看有什么新东西！

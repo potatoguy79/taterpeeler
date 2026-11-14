@@ -1394,3 +1394,4 @@ Find a new potato after a long time without one and it's a big moment now.	오�
 Always the newest version	항상 최신 버전
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	이제 웹사이트는 항상 최신 버전을 불러오고, 플레이 중에 업데이트가 나오면 알려줘요.
 Everything you had before is still there. Thanks for playing.	예전에 있던 건 전부 그대로예요. 플레이해 줘서 고마워요.
+Update 4.1 is now out! Here's what's new!	4.1 업데이트가 나왔어요! 새로운 점을 보세요!

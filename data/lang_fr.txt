@@ -1394,3 +1394,4 @@ Find a new potato after a long time without one and it's a big moment now.	Trouv
 Always the newest version	Toujours la dernière version
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Le site charge maintenant toujours la dernière version, et si une mise à jour sort pendant que tu joues, il te le dit.
 Everything you had before is still there. Thanks for playing.	Tout ce que tu avais est toujours là. Merci de jouer.
+Update 4.1 is now out! Here's what's new!	La mise à jour 4.1 est sortie ! Voici les nouveautés !

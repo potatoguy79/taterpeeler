@@ -1394,3 +1394,4 @@ Find a new potato after a long time without one and it's a big moment now.	し�
 Always the newest version	いつも最新バージョン
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	ウェブサイトは常に最新バージョンを読み込み、遊んでいる間にアップデートが出たら知らせてくれます。
 Everything you had before is still there. Thanks for playing.	前に持っていたものはすべてそのままです。遊んでくれてありがとう。
+Update 4.1 is now out! Here's what's new!	アップデート4.1が出たよ！ 新しいところはこちら！

@@ -1394,3 +1394,4 @@ Find a new potato after a long time without one and it's a big moment now.	Encon
 Always the newest version	Sempre a versão mais nova
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	O site agora sempre carrega a versão mais nova e, se sair uma atualização enquanto você joga, ele avisa.
 Everything you had before is still there. Thanks for playing.	Tudo o que você tinha continua lá. Obrigado por jogar.
+Update 4.1 is now out! Here's what's new!	A atualização 4.1 saiu! Veja o que há de novo!
