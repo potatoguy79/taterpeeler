@@ -1414,3 +1414,7 @@ Always the newest version	Zawsze najnowsza wersja
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Strona zawsze wczytuje teraz najnowszą wersję, a jeśli w trakcie gry wyjdzie aktualizacja, da ci znać.
 Everything you had before is still there. Thanks for playing.	Wszystko, co miałeś, nadal jest. Dzięki za grę.
 Update 4.1 is now out! Here's what's new!	Aktualizacja 4.1 już jest! Zobacz, co nowego!
+That's every balloon's TaterCoins. Pop away anyway!	To już wszystkie TaterCoins z balonów. Przebijaj je dalej!
+Party popper! 10 balloons popped	Król imprezy! 10 przebitych balonów
+Happy birthday, Andres! Pop the balloons for TaterCoins	Wszystkiego najlepszego, Andres! Przebijaj balony i zbieraj TaterCoins
+Happy birthday! +25 TaterCoins	Wszystkiego najlepszego! +25 TaterCoins

@@ -1395,3 +1395,7 @@ Always the newest version	항상 최신 버전
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	이제 웹사이트는 항상 최신 버전을 불러오고, 플레이 중에 업데이트가 나오면 알려줘요.
 Everything you had before is still there. Thanks for playing.	예전에 있던 건 전부 그대로예요. 플레이해 줘서 고마워요.
 Update 4.1 is now out! Here's what's new!	4.1 업데이트가 나왔어요! 새로운 점을 보세요!
+That's every balloon's TaterCoins. Pop away anyway!	풍선에서 나오는 TaterCoins는 여기까지예요. 그래도 계속 터뜨려 보세요!
+Party popper! 10 balloons popped	파티의 주인공! 풍선 10개를 터뜨렸어요
+Happy birthday, Andres! Pop the balloons for TaterCoins	Andres, 생일 축하해요! 풍선을 터뜨리고 TaterCoins를 받으세요
+Happy birthday! +25 TaterCoins	생일 축하해요! +25 TaterCoins

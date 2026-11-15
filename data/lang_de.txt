@@ -1395,3 +1395,7 @@ Always the newest version	Immer die neueste Version
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Die Website lädt jetzt immer die neueste Version, und wenn beim Spielen ein Update erscheint, sagt sie es dir.
 Everything you had before is still there. Thanks for playing.	Alles, was du vorher hattest, ist noch da. Danke fürs Spielen.
 Update 4.1 is now out! Here's what's new!	Update 4.1 ist da! Das ist neu!
+That's every balloon's TaterCoins. Pop away anyway!	Das waren alle TaterCoins aus den Ballons. Lass sie trotzdem platzen!
+Party popper! 10 balloons popped	Partyknaller! 10 Ballons geplatzt
+Happy birthday, Andres! Pop the balloons for TaterCoins	Alles Gute zum Geburtstag, Andres! Lass die Ballons platzen und hol dir TaterCoins
+Happy birthday! +25 TaterCoins	Alles Gute zum Geburtstag! +25 TaterCoins

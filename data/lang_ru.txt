@@ -1414,3 +1414,7 @@ Always the newest version	Всегда новейшая версия
 The website always loads the newest version now, and if an update comes out while you're playing, it tells you.	Сайт теперь всегда загружает новейшую версию, а если во время игры выйдет обновление, он скажет.
 Everything you had before is still there. Thanks for playing.	Всё, что у вас было, на месте. Спасибо, что играете.
 Update 4.1 is now out! Here's what's new!	Вышло обновление 4.1! Вот что нового!
+That's every balloon's TaterCoins. Pop away anyway!	Это все TaterCoins из шариков. Лопай дальше просто так!
+Party popper! 10 balloons popped	Душа вечеринки! Лопнуто 10 шариков
+Happy birthday, Andres! Pop the balloons for TaterCoins	С днём рождения, Andres! Лопай шарики и получай TaterCoins
+Happy birthday! +25 TaterCoins	С днём рождения! +25 TaterCoins
