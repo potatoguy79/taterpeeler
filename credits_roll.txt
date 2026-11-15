@@ -41,6 +41,12 @@ Poly Haven textures and models
 [Sound effects]
 Joseph Sardin and Denis Chardonnet, BigSoundBank
 
+[Night drive music]
+"Tape Hiss Memories" by BackgroundMusicMaster, Pixabay
+
+[3D people]
+Microsoft Rocketbox avatars (MIT)
+
 [Turkey gobble]
 Jonathon Jongsma, xeno-canto (CC BY-SA 3.0)
 

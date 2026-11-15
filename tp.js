@@ -105,7 +105,7 @@
     .concat(['sfx_car_in.wav', 'sfx_car_out.wav', 'sfx_driveoff.wav', 'sfx_horn0.wav', 'sfx_horn1.wav', 'sfx_micro_run.wav',
              'sfx_micro_beep.wav', 'sfx_micro_door.wav', 'sfx_micro_open.wav', 'sfx_register.wav', 'sfx_squelch0.wav', 'sfx_squelch1.wav',
              'sfx_sink_plop0.wav', 'sfx_sink_plop1.wav', 'sfx_sink_on.wav', 'sfx_sink_off.wav', 'sfx_sink_run.wav', 'sfx_scrub.wav',
-             'sfx_ev_spill.wav', 'sfx_ev_door.wav', 'sfx_ev_hum.wav', 'sfx_ev_flicker.wav', 'sfx_ev_breaker.wav', 'sfx_ev_growl0.wav', 'sfx_ev_growl1.wav', 'sfx_ev_growl2.wav', 'sfx_ev_roar.wav', 'sfx_ev_heart.wav', 'sfx_ev_run.wav', 'sfx_ev_meow.wav', 'sfx_ev_mrrp.wav', 'sfx_ev_purr.wav', 'sfx_ev_sweep0.wav', 'sfx_ev_sweep1.wav', 'sfx_ev_sweep2.wav', 'sfx_tractor.wav', 'sfx_pop0.wav', 'sfx_pop1.wav', 'sfx_pop2.wav', 'sfx_rain.wav', 'sfx_thunder0.wav', 'sfx_thunder1.wav']);
+             'sfx_ev_spill.wav', 'sfx_ev_door.wav', 'sfx_ev_hum.wav', 'sfx_ev_flicker.wav', 'sfx_ev_breaker.wav', 'sfx_ev_growl0.wav', 'sfx_ev_growl1.wav', 'sfx_ev_growl2.wav', 'sfx_ev_roar.wav', 'sfx_ev_heart.wav', 'sfx_ev_run.wav', 'sfx_ev_meow.wav', 'sfx_ev_mrrp.wav', 'sfx_ev_purr.wav', 'sfx_ev_sweep0.wav', 'sfx_ev_sweep1.wav', 'sfx_ev_sweep2.wav', 'sfx_tractor.wav', 'sfx_pop0.wav', 'sfx_pop1.wav', 'sfx_pop2.wav', 'sfx_rain.wav', 'sfx_thunder0.wav', 'sfx_thunder1.wav', 'sfx_engine.wav', 'sfx_peel.wav', 'sfx_crash.wav']);
   const files = {}, images = {}, soundData = {};
   let total = FILES.length + IMAGES.length + 1, done = 0;   /* (the sounds load after the game has started) */
   let joking = false;
@@ -399,7 +399,7 @@
   /* the credits' own music (3.0: the 1,000th potato). It plays in the SAME <audio> element as the game's music, with
      its address swapped: Safari only lets an element play by itself once a tap has started it, so a second element
      would wait for another tap (the credits' music only started when you tapped). */
-  const TRACKS = ['data/music.mp3', 'data/credits_music.mp3' + V];
+  const TRACKS = ['data/music.mp3', 'data/credits_music.mp3' + V, 'data/corner_intro.mp3' + V];   /* (4.2: 2, Tater Corner's arrival) */
   let musicTrack = 0;
   const trackBlobs = {};
   function useTrack(t) {
@@ -932,8 +932,8 @@
     plat_frame_rate: fps => { minFrameMs = fps >= 60 ? 0 : 1000 / fps - 4; },
     plat_push_state: () => window.TP_PUSH ? window.TP_PUSH.state() : 0,   /* (the website's push.js; the apps have none) */
     plat_push_ask: () => { if (window.TP_PUSH) window.TP_PUSH.ask(); },
-    plat_music_track: t => {   /* 0 the game's music, 1 the credits' (from the start) */
-      t = t === 1 ? 1 : 0;
+    plat_music_track: t => {   /* 0 the game's music, 1 the credits' (from the start), 2 Tater Corner's arrival (4.2) */
+      t = t === 1 || t === 2 ? t : 0;
       if (t === musicTrack && t === 0) return;
       music.pause(); musicStarted = false;
       const ready = useTrack(t);
