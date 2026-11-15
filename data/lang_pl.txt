@@ -1418,3 +1418,10 @@ That's every balloon's TaterCoins. Pop away anyway!	To już wszystkie TaterCoins
 Party popper! 10 balloons popped	Król imprezy! 10 przebitych balonów
 Happy birthday, Andres! Pop the balloons for TaterCoins	Wszystkiego najlepszego, Andres! Przebijaj balony i zbieraj TaterCoins
 Happy birthday! +25 TaterCoins	Wszystkiego najlepszego! +25 TaterCoins
+Prep the potatoes	Przygotuj ziemniaki
+In Fries, pick each potato from the crate and rinse it at the sink before you cut it. Roach's idea	We Frytkach weź każdego ziemniaka ze skrzynki i opłucz go w zlewie, zanim go pokroisz. Pomysł Roacha
+Pick a potato from the crate	Weź ziemniaka ze skrzynki
+Rinse it: hold the click on the sink and rub	Opłucz go: przytrzymaj kliknięcie na zlewie i pocieraj
+Rinse it: hold on the sink and rub	Opłucz go: przytrzymaj na zlewie i pocieraj
+Clean! Onto the board with it	Czysty! Na deskę z nim
+Onto the board	Na deskę

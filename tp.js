@@ -39,6 +39,8 @@
     cancel: { en: 'Cancel', zh: '取消', es: 'Cancelar', 'es-ES': 'Cancelar', ru: 'Отмена', pt: 'Cancelar', de: 'Abbrechen', ja: 'キャンセル', fr: 'Annuler', ko: '취소', pl: 'Anuluj', tr: 'İptal', pirate: 'Belay that' },
     ok: { en: 'OK', zh: '确定', es: 'OK', 'es-ES': 'Vale', ru: 'ОК', pt: 'OK', de: 'OK', ja: 'OK', fr: 'OK', ko: '확인', pl: 'OK', tr: 'Tamam', pirate: 'Aye' },
     photo: { en: 'Choose a photo', zh: '选择一张照片', es: 'Elige una foto', 'es-ES': 'Elige una foto', ru: 'Выбери фото', pt: 'Escolha uma foto', de: 'Wähl ein Foto', ja: '写真を選ぶ', fr: 'Choisis une photo', ko: '사진 고르기', pl: 'Wybierz zdjęcie', tr: 'Bir fotoğraf seç', pirate: 'Pick a paintin\'' },
+    video: { en: 'Choose a video' },   /* (4.2: only the owner sees it, in Admin) */
+    videos: { en: 'Open videos' },
     photos: { en: 'Open photos', zh: '打开照片', es: 'Abrir fotos', 'es-ES': 'Abrir fotos', ru: 'Открыть фото', pt: 'Abrir fotos', de: 'Fotos öffnen', ja: '写真を開く', fr: 'Ouvrir les photos', ko: '사진 열기', pl: 'Otwórz zdjęcia', tr: 'Fotoğrafları aç', pirate: 'Open the gallery' },
     sgame: { en: 'Getting the game', zh: '正在获取游戏', es: 'Descargando el juego', 'es-ES': 'Descargando el juego', ru: 'Скачиваем игру', pt: 'Baixando o jogo', de: 'Lade das Spiel', ja: 'ゲームを取得中', fr: 'Téléchargement du jeu', ko: '게임 받는 중', pl: 'Pobieranie gry', tr: 'Oyun indiriliyor', pirate: 'Haulin\' in the game' },
     spotato: { en: 'Getting the potatoes', zh: '正在获取土豆', es: 'Descargando las papas', 'es-ES': 'Descargando las patatas', ru: 'Скачиваем картошку', pt: 'Baixando as batatas', de: 'Lade die Kartoffeln', ja: 'じゃがいもを取得中', fr: 'Téléchargement des patates', ko: '감자 받는 중', pl: 'Pobieranie ziemniaków', tr: 'Patatesler indiriliyor', pirate: 'Haulin\' in the spuds' },
@@ -103,7 +105,7 @@
     .concat(['sfx_car_in.wav', 'sfx_car_out.wav', 'sfx_driveoff.wav', 'sfx_horn0.wav', 'sfx_horn1.wav', 'sfx_micro_run.wav',
              'sfx_micro_beep.wav', 'sfx_micro_door.wav', 'sfx_micro_open.wav', 'sfx_register.wav', 'sfx_squelch0.wav', 'sfx_squelch1.wav',
              'sfx_sink_plop0.wav', 'sfx_sink_plop1.wav', 'sfx_sink_on.wav', 'sfx_sink_off.wav', 'sfx_sink_run.wav', 'sfx_scrub.wav',
-             'sfx_ev_spill.wav', 'sfx_ev_door.wav', 'sfx_ev_hum.wav', 'sfx_ev_flicker.wav', 'sfx_ev_breaker.wav', 'sfx_ev_growl0.wav', 'sfx_ev_growl1.wav', 'sfx_ev_growl2.wav', 'sfx_ev_roar.wav', 'sfx_ev_heart.wav', 'sfx_ev_run.wav', 'sfx_ev_meow.wav', 'sfx_ev_mrrp.wav', 'sfx_ev_purr.wav', 'sfx_ev_sweep0.wav', 'sfx_ev_sweep1.wav', 'sfx_ev_sweep2.wav', 'sfx_tractor.wav', 'sfx_pop0.wav', 'sfx_pop1.wav', 'sfx_pop2.wav']);
+             'sfx_ev_spill.wav', 'sfx_ev_door.wav', 'sfx_ev_hum.wav', 'sfx_ev_flicker.wav', 'sfx_ev_breaker.wav', 'sfx_ev_growl0.wav', 'sfx_ev_growl1.wav', 'sfx_ev_growl2.wav', 'sfx_ev_roar.wav', 'sfx_ev_heart.wav', 'sfx_ev_run.wav', 'sfx_ev_meow.wav', 'sfx_ev_mrrp.wav', 'sfx_ev_purr.wav', 'sfx_ev_sweep0.wav', 'sfx_ev_sweep1.wav', 'sfx_ev_sweep2.wav', 'sfx_tractor.wav', 'sfx_pop0.wav', 'sfx_pop1.wav', 'sfx_pop2.wav', 'sfx_rain.wav', 'sfx_thunder0.wav', 'sfx_thunder1.wav']);
   const files = {}, images = {}, soundData = {};
   let total = FILES.length + IMAGES.length + 1, done = 0;   /* (the sounds load after the game has started) */
   let joking = false;
@@ -415,6 +417,7 @@
     return true;
   }
   const tvVids = [];   /* 4.0: TaterTV's videos */
+  let tvPicked = null;   /* 4.2: the video chosen in Admin, until it's uploaded */
   const loops = {};
   function ensureAudio() {
     if (actx) return;
@@ -560,9 +563,9 @@
      browser) doesn't, so there a small card asks for one more tap, which opens the photos right away. */
   const webkitTouch = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
   const safari = /^((?!chrome|chromium|android|crios|fxios|edg).)*safari/i.test(navigator.userAgent);
-  function pickFile(onFile, onNone) {
+  function pickFile(onFile, onNone, video) {
     const inp = document.createElement('input');
-    inp.type = 'file'; inp.accept = 'image/*';
+    inp.type = 'file'; inp.accept = video ? 'video/mp4,video/webm,video/quicktime,.mp4,.webm,.mov,.m4v' : 'image/*';
     inp.style.cssText = 'position:fixed;left:-9999px;top:0;width:1px;height:1px;opacity:0';
     document.body.appendChild(inp);
     let answered = false;
@@ -575,10 +578,10 @@
     if (textBox) textBox.cancel();
     const wrap = document.createElement('div'); wrap.id = 'tp-tb';
     const card = document.createElement('div'); card.className = 'card';
-    const h = document.createElement('h3'); h.textContent = W('photo');
+    const h = document.createElement('h3'); h.textContent = W(video ? 'video' : 'photo');
     const row = document.createElement('div'); row.className = 'row';
     const no = document.createElement('button'); no.className = 'no'; no.textContent = W('cancel');
-    const ok = document.createElement('button'); ok.className = 'ok'; ok.textContent = W('photos');
+    const ok = document.createElement('button'); ok.className = 'ok'; ok.textContent = W(video ? 'videos' : 'photos');
     row.append(no, ok); card.append(h, row); wrap.appendChild(card);
     const close = () => { wrap.id = ''; wrap.style.pointerEvents = 'none'; wrap.classList.remove('on'); setTimeout(() => wrap.remove(), 180); };
     no.onclick = () => { close(); done(null); };
@@ -804,6 +807,37 @@
         const b = te.encode(d), p = ex.tp_net_buf(b.length + 1); views(); if (p) u8.set(b, p);
         ex.tp_image_picked(req, p ? 1 : 0, p ? b.length : 0);
       }, () => ex.tp_image_picked(req, 0, 0)), () => ex.tp_image_picked(req, 0, 0)),
+    /* 4.2: TaterTV's own programs (Admin's TV tab): choose a video, then send it straight into the server's storage */
+    plat_pick_video: req => pickFile(f => {
+        tvPicked = f;
+        const ext = /webm$/i.test(f.type) || /\.webm$/i.test(f.name) ? 1 : /quicktime/i.test(f.type) || /\.mov$/i.test(f.name) ? 2 : 0;
+        const answer = secs => {
+          const b = te.encode((f.name || 'video').slice(0, 120)), p = ex.tp_net_buf(b.length + 1); views(); if (p) u8.set(b, p);
+          ex.tp_video_picked(req, 1, f.size, secs, ext, p ? b.length : 0);
+        };
+        const v = document.createElement('video'), u = URL.createObjectURL(f);   /* how long it is (0 if the browser can't tell) */
+        let told = false; const tell = s => { if (told) return; told = true; URL.revokeObjectURL(u); answer(s); };
+        v.preload = 'metadata'; v.muted = true;
+        v.onloadedmetadata = () => tell(isFinite(v.duration) ? Math.round(v.duration) : 0);
+        v.onerror = () => tell(0); setTimeout(() => tell(0), 4000);
+        v.src = u;
+      }, () => ex.tp_video_picked(req, 0, 0, 0, 0, 0), true),
+    plat_tv_storage: (req, cmd, up, kp) => {
+      const url = str(up), key = str(kp);
+      if (!/^https:\/\//.test(url)) { if (req >= 0) ex.tp_tv_stored(req, 0); return; }
+      const x = new XMLHttpRequest();
+      x.open(cmd === 0 ? 'POST' : 'DELETE', url);
+      x.setRequestHeader('apikey', key); x.setRequestHeader('Authorization', 'Bearer ' + key);
+      if (cmd === 0) {
+        const f = tvPicked; if (!f) { ex.tp_tv_stored(req, 0); return; }
+        x.setRequestHeader('Content-Type', f.type || (/\.webm$/i.test(f.name) ? 'video/webm' : /\.mov$/i.test(f.name) ? 'video/quicktime' : 'video/mp4'));
+        x.setRequestHeader('x-upsert', 'false'); x.setRequestHeader('cache-control', 'max-age=31536000');
+        x.upload.onprogress = e => { if (e.lengthComputable && ex) ex.tp_tv_progress(req, Math.floor(1000 * e.loaded / e.total)); };
+        x.onload = () => { if (x.status >= 200 && x.status < 300) tvPicked = null; if (ex) ex.tp_tv_stored(req, x.status); };
+        x.onerror = () => { if (ex) ex.tp_tv_stored(req, 0); };
+        x.send(f);
+      } else { x.onload = x.onerror = () => {}; x.send(); }
+    },
     plat_open_url: p => { const u = str(p); if (/^https:\/\//.test(u)) window.open(u, '_blank', 'noopener'); },
     plat_copy_text: p => {   /* 4.0: Share: the link onto the clipboard */
       const t = str(p);

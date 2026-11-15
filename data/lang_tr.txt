@@ -1399,3 +1399,10 @@ That's every balloon's TaterCoins. Pop away anyway!	Balonlardan gelen TaterCoins
 Party popper! 10 balloons popped	Parti canavarı! 10 balon patlatıldı
 Happy birthday, Andres! Pop the balloons for TaterCoins	İyi ki doğdun Andres! Balonları patlat, TaterCoins kazan
 Happy birthday! +25 TaterCoins	İyi ki doğdun! +25 TaterCoins
+Prep the potatoes	Patatesleri hazırla
+In Fries, pick each potato from the crate and rinse it at the sink before you cut it. Roach's idea	Kızartma'da her patatesi kasadan al ve kesmeden önce lavaboda durula. Roach'un fikri
+Pick a potato from the crate	Kasadan bir patates al
+Rinse it: hold the click on the sink and rub	Durula: lavaboya tıklayıp basılı tut ve ov
+Rinse it: hold on the sink and rub	Durula: lavaboya basılı tut ve ov
+Clean! Onto the board with it	Temiz! Tahtaya koy
+Onto the board	Tahtaya

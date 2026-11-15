@@ -1399,3 +1399,10 @@ That's every balloon's TaterCoins. Pop away anyway!	풍선에서 나오는 Tater
 Party popper! 10 balloons popped	파티의 주인공! 풍선 10개를 터뜨렸어요
 Happy birthday, Andres! Pop the balloons for TaterCoins	Andres, 생일 축하해요! 풍선을 터뜨리고 TaterCoins를 받으세요
 Happy birthday! +25 TaterCoins	생일 축하해요! +25 TaterCoins
+Prep the potatoes	감자 손질하기
+In Fries, pick each potato from the crate and rinse it at the sink before you cut it. Roach's idea	감자튀김에서 자르기 전에 상자에서 감자를 꺼내 싱크대에서 씻어요. Roach의 아이디어
+Pick a potato from the crate	상자에서 감자를 하나 꺼내세요
+Rinse it: hold the click on the sink and rub	씻기: 싱크대를 클릭한 채로 문지르세요
+Rinse it: hold on the sink and rub	씻기: 싱크대를 길게 누른 채로 문지르세요
+Clean! Onto the board with it	깨끗해요! 도마로 올려요
+Onto the board	도마로

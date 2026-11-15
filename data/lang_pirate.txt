@@ -1399,3 +1399,10 @@ That's every balloon's TaterCoins. Pop away anyway!	That be all the balloons' Ta
 Party popper! 10 balloons popped	Party cannoneer! 10 balloons popped
 Happy birthday, Andres! Pop the balloons for TaterCoins	Happy birthday, Cap'n Andres! Pop the balloons fer TaterCoins
 Happy birthday! +25 TaterCoins	Happy birthday! +25 TaterCoins, arr
+Prep the potatoes	Ready the spuds
+In Fries, pick each potato from the crate and rinse it at the sink before you cut it. Roach's idea	In Fries, grab each spud from the crate an' rinse it at the sink afore ye cut it. Roach's idea
+Pick a potato from the crate	Grab a spud from the crate
+Rinse it: hold the click on the sink and rub	Rinse it: hold the click on the sink an' scrub
+Rinse it: hold on the sink and rub	Rinse it: hold on the sink an' scrub
+Clean! Onto the board with it	Clean as a whistle! Onto the board
+Onto the board	Onto the board

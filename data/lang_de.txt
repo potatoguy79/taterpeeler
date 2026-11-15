@@ -1399,3 +1399,10 @@ That's every balloon's TaterCoins. Pop away anyway!	Das waren alle TaterCoins au
 Party popper! 10 balloons popped	Partyknaller! 10 Ballons geplatzt
 Happy birthday, Andres! Pop the balloons for TaterCoins	Alles Gute zum Geburtstag, Andres! Lass die Ballons platzen und hol dir TaterCoins
 Happy birthday! +25 TaterCoins	Alles Gute zum Geburtstag! +25 TaterCoins
+Prep the potatoes	Kartoffeln vorbereiten
+In Fries, pick each potato from the crate and rinse it at the sink before you cut it. Roach's idea	Nimm in Pommes jede Kartoffel aus der Kiste und spül sie in der Spüle ab, bevor du sie schneidest. Roachs Idee
+Pick a potato from the crate	Nimm eine Kartoffel aus der Kiste
+Rinse it: hold the click on the sink and rub	Abspülen: Klick auf der Spüle halten und reiben
+Rinse it: hold on the sink and rub	Abspülen: auf der Spüle halten und reiben
+Clean! Onto the board with it	Sauber! Ab aufs Brett damit
+Onto the board	Aufs Brett

@@ -1399,3 +1399,10 @@ That's every balloon's TaterCoins. Pop away anyway!	Essas foram todas as TaterCo
 Party popper! 10 balloons popped	Rei da festa! 10 balões estourados
 Happy birthday, Andres! Pop the balloons for TaterCoins	Feliz aniversário, Andres! Estoure os balões e ganhe TaterCoins
 Happy birthday! +25 TaterCoins	Feliz aniversário! +25 TaterCoins
+Prep the potatoes	Preparar as batatas
+In Fries, pick each potato from the crate and rinse it at the sink before you cut it. Roach's idea	Em Batata frita, pegue cada batata do engradado e lave na pia antes de cortar. Ideia do Roach
+Pick a potato from the crate	Pegue uma batata do engradado
+Rinse it: hold the click on the sink and rub	Lave: segure o clique na pia e esfregue
+Rinse it: hold on the sink and rub	Lave: segure na pia e esfregue
+Clean! Onto the board with it	Limpa! Para a tábua com ela
+Onto the board	Para a tábua

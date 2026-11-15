@@ -1418,3 +1418,10 @@ That's every balloon's TaterCoins. Pop away anyway!	Это все TaterCoins и�
 Party popper! 10 balloons popped	Душа вечеринки! Лопнуто 10 шариков
 Happy birthday, Andres! Pop the balloons for TaterCoins	С днём рождения, Andres! Лопай шарики и получай TaterCoins
 Happy birthday! +25 TaterCoins	С днём рождения! +25 TaterCoins
+Prep the potatoes	Готовить картошку
+In Fries, pick each potato from the crate and rinse it at the sink before you cut it. Roach's idea	В Картошке фри бери каждую картофелину из ящика и мой её в раковине, прежде чем резать. Идея Roach
+Pick a potato from the crate	Возьми картофелину из ящика
+Rinse it: hold the click on the sink and rub	Помой её: зажми клик на раковине и три
+Rinse it: hold on the sink and rub	Помой её: зажми на раковине и три
+Clean! Onto the board with it	Чистая! На доску её
+Onto the board	На доску

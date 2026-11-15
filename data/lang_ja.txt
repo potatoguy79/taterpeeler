@@ -1399,3 +1399,10 @@ That's every balloon's TaterCoins. Pop away anyway!	風船のTaterCoinsはこれ
 Party popper! 10 balloons popped	パーティーの主役！風船を10個割った
 Happy birthday, Andres! Pop the balloons for TaterCoins	Andres、お誕生日おめでとう！風船を割ってTaterCoinsをゲット
 Happy birthday! +25 TaterCoins	お誕生日おめでとう！+25 TaterCoins
+Prep the potatoes	じゃがいもの下ごしらえ
+In Fries, pick each potato from the crate and rinse it at the sink before you cut it. Roach's idea	フライドポテトで、切る前にじゃがいもを木箱から取ってシンクで洗う。Roachのアイデア
+Pick a potato from the crate	木箱からじゃがいもを取ろう
+Rinse it: hold the click on the sink and rub	洗おう：シンクをクリックしたままこすって
+Rinse it: hold on the sink and rub	洗おう：シンクを長押ししてこすって
+Clean! Onto the board with it	きれいになった！まな板へ
+Onto the board	まな板へ

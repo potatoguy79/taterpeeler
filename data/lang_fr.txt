@@ -1399,3 +1399,10 @@ That's every balloon's TaterCoins. Pop away anyway!	C'était toutes les TaterCoi
 Party popper! 10 balloons popped	Roi de la fête ! 10 ballons éclatés
 Happy birthday, Andres! Pop the balloons for TaterCoins	Joyeux anniversaire, Andres ! Éclate les ballons pour gagner des TaterCoins
 Happy birthday! +25 TaterCoins	Joyeux anniversaire ! +25 TaterCoins
+Prep the potatoes	Préparer les pommes de terre
+In Fries, pick each potato from the crate and rinse it at the sink before you cut it. Roach's idea	Dans Frites, prends chaque pomme de terre dans la caisse et rince-la à l'évier avant de la couper. Idée de Roach
+Pick a potato from the crate	Prends une pomme de terre dans la caisse
+Rinse it: hold the click on the sink and rub	Rince-la : garde le clic sur l'évier et frotte
+Rinse it: hold on the sink and rub	Rince-la : appuie sur l'évier et frotte
+Clean! Onto the board with it	Propre ! Sur la planche
+Onto the board	Sur la planche

@@ -1399,3 +1399,10 @@ That's every balloon's TaterCoins. Pop away anyway!	气球里的TaterCoins已经
 Party popper! 10 balloons popped	派对之星！戳破了10个气球
 Happy birthday, Andres! Pop the balloons for TaterCoins	Andres，生日快乐！戳破气球赢取TaterCoins
 Happy birthday! +25 TaterCoins	生日快乐！+25 TaterCoins
+Prep the potatoes	准备土豆
+In Fries, pick each potato from the crate and rinse it at the sink before you cut it. Roach's idea	在薯条模式里，切之前先从筐里拿一个土豆，在水槽里冲洗干净。Roach的点子
+Pick a potato from the crate	从筐里拿一个土豆
+Rinse it: hold the click on the sink and rub	冲洗：按住水槽并来回搓
+Rinse it: hold on the sink and rub	冲洗：按住水槽并来回搓
+Clean! Onto the board with it	洗干净了！放到砧板上
+Onto the board	放到砧板上

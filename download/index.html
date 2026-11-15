@@ -92,8 +92,8 @@
     <img src="../icon-192.png" alt="" width="72" height="72">
     <div>
       <h1>Get TaterPeeler</h1>
-      <p class="lead">Last updated 11/12/26 - 8:30PM</p>
-      <p class="lead">The whole game, on your own device. Version 4.0 is out on every app now.</p>
+      <p class="lead">Last updated 11/15/26 - 12:28PM</p>
+      <p class="lead">The whole game, on your own device. Version 4.1 is out on every app now.</p>
     </div>
   </header>
 
@@ -105,10 +105,11 @@
   <div class="list" id="android"></div>
 
   <p class="note">Each device keeps its own progress. To bring yours along, open <b>Settings → Cloud save</b> in the game, pick a code, then type the same code on the other device.</p>
-  <footer><span>Made by Andres Campos</span><span>TaterPeeler 3.0</span></footer>
+  <footer><span>Made by Andres Campos</span><span>TaterPeeler 4.1</span></footer>
 </main>
 
-<script src="files/manifest.js"></script>
+<script src="files/manifest.js?v=1794774511"></script>
+<script src="/taterpeeler-downloads/files/manifest.js?v=1794774511"></script>   <!-- (4.2: the computers' apps live on their own site: one site can only be 1 GB) -->
 <script>
 (function () {
   'use strict';
@@ -272,7 +273,7 @@
   async function fetchJoined(f, onProgress) {
     var parts = [], got = 0;
     for (var i = 0; i < f.parts.length; i++) {
-      var r = await fetch('files/' + f.parts[i], { cache: 'no-cache' });
+      var r = await fetch((f.base || 'files/') + f.parts[i], { cache: 'no-cache' });
       if (!r.ok) throw new Error('missing ' + f.parts[i]);
       if (r.body && r.body.getReader) {
         var rd = r.body.getReader(), bits = [];
@@ -325,7 +326,7 @@
           '<div class="line"><div class="info"><div class="name">' + it.name + (pick.indexOf(it.id) >= 0 && pick.length === 1 ? ' <span class="tag">For this device</span>' : '') + '</div>' +
           '<div class="sub">' + it.sub + ' · ' + fmtMB(f.size) + '</div></div>' +
           (f.parts ? '<button class="btn" type="button">' + DL + '<span>Download</span></button>'
-                   : '<a class="btn" href="files/' + it.file + '" download="' + it.file + '">' + DL + '<span>Download</span></a>') +
+                   : '<a class="btn" href="' + (f.base || 'files/') + it.file + '" download="' + it.file + '">' + DL + '<span>Download</span></a>') +
           '</div><div class="progress" aria-hidden="true"><i></i></div><div class="status" role="status"></div>' +
           '<details' + (pick.indexOf(it.id) >= 0 ? ' open' : '') + '><summary>How to install</summary><ol>' +
           steps.map(function (s) { return '<li>' + s + '</li>'; }).join('') + '</ol>' + brandSteps(it) + '</details>';
