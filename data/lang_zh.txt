@@ -1562,3 +1562,40 @@ Earn TaterCoins in Fries, then come back	去薯条里赚 TaterCoins 再回来
 Press OK again to pay	再按一次 OK 付款
 Press OK to get the pass	按 OK 购买通行证
 Input: TaterTV	信号源：TaterTV
+# 4.2: TaterCorner, the register, the light switch, the radio
+Register 1	收银台 1
+No order	没有订单
+That car isn't ordering	那辆车没有点餐
+Subtotal	小计
+Tax	税
+TOTAL	合计
+READY	就绪
+DRIVE-OFF	逃单
+Report them at the camera	在监控上举报
+APPROVED	已批准
+CARD...	刷卡中...
+Thank you!	谢谢！
+Reading their card	正在读卡
+RUNG UP	已录入
+Hand it out at the window	从窗口递出去
+NEW ORDER	新订单
+Ring it up	录入订单
+Ring up	录入
+Drawer	钱箱
+Receipt	小票
+Tonight: {0}  ·  {1} served	今晚：{0}  ·  已服务 {1}
+Rung up: +$0.25 in tips	已录入：小费 +$0.25
+The drawer's empty. Cards only after midnight	钱箱是空的。午夜后只收卡
+Receipt printed	小票已打印
+Lights off	灯已关
+Lights on	灯已开
+Light switch	电灯开关
+Turn the lights off	关灯
+Turn the lights on	开灯
+Use the register	使用收银台
+Radio	收音机
+Radio: {0} by {1}	收音机：{1}《{0}》
+Radio off	收音机已关
+Turn on the radio	打开收音机
+Next song	下一首
+Turn off the radio	关掉收音机

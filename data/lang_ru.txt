@@ -1585,3 +1585,40 @@ cars served#few	машины обслужены
 perfect orders#few	идеальных заказа
 Your pass: {0} more nights#few	Твой пропуск: ещё {0} ночи
 {0} programs to watch#few	{0} передачи для просмотра
+# 4.2: TaterCorner, the register, the light switch, the radio
+Register 1	Касса 1
+No order	Нет заказа
+That car isn't ordering	Эта машина ничего не заказывает
+Subtotal	Подытог
+Tax	Налог
+TOTAL	ИТОГО
+READY	ГОТОВО
+DRIVE-OFF	УЕХАЛИ
+Report them at the camera	Сообщи о них на камере
+APPROVED	ОДОБРЕНО
+CARD...	КАРТА...
+Thank you!	Спасибо!
+Reading their card	Читаем карту
+RUNG UP	ПРОБИТО
+Hand it out at the window	Отдай в окно
+NEW ORDER	НОВЫЙ ЗАКАЗ
+Ring it up	Пробей его
+Ring up	Пробить
+Drawer	Ящик
+Receipt	Чек
+Tonight: {0}  ·  {1} served	За ночь: {0}  ·  обслужено: {1}
+Rung up: +$0.25 in tips	Пробито: +0,25 $ чаевых
+The drawer's empty. Cards only after midnight	Ящик пуст. После полуночи только карты
+Receipt printed	Чек напечатан
+Lights off	Свет выключен
+Lights on	Свет включён
+Light switch	Выключатель
+Turn the lights off	Выключить свет
+Turn the lights on	Включить свет
+Use the register	Воспользоваться кассой
+Radio	Радио
+Radio: {0} by {1}	Радио: {1} — {0}
+Radio off	Радио выключено
+Turn on the radio	Включить радио
+Next song	Следующая песня
+Turn off the radio	Выключить радио

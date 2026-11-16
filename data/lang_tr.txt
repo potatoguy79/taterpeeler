@@ -1562,3 +1562,40 @@ Earn TaterCoins in Fries, then come back	Kızartma'da TaterCoin kazan, sonra ger
 Press OK again to pay	Ödemek için yine OK'a bas
 Press OK to get the pass	Kartı almak için OK'a bas
 Input: TaterTV	Giriş: TaterTV
+# 4.2: TaterCorner, the register, the light switch, the radio
+Register 1	Kasa 1
+No order	Sipariş yok
+That car isn't ordering	O araba sipariş vermiyor
+Subtotal	Ara toplam
+Tax	Vergi
+TOTAL	TOPLAM
+READY	HAZIR
+DRIVE-OFF	KAÇTILAR
+Report them at the camera	Kamerada bildir
+APPROVED	ONAYLANDI
+CARD...	KART...
+Thank you!	Teşekkürler!
+Reading their card	Kart okunuyor
+RUNG UP	GİRİLDİ
+Hand it out at the window	Pencereden ver
+NEW ORDER	YENİ SİPARİŞ
+Ring it up	Kasaya gir
+Ring up	Kasaya gir
+Drawer	Çekmece
+Receipt	Fiş
+Tonight: {0}  ·  {1} served	Bu gece: {0}  ·  {1} servis
+Rung up: +$0.25 in tips	Girildi: +0,25 $ bahşiş
+The drawer's empty. Cards only after midnight	Çekmece boş. Gece yarısından sonra sadece kart
+Receipt printed	Fiş yazdırıldı
+Lights off	Işıklar kapalı
+Lights on	Işıklar açık
+Light switch	Işık anahtarı
+Turn the lights off	Işıkları kapat
+Turn the lights on	Işıkları aç
+Use the register	Kasayı kullan
+Radio	Radyo
+Radio: {0} by {1}	Radyo: {1} - {0}
+Radio off	Radyo kapalı
+Turn on the radio	Radyoyu aç
+Next song	Sonraki şarkı
+Turn off the radio	Radyoyu kapat

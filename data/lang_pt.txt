@@ -1562,3 +1562,40 @@ Earn TaterCoins in Fries, then come back	Ganhe TaterCoins em Batata frita e depo
 Press OK again to pay	Aperte OK de novo para pagar
 Press OK to get the pass	Aperte OK para pegar o passe
 Input: TaterTV	Entrada: TaterTV
+# 4.2: TaterCorner, the register, the light switch, the radio
+Register 1	Caixa 1
+No order	Sem pedido
+That car isn't ordering	Esse carro não está pedindo
+Subtotal	Subtotal
+Tax	Imposto
+TOTAL	TOTAL
+READY	PRONTO
+DRIVE-OFF	FUGA
+Report them at the camera	Denuncie na câmera
+APPROVED	APROVADO
+CARD...	CARTÃO...
+Thank you!	Obrigado!
+Reading their card	Lendo o cartão
+RUNG UP	REGISTRADO
+Hand it out at the window	Entregue pela janela
+NEW ORDER	PEDIDO NOVO
+Ring it up	Registre o pedido
+Ring up	Registrar
+Drawer	Gaveta
+Receipt	Recibo
+Tonight: {0}  ·  {1} served	Esta noite: {0}  ·  {1} atendidos
+Rung up: +$0.25 in tips	Registrado: +$0,25 em gorjetas
+The drawer's empty. Cards only after midnight	A gaveta está vazia. Só cartão depois da meia-noite
+Receipt printed	Recibo impresso
+Lights off	Luzes apagadas
+Lights on	Luzes acesas
+Light switch	Interruptor de luz
+Turn the lights off	Apagar as luzes
+Turn the lights on	Acender as luzes
+Use the register	Usar o caixa
+Radio	Rádio
+Radio: {0} by {1}	Rádio: {0} de {1}
+Radio off	Rádio desligado
+Turn on the radio	Ligar o rádio
+Next song	Próxima música
+Turn off the radio	Desligar o rádio

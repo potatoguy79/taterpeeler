@@ -1562,3 +1562,40 @@ Earn TaterCoins in Fries, then come back	감자튀김에서 TaterCoins를 벌고
 Press OK again to pay	결제하려면 OK를 한 번 더
 Press OK to get the pass	이용권을 받으려면 OK
 Input: TaterTV	입력: TaterTV
+# 4.2: TaterCorner, the register, the light switch, the radio
+Register 1	계산대 1
+No order	주문 없음
+That car isn't ordering	저 차는 주문하지 않아요
+Subtotal	소계
+Tax	세금
+TOTAL	합계
+READY	대기
+DRIVE-OFF	먹튀
+Report them at the camera	카메라에서 신고하세요
+APPROVED	승인
+CARD...	카드...
+Thank you!	감사합니다!
+Reading their card	카드 읽는 중
+RUNG UP	입력 완료
+Hand it out at the window	창문으로 건네세요
+NEW ORDER	새 주문
+Ring it up	입력하세요
+Ring up	입력
+Drawer	돈통
+Receipt	영수증
+Tonight: {0}  ·  {1} served	오늘 밤: {0}  ·  {1}대 응대
+Rung up: +$0.25 in tips	입력 완료: 팁 +$0.25
+The drawer's empty. Cards only after midnight	돈통이 비었어요. 자정 이후엔 카드만
+Receipt printed	영수증 출력됨
+Lights off	불 꺼짐
+Lights on	불 켜짐
+Light switch	전등 스위치
+Turn the lights off	불 끄기
+Turn the lights on	불 켜기
+Use the register	계산대 사용
+Radio	라디오
+Radio: {0} by {1}	라디오: {1} - {0}
+Radio off	라디오 꺼짐
+Turn on the radio	라디오 켜기
+Next song	다음 곡
+Turn off the radio	라디오 끄기

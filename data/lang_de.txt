@@ -1562,3 +1562,40 @@ Earn TaterCoins in Fries, then come back	Verdien TaterCoins bei Pommes und komm 
 Press OK again to pay	Drück nochmal OK zum Bezahlen
 Press OK to get the pass	OK drücken für den Pass
 Input: TaterTV	Eingang: TaterTV
+# 4.2: TaterCorner, the register, the light switch, the radio
+Register 1	Kasse 1
+No order	Keine Bestellung
+That car isn't ordering	Das Auto bestellt nichts
+Subtotal	Zwischensumme
+Tax	MwSt.
+TOTAL	GESAMT
+READY	BEREIT
+DRIVE-OFF	ZECHPRELLER
+Report them at the camera	An der Kamera melden
+APPROVED	GENEHMIGT
+CARD...	KARTE...
+Thank you!	Danke!
+Reading their card	Karte wird gelesen
+RUNG UP	GEBUCHT
+Hand it out at the window	Am Fenster rausreichen
+NEW ORDER	NEUE BESTELLUNG
+Ring it up	Buchen
+Ring up	Buchen
+Drawer	Schublade
+Receipt	Beleg
+Tonight: {0}  ·  {1} served	Heute Nacht: {0}  ·  {1} bedient
+Rung up: +$0.25 in tips	Gebucht: +0,25 $ Trinkgeld
+The drawer's empty. Cards only after midnight	Die Schublade ist leer. Nach Mitternacht nur Karte
+Receipt printed	Beleg gedruckt
+Lights off	Licht aus
+Lights on	Licht an
+Light switch	Lichtschalter
+Turn the lights off	Licht ausschalten
+Turn the lights on	Licht einschalten
+Use the register	Kasse benutzen
+Radio	Radio
+Radio: {0} by {1}	Radio: {0} von {1}
+Radio off	Radio aus
+Turn on the radio	Radio einschalten
+Next song	Nächstes Lied
+Turn off the radio	Radio ausschalten

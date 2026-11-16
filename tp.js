@@ -399,7 +399,7 @@
   /* the credits' own music (3.0: the 1,000th potato). It plays in the SAME <audio> element as the game's music, with
      its address swapped: Safari only lets an element play by itself once a tap has started it, so a second element
      would wait for another tap (the credits' music only started when you tapped). */
-  const TRACKS = ['data/music.mp3', 'data/credits_music.mp3' + V, 'data/corner_intro.mp3' + V];   /* (4.2: 2, Tater Corner's arrival) */
+  const TRACKS = ['data/music.mp3', 'data/credits_music.mp3' + V, 'data/corner_intro.mp3' + V, 'data/corner_music.mp3' + V, 'data/radio_1.mp3' + V, 'data/radio_2.mp3' + V, 'data/radio_3.mp3' + V];   /* (4.2: 4..6, the kitchen radio) */   /* (4.2: 2, Tater Corner's arrival; 3, its own music) */
   let musicTrack = 0;
   const trackBlobs = {};
   function useTrack(t) {

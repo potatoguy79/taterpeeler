@@ -1585,3 +1585,40 @@ cars served#few	obsłużone samochody
 perfect orders#few	idealne zamówienia
 Your pass: {0} more nights#few	Twój karnet: jeszcze {0} noce
 {0} programs to watch#few	{0} programy do obejrzenia
+# 4.2: TaterCorner, the register, the light switch, the radio
+Register 1	Kasa 1
+No order	Brak zamówienia
+That car isn't ordering	Ten samochód nic nie zamawia
+Subtotal	Suma częściowa
+Tax	Podatek
+TOTAL	RAZEM
+READY	GOTOWE
+DRIVE-OFF	UCIECZKA
+Report them at the camera	Zgłoś ich przy kamerze
+APPROVED	ZAAKCEPTOWANO
+CARD...	KARTA...
+Thank you!	Dziękujemy!
+Reading their card	Czytanie karty
+RUNG UP	NABITE
+Hand it out at the window	Podaj przez okienko
+NEW ORDER	NOWE ZAMÓWIENIE
+Ring it up	Nabij je
+Ring up	Nabij
+Drawer	Szuflada
+Receipt	Paragon
+Tonight: {0}  ·  {1} served	Ta noc: {0}  ·  obsłużono: {1}
+Rung up: +$0.25 in tips	Nabite: +0,25 $ napiwku
+The drawer's empty. Cards only after midnight	Szuflada jest pusta. Po północy tylko karta
+Receipt printed	Paragon wydrukowany
+Lights off	Światła zgaszone
+Lights on	Światła zapalone
+Light switch	Włącznik światła
+Turn the lights off	Zgaś światła
+Turn the lights on	Zapal światła
+Use the register	Użyj kasy
+Radio	Radio
+Radio: {0} by {1}	Radio: {0}, {1}
+Radio off	Radio wyłączone
+Turn on the radio	Włącz radio
+Next song	Następna piosenka
+Turn off the radio	Wyłącz radio

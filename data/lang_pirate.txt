@@ -1562,3 +1562,40 @@ Earn TaterCoins in Fries, then come back	Earn TaterCoins in Fries, then come bac
 Press OK again to pay	Press OK again to pay
 Press OK to get the pass	Press OK to get the pass
 Input: TaterTV	Input: TaterTV
+# 4.2: TaterCorner, the register, the light switch, the radio
+Register 1	Register 1
+No order	No order
+That car isn't ordering	That cart ain't orderin'
+Subtotal	Subtotal
+Tax	Tax
+TOTAL	TOTAL
+READY	READY
+DRIVE-OFF	FLED
+Report them at the camera	Report 'em at the spyglass
+APPROVED	APPROVED
+CARD...	CARD...
+Thank you!	Thank ye!
+Reading their card	Readin' their card
+RUNG UP	RUNG UP
+Hand it out at the window	Hand it out the porthole
+NEW ORDER	NEW ORDER
+Ring it up	Ring it up
+Ring up	Ring up
+Drawer	Strongbox
+Receipt	Receipt
+Tonight: {0}  ·  {1} served	Tonight: {0}  ·  {1} served
+Rung up: +$0.25 in tips	Rung up: +$0.25 in tips
+The drawer's empty. Cards only after midnight	The strongbox be empty. Cards only after midnight
+Receipt printed	Receipt printed
+Lights off	Lights out
+Lights on	Lights on
+Light switch	Light switch
+Turn the lights off	Douse the lights
+Turn the lights on	Light the lamps
+Use the register	Use the register
+Radio	Radio
+Radio: {0} by {1}	Radio: {0} by {1}
+Radio off	Radio off
+Turn on the radio	Turn on the radio
+Next song	Next shanty
+Turn off the radio	Turn off the radio

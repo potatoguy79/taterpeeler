@@ -1562,3 +1562,40 @@ Earn TaterCoins in Fries, then come back	フライドポテトでTaterCoinsを�
 Press OK again to pay	もう一度OKで支払う
 Press OK to get the pass	OKでパスを買う
 Input: TaterTV	入力: TaterTV
+# 4.2: TaterCorner, the register, the light switch, the radio
+Register 1	レジ 1
+No order	注文なし
+That car isn't ordering	あの車は注文していない
+Subtotal	小計
+Tax	税
+TOTAL	合計
+READY	待機中
+DRIVE-OFF	食い逃げ
+Report them at the camera	カメラで通報して
+APPROVED	承認
+CARD...	カード...
+Thank you!	ありがとう!
+Reading their card	カードを読み取り中
+RUNG UP	打ち込み済み
+Hand it out at the window	窓から渡して
+NEW ORDER	新しい注文
+Ring it up	打ち込んで
+Ring up	打ち込む
+Drawer	ドロワー
+Receipt	レシート
+Tonight: {0}  ·  {1} served	今夜: {0}  ·  {1}台に対応
+Rung up: +$0.25 in tips	打ち込み: チップ +$0.25
+The drawer's empty. Cards only after midnight	ドロワーは空。深夜はカードのみ
+Receipt printed	レシートを印刷した
+Lights off	消灯
+Lights on	点灯
+Light switch	照明スイッチ
+Turn the lights off	照明を消す
+Turn the lights on	照明をつける
+Use the register	レジを使う
+Radio	ラジオ
+Radio: {0} by {1}	ラジオ: {1}「{0}」
+Radio off	ラジオ オフ
+Turn on the radio	ラジオをつける
+Next song	次の曲
+Turn off the radio	ラジオを消す
