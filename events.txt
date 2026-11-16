@@ -16,7 +16,7 @@
 #        a popup, the Birthday Peeler (peels 2x quicker) and 1000 TaterCoins, once.
 #   off: the birthday potato goes away, but everyone keeps their coins and the peeler.
 #   👉👉👉  change the next line  👇
-birthday: on
+birthday: off
 #
 # ----------------------------------------------------------------------------------
 #   🦃  THANKSGIVING                                    words you can use:  auto  /  on  /  off
