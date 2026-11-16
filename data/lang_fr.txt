@@ -1648,3 +1648,21 @@ SERVED	SERVIS
 MODE	MODE
 NEXT	SUIVANT
 Tap anywhere for sound	Touche n'importe où pour le son
+
+# 4.1: the three cards; the menu music
+Saving your information to the cloud will soon be required	Sauvegarder tes données dans le cloud sera bientôt obligatoire
+Your progress is in the cloud	Ta progression est dans le cloud
+Cloud save is on, so your potatoes, coins and everything else are safe. Nothing to do here.	La sauvegarde cloud est activée : tes patates, tes pièces et tout le reste sont en sécurité. Rien à faire ici.
+Cloud save keeps your potatoes, coins and everything else safe, and lets you play on any device. It takes a few seconds.	La sauvegarde cloud protège tes patates, tes pièces et tout le reste, et te permet de jouer sur n'importe quel appareil. Ça prend quelques secondes.
+Want some new music?	Envie d'une nouvelle musique ?
+Want TaterCorner's music?	Envie de la musique de TaterCorner ?
+Swap the menu's music for the new night-time track. You can change it back in Settings, any time.	Remplace la musique du menu par le nouveau morceau de nuit. Tu peux revenir en arrière dans Réglages, à tout moment.
+Swap the menu's music for TaterCorner's night-time track. You can change it back in Settings, any time.	Remplace la musique du menu par le morceau de nuit de TaterCorner. Tu peux revenir en arrière dans Réglages, à tout moment.
+Sorry for the pop-ups	Désolé pour les pop-ups
+No one reads the new features.	Personne ne lit les nouveautés.
+Set up Cloud save	Activer la sauvegarde cloud
+Use it	L'utiliser
+Playing it now	En cours de lecture
+Night-time music	Musique de nuit
+TaterCorner's music	Musique de TaterCorner
+Plays on the menu instead	Joue sur le menu à la place

@@ -1648,3 +1648,21 @@ SERVED	提供
 MODE	モード
 NEXT	つぎ
 Tap anywhere for sound	どこかをタップすると音が出ます
+
+# 4.1: the three cards; the menu music
+Saving your information to the cloud will soon be required	まもなくクラウドへの保存が必要になります
+Your progress is in the cloud	進行状況はクラウドにあります
+Cloud save is on, so your potatoes, coins and everything else are safe. Nothing to do here.	クラウドセーブはオンなので、ポテトもコインも全部安全です。ここですることはありません。
+Cloud save keeps your potatoes, coins and everything else safe, and lets you play on any device. It takes a few seconds.	クラウドセーブでポテトやコインなど全部が守られ、どの端末でも遊べます。数秒で終わります。
+Want some new music?	新しい音楽にする？
+Want TaterCorner's music?	TaterCornerの音楽にする？
+Swap the menu's music for the new night-time track. You can change it back in Settings, any time.	メニューの音楽を新しい夜の曲に変えます。設定でいつでも戻せます。
+Swap the menu's music for TaterCorner's night-time track. You can change it back in Settings, any time.	メニューの音楽をTaterCornerの夜の曲に変えます。設定でいつでも戻せます。
+Sorry for the pop-ups	ポップアップばかりでごめんね
+No one reads the new features.	新機能のお知らせはだれも読まないので。
+Set up Cloud save	クラウドセーブを設定
+Use it	これにする
+Playing it now	再生中
+Night-time music	夜の音楽
+TaterCorner's music	TaterCornerの音楽
+Plays on the menu instead	メニューでかわりに流れます

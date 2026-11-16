@@ -1671,3 +1671,21 @@ SERVED	ОБСЛУЖЕНО
 MODE	РЕЖИМ
 NEXT	ДАЛЕЕ
 Tap anywhere for sound	Нажми куда угодно, чтобы включить звук
+
+# 4.1: the three cards; the menu music
+Saving your information to the cloud will soon be required	Скоро сохранение в облаке станет обязательным
+Your progress is in the cloud	Твой прогресс в облаке
+Cloud save is on, so your potatoes, coins and everything else are safe. Nothing to do here.	Облачное сохранение включено: твоя картошка, монеты и всё остальное в безопасности. Тут ничего делать не нужно.
+Cloud save keeps your potatoes, coins and everything else safe, and lets you play on any device. It takes a few seconds.	Облачное сохранение бережёт картошку, монеты и всё остальное и позволяет играть на любом устройстве. Это займёт пару секунд.
+Want some new music?	Хочешь новую музыку?
+Want TaterCorner's music?	Хочешь музыку из TaterCorner?
+Swap the menu's music for the new night-time track. You can change it back in Settings, any time.	Замени музыку в меню на новый ночной трек. Вернуть можно в Настройках в любой момент.
+Swap the menu's music for TaterCorner's night-time track. You can change it back in Settings, any time.	Замени музыку в меню на ночной трек из TaterCorner. Вернуть можно в Настройках в любой момент.
+Sorry for the pop-ups	Извини за всплывающие окна
+No one reads the new features.	Никто не читает про новые функции.
+Set up Cloud save	Включить облачное сохранение
+Use it	Включить
+Playing it now	Уже играет
+Night-time music	Ночная музыка
+TaterCorner's music	Музыка TaterCorner
+Plays on the menu instead	Играет в меню вместо обычной

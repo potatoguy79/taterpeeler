@@ -1648,3 +1648,21 @@ SERVED	서빙
 MODE	모드
 NEXT	다음
 Tap anywhere for sound	아무 곳이나 탭하면 소리가 나요
+
+# 4.1: the three cards; the menu music
+Saving your information to the cloud will soon be required	곧 클라우드에 정보를 저장해야 해요
+Your progress is in the cloud	진행 상황이 클라우드에 있어요
+Cloud save is on, so your potatoes, coins and everything else are safe. Nothing to do here.	클라우드 저장이 켜져 있어서 감자, 코인, 그 밖의 모든 것이 안전해요. 여기서 할 일은 없어요.
+Cloud save keeps your potatoes, coins and everything else safe, and lets you play on any device. It takes a few seconds.	클라우드 저장은 감자, 코인 등 모든 것을 안전하게 지키고 어느 기기에서나 플레이하게 해 줘요. 몇 초면 돼요.
+Want some new music?	새 음악 어때요?
+Want TaterCorner's music?	TaterCorner 음악 어때요?
+Swap the menu's music for the new night-time track. You can change it back in Settings, any time.	메뉴 음악을 새 밤 테마 곡으로 바꿔요. 설정에서 언제든 되돌릴 수 있어요.
+Swap the menu's music for TaterCorner's night-time track. You can change it back in Settings, any time.	메뉴 음악을 TaterCorner의 밤 테마 곡으로 바꿔요. 설정에서 언제든 되돌릴 수 있어요.
+Sorry for the pop-ups	팝업이 많아서 미안해요
+No one reads the new features.	아무도 새 기능 소개를 안 읽거든요.
+Set up Cloud save	클라우드 저장 설정
+Use it	사용하기
+Playing it now	재생 중
+Night-time music	밤 음악
+TaterCorner's music	TaterCorner 음악
+Plays on the menu instead	대신 메뉴에서 재생돼요

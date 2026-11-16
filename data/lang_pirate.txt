@@ -1648,3 +1648,21 @@ SERVED	SERVED
 MODE	MODE
 NEXT	NEXT
 Tap anywhere for sound	Tap anywhere fer sound
+
+# 4.1: the three cards; the menu music
+Saving your information to the cloud will soon be required	Soon ye'll be needin' to stow yer treasure in the clouds
+Your progress is in the cloud	Yer treasure be safe in the clouds
+Cloud save is on, so your potatoes, coins and everything else are safe. Nothing to do here.	Cloud save be on, so yer spuds, doubloons an' all else be safe. Naught to do here.
+Cloud save keeps your potatoes, coins and everything else safe, and lets you play on any device. It takes a few seconds.	Cloud save keeps yer spuds, doubloons an' all else safe, an' lets ye play on any ship. It takes but a few seconds.
+Want some new music?	Fancy a new shanty?
+Want TaterCorner's music?	Fancy TaterCorner's shanty?
+Swap the menu's music for the new night-time track. You can change it back in Settings, any time.	Swap the menu's tune for the new midnight shanty. Ye can change it back in Settings, any time.
+Swap the menu's music for TaterCorner's night-time track. You can change it back in Settings, any time.	Swap the menu's tune for TaterCorner's midnight shanty. Ye can change it back in Settings, any time.
+Sorry for the pop-ups	Beggin' pardon for the pop-ups
+No one reads the new features.	Nobody reads the new features, savvy.
+Set up Cloud save	Set up Cloud save
+Use it	Aye, use it
+Playing it now	Playin' now
+Night-time music	Midnight shanty
+TaterCorner's music	TaterCorner's shanty
+Plays on the menu instead	Plays on the menu instead

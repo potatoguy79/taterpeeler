@@ -1648,3 +1648,21 @@ SERVED	已服务
 MODE	模式
 NEXT	下一步
 Tap anywhere for sound	点击任意位置开启声音
+
+# 4.1: the three cards; the menu music
+Saving your information to the cloud will soon be required	很快就需要把你的信息保存到云端了
+Your progress is in the cloud	你的进度已在云端
+Cloud save is on, so your potatoes, coins and everything else are safe. Nothing to do here.	云存档已开启，你的土豆、金币和其他一切都很安全。这里不用做什么。
+Cloud save keeps your potatoes, coins and everything else safe, and lets you play on any device. It takes a few seconds.	云存档能保护你的土豆、金币和其他一切，还能在任何设备上玩。只需几秒钟。
+Want some new music?	想换点新音乐吗？
+Want TaterCorner's music?	想用 TaterCorner 的音乐吗？
+Swap the menu's music for the new night-time track. You can change it back in Settings, any time.	把菜单音乐换成新的夜间曲目。随时可以在设置里换回来。
+Swap the menu's music for TaterCorner's night-time track. You can change it back in Settings, any time.	把菜单音乐换成 TaterCorner 的夜间曲目。随时可以在设置里换回来。
+Sorry for the pop-ups	抱歉弹窗有点多
+No one reads the new features.	因为没人看新功能介绍。
+Set up Cloud save	设置云存档
+Use it	就用它
+Playing it now	正在播放
+Night-time music	夜间音乐
+TaterCorner's music	TaterCorner 的音乐
+Plays on the menu instead	改在菜单里播放

@@ -1648,3 +1648,21 @@ SERVED	SERVİS
 MODE	MOD
 NEXT	SIRADAKİ
 Tap anywhere for sound	Ses için herhangi bir yere dokun
+
+# 4.1: the three cards; the menu music
+Saving your information to the cloud will soon be required	Bilgilerini buluta kaydetmek yakında zorunlu olacak
+Your progress is in the cloud	İlerlemen bulutta
+Cloud save is on, so your potatoes, coins and everything else are safe. Nothing to do here.	Bulut kaydı açık, patateslerin, paraların ve geri kalan her şey güvende. Burada yapacak bir şey yok.
+Cloud save keeps your potatoes, coins and everything else safe, and lets you play on any device. It takes a few seconds.	Bulut kaydı patateslerini, paralarını ve her şeyi güvende tutar, her cihazda oynamanı sağlar. Birkaç saniye sürer.
+Want some new music?	Yeni müzik ister misin?
+Want TaterCorner's music?	TaterCorner'ın müziğini ister misin?
+Swap the menu's music for the new night-time track. You can change it back in Settings, any time.	Menü müziğini yeni gece parçasıyla değiştir. Ayarlar'dan istediğin zaman geri alabilirsin.
+Swap the menu's music for TaterCorner's night-time track. You can change it back in Settings, any time.	Menü müziğini TaterCorner'ın gece parçasıyla değiştir. Ayarlar'dan istediğin zaman geri alabilirsin.
+Sorry for the pop-ups	Açılır pencereler için kusura bakma
+No one reads the new features.	Kimse yeni özellikleri okumuyor.
+Set up Cloud save	Bulut kaydını kur
+Use it	Kullan
+Playing it now	Çalıyor
+Night-time music	Gece müziği
+TaterCorner's music	TaterCorner müziği
+Plays on the menu instead	Bunun yerine menüde çalar

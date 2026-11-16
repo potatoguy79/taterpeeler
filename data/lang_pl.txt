@@ -1671,3 +1671,21 @@ SERVED	OBSŁUŻONE
 MODE	TRYB
 NEXT	DALEJ
 Tap anywhere for sound	Dotknij gdziekolwiek, aby włączyć dźwięk
+
+# 4.1: the three cards; the menu music
+Saving your information to the cloud will soon be required	Wkrótce zapis w chmurze będzie wymagany
+Your progress is in the cloud	Twoje postępy są w chmurze
+Cloud save is on, so your potatoes, coins and everything else are safe. Nothing to do here.	Zapis w chmurze jest włączony, więc ziemniaki, monety i cała reszta są bezpieczne. Nic tu nie trzeba robić.
+Cloud save keeps your potatoes, coins and everything else safe, and lets you play on any device. It takes a few seconds.	Zapis w chmurze chroni ziemniaki, monety i całą resztę i pozwala grać na każdym urządzeniu. To zajmie kilka sekund.
+Want some new music?	Chcesz nową muzykę?
+Want TaterCorner's music?	Chcesz muzykę z TaterCorner?
+Swap the menu's music for the new night-time track. You can change it back in Settings, any time.	Zamień muzykę w menu na nowy nocny utwór. W Ustawieniach możesz to zmienić z powrotem w każdej chwili.
+Swap the menu's music for TaterCorner's night-time track. You can change it back in Settings, any time.	Zamień muzykę w menu na nocny utwór z TaterCorner. W Ustawieniach możesz to zmienić z powrotem w każdej chwili.
+Sorry for the pop-ups	Przepraszam za wyskakujące okienka
+No one reads the new features.	Nikt nie czyta o nowościach.
+Set up Cloud save	Włącz zapis w chmurze
+Use it	Użyj
+Playing it now	Gra teraz
+Night-time music	Nocna muzyka
+TaterCorner's music	Muzyka z TaterCorner
+Plays on the menu instead	Gra w menu zamiast tamtej
