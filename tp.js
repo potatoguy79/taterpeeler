@@ -401,6 +401,17 @@
      would wait for another tap (the credits' music only started when you tapped). */
   const TRACKS = ['data/music.mp3', 'data/credits_music.mp3' + V, 'data/corner_intro.mp3' + V, 'data/corner_music.mp3' + V, 'data/radio_1.mp3' + V, 'data/radio_2.mp3' + V, 'data/radio_3.mp3' + V];   /* (4.2: 4..6, the kitchen radio) */   /* (4.2: 2, Tater Corner's arrival; 3, its own music) */
   let musicTrack = 0;
+  let musicBase = 0.54, musicFade = 1, musicFadeTimer = 0;   /* 4.2: the settings' volume, and a fade on top of it */
+  function musicVolNow() { try { music.volume = Math.max(0, Math.min(1, musicBase * musicFade)); } catch (e) {} }
+  function musicFadeTo(v, ms, then) {
+    clearInterval(musicFadeTimer);
+    const from = musicFade, t0 = performance.now();
+    musicFadeTimer = setInterval(() => {
+      const k = Math.min(1, (performance.now() - t0) / Math.max(1, ms));
+      musicFade = from + (v - from) * k; musicVolNow();
+      if (k >= 1) { clearInterval(musicFadeTimer); if (then) then(); }
+    }, 30);
+  }
   const trackBlobs = {};
   function useTrack(t) {
     musicTrack = t;
@@ -928,17 +939,23 @@
       L.src.playbackRate.value = rate;
     },
     plat_download: () => { if (window.TP_DOWNLOAD_PAGE) location.href = window.TP_DOWNLOAD_PAGE; },
-    plat_music_volume: v => { music.volume = Math.max(0, Math.min(1, v * 1.1)); },
+    plat_music_volume: v => { musicBase = Math.max(0, Math.min(1, v * 1.1)); musicVolNow(); },
     plat_frame_rate: fps => { minFrameMs = fps >= 60 ? 0 : 1000 / fps - 4; },
     plat_push_state: () => window.TP_PUSH ? window.TP_PUSH.state() : 0,   /* (the website's push.js; the apps have none) */
     plat_push_ask: () => { if (window.TP_PUSH) window.TP_PUSH.ask(); },
-    plat_music_track: t => {   /* 0 the game's music, 1 the credits' (from the start), 2 Tater Corner's arrival (4.2) */
-      t = t === 1 || t === 2 ? t : 0;
+    plat_music_track: t => {   /* 0 the game's music, 1 the credits' (from the start), 2 Tater Corner's arrival, 3 its own music, 4..6 its radio (4.2) */
+      t = t >= 0 && t < TRACKS.length ? t : 0;
       if (t === musicTrack && t === 0) return;
-      music.pause(); musicStarted = false;
-      const ready = useTrack(t);
-      try { music.currentTime = 0; } catch (e) {}
-      if (ready && musicWanted && unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {});
+      const swap = () => {
+        music.pause(); musicStarted = false;
+        const ready = useTrack(t);
+        try { music.currentTime = 0; } catch (e) {}
+        if (ready && musicWanted && unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {});
+        musicFadeTo(1, t >= 3 ? 900 : 300);
+      };
+      /* 4.2: Tater Corner's music and its radio fade out, then the next fades in (the one <audio> element: see above) */
+      if (musicStarted && !music.paused && (t >= 3 || musicTrack >= 3)) musicFadeTo(0, 650, swap);
+      else { musicFade = t >= 3 ? 0 : 1; musicVolNow(); swap(); }
     },
     plat_music: on => { musicWanted = !!on; if (on) { if (unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {}); } else { music.pause(); musicStarted = false; } },
     plat_cursor: k => {
