@@ -1406,3 +1406,159 @@ Rinse it: hold the click on the sink and rub	Rince-la : garde le clic sur l'évi
 Rinse it: hold on the sink and rub	Rince-la : appuie sur l'évier et frotte
 Clean! Onto the board with it	Propre ! Sur la planche
 Onto the board	Sur la planche
+# 4.2: TaterCorner
+Emergency shotgun	Fusil d'urgence
+Clean!	Propre !
+Scrubbing	Brossage
+The shift waits while you watch TV	Le service attend pendant que tu regardes la télé
+Click a station to walk over and use it. W A S D walk, drag to look around	Clique sur un poste pour y aller et l'utiliser. W A S D pour marcher, fais glisser pour regarder
+Tap a station to walk over and use it. Slide on the left to walk, drag to look	Touche un poste pour y aller et l'utiliser. Glisse à gauche pour marcher, fais glisser pour regarder
+Cameras	Caméras
+Open all night	Ouvert toute la nuit
+Your shift starts at 11:00 PM	Ton service commence à 23 h
+Pull into the glowing spot and stop	Gare-toi sur la place lumineuse et arrête-toi
+Drive to work: park in the glowing spot by the door	Va au travail : gare-toi sur la place lumineuse près de la porte
+W A S D or the arrow keys	W A S D ou les flèches
+Brake	Frein
+Gas	Gaz
+11:00 PM	23 h
+Skip the drive	Passer le trajet
+That's not what they asked for: throw it away	Ce n'est pas ce qu'ils ont demandé : jette-le
+Add {0}	Ajoute {0}
+Put it in the bag	Mets-le dans le sac
+Scoop a portion of fries	Prends une portion de frites
+Lift the fries out	Sors les frites
+The fries have gone cold: refry them	Les frites ont refroidi : refais-les frire
+The fries are frying	Les frites sont en train de frire
+Throw out the burnt fries	Jette les frites brûlées
+Drop fries in the fryer	Mets des frites dans la friteuse
+Take the potato out of the microwave	Sors la pomme de terre du micro-ondes
+The potato is cooking	La pomme de terre cuit
+Put the clean potato in the microwave	Mets la pomme de terre propre au micro-ondes
+Scrubbing the potato	Brossage de la pomme de terre
+Scrub the potato in the sink	Brosse la pomme de terre dans l'évier
+Take a potato to the sink	Apporte une pomme de terre à l'évier
+Fries all over the floor! Get the broom from the supply closet	Des frites partout par terre ! Prends le balai dans le placard
+Sweep up the fries: hold the click on them and rub	Balaie les frites : garde le clic appuyé dessus et frotte
+Sweep up the fries: hold on them and rub	Balaie les frites : garde le doigt dessus et frotte
+Something's wrong with this guy. Take the emergency shotgun off the wall	Ce type a un problème. Prends le fusil d'urgence au mur
+Point it at his car	Vise sa voiture
+They're paying	Ils paient
+Lift the fries out before they burn	Sors les frites avant qu'elles brûlent
+They drove off without paying: report their plate at the camera	Ils sont partis sans payer : signale leur plaque à la caméra
+Get ahead: drop fries in the fryer	Prends de l'avance : mets des frites dans la friteuse
+A car is pulling up	Une voiture arrive
+That's the last car	C'est la dernière voiture
+Waiting for the next car	En attente de la prochaine voiture
+That's not on the order: throw it away	Ce n'est pas dans la commande : jette-le
+Add {0} to the bag	Ajoute {0} au sac
+Hand the bag out of the window	Tends le sac par la fenêtre
+Still frying: give them a moment	Encore en train de frire : patiente un peu
+Not with a shotgun in your hands.	Pas avec un fusil dans les mains.
+Fries in the oil	Frites dans l'huile
+Back in the oil	De retour dans l'huile
+Fries out: in the dump	Frites sorties : dans le bac
+Your hands are full: bag that first	Tu as les mains pleines : emballe ça d'abord
+No fries here yet: drop some in the fryer	Pas encore de frites : mets-en dans la friteuse
+No fries here yet: they're still in the fryer	Pas encore de frites : elles sont encore dans la friteuse
+A portion of fries	Une portion de frites
+Scrub the one in the sink first	Brosse d'abord celle dans l'évier
+Potato in the sink	Pomme de terre dans l'évier
+Nothing in the sink: take a potato from the crate	Rien dans l'évier : prends une pomme de terre dans la caisse
+Into the microwave	Au micro-ondes
+Scrub the potato in the sink first	Brosse d'abord la pomme de terre dans l'évier
+Empty: wash a potato in the sink first	Vide : lave d'abord une pomme de terre dans l'évier
+Nothing in your hands to bag yet	Rien dans les mains à emballer
+In the bag	Dans le sac
+He doesn't want food. He's got mustard.	Il ne veut pas à manger. Il a de la moutarde.
+He's gone.	Il est parti.
+The order isn't finished yet. Use the window again to hand it out anyway	La commande n'est pas finie. Utilise la fenêtre de nouveau pour la donner quand même
+Nothing in the bag yet: make the order first	Rien dans le sac : prépare d'abord la commande
+Nothing in your hands to put it on	Rien dans les mains où le mettre
+Refry the cold fries	Refais frire les frites froides
+Drop fries in	Mettre des frites
+Frying...	Friture...
+Scoop a portion	Prendre une portion
+Empty	Vide
+Take one to the sink	En apporter une à l'évier
+Scrubbing...	Brossage...
+Scrub the potato	Brosser la pomme de terre
+Put it in the microwave	Mets-la au micro-ondes
+Take the potato out	Sortir la pomme de terre
+Cooking...	Cuisson...
+Put the potato in	Mettre la pomme de terre
+Bag what you're holding	Emballer ce que tu tiens
+Nothing to bag	Rien à emballer
+Hand out the bag	Donner le sac
+Nobody there	Personne
+Throw away what you're holding	Jeter ce que tu tiens
+Empty the bag	Vider le sac
+Watch the cameras	Regarder les caméras
+Put some on	En mettre
+Nothing to put it on	Rien où le mettre
+Add one to the bag	En ajouter une au sac
+Pick up the remote	Prendre la télécommande
+Take the shotgun	Prendre le fusil
+Emergency use only	Urgence uniquement
+Hold the click and rub to sweep	Garde le clic et frotte pour balayer
+Hold and rub to sweep	Garde le doigt et frotte pour balayer
+NIGHT SHIFT · 11:00 PM TO 7:00 AM	SERVICE DE NUIT · 23 H À 7 H
+Cars pull up to the window and order	Les voitures s'arrêtent à la fenêtre et commandent
+Make it: the Next step says what, the signs say where	Prépare : l'étape suivante dit quoi, les enseignes disent où
+Bag it with their sauces and hand it out	Emballe avec leurs sauces et donne-le
+No clock until your first order's out	Pas de chrono avant ta première commande
+Clock in	Pointer
+Practice	Entraînement
+No clock	Sans chrono
+Open all night. Someone has to be.	Ouvert toute la nuit. Il faut bien que quelqu'un soit là.
+PAUSED	PAUSE
+Click a station to walk over and use it. W A S D walk, drag to look, E uses what's in the middle, C is the cameras.	Clique sur un poste pour y aller et l'utiliser. W A S D pour marcher, fais glisser pour regarder, E utilise ce qui est au centre, C ouvre les caméras.
+Tap a station to walk over and use it. Slide on the left to walk yourself, drag to look around.	Touche un poste pour y aller et l'utiliser. Glisse à gauche pour marcher toi-même, fais glisser pour regarder.
+PRACTICE OVER	ENTRAÎNEMENT FINI
+CLOCKED OUT	FIN DU SERVICE
+TONIGHT'S TAKE	RECETTE DE LA NUIT
+car served	voiture servie
+cars served	voitures servies
+perfect order	commande parfaite
+perfect orders	commandes parfaites
+lost to drive-offs	perdu en fuites
+tips	pourboires
+DRIVE-THRU	DRIVE
+KITCHEN	CUISINE
+PARKING LOT	PARKING
+The shift waits while you watch	Le service attend pendant que tu regardes
+Previous	Précédent
+Back to work	Retour au travail
+{0} served	{0} servies
+MEANWHILE	EN ATTENDANT
+NEXT STEP	ÉTAPE SUIVANTE
+In your hands: {0}	Dans tes mains : {0}
+Drive-off!	Partis sans payer !
+Wrong order	Mauvaise commande
+Perfect order!	Commande parfaite !
+Order complete	Commande prête
+They didn't pay. Report their plate at the camera	Ils n'ont pas payé. Signale leur plaque à la caméra
+You put the shotgun back on the wall.	Tu as remis le fusil au mur.
+Emergency use only.	Urgence uniquement.
+Point it at his car.	Vise sa voiture.
+Special programs, for TaterCoins	Émissions spéciales, contre des TaterCoins
+Can't reach TaterTV right now	Impossible de joindre TaterTV pour l'instant
+No programs yet. Check back soon	Pas encore d'émissions. Reviens bientôt
+Not enough TaterCoins yet	Pas encore assez de TaterCoins
+Welcome to TaterTV+	Bienvenue sur TaterTV+
+Now showing: {0}	À l'antenne : {0}
+Your pass: {0} more night	Ton pass : encore {0} nuit
+Your pass: {0} more nights	Ton pass : encore {0} nuits
+Press OK to watch	Appuie sur OK pour regarder
+NEW	NOUVEAU
+New programs are on their way	De nouvelles émissions arrivent
+Special programs from the TaterPeeler team	Émissions spéciales de l'équipe TaterPeeler
+The first programs are coming soon	Les premières émissions arrivent bientôt
+7 nights for {0} TaterCoins	7 nuits pour {0} TaterCoins
+{0} program to watch	{0} émission à regarder
+{0} programs to watch	{0} émissions à regarder
+You have {0} TaterCoins	Tu as {0} TaterCoins
+Earn TaterCoins in Fries, then come back	Gagne des TaterCoins dans Frites, puis reviens
+Press OK again to pay	Appuie encore sur OK pour payer
+Press OK to get the pass	Appuie sur OK pour prendre le pass
+Input: TaterTV	Source : TaterTV

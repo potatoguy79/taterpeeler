@@ -1406,3 +1406,159 @@ Rinse it: hold the click on the sink and rub	Acláralas: mantén el clic en el f
 Rinse it: hold on the sink and rub	Acláralas: mantén pulsado el fregadero y frota
 Clean! Onto the board with it	¡Limpia! A la tabla con ella
 Onto the board	A la tabla
+# 4.2: TaterCorner
+Emergency shotgun	Escopeta de emergencia
+Clean!	¡Limpia!
+Scrubbing	Frotando
+The shift waits while you watch TV	El turno espera mientras ves la tele
+Click a station to walk over and use it. W A S D walk, drag to look around	Haz clic en una estación para ir y usarla. W A S D para caminar, arrastra para mirar
+Tap a station to walk over and use it. Slide on the left to walk, drag to look	Toca una estación para ir y usarla. Desliza a la izquierda para caminar, arrastra para mirar
+Cameras	Cámaras
+Open all night	Abierto toda la noche
+Your shift starts at 11:00 PM	Tu turno empieza a las 11:00 PM
+Pull into the glowing spot and stop	Aparca en el lugar que brilla y frena
+Drive to work: park in the glowing spot by the door	Conduce al trabajo: aparca en el lugar que brilla junto a la puerta
+W A S D or the arrow keys	W A S D o las flechas
+Brake	Freno
+Gas	Acelerador
+11:00 PM	11:00 PM
+Skip the drive	Saltar el viaje
+That's not what they asked for: throw it away	Eso no es lo que pidieron: tíralo
+Add {0}	Agrega {0}
+Put it in the bag	Ponlo en la bolsa
+Scoop a portion of fries	Sirve una porción de patatas
+Lift the fries out	Saca las patatas
+The fries have gone cold: refry them	Las patatas se enfriaron: vuelve a freírlas
+The fries are frying	Las patatas se están friendo
+Throw out the burnt fries	Tira las patatas quemadas
+Drop fries in the fryer	Echa patatas a la freidora
+Take the potato out of the microwave	Saca la patata del microondas
+The potato is cooking	La patata se está cocinando
+Put the clean potato in the microwave	Mete la patata limpia al microondas
+Scrubbing the potato	Frotando la patata
+Scrub the potato in the sink	Frota la patata en el fregadero
+Take a potato to the sink	Lleva una patata al fregadero
+Fries all over the floor! Get the broom from the supply closet	¡Patatas por todo el piso! Trae la escoba del cuarto de la limpieza
+Sweep up the fries: hold the click on them and rub	Barre las patatas: mantén el clic sobre ellas y frota
+Sweep up the fries: hold on them and rub	Barre las patatas: mantén el dedo sobre ellas y frota
+Something's wrong with this guy. Take the emergency shotgun off the wall	Algo anda mal con este tipo. Coge la escopeta de emergencia de la pared
+Point it at his car	Apunta a su coche
+They're paying	Están pagando
+Lift the fries out before they burn	Saca las patatas antes de que se quemen
+They drove off without paying: report their plate at the camera	Se fueron sin pagar: reporta su matrícula en la cámara
+Get ahead: drop fries in the fryer	Adelántate: echa patatas a la freidora
+A car is pulling up	Está llegando un coche
+That's the last car	Ese es el último coche
+Waiting for the next car	Esperando el siguiente coche
+That's not on the order: throw it away	Eso no está en la orden: tíralo
+Add {0} to the bag	Agrega {0} a la bolsa
+Hand the bag out of the window	Entrega la bolsa por la ventanilla
+Still frying: give them a moment	Aún se están friendo: dales un momento
+Not with a shotgun in your hands.	No con una escopeta en las manos.
+Fries in the oil	Patatas en el aceite
+Back in the oil	De vuelta al aceite
+Fries out: in the dump	Patatas fuera: al volcador
+Your hands are full: bag that first	Tienes las manos llenas: embolsa eso primero
+No fries here yet: drop some in the fryer	Aún no hay patatas: echa unas a la freidora
+No fries here yet: they're still in the fryer	Aún no hay patatas: siguen en la freidora
+A portion of fries	Una porción de patatas
+Scrub the one in the sink first	Primero frota la que está en el fregadero
+Potato in the sink	Patata en el fregadero
+Nothing in the sink: take a potato from the crate	No hay nada en el fregadero: coge una patata de la caja
+Into the microwave	Al microondas
+Scrub the potato in the sink first	Primero frota la patata en el fregadero
+Empty: wash a potato in the sink first	Vacío: primero lava una patata en el fregadero
+Nothing in your hands to bag yet	No tienes nada en las manos para embolsar
+In the bag	En la bolsa
+He doesn't want food. He's got mustard.	No quiere comida. Trae mostaza.
+He's gone.	Se fue.
+The order isn't finished yet. Use the window again to hand it out anyway	La orden no está terminada. Usa la ventanilla otra vez para entregarla de todos modos
+Nothing in the bag yet: make the order first	La bolsa está vacía: primero prepara la orden
+Nothing in your hands to put it on	No tienes nada en las manos para ponérselo
+Refry the cold fries	Vuelve a freír las patatas frías
+Drop fries in	Echa patatas
+Frying...	Friendo...
+Scoop a portion	Sirve una porción
+Empty	Vacío
+Take one to the sink	Lleva una al fregadero
+Scrubbing...	Frotando...
+Scrub the potato	Frota la patata
+Put it in the microwave	Mételo en el microondas
+Take the potato out	Saca la patata
+Cooking...	Cocinando...
+Put the potato in	Mete la patata
+Bag what you're holding	Embolsa lo que tienes
+Nothing to bag	Nada que embolsar
+Hand out the bag	Entrega la bolsa
+Nobody there	No hay nadie
+Throw away what you're holding	Tira lo que tienes en las manos
+Empty the bag	Vacía la bolsa
+Watch the cameras	Ver las cámaras
+Put some on	Ponle un poco
+Nothing to put it on	Nada a qué ponérselo
+Add one to the bag	Agrega una a la bolsa
+Pick up the remote	Coge el mando a distancia
+Take the shotgun	Coge la escopeta
+Emergency use only	Solo para emergencias
+Hold the click and rub to sweep	Mantén el clic y frota para barrer
+Hold and rub to sweep	Mantén el dedo y frota para barrer
+NIGHT SHIFT · 11:00 PM TO 7:00 AM	TURNO DE NOCHE · 11:00 PM A 7:00 AM
+Cars pull up to the window and order	Los coches llegan a la ventanilla y piden
+Make it: the Next step says what, the signs say where	Prepáralo: el siguiente paso dice qué, los letreros dicen dónde
+Bag it with their sauces and hand it out	Embólsalo con sus salsas y entrégalo
+No clock until your first order's out	Sin reloj hasta que salga tu primera orden
+Clock in	Fichar
+Practice	Práctica
+No clock	Sin reloj
+Open all night. Someone has to be.	Abierto toda la noche. Alguien tiene que estar.
+PAUSED	EN PAUSA
+Click a station to walk over and use it. W A S D walk, drag to look, E uses what's in the middle, C is the cameras.	Haz clic en una estación para ir y usarla. W A S D para caminar, arrastra para mirar, E usa lo que está al centro, C son las cámaras.
+Tap a station to walk over and use it. Slide on the left to walk yourself, drag to look around.	Toca una estación para ir y usarla. Desliza a la izquierda para caminar tú mismo, arrastra para mirar.
+PRACTICE OVER	FIN DE LA PRÁCTICA
+CLOCKED OUT	FIN DEL TURNO
+TONIGHT'S TAKE	LO DE ESTA NOCHE
+car served	coche atendido
+cars served	coches atendidos
+perfect order	orden perfecta
+perfect orders	órdenes perfectas
+lost to drive-offs	perdido por fugas
+tips	propinas
+DRIVE-THRU	AUTOSERVICIO
+KITCHEN	COCINA
+PARKING LOT	APARCAMIENTO
+The shift waits while you watch	El turno espera mientras ves
+Previous	Anterior
+Back to work	A trabajar
+{0} served	{0} atendidos
+MEANWHILE	MIENTRAS TANTO
+NEXT STEP	SIGUIENTE PASO
+In your hands: {0}	En tus manos: {0}
+Drive-off!	¡Se fueron sin pagar!
+Wrong order	Orden equivocada
+Perfect order!	¡Orden perfecta!
+Order complete	Orden completa
+They didn't pay. Report their plate at the camera	No pagaron. Reporta su matrícula en la cámara
+You put the shotgun back on the wall.	Volviste a colgar la escopeta en la pared.
+Emergency use only.	Solo para emergencias.
+Point it at his car.	Apunta a su coche.
+Special programs, for TaterCoins	Programas especiales, con TaterCoins
+Can't reach TaterTV right now	Ahora no se puede conectar con TaterTV
+No programs yet. Check back soon	Aún no hay programas. Vuelve pronto
+Not enough TaterCoins yet	Aún no tienes suficientes TaterCoins
+Welcome to TaterTV+	Bienvenido a TaterTV+
+Now showing: {0}	En pantalla: {0}
+Your pass: {0} more night	Tu pase: {0} noche más
+Your pass: {0} more nights	Tu pase: {0} noches más
+Press OK to watch	Pulsa OK para ver
+NEW	NUEVO
+New programs are on their way	Vienen programas nuevos
+Special programs from the TaterPeeler team	Programas especiales del equipo de TaterPeeler
+The first programs are coming soon	Los primeros programas llegan pronto
+7 nights for {0} TaterCoins	7 noches por {0} TaterCoins
+{0} program to watch	{0} programa para ver
+{0} programs to watch	{0} programas para ver
+You have {0} TaterCoins	Tienes {0} TaterCoins
+Earn TaterCoins in Fries, then come back	Gana TaterCoins en Patatas fritas y vuelve
+Press OK again to pay	Pulsa OK otra vez para pagar
+Press OK to get the pass	Pulsa OK para obtener el pase
+Input: TaterTV	Entrada: TaterTV

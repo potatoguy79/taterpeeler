@@ -1425,3 +1425,163 @@ Rinse it: hold the click on the sink and rub	Помой её: зажми кли�
 Rinse it: hold on the sink and rub	Помой её: зажми на раковине и три
 Clean! Onto the board with it	Чистая! На доску её
 Onto the board	На доску
+# 4.2: TaterCorner
+Emergency shotgun	Аварийный дробовик
+Clean!	Чисто!
+Scrubbing	Чистка
+The shift waits while you watch TV	Смена ждёт, пока ты смотришь телевизор
+Click a station to walk over and use it. W A S D walk, drag to look around	Нажми на рабочее место, чтобы подойти и воспользоваться им. W A S D — ходить, тяни, чтобы осмотреться
+Tap a station to walk over and use it. Slide on the left to walk, drag to look	Коснись рабочего места, чтобы подойти и воспользоваться им. Проведи слева, чтобы идти, тяни, чтобы осмотреться
+Cameras	Камеры
+Open all night	Открыто всю ночь
+Your shift starts at 11:00 PM	Твоя смена начинается в 23:00
+Pull into the glowing spot and stop	Встань на светящееся место и остановись
+Drive to work: park in the glowing spot by the door	Езжай на работу: припаркуйся на светящемся месте у двери
+W A S D or the arrow keys	W A S D или стрелки
+Brake	Тормоз
+Gas	Газ
+11:00 PM	23:00
+Skip the drive	Пропустить поездку
+That's not what they asked for: throw it away	Это не то, что они заказали: выброси
+Add {0}	Добавь {0}
+Put it in the bag	Положи в пакет
+Scoop a portion of fries	Набери порцию картошки
+Lift the fries out	Достань картошку
+The fries have gone cold: refry them	Картошка остыла: обжарь её снова
+The fries are frying	Картошка жарится
+Throw out the burnt fries	Выброси сгоревшую картошку
+Drop fries in the fryer	Опусти картошку во фритюр
+Take the potato out of the microwave	Достань картофелину из микроволновки
+The potato is cooking	Картофелина готовится
+Put the clean potato in the microwave	Положи чистую картофелину в микроволновку
+Scrubbing the potato	Чистка картофелины
+Scrub the potato in the sink	Почисти картофелину в раковине
+Take a potato to the sink	Отнеси картофелину к раковине
+Fries all over the floor! Get the broom from the supply closet	Картошка по всему полу! Возьми метлу в подсобке
+Sweep up the fries: hold the click on them and rub	Подмети картошку: зажми на ней кнопку мыши и три
+Sweep up the fries: hold on them and rub	Подмети картошку: держи на ней палец и три
+Something's wrong with this guy. Take the emergency shotgun off the wall	С этим типом что-то не так. Сними аварийный дробовик со стены
+Point it at his car	Наведи на его машину
+They're paying	Они платят
+Lift the fries out before they burn	Достань картошку, пока не сгорела
+They drove off without paying: report their plate at the camera	Уехали, не заплатив: сообщи их номер на камере
+Get ahead: drop fries in the fryer	Опереди события: опусти картошку во фритюр
+A car is pulling up	Подъезжает машина
+That's the last car	Это последняя машина
+Waiting for the next car	Ждём следующую машину
+That's not on the order: throw it away	Этого нет в заказе: выброси
+Add {0} to the bag	Положи {0} в пакет
+Hand the bag out of the window	Передай пакет в окно
+Still frying: give them a moment	Ещё жарится: подожди немного
+Not with a shotgun in your hands.	Только не с дробовиком в руках.
+Fries in the oil	Картошка в масле
+Back in the oil	Обратно в масло
+Fries out: in the dump	Картошка вынута: в лоток
+Your hands are full: bag that first	У тебя заняты руки: сначала упакуй это
+No fries here yet: drop some in the fryer	Картошки пока нет: опусти немного во фритюр
+No fries here yet: they're still in the fryer	Картошки пока нет: она ещё во фритюре
+A portion of fries	Порция картошки
+Scrub the one in the sink first	Сначала почисти ту, что в раковине
+Potato in the sink	Картофелина в раковине
+Nothing in the sink: take a potato from the crate	В раковине пусто: возьми картофелину из ящика
+Into the microwave	В микроволновку
+Scrub the potato in the sink first	Сначала почисти картофелину в раковине
+Empty: wash a potato in the sink first	Пусто: сначала помой картофелину в раковине
+Nothing in your hands to bag yet	В руках нечего упаковывать
+In the bag	В пакете
+He doesn't want food. He's got mustard.	Ему не нужна еда. У него горчица.
+He's gone.	Его нет.
+The order isn't finished yet. Use the window again to hand it out anyway	Заказ ещё не готов. Используй окно ещё раз, чтобы всё равно отдать его
+Nothing in the bag yet: make the order first	В пакете пусто: сначала собери заказ
+Nothing in your hands to put it on	В руках нет того, на что это положить
+Refry the cold fries	Обжарь остывшую картошку снова
+Drop fries in	Опустить картошку
+Frying...	Жарится...
+Scoop a portion	Набрать порцию
+Empty	Пусто
+Take one to the sink	Отнести одну к раковине
+Scrubbing...	Чистка...
+Scrub the potato	Почистить картофелину
+Put it in the microwave	Положи в микроволновку
+Take the potato out	Достать картофелину
+Cooking...	Готовится...
+Put the potato in	Положить картофелину
+Bag what you're holding	Упаковать то, что в руках
+Nothing to bag	Нечего упаковывать
+Hand out the bag	Отдать пакет
+Nobody there	Никого нет
+Throw away what you're holding	Выбросить то, что в руках
+Empty the bag	Опустошить пакет
+Watch the cameras	Смотреть камеры
+Put some on	Добавить немного
+Nothing to put it on	Не на что положить
+Add one to the bag	Положить один в пакет
+Pick up the remote	Взять пульт
+Take the shotgun	Взять дробовик
+Emergency use only	Только для экстренных случаев
+Hold the click and rub to sweep	Зажми кнопку и три, чтобы подмести
+Hold and rub to sweep	Держи и три, чтобы подмести
+NIGHT SHIFT · 11:00 PM TO 7:00 AM	НОЧНАЯ СМЕНА · С 23:00 ДО 7:00
+Cars pull up to the window and order	Машины подъезжают к окну и делают заказ
+Make it: the Next step says what, the signs say where	Готовь: следующий шаг говорит что, вывески — где
+Bag it with their sauces and hand it out	Упакуй с их соусами и отдай
+No clock until your first order's out	Без часов, пока не выйдет твой первый заказ
+Clock in	Отметиться
+Practice	Тренировка
+No clock	Без часов
+Open all night. Someone has to be.	Открыто всю ночь. Кто-то же должен быть здесь.
+PAUSED	ПАУЗА
+Click a station to walk over and use it. W A S D walk, drag to look, E uses what's in the middle, C is the cameras.	Нажми на рабочее место, чтобы подойти и воспользоваться им. W A S D — ходить, тяни, чтобы осмотреться, E — использовать то, что в центре, C — камеры.
+Tap a station to walk over and use it. Slide on the left to walk yourself, drag to look around.	Коснись рабочего места, чтобы подойти и воспользоваться им. Проведи слева, чтобы идти самому, тяни, чтобы осмотреться.
+PRACTICE OVER	ТРЕНИРОВКА ОКОНЧЕНА
+CLOCKED OUT	СМЕНА ОКОНЧЕНА
+TONIGHT'S TAKE	ВЫРУЧКА ЗА НОЧЬ
+car served	машина обслужена
+cars served	машин обслужено
+perfect order	идеальный заказ
+perfect orders	идеальных заказов
+lost to drive-offs	потеряно на беглецах
+tips	чаевые
+DRIVE-THRU	ОКНО ВЫДАЧИ
+KITCHEN	КУХНЯ
+PARKING LOT	ПАРКОВКА
+The shift waits while you watch	Смена ждёт, пока ты смотришь
+Previous	Назад
+Back to work	За работу
+{0} served	Обслужено: {0}
+MEANWHILE	ПОКА ЧТО
+NEXT STEP	СЛЕДУЮЩИЙ ШАГ
+In your hands: {0}	В руках: {0}
+Drive-off!	Уехали, не заплатив!
+Wrong order	Не тот заказ
+Perfect order!	Идеальный заказ!
+Order complete	Заказ готов
+They didn't pay. Report their plate at the camera	Они не заплатили. Сообщи их номер на камере
+You put the shotgun back on the wall.	Ты повесил дробовик обратно на стену.
+Emergency use only.	Только для экстренных случаев.
+Point it at his car.	Наведи на его машину.
+Special programs, for TaterCoins	Особые передачи за TaterCoins
+Can't reach TaterTV right now	Сейчас не удаётся подключиться к TaterTV
+No programs yet. Check back soon	Передач пока нет. Загляни позже
+Not enough TaterCoins yet	Пока не хватает TaterCoins
+Welcome to TaterTV+	Добро пожаловать в TaterTV+
+Now showing: {0}	Сейчас в эфире: {0}
+Your pass: {0} more night	Твой пропуск: ещё {0} ночь
+Your pass: {0} more nights	Твой пропуск: ещё {0} ночей
+Press OK to watch	Нажми OK, чтобы смотреть
+NEW	НОВОЕ
+New programs are on their way	Новые передачи уже в пути
+Special programs from the TaterPeeler team	Особые передачи от команды TaterPeeler
+The first programs are coming soon	Первые передачи скоро появятся
+7 nights for {0} TaterCoins	7 ночей за {0} TaterCoins
+{0} program to watch	{0} передача для просмотра
+{0} programs to watch	{0} передач для просмотра
+You have {0} TaterCoins	У тебя {0} TaterCoins
+Earn TaterCoins in Fries, then come back	Заработай TaterCoins в Картошке фри и возвращайся
+Press OK again to pay	Нажми OK ещё раз, чтобы заплатить
+Press OK to get the pass	Нажми OK, чтобы получить пропуск
+Input: TaterTV	Вход: TaterTV
+cars served#few	машины обслужены
+perfect orders#few	идеальных заказа
+Your pass: {0} more nights#few	Твой пропуск: ещё {0} ночи
+{0} programs to watch#few	{0} передачи для просмотра

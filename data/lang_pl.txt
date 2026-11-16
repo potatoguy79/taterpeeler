@@ -1425,3 +1425,163 @@ Rinse it: hold the click on the sink and rub	Opłucz go: przytrzymaj kliknięcie
 Rinse it: hold on the sink and rub	Opłucz go: przytrzymaj na zlewie i pocieraj
 Clean! Onto the board with it	Czysty! Na deskę z nim
 Onto the board	Na deskę
+# 4.2: TaterCorner
+Emergency shotgun	Strzelba awaryjna
+Clean!	Czysto!
+Scrubbing	Szorowanie
+The shift waits while you watch TV	Zmiana czeka, gdy oglądasz telewizję
+Click a station to walk over and use it. W A S D walk, drag to look around	Kliknij stanowisko, żeby do niego podejść i go użyć. W A S D chodzenie, przeciągnij, żeby się rozejrzeć
+Tap a station to walk over and use it. Slide on the left to walk, drag to look	Dotknij stanowiska, żeby do niego podejść i go użyć. Przesuń po lewej, żeby iść, przeciągnij, żeby się rozejrzeć
+Cameras	Kamery
+Open all night	Otwarte całą noc
+Your shift starts at 11:00 PM	Twoja zmiana zaczyna się o 23:00
+Pull into the glowing spot and stop	Wjedź na świecące miejsce i stań
+Drive to work: park in the glowing spot by the door	Jedź do pracy: zaparkuj na świecącym miejscu przy drzwiach
+W A S D or the arrow keys	W A S D lub strzałki
+Brake	Hamulec
+Gas	Gaz
+11:00 PM	23:00
+Skip the drive	Pomiń jazdę
+That's not what they asked for: throw it away	Nie o to prosili: wyrzuć to
+Add {0}	Dodaj {0}
+Put it in the bag	Włóż to do torby
+Scoop a portion of fries	Nabierz porcję frytek
+Lift the fries out	Wyjmij frytki
+The fries have gone cold: refry them	Frytki wystygły: usmaż je jeszcze raz
+The fries are frying	Frytki się smażą
+Throw out the burnt fries	Wyrzuć spalone frytki
+Drop fries in the fryer	Wrzuć frytki do frytkownicy
+Take the potato out of the microwave	Wyjmij ziemniaka z mikrofalówki
+The potato is cooking	Ziemniak się piecze
+Put the clean potato in the microwave	Włóż czystego ziemniaka do mikrofalówki
+Scrubbing the potato	Szorowanie ziemniaka
+Scrub the potato in the sink	Wyszoruj ziemniaka w zlewie
+Take a potato to the sink	Zanieś ziemniaka do zlewu
+Fries all over the floor! Get the broom from the supply closet	Frytki na całej podłodze! Weź miotłę ze schowka
+Sweep up the fries: hold the click on them and rub	Zamieć frytki: przytrzymaj na nich kliknięcie i pocieraj
+Sweep up the fries: hold on them and rub	Zamieć frytki: przytrzymaj na nich palec i pocieraj
+Something's wrong with this guy. Take the emergency shotgun off the wall	Coś jest nie tak z tym gościem. Zdejmij strzelbę awaryjną ze ściany
+Point it at his car	Wyceluj w jego samochód
+They're paying	Płacą
+Lift the fries out before they burn	Wyjmij frytki, zanim się spalą
+They drove off without paying: report their plate at the camera	Odjechali bez płacenia: zgłoś ich tablicę przy kamerze
+Get ahead: drop fries in the fryer	Bądź do przodu: wrzuć frytki do frytkownicy
+A car is pulling up	Podjeżdża samochód
+That's the last car	To ostatni samochód
+Waiting for the next car	Czekasz na następny samochód
+That's not on the order: throw it away	Tego nie ma w zamówieniu: wyrzuć to
+Add {0} to the bag	Dodaj {0} do torby
+Hand the bag out of the window	Podaj torbę przez okienko
+Still frying: give them a moment	Jeszcze się smażą: daj im chwilę
+Not with a shotgun in your hands.	Nie ze strzelbą w rękach.
+Fries in the oil	Frytki w oleju
+Back in the oil	Z powrotem do oleju
+Fries out: in the dump	Frytki wyjęte: na ociekacz
+Your hands are full: bag that first	Masz pełne ręce: najpierw to zapakuj
+No fries here yet: drop some in the fryer	Jeszcze nie ma frytek: wrzuć trochę do frytkownicy
+No fries here yet: they're still in the fryer	Jeszcze nie ma frytek: wciąż są we frytkownicy
+A portion of fries	Porcja frytek
+Scrub the one in the sink first	Najpierw wyszoruj tego w zlewie
+Potato in the sink	Ziemniak w zlewie
+Nothing in the sink: take a potato from the crate	W zlewie nic nie ma: weź ziemniaka ze skrzynki
+Into the microwave	Do mikrofalówki
+Scrub the potato in the sink first	Najpierw wyszoruj ziemniaka w zlewie
+Empty: wash a potato in the sink first	Pusto: najpierw umyj ziemniaka w zlewie
+Nothing in your hands to bag yet	Nie masz w rękach nic do zapakowania
+In the bag	W torbie
+He doesn't want food. He's got mustard.	Nie chce jedzenia. Ma musztardę.
+He's gone.	Zniknął.
+The order isn't finished yet. Use the window again to hand it out anyway	Zamówienie nie jest gotowe. Użyj okienka jeszcze raz, żeby i tak je wydać
+Nothing in the bag yet: make the order first	W torbie jeszcze nic nie ma: najpierw zrób zamówienie
+Nothing in your hands to put it on	Nie masz w rękach nic, na co to położyć
+Refry the cold fries	Usmaż ponownie zimne frytki
+Drop fries in	Wrzuć frytki
+Frying...	Smaży się...
+Scoop a portion	Nabierz porcję
+Empty	Pusto
+Take one to the sink	Zanieś jednego do zlewu
+Scrubbing...	Szorowanie...
+Scrub the potato	Wyszoruj ziemniaka
+Put it in the microwave	Włóż do mikrofalówki
+Take the potato out	Wyjmij ziemniaka
+Cooking...	Piecze się...
+Put the potato in	Włóż ziemniaka
+Bag what you're holding	Zapakuj to, co trzymasz
+Nothing to bag	Nie ma czego pakować
+Hand out the bag	Podaj torbę
+Nobody there	Nikogo nie ma
+Throw away what you're holding	Wyrzuć to, co trzymasz
+Empty the bag	Opróżnij torbę
+Watch the cameras	Oglądaj kamery
+Put some on	Dodaj trochę
+Nothing to put it on	Nie ma na co tego dać
+Add one to the bag	Dodaj jeden do torby
+Pick up the remote	Weź pilota
+Take the shotgun	Weź strzelbę
+Emergency use only	Tylko w nagłych wypadkach
+Hold the click and rub to sweep	Przytrzymaj kliknięcie i pocieraj, żeby zamiatać
+Hold and rub to sweep	Przytrzymaj i pocieraj, żeby zamiatać
+NIGHT SHIFT · 11:00 PM TO 7:00 AM	NOCNA ZMIANA · 23:00 DO 7:00
+Cars pull up to the window and order	Samochody podjeżdżają do okienka i zamawiają
+Make it: the Next step says what, the signs say where	Przygotuj: następny krok mówi co, szyldy mówią gdzie
+Bag it with their sauces and hand it out	Zapakuj z ich sosami i podaj
+No clock until your first order's out	Bez zegara do wydania pierwszego zamówienia
+Clock in	Odbij kartę
+Practice	Trening
+No clock	Bez zegara
+Open all night. Someone has to be.	Otwarte całą noc. Ktoś musi tu być.
+PAUSED	PAUZA
+Click a station to walk over and use it. W A S D walk, drag to look, E uses what's in the middle, C is the cameras.	Kliknij stanowisko, żeby do niego podejść i go użyć. W A S D chodzenie, przeciągnij, żeby się rozejrzeć, E używa tego, co na środku, C to kamery.
+Tap a station to walk over and use it. Slide on the left to walk yourself, drag to look around.	Dotknij stanowiska, żeby do niego podejść i go użyć. Przesuń po lewej, żeby iść samemu, przeciągnij, żeby się rozejrzeć.
+PRACTICE OVER	KONIEC TRENINGU
+CLOCKED OUT	KONIEC ZMIANY
+TONIGHT'S TAKE	UTARG Z TEJ NOCY
+car served	obsłużony samochód
+cars served	obsłużonych samochodów
+perfect order	idealne zamówienie
+perfect orders	idealnych zamówień
+lost to drive-offs	stracone przez uciekinierów
+tips	napiwki
+DRIVE-THRU	OKIENKO
+KITCHEN	KUCHNIA
+PARKING LOT	PARKING
+The shift waits while you watch	Zmiana czeka, gdy oglądasz
+Previous	Poprzedni
+Back to work	Wracaj do pracy
+{0} served	Obsłużono: {0}
+MEANWHILE	TYMCZASEM
+NEXT STEP	NASTĘPNY KROK
+In your hands: {0}	W rękach: {0}
+Drive-off!	Uciekli bez płacenia!
+Wrong order	Złe zamówienie
+Perfect order!	Idealne zamówienie!
+Order complete	Zamówienie gotowe
+They didn't pay. Report their plate at the camera	Nie zapłacili. Zgłoś ich tablicę przy kamerze
+You put the shotgun back on the wall.	Odwiesiłeś strzelbę na ścianę.
+Emergency use only.	Tylko w nagłych wypadkach.
+Point it at his car.	Wyceluj w jego samochód.
+Special programs, for TaterCoins	Specjalne programy za TaterCoins
+Can't reach TaterTV right now	Nie można teraz połączyć się z TaterTV
+No programs yet. Check back soon	Jeszcze nie ma programów. Zajrzyj wkrótce
+Not enough TaterCoins yet	Jeszcze za mało TaterCoins
+Welcome to TaterTV+	Witaj w TaterTV+
+Now showing: {0}	Teraz leci: {0}
+Your pass: {0} more night	Twój karnet: jeszcze {0} noc
+Your pass: {0} more nights	Twój karnet: jeszcze {0} nocy
+Press OK to watch	Naciśnij OK, żeby oglądać
+NEW	NOWE
+New programs are on their way	Nowe programy są w drodze
+Special programs from the TaterPeeler team	Specjalne programy od zespołu TaterPeeler
+The first programs are coming soon	Pierwsze programy już wkrótce
+7 nights for {0} TaterCoins	7 nocy za {0} TaterCoins
+{0} program to watch	{0} program do obejrzenia
+{0} programs to watch	{0} programów do obejrzenia
+You have {0} TaterCoins	Masz {0} TaterCoins
+Earn TaterCoins in Fries, then come back	Zdobądź TaterCoins we Frytkach i wróć
+Press OK again to pay	Naciśnij OK jeszcze raz, żeby zapłacić
+Press OK to get the pass	Naciśnij OK, żeby wziąć karnet
+Input: TaterTV	Wejście: TaterTV
+cars served#few	obsłużone samochody
+perfect orders#few	idealne zamówienia
+Your pass: {0} more nights#few	Twój karnet: jeszcze {0} noce
+{0} programs to watch#few	{0} programy do obejrzenia

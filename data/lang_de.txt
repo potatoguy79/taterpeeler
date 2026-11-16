@@ -1406,3 +1406,159 @@ Rinse it: hold the click on the sink and rub	Abspülen: Klick auf der Spüle hal
 Rinse it: hold on the sink and rub	Abspülen: auf der Spüle halten und reiben
 Clean! Onto the board with it	Sauber! Ab aufs Brett damit
 Onto the board	Aufs Brett
+# 4.2: TaterCorner
+Emergency shotgun	Notfall-Schrotflinte
+Clean!	Sauber!
+Scrubbing	Schrubben
+The shift waits while you watch TV	Die Schicht wartet, während du fernsiehst
+Click a station to walk over and use it. W A S D walk, drag to look around	Klick auf eine Station, um hinzugehen und sie zu benutzen. W A S D laufen, ziehen zum Umsehen
+Tap a station to walk over and use it. Slide on the left to walk, drag to look	Tippe auf eine Station, um hinzugehen und sie zu benutzen. Links wischen zum Laufen, ziehen zum Umsehen
+Cameras	Kameras
+Open all night	Die ganze Nacht geöffnet
+Your shift starts at 11:00 PM	Deine Schicht beginnt um 23:00 Uhr
+Pull into the glowing spot and stop	Fahr auf den leuchtenden Platz und halte an
+Drive to work: park in the glowing spot by the door	Fahr zur Arbeit: Park auf dem leuchtenden Platz an der Tür
+W A S D or the arrow keys	W A S D oder die Pfeiltasten
+Brake	Bremse
+Gas	Gas
+11:00 PM	23:00 Uhr
+Skip the drive	Fahrt überspringen
+That's not what they asked for: throw it away	Das haben sie nicht bestellt: wirf es weg
+Add {0}	{0} dazu
+Put it in the bag	Tu es in die Tüte
+Scoop a portion of fries	Nimm eine Portion Pommes
+Lift the fries out	Hol die Pommes raus
+The fries have gone cold: refry them	Die Pommes sind kalt geworden: frittier sie nochmal
+The fries are frying	Die Pommes frittieren
+Throw out the burnt fries	Wirf die verbrannten Pommes weg
+Drop fries in the fryer	Gib Pommes in die Fritteuse
+Take the potato out of the microwave	Hol die Kartoffel aus der Mikrowelle
+The potato is cooking	Die Kartoffel gart
+Put the clean potato in the microwave	Leg die saubere Kartoffel in die Mikrowelle
+Scrubbing the potato	Kartoffel wird geschrubbt
+Scrub the potato in the sink	Schrubb die Kartoffel in der Spüle
+Take a potato to the sink	Bring eine Kartoffel zur Spüle
+Fries all over the floor! Get the broom from the supply closet	Überall Pommes auf dem Boden! Hol den Besen aus der Abstellkammer
+Sweep up the fries: hold the click on them and rub	Feg die Pommes auf: halt die Maustaste auf ihnen gedrückt und reib
+Sweep up the fries: hold on them and rub	Feg die Pommes auf: halt den Finger auf ihnen und reib
+Something's wrong with this guy. Take the emergency shotgun off the wall	Mit dem Typen stimmt was nicht. Nimm die Notfall-Schrotflinte von der Wand
+Point it at his car	Ziel auf sein Auto
+They're paying	Sie bezahlen
+Lift the fries out before they burn	Hol die Pommes raus, bevor sie verbrennen
+They drove off without paying: report their plate at the camera	Sie sind ohne zu zahlen weggefahren: melde ihr Kennzeichen an der Kamera
+Get ahead: drop fries in the fryer	Arbeite vor: gib Pommes in die Fritteuse
+A car is pulling up	Ein Auto fährt vor
+That's the last car	Das ist das letzte Auto
+Waiting for the next car	Warten auf das nächste Auto
+That's not on the order: throw it away	Das steht nicht auf der Bestellung: wirf es weg
+Add {0} to the bag	Tu {0} in die Tüte
+Hand the bag out of the window	Reich die Tüte aus dem Fenster
+Still frying: give them a moment	Noch am Frittieren: gib ihnen einen Moment
+Not with a shotgun in your hands.	Nicht mit einer Schrotflinte in der Hand.
+Fries in the oil	Pommes im Öl
+Back in the oil	Zurück ins Öl
+Fries out: in the dump	Pommes raus: in die Station
+Your hands are full: bag that first	Deine Hände sind voll: pack das zuerst ein
+No fries here yet: drop some in the fryer	Noch keine Pommes: gib welche in die Fritteuse
+No fries here yet: they're still in the fryer	Noch keine Pommes: sie sind noch in der Fritteuse
+A portion of fries	Eine Portion Pommes
+Scrub the one in the sink first	Schrubb zuerst die in der Spüle
+Potato in the sink	Kartoffel in der Spüle
+Nothing in the sink: take a potato from the crate	Nichts in der Spüle: nimm eine Kartoffel aus der Kiste
+Into the microwave	In die Mikrowelle
+Scrub the potato in the sink first	Schrubb die Kartoffel zuerst in der Spüle
+Empty: wash a potato in the sink first	Leer: wasch zuerst eine Kartoffel in der Spüle
+Nothing in your hands to bag yet	Nichts in der Hand zum Einpacken
+In the bag	In der Tüte
+He doesn't want food. He's got mustard.	Er will kein Essen. Er hat Senf.
+He's gone.	Er ist weg.
+The order isn't finished yet. Use the window again to hand it out anyway	Die Bestellung ist noch nicht fertig. Benutz das Fenster nochmal, um sie trotzdem rauszugeben
+Nothing in the bag yet: make the order first	Noch nichts in der Tüte: mach zuerst die Bestellung
+Nothing in your hands to put it on	Nichts in der Hand, worauf es soll
+Refry the cold fries	Frittier die kalten Pommes nochmal
+Drop fries in	Pommes rein
+Frying...	Frittiert...
+Scoop a portion	Eine Portion nehmen
+Empty	Leer
+Take one to the sink	Bring eine zur Spüle
+Scrubbing...	Schrubben...
+Scrub the potato	Kartoffel schrubben
+Put it in the microwave	In die Mikrowelle damit
+Take the potato out	Kartoffel rausholen
+Cooking...	Gart...
+Put the potato in	Kartoffel rein
+Bag what you're holding	Einpacken, was du hältst
+Nothing to bag	Nichts zum Einpacken
+Hand out the bag	Tüte rausreichen
+Nobody there	Niemand da
+Throw away what you're holding	Wegwerfen, was du hältst
+Empty the bag	Tüte leeren
+Watch the cameras	Kameras ansehen
+Put some on	Etwas drauf
+Nothing to put it on	Nichts, worauf es soll
+Add one to the bag	Eine in die Tüte
+Pick up the remote	Fernbedienung nehmen
+Take the shotgun	Schrotflinte nehmen
+Emergency use only	Nur für Notfälle
+Hold the click and rub to sweep	Maustaste halten und reiben zum Fegen
+Hold and rub to sweep	Halten und reiben zum Fegen
+NIGHT SHIFT · 11:00 PM TO 7:00 AM	NACHTSCHICHT · 23:00 BIS 7:00 UHR
+Cars pull up to the window and order	Autos halten am Fenster und bestellen
+Make it: the Next step says what, the signs say where	Mach es: der nächste Schritt sagt was, die Schilder sagen wo
+Bag it with their sauces and hand it out	Pack es mit ihren Soßen ein und reich es raus
+No clock until your first order's out	Keine Uhr, bis deine erste Bestellung raus ist
+Clock in	Einstempeln
+Practice	Üben
+No clock	Ohne Uhr
+Open all night. Someone has to be.	Die ganze Nacht geöffnet. Irgendwer muss ja da sein.
+PAUSED	PAUSE
+Click a station to walk over and use it. W A S D walk, drag to look, E uses what's in the middle, C is the cameras.	Klick auf eine Station, um hinzugehen und sie zu benutzen. W A S D laufen, ziehen zum Umsehen, E benutzt, was in der Mitte ist, C sind die Kameras.
+Tap a station to walk over and use it. Slide on the left to walk yourself, drag to look around.	Tippe auf eine Station, um hinzugehen und sie zu benutzen. Links wischen zum selbst Laufen, ziehen zum Umsehen.
+PRACTICE OVER	ÜBUNG VORBEI
+CLOCKED OUT	AUSGESTEMPELT
+TONIGHT'S TAKE	DIE EINNAHMEN HEUTE NACHT
+car served	Auto bedient
+cars served	Autos bedient
+perfect order	perfekte Bestellung
+perfect orders	perfekte Bestellungen
+lost to drive-offs	durch Zechpreller verloren
+tips	Trinkgeld
+DRIVE-THRU	DRIVE-IN
+KITCHEN	KÜCHE
+PARKING LOT	PARKPLATZ
+The shift waits while you watch	Die Schicht wartet, während du schaust
+Previous	Zurück
+Back to work	Zurück an die Arbeit
+{0} served	{0} bedient
+MEANWHILE	INZWISCHEN
+NEXT STEP	NÄCHSTER SCHRITT
+In your hands: {0}	In der Hand: {0}
+Drive-off!	Ohne zu zahlen weg!
+Wrong order	Falsche Bestellung
+Perfect order!	Perfekte Bestellung!
+Order complete	Bestellung fertig
+They didn't pay. Report their plate at the camera	Sie haben nicht gezahlt. Melde ihr Kennzeichen an der Kamera
+You put the shotgun back on the wall.	Du hast die Schrotflinte zurück an die Wand gehängt.
+Emergency use only.	Nur für Notfälle.
+Point it at his car.	Ziel auf sein Auto.
+Special programs, for TaterCoins	Sondersendungen für TaterCoins
+Can't reach TaterTV right now	TaterTV ist gerade nicht erreichbar
+No programs yet. Check back soon	Noch keine Sendungen. Schau bald wieder vorbei
+Not enough TaterCoins yet	Noch nicht genug TaterCoins
+Welcome to TaterTV+	Willkommen bei TaterTV+
+Now showing: {0}	Jetzt läuft: {0}
+Your pass: {0} more night	Dein Pass: noch {0} Nacht
+Your pass: {0} more nights	Dein Pass: noch {0} Nächte
+Press OK to watch	OK drücken zum Ansehen
+NEW	NEU
+New programs are on their way	Neue Sendungen sind unterwegs
+Special programs from the TaterPeeler team	Sondersendungen vom TaterPeeler-Team
+The first programs are coming soon	Die ersten Sendungen kommen bald
+7 nights for {0} TaterCoins	7 Nächte für {0} TaterCoins
+{0} program to watch	{0} Sendung zum Ansehen
+{0} programs to watch	{0} Sendungen zum Ansehen
+You have {0} TaterCoins	Du hast {0} TaterCoins
+Earn TaterCoins in Fries, then come back	Verdien TaterCoins bei Pommes und komm dann wieder
+Press OK again to pay	Drück nochmal OK zum Bezahlen
+Press OK to get the pass	OK drücken für den Pass
+Input: TaterTV	Eingang: TaterTV

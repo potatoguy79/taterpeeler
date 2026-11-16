@@ -1406,3 +1406,159 @@ Rinse it: hold the click on the sink and rub	씻기: 싱크대를 클릭한 채�
 Rinse it: hold on the sink and rub	씻기: 싱크대를 길게 누른 채로 문지르세요
 Clean! Onto the board with it	깨끗해요! 도마로 올려요
 Onto the board	도마로
+# 4.2: TaterCorner
+Emergency shotgun	비상용 산탄총
+Clean!	깨끗해!
+Scrubbing	문지르는 중
+The shift waits while you watch TV	TV를 보는 동안 근무는 멈춥니다
+Click a station to walk over and use it. W A S D walk, drag to look around	스테이션을 클릭하면 걸어가서 사용합니다. W A S D로 걷기, 드래그로 둘러보기
+Tap a station to walk over and use it. Slide on the left to walk, drag to look	스테이션을 탭하면 걸어가서 사용합니다. 왼쪽을 밀어서 걷기, 드래그로 둘러보기
+Cameras	카메라
+Open all night	밤새 영업
+Your shift starts at 11:00 PM	근무는 밤 11시에 시작해요
+Pull into the glowing spot and stop	빛나는 자리에 들어가서 멈추세요
+Drive to work: park in the glowing spot by the door	출근하기: 문 옆 빛나는 자리에 주차하세요
+W A S D or the arrow keys	W A S D 또는 방향키
+Brake	브레이크
+Gas	가속
+11:00 PM	밤 11:00
+Skip the drive	운전 건너뛰기
+That's not what they asked for: throw it away	주문한 게 아니에요: 버리세요
+Add {0}	{0} 추가
+Put it in the bag	봉투에 넣기
+Scoop a portion of fries	감자튀김 한 그릇 담기
+Lift the fries out	감자튀김 건지기
+The fries have gone cold: refry them	감자튀김이 식었어요: 다시 튀기세요
+The fries are frying	감자튀김을 튀기는 중
+Throw out the burnt fries	탄 감자튀김을 버리세요
+Drop fries in the fryer	튀김기에 감자튀김을 넣으세요
+Take the potato out of the microwave	전자레인지에서 감자를 꺼내세요
+The potato is cooking	감자를 익히는 중
+Put the clean potato in the microwave	깨끗한 감자를 전자레인지에 넣으세요
+Scrubbing the potato	감자를 문지르는 중
+Scrub the potato in the sink	싱크대에서 감자를 문질러 씻으세요
+Take a potato to the sink	감자를 싱크대로 가져가세요
+Fries all over the floor! Get the broom from the supply closet	바닥이 감자튀김 천지! 창고에서 빗자루를 가져오세요
+Sweep up the fries: hold the click on them and rub	감자튀김 쓸기: 그 위에서 클릭을 누른 채 문지르세요
+Sweep up the fries: hold on them and rub	감자튀김 쓸기: 그 위를 누른 채 문지르세요
+Something's wrong with this guy. Take the emergency shotgun off the wall	이 남자, 뭔가 이상해요. 벽에서 비상용 산탄총을 꺼내세요
+Point it at his car	그의 차를 겨누세요
+They're paying	계산 중
+Lift the fries out before they burn	타기 전에 감자튀김을 건지세요
+They drove off without paying: report their plate at the camera	돈을 안 내고 갔어요: 카메라에서 번호판을 신고하세요
+Get ahead: drop fries in the fryer	미리 하기: 튀김기에 감자튀김을 넣으세요
+A car is pulling up	차가 들어와요
+That's the last car	마지막 차예요
+Waiting for the next car	다음 차를 기다리는 중
+That's not on the order: throw it away	주문에 없는 거예요: 버리세요
+Add {0} to the bag	봉투에 {0} 넣기
+Hand the bag out of the window	창문으로 봉투를 건네세요
+Still frying: give them a moment	아직 튀기는 중: 조금만 기다리세요
+Not with a shotgun in your hands.	산탄총을 든 채로는 안 돼요.
+Fries in the oil	감자튀김을 기름에
+Back in the oil	다시 기름에
+Fries out: in the dump	감자튀김 꺼냄: 거치대로
+Your hands are full: bag that first	손이 꽉 찼어요: 그것부터 봉투에 넣으세요
+No fries here yet: drop some in the fryer	아직 감자튀김이 없어요: 튀김기에 좀 넣으세요
+No fries here yet: they're still in the fryer	아직 감자튀김이 없어요: 아직 튀김기 안에 있어요
+A portion of fries	감자튀김 한 그릇
+Scrub the one in the sink first	싱크대에 있는 것부터 씻으세요
+Potato in the sink	싱크대에 감자
+Nothing in the sink: take a potato from the crate	싱크대가 비었어요: 상자에서 감자를 꺼내세요
+Into the microwave	전자레인지에
+Scrub the potato in the sink first	먼저 싱크대에서 감자를 씻으세요
+Empty: wash a potato in the sink first	비었어요: 먼저 싱크대에서 감자를 씻으세요
+Nothing in your hands to bag yet	봉투에 넣을 게 손에 없어요
+In the bag	봉투 안
+He doesn't want food. He's got mustard.	음식을 원하지 않아요. 머스터드를 들고 있어요.
+He's gone.	사라졌어요.
+The order isn't finished yet. Use the window again to hand it out anyway	주문이 아직 안 끝났어요. 그래도 건네려면 창문을 한 번 더 사용하세요
+Nothing in the bag yet: make the order first	봉투가 비었어요: 먼저 주문을 만드세요
+Nothing in your hands to put it on	그걸 올릴 게 손에 없어요
+Refry the cold fries	식은 감자튀김을 다시 튀기세요
+Drop fries in	감자튀김 넣기
+Frying...	튀기는 중...
+Scoop a portion	한 그릇 담기
+Empty	비어 있음
+Take one to the sink	하나 싱크대로
+Scrubbing...	씻는 중...
+Scrub the potato	감자 씻기
+Put it in the microwave	전자레인지에 넣기
+Take the potato out	감자 꺼내기
+Cooking...	익히는 중...
+Put the potato in	감자 넣기
+Bag what you're holding	들고 있는 것 봉투에 넣기
+Nothing to bag	넣을 게 없음
+Hand out the bag	봉투 건네기
+Nobody there	아무도 없음
+Throw away what you're holding	들고 있는 것 버리기
+Empty the bag	봉투 비우기
+Watch the cameras	카메라 보기
+Put some on	조금 올리기
+Nothing to put it on	올릴 게 없음
+Add one to the bag	봉투에 하나 넣기
+Pick up the remote	리모컨 집기
+Take the shotgun	산탄총 집기
+Emergency use only	비상시에만 사용
+Hold the click and rub to sweep	클릭을 누른 채 문질러 쓸기
+Hold and rub to sweep	누른 채 문질러 쓸기
+NIGHT SHIFT · 11:00 PM TO 7:00 AM	야간 근무 · 밤 11시 ~ 아침 7시
+Cars pull up to the window and order	차가 창문에 와서 주문해요
+Make it: the Next step says what, the signs say where	만들기: 다음 단계가 무엇을, 간판이 어디서를 알려줘요
+Bag it with their sauces and hand it out	소스와 함께 봉투에 넣어 건네주세요
+No clock until your first order's out	첫 주문이 나갈 때까지 시계가 없어요
+Clock in	출근 찍기
+Practice	연습
+No clock	시계 없음
+Open all night. Someone has to be.	밤새 영업. 누군가는 있어야 하니까.
+PAUSED	일시정지
+Click a station to walk over and use it. W A S D walk, drag to look, E uses what's in the middle, C is the cameras.	스테이션을 클릭하면 걸어가서 사용합니다. W A S D로 걷기, 드래그로 둘러보기, E는 가운데 것 사용, C는 카메라.
+Tap a station to walk over and use it. Slide on the left to walk yourself, drag to look around.	스테이션을 탭하면 걸어가서 사용합니다. 왼쪽을 밀어서 직접 걷기, 드래그로 둘러보기.
+PRACTICE OVER	연습 끝
+CLOCKED OUT	퇴근
+TONIGHT'S TAKE	오늘 밤 매출
+car served	대 응대
+cars served	대 응대
+perfect order	건 완벽한 주문
+perfect orders	건 완벽한 주문
+lost to drive-offs	먹튀로 잃은 돈
+tips	팁
+DRIVE-THRU	드라이브스루
+KITCHEN	주방
+PARKING LOT	주차장
+The shift waits while you watch	보는 동안 근무는 멈춥니다
+Previous	이전
+Back to work	일하러 가기
+{0} served	{0}대 응대
+MEANWHILE	그동안
+NEXT STEP	다음 단계
+In your hands: {0}	손에 든 것: {0}
+Drive-off!	먹튀!
+Wrong order	잘못된 주문
+Perfect order!	완벽한 주문!
+Order complete	주문 완료
+They didn't pay. Report their plate at the camera	돈을 안 냈어요. 카메라에서 번호판을 신고하세요
+You put the shotgun back on the wall.	산탄총을 벽에 다시 걸었어요.
+Emergency use only.	비상시에만 사용.
+Point it at his car.	그의 차를 겨누세요.
+Special programs, for TaterCoins	TaterCoins로 보는 특별 프로그램
+Can't reach TaterTV right now	지금은 TaterTV에 연결할 수 없어요
+No programs yet. Check back soon	아직 프로그램이 없어요. 곧 다시 와 주세요
+Not enough TaterCoins yet	TaterCoins가 아직 부족해요
+Welcome to TaterTV+	TaterTV+에 오신 걸 환영해요
+Now showing: {0}	방송 중: {0}
+Your pass: {0} more night	이용권: {0}일 밤 남음
+Your pass: {0} more nights	이용권: {0}일 밤 남음
+Press OK to watch	OK를 누르면 시청
+NEW	NEW
+New programs are on their way	새 프로그램이 오는 중
+Special programs from the TaterPeeler team	TaterPeeler 팀의 특별 프로그램
+The first programs are coming soon	첫 프로그램이 곧 나와요
+7 nights for {0} TaterCoins	{0} TaterCoins에 7일 밤
+{0} program to watch	볼 프로그램 {0}개
+{0} programs to watch	볼 프로그램 {0}개
+You have {0} TaterCoins	TaterCoins {0}개 있어요
+Earn TaterCoins in Fries, then come back	감자튀김에서 TaterCoins를 벌고 다시 오세요
+Press OK again to pay	결제하려면 OK를 한 번 더
+Press OK to get the pass	이용권을 받으려면 OK
+Input: TaterTV	입력: TaterTV

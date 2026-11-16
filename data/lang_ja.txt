@@ -1406,3 +1406,159 @@ Rinse it: hold the click on the sink and rub	洗おう：シンクをクリッ�
 Rinse it: hold on the sink and rub	洗おう：シンクを長押ししてこすって
 Clean! Onto the board with it	きれいになった！まな板へ
 Onto the board	まな板へ
+# 4.2: TaterCorner
+Emergency shotgun	非常用ショットガン
+Clean!	きれい!
+Scrubbing	こすり洗い中
+The shift waits while you watch TV	テレビを見ている間、シフトは止まります
+Click a station to walk over and use it. W A S D walk, drag to look around	ステーションをクリックすると歩いて行って使います。W A S Dで歩く、ドラッグで見回す
+Tap a station to walk over and use it. Slide on the left to walk, drag to look	ステーションをタップすると歩いて行って使います。左側をスライドで歩く、ドラッグで見回す
+Cameras	カメラ
+Open all night	24時間営業
+Your shift starts at 11:00 PM	シフトは午後11時から
+Pull into the glowing spot and stop	光っている場所に入って止まって
+Drive to work: park in the glowing spot by the door	出勤しよう: ドアのそばの光っている場所に駐車
+W A S D or the arrow keys	W A S Dか矢印キー
+Brake	ブレーキ
+Gas	アクセル
+11:00 PM	午後11時
+Skip the drive	運転をスキップ
+That's not what they asked for: throw it away	注文と違う: 捨てて
+Add {0}	{0}を追加
+Put it in the bag	袋に入れて
+Scoop a portion of fries	ポテトを1人前すくって
+Lift the fries out	ポテトを引き上げて
+The fries have gone cold: refry them	ポテトが冷めた: 揚げ直して
+The fries are frying	ポテトを揚げています
+Throw out the burnt fries	焦げたポテトを捨てて
+Drop fries in the fryer	フライヤーにポテトを入れて
+Take the potato out of the microwave	電子レンジからじゃがいもを出して
+The potato is cooking	じゃがいもを加熱中
+Put the clean potato in the microwave	きれいなじゃがいもを電子レンジに入れて
+Scrubbing the potato	じゃがいもを洗っています
+Scrub the potato in the sink	シンクでじゃがいもを洗って
+Take a potato to the sink	じゃがいもをシンクへ持って行って
+Fries all over the floor! Get the broom from the supply closet	床じゅうポテトだらけ! 物置からほうきを取ってきて
+Sweep up the fries: hold the click on them and rub	ポテトを掃いて: その上でクリックを押したままこすって
+Sweep up the fries: hold on them and rub	ポテトを掃いて: その上を押したままこすって
+Something's wrong with this guy. Take the emergency shotgun off the wall	この男、何かおかしい。壁の非常用ショットガンを取って
+Point it at his car	彼の車に向けて
+They're paying	支払い中
+Lift the fries out before they burn	焦げる前にポテトを引き上げて
+They drove off without paying: report their plate at the camera	支払わずに逃げた: カメラでナンバーを通報して
+Get ahead: drop fries in the fryer	先回り: フライヤーにポテトを入れて
+A car is pulling up	車が来ます
+That's the last car	これが最後の車
+Waiting for the next car	次の車を待っています
+That's not on the order: throw it away	注文にない: 捨てて
+Add {0} to the bag	袋に{0}を追加
+Hand the bag out of the window	窓から袋を渡して
+Still frying: give them a moment	まだ揚げています: 少し待って
+Not with a shotgun in your hands.	ショットガンを持ったままでは無理。
+Fries in the oil	ポテトを油へ
+Back in the oil	もう一度油へ
+Fries out: in the dump	ポテトを油切り台へ
+Your hands are full: bag that first	手がふさがっている: 先にそれを袋に入れて
+No fries here yet: drop some in the fryer	まだポテトがない: フライヤーに入れて
+No fries here yet: they're still in the fryer	まだポテトがない: まだフライヤーの中
+A portion of fries	ポテト1人前
+Scrub the one in the sink first	先にシンクの中のを洗って
+Potato in the sink	シンクにじゃがいも
+Nothing in the sink: take a potato from the crate	シンクは空: 箱からじゃがいもを取って
+Into the microwave	電子レンジへ
+Scrub the potato in the sink first	先にシンクでじゃがいもを洗って
+Empty: wash a potato in the sink first	空っぽ: 先にシンクでじゃがいもを洗って
+Nothing in your hands to bag yet	袋に入れるものを持っていない
+In the bag	袋の中
+He doesn't want food. He's got mustard.	食べ物はいらないらしい。マスタードを持っている。
+He's gone.	いなくなった。
+The order isn't finished yet. Use the window again to hand it out anyway	注文がまだ終わっていない。それでも渡すならもう一度窓を使って
+Nothing in the bag yet: make the order first	袋はまだ空: 先に注文を作って
+Nothing in your hands to put it on	それをのせるものを持っていない
+Refry the cold fries	冷めたポテトを揚げ直して
+Drop fries in	ポテトを入れる
+Frying...	揚げ中...
+Scoop a portion	1人前すくう
+Empty	空
+Take one to the sink	1つシンクへ
+Scrubbing...	洗浄中...
+Scrub the potato	じゃがいもを洗う
+Put it in the microwave	電子レンジに入れて
+Take the potato out	じゃがいもを出す
+Cooking...	加熱中...
+Put the potato in	じゃがいもを入れる
+Bag what you're holding	持っているものを袋に入れる
+Nothing to bag	袋に入れるものがない
+Hand out the bag	袋を渡す
+Nobody there	誰もいない
+Throw away what you're holding	持っているものを捨てる
+Empty the bag	袋を空にする
+Watch the cameras	カメラを見る
+Put some on	少しかける
+Nothing to put it on	かけるものがない
+Add one to the bag	袋に1つ入れる
+Pick up the remote	リモコンを取る
+Take the shotgun	ショットガンを取る
+Emergency use only	非常時のみ使用
+Hold the click and rub to sweep	クリックを押したままこすって掃く
+Hold and rub to sweep	押したままこすって掃く
+NIGHT SHIFT · 11:00 PM TO 7:00 AM	夜勤 · 午後11時〜午前7時
+Cars pull up to the window and order	車が窓に来て注文します
+Make it: the Next step says what, the signs say where	作る: 次のステップが「何を」、看板が「どこで」を教えます
+Bag it with their sauces and hand it out	ソースと一緒に袋に入れて渡す
+No clock until your first order's out	最初の注文を出すまで時計は止まっています
+Clock in	出勤する
+Practice	練習
+No clock	時間制限なし
+Open all night. Someone has to be.	24時間営業。誰かがいなくちゃならない。
+PAUSED	一時停止
+Click a station to walk over and use it. W A S D walk, drag to look, E uses what's in the middle, C is the cameras.	ステーションをクリックすると歩いて行って使います。W A S Dで歩く、ドラッグで見回す、Eで真ん中のものを使う、Cでカメラ。
+Tap a station to walk over and use it. Slide on the left to walk yourself, drag to look around.	ステーションをタップすると歩いて行って使います。左側をスライドで自分で歩く、ドラッグで見回す。
+PRACTICE OVER	練習終了
+CLOCKED OUT	退勤
+TONIGHT'S TAKE	今夜の売上
+car served	台に対応
+cars served	台に対応
+perfect order	件の完璧な注文
+perfect orders	件の完璧な注文
+lost to drive-offs	食い逃げの損失
+tips	チップ
+DRIVE-THRU	ドライブスルー
+KITCHEN	キッチン
+PARKING LOT	駐車場
+The shift waits while you watch	見ている間、シフトは止まります
+Previous	前へ
+Back to work	仕事に戻る
+{0} served	{0}台に対応
+MEANWHILE	待ち時間
+NEXT STEP	次のステップ
+In your hands: {0}	手に持っているもの: {0}
+Drive-off!	食い逃げ!
+Wrong order	注文間違い
+Perfect order!	完璧な注文!
+Order complete	注文完了
+They didn't pay. Report their plate at the camera	支払われなかった。カメラでナンバーを通報して
+You put the shotgun back on the wall.	ショットガンを壁に戻した。
+Emergency use only.	非常時のみ使用。
+Point it at his car.	彼の車に向けて。
+Special programs, for TaterCoins	TaterCoinsで見られる特別番組
+Can't reach TaterTV right now	今はTaterTVにつながりません
+No programs yet. Check back soon	まだ番組がありません。また来てね
+Not enough TaterCoins yet	TaterCoinsがまだ足りません
+Welcome to TaterTV+	TaterTV+へようこそ
+Now showing: {0}	放送中: {0}
+Your pass: {0} more night	パス: あと{0}晩
+Your pass: {0} more nights	パス: あと{0}晩
+Press OK to watch	OKで見る
+NEW	NEW
+New programs are on their way	新しい番組が準備中
+Special programs from the TaterPeeler team	TaterPeelerチームの特別番組
+The first programs are coming soon	最初の番組はもうすぐ
+7 nights for {0} TaterCoins	{0} TaterCoinsで7晩
+{0} program to watch	{0}本の番組
+{0} programs to watch	{0}本の番組
+You have {0} TaterCoins	{0} TaterCoins持っています
+Earn TaterCoins in Fries, then come back	フライドポテトでTaterCoinsを稼いでから来てね
+Press OK again to pay	もう一度OKで支払う
+Press OK to get the pass	OKでパスを買う
+Input: TaterTV	入力: TaterTV

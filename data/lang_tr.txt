@@ -1406,3 +1406,159 @@ Rinse it: hold the click on the sink and rub	Durula: lavaboya tıklayıp basıl�
 Rinse it: hold on the sink and rub	Durula: lavaboya basılı tut ve ov
 Clean! Onto the board with it	Temiz! Tahtaya koy
 Onto the board	Tahtaya
+# 4.2: TaterCorner
+Emergency shotgun	Acil durum pompalısı
+Clean!	Temiz!
+Scrubbing	Ovuluyor
+The shift waits while you watch TV	Sen televizyon izlerken vardiya bekler
+Click a station to walk over and use it. W A S D walk, drag to look around	Gidip kullanmak için bir istasyona tıkla. W A S D yürü, bakmak için sürükle
+Tap a station to walk over and use it. Slide on the left to walk, drag to look	Gidip kullanmak için bir istasyona dokun. Yürümek için solda kaydır, bakmak için sürükle
+Cameras	Kameralar
+Open all night	Bütün gece açık
+Your shift starts at 11:00 PM	Vardiyan 23:00'te başlıyor
+Pull into the glowing spot and stop	Parlayan yere gir ve dur
+Drive to work: park in the glowing spot by the door	İşe sür: kapının yanındaki parlayan yere park et
+W A S D or the arrow keys	W A S D ya da ok tuşları
+Brake	Fren
+Gas	Gaz
+11:00 PM	23:00
+Skip the drive	Sürüşü atla
+That's not what they asked for: throw it away	İstedikleri bu değil: at onu
+Add {0}	{0} ekle
+Put it in the bag	Poşete koy
+Scoop a portion of fries	Bir porsiyon patates al
+Lift the fries out	Patatesleri çıkar
+The fries have gone cold: refry them	Patatesler soğudu: yeniden kızart
+The fries are frying	Patatesler kızarıyor
+Throw out the burnt fries	Yanmış patatesleri at
+Drop fries in the fryer	Fritöze patates at
+Take the potato out of the microwave	Patatesi mikrodalgadan çıkar
+The potato is cooking	Patates pişiyor
+Put the clean potato in the microwave	Temiz patatesi mikrodalgaya koy
+Scrubbing the potato	Patates ovuluyor
+Scrub the potato in the sink	Patatesi lavaboda ov
+Take a potato to the sink	Lavaboya bir patates götür
+Fries all over the floor! Get the broom from the supply closet	Her yer patates dolu! Temizlik dolabından süpürgeyi al
+Sweep up the fries: hold the click on them and rub	Patatesleri süpür: üstlerine tıklamayı basılı tut ve ov
+Sweep up the fries: hold on them and rub	Patatesleri süpür: parmağını üstlerinde tut ve ov
+Something's wrong with this guy. Take the emergency shotgun off the wall	Bu adamda bir tuhaflık var. Acil durum pompalısını duvardan al
+Point it at his car	Arabasına doğrult
+They're paying	Ödüyorlar
+Lift the fries out before they burn	Patatesleri yanmadan çıkar
+They drove off without paying: report their plate at the camera	Ödemeden kaçtılar: plakalarını kamerada bildir
+Get ahead: drop fries in the fryer	Önden git: fritöze patates at
+A car is pulling up	Bir araba geliyor
+That's the last car	Bu son araba
+Waiting for the next car	Sıradaki araba bekleniyor
+That's not on the order: throw it away	Bu siparişte yok: at onu
+Add {0} to the bag	Poşete {0} ekle
+Hand the bag out of the window	Poşeti pencereden ver
+Still frying: give them a moment	Hâlâ kızarıyor: biraz bekle
+Not with a shotgun in your hands.	Elinde pompalıyla olmaz.
+Fries in the oil	Patatesler yağda
+Back in the oil	Yeniden yağa
+Fries out: in the dump	Patatesler çıktı: süzgece
+Your hands are full: bag that first	Ellerin dolu: önce onu poşetle
+No fries here yet: drop some in the fryer	Henüz patates yok: fritöze biraz at
+No fries here yet: they're still in the fryer	Henüz patates yok: hâlâ fritözdeler
+A portion of fries	Bir porsiyon patates
+Scrub the one in the sink first	Önce lavabodakini ov
+Potato in the sink	Lavaboda patates
+Nothing in the sink: take a potato from the crate	Lavabo boş: kasadan bir patates al
+Into the microwave	Mikrodalgaya
+Scrub the potato in the sink first	Önce patatesi lavaboda ov
+Empty: wash a potato in the sink first	Boş: önce lavaboda bir patates yıka
+Nothing in your hands to bag yet	Elinde poşetlenecek bir şey yok
+In the bag	Poşette
+He doesn't want food. He's got mustard.	Yemek istemiyor. Elinde hardal var.
+He's gone.	Gitti.
+The order isn't finished yet. Use the window again to hand it out anyway	Sipariş henüz bitmedi. Yine de vermek için pencereyi bir daha kullan
+Nothing in the bag yet: make the order first	Poşet boş: önce siparişi hazırla
+Nothing in your hands to put it on	Elinde koyacak bir şey yok
+Refry the cold fries	Soğuk patatesleri yeniden kızart
+Drop fries in	Patates at
+Frying...	Kızarıyor...
+Scoop a portion	Bir porsiyon al
+Empty	Boş
+Take one to the sink	Lavaboya bir tane götür
+Scrubbing...	Ovuluyor...
+Scrub the potato	Patatesi ov
+Put it in the microwave	Mikrodalgaya koy
+Take the potato out	Patatesi çıkar
+Cooking...	Pişiyor...
+Put the potato in	Patatesi koy
+Bag what you're holding	Elindekini poşetle
+Nothing to bag	Poşetlenecek bir şey yok
+Hand out the bag	Poşeti ver
+Nobody there	Kimse yok
+Throw away what you're holding	Elindekini at
+Empty the bag	Poşeti boşalt
+Watch the cameras	Kameraları izle
+Put some on	Biraz koy
+Nothing to put it on	Koyacak bir şey yok
+Add one to the bag	Poşete bir tane ekle
+Pick up the remote	Kumandayı al
+Take the shotgun	Pompalıyı al
+Emergency use only	Sadece acil durumda
+Hold the click and rub to sweep	Süpürmek için tıklamayı basılı tut ve ov
+Hold and rub to sweep	Süpürmek için basılı tut ve ov
+NIGHT SHIFT · 11:00 PM TO 7:00 AM	GECE VARDİYASI · 23:00 - 07:00
+Cars pull up to the window and order	Arabalar pencereye gelip sipariş verir
+Make it: the Next step says what, the signs say where	Hazırla: sıradaki adım ne yapacağını, tabelalar nerede olduğunu söyler
+Bag it with their sauces and hand it out	Soslarıyla poşetle ve ver
+No clock until your first order's out	İlk siparişin çıkana kadar saat yok
+Clock in	İşe başla
+Practice	Alıştırma
+No clock	Saat yok
+Open all night. Someone has to be.	Bütün gece açık. Birinin burada olması lazım.
+PAUSED	DURAKLATILDI
+Click a station to walk over and use it. W A S D walk, drag to look, E uses what's in the middle, C is the cameras.	Gidip kullanmak için bir istasyona tıkla. W A S D yürü, bakmak için sürükle, E ortadakini kullanır, C kameralar.
+Tap a station to walk over and use it. Slide on the left to walk yourself, drag to look around.	Gidip kullanmak için bir istasyona dokun. Kendin yürümek için solda kaydır, bakmak için sürükle.
+PRACTICE OVER	ALIŞTIRMA BİTTİ
+CLOCKED OUT	VARDİYA BİTTİ
+TONIGHT'S TAKE	BU GECENİN KAZANCI
+car served	servis edilen araba
+cars served	servis edilen araba
+perfect order	mükemmel sipariş
+perfect orders	mükemmel sipariş
+lost to drive-offs	kaçaklara giden
+tips	bahşiş
+DRIVE-THRU	ARABALI SERVİS
+KITCHEN	MUTFAK
+PARKING LOT	OTOPARK
+The shift waits while you watch	Sen izlerken vardiya bekler
+Previous	Önceki
+Back to work	İşe dön
+{0} served	{0} servis
+MEANWHILE	BU ARADA
+NEXT STEP	SIRADAKİ ADIM
+In your hands: {0}	Elinde: {0}
+Drive-off!	Ödemeden kaçtı!
+Wrong order	Yanlış sipariş
+Perfect order!	Mükemmel sipariş!
+Order complete	Sipariş tamam
+They didn't pay. Report their plate at the camera	Ödemediler. Plakalarını kamerada bildir
+You put the shotgun back on the wall.	Pompalıyı duvara geri astın.
+Emergency use only.	Sadece acil durumda.
+Point it at his car.	Arabasına doğrult.
+Special programs, for TaterCoins	TaterCoin ile özel programlar
+Can't reach TaterTV right now	Şu an TaterTV'ye bağlanılamıyor
+No programs yet. Check back soon	Henüz program yok. Yakında tekrar bak
+Not enough TaterCoins yet	Henüz yeterli TaterCoin yok
+Welcome to TaterTV+	TaterTV+'ya hoş geldin
+Now showing: {0}	Şimdi yayında: {0}
+Your pass: {0} more night	Kartın: {0} gece daha
+Your pass: {0} more nights	Kartın: {0} gece daha
+Press OK to watch	İzlemek için OK'a bas
+NEW	YENİ
+New programs are on their way	Yeni programlar yolda
+Special programs from the TaterPeeler team	TaterPeeler ekibinden özel programlar
+The first programs are coming soon	İlk programlar yakında geliyor
+7 nights for {0} TaterCoins	{0} TaterCoin'e 7 gece
+{0} program to watch	İzlenecek {0} program
+{0} programs to watch	İzlenecek {0} program
+You have {0} TaterCoins	{0} TaterCoin'in var
+Earn TaterCoins in Fries, then come back	Kızartma'da TaterCoin kazan, sonra geri gel
+Press OK again to pay	Ödemek için yine OK'a bas
+Press OK to get the pass	Kartı almak için OK'a bas
+Input: TaterTV	Giriş: TaterTV

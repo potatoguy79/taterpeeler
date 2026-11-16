@@ -1406,3 +1406,159 @@ Rinse it: hold the click on the sink and rub	Rinse it: hold the click on the sin
 Rinse it: hold on the sink and rub	Rinse it: hold on the sink an' scrub
 Clean! Onto the board with it	Clean as a whistle! Onto the board
 Onto the board	Onto the board
+# 4.2: TaterCorner
+Emergency shotgun	Emergency blunderbuss
+Clean!	Shipshape!
+Scrubbing	Scrubbin'
+The shift waits while you watch TV	The watch waits while ye gawk at the telly
+Click a station to walk over and use it. W A S D walk, drag to look around	Click a station to swagger over an' use it. W A S D to walk, drag to look about
+Tap a station to walk over and use it. Slide on the left to walk, drag to look	Tap a station to swagger over an' use it. Slide on the left to walk, drag to look about
+Cameras	Spyglasses
+Open all night	Open all night
+Your shift starts at 11:00 PM	Yer watch starts at 11:00 PM
+Pull into the glowing spot and stop	Pull into the glowin' berth an' drop anchor
+Drive to work: park in the glowing spot by the door	Sail to work: moor in the glowin' berth by the door
+W A S D or the arrow keys	W A S D or the arrow keys
+Brake	Brake
+Gas	Gas
+11:00 PM	11:00 PM
+Skip the drive	Skip the voyage
+That's not what they asked for: throw it away	That ain't what they asked fer: toss it overboard
+Add {0}	Add {0}
+Put it in the bag	Stow it in the bag
+Scoop a portion of fries	Scoop a portion o' fries
+Lift the fries out	Haul the fries out
+The fries have gone cold: refry them	The fries be cold: fry 'em again
+The fries are frying	The fries be fryin'
+Throw out the burnt fries	Toss the burnt fries
+Drop fries in the fryer	Drop fries in the fryer
+Take the potato out of the microwave	Haul the spud out o' the microwave
+The potato is cooking	The spud be cookin'
+Put the clean potato in the microwave	Stow the clean spud in the microwave
+Scrubbing the potato	Scrubbin' the spud
+Scrub the potato in the sink	Scrub the spud in the sink
+Take a potato to the sink	Take a spud to the sink
+Fries all over the floor! Get the broom from the supply closet	Fries all over the deck! Fetch the broom from the supply closet
+Sweep up the fries: hold the click on them and rub	Swab up the fries: hold the click on 'em an' rub
+Sweep up the fries: hold on them and rub	Swab up the fries: hold on 'em an' rub
+Something's wrong with this guy. Take the emergency shotgun off the wall	Somethin's off with this scallywag. Take the emergency blunderbuss off the wall
+Point it at his car	Aim it at his cart
+They're paying	They be payin'
+Lift the fries out before they burn	Haul the fries out afore they burn
+They drove off without paying: report their plate at the camera	They fled without payin': report their plate at the spyglass
+Get ahead: drop fries in the fryer	Get ahead: drop fries in the fryer
+A car is pulling up	A cart be pullin' up
+That's the last car	That be the last cart
+Waiting for the next car	Waitin' fer the next cart
+That's not on the order: throw it away	That ain't on the order: toss it overboard
+Add {0} to the bag	Add {0} to the bag
+Hand the bag out of the window	Hand the bag out the porthole
+Still frying: give them a moment	Still fryin': give 'em a moment
+Not with a shotgun in your hands.	Not with a blunderbuss in yer hands.
+Fries in the oil	Fries in the oil
+Back in the oil	Back in the oil
+Fries out: in the dump	Fries out: in the drippin' tray
+Your hands are full: bag that first	Yer hands be full: bag that first
+No fries here yet: drop some in the fryer	No fries here yet: drop some in the fryer
+No fries here yet: they're still in the fryer	No fries here yet: they be still in the fryer
+A portion of fries	A portion o' fries
+Scrub the one in the sink first	Scrub the one in the sink first
+Potato in the sink	Spud in the sink
+Nothing in the sink: take a potato from the crate	Naught in the sink: grab a spud from the crate
+Into the microwave	Into the microwave
+Scrub the potato in the sink first	Scrub the spud in the sink first
+Empty: wash a potato in the sink first	Empty: wash a spud in the sink first
+Nothing in your hands to bag yet	Naught in yer hands to bag
+In the bag	In the bag
+He doesn't want food. He's got mustard.	He don't want grub. He's got mustard.
+He's gone.	He be gone.
+The order isn't finished yet. Use the window again to hand it out anyway	The order ain't done. Use the porthole again to hand it out anyhow
+Nothing in the bag yet: make the order first	Naught in the bag: make the order first
+Nothing in your hands to put it on	Naught in yer hands to put it on
+Refry the cold fries	Fry the cold fries again
+Drop fries in	Drop fries in
+Frying...	Fryin'...
+Scoop a portion	Scoop a portion
+Empty	Empty
+Take one to the sink	Take one to the sink
+Scrubbing...	Scrubbin'...
+Scrub the potato	Scrub the spud
+Put it in the microwave	Stow it in the microwave
+Take the potato out	Haul the spud out
+Cooking...	Cookin'...
+Put the potato in	Stow the spud
+Bag what you're holding	Bag what ye be holdin'
+Nothing to bag	Naught to bag
+Hand out the bag	Hand out the bag
+Nobody there	Nobody there
+Throw away what you're holding	Toss what ye be holdin'
+Empty the bag	Empty the bag
+Watch the cameras	Peer through the spyglasses
+Put some on	Put some on
+Nothing to put it on	Naught to put it on
+Add one to the bag	Add one to the bag
+Pick up the remote	Grab the remote
+Take the shotgun	Grab the blunderbuss
+Emergency use only	Emergency use only
+Hold the click and rub to sweep	Hold the click an' rub to swab
+Hold and rub to sweep	Hold an' rub to swab
+NIGHT SHIFT · 11:00 PM TO 7:00 AM	NIGHT WATCH · 11:00 PM TO 7:00 AM
+Cars pull up to the window and order	Carts pull up to the porthole an' order
+Make it: the Next step says what, the signs say where	Make it: the Next step says what, the signs say where
+Bag it with their sauces and hand it out	Bag it with their sauces an' hand it out
+No clock until your first order's out	No clock till yer first order's out
+Clock in	Clock in, matey
+Practice	Practice
+No clock	No clock
+Open all night. Someone has to be.	Open all night. Someone has to be.
+PAUSED	BECALMED
+Click a station to walk over and use it. W A S D walk, drag to look, E uses what's in the middle, C is the cameras.	Click a station to swagger over an' use it. W A S D to walk, drag to look about, E uses what's in the middle, C be the spyglasses.
+Tap a station to walk over and use it. Slide on the left to walk yourself, drag to look around.	Tap a station to swagger over an' use it. Slide on the left to walk yerself, drag to look about.
+PRACTICE OVER	PRACTICE BE OVER
+CLOCKED OUT	WATCH BE OVER
+TONIGHT'S TAKE	TONIGHT'S PLUNDER
+car served	cart served
+cars served	carts served
+perfect order	perfect order
+perfect orders	perfect orders
+lost to drive-offs	lost to scallywags
+tips	tips
+DRIVE-THRU	PORTHOLE
+KITCHEN	GALLEY
+PARKING LOT	HARBOR
+The shift waits while you watch	The watch waits while ye gawk
+Previous	Previous
+Back to work	Back to work, ye dog
+{0} served	{0} served
+MEANWHILE	MEANWHILE
+NEXT STEP	NEXT STEP
+In your hands: {0}	In yer hands: {0}
+Drive-off!	Fled without payin'!
+Wrong order	Wrong order
+Perfect order!	Perfect order!
+Order complete	Order complete
+They didn't pay. Report their plate at the camera	They didn't pay. Report their plate at the spyglass
+You put the shotgun back on the wall.	Ye hung the blunderbuss back on the wall.
+Emergency use only.	Emergency use only.
+Point it at his car.	Aim it at his cart.
+Special programs, for TaterCoins	Special programs, fer TaterCoins
+Can't reach TaterTV right now	Can't reach TaterTV right now
+No programs yet. Check back soon	No programs yet. Check back soon
+Not enough TaterCoins yet	Not enough TaterCoins yet
+Welcome to TaterTV+	Welcome aboard TaterTV+
+Now showing: {0}	Now showin': {0}
+Your pass: {0} more night	Yer pass: {0} more night
+Your pass: {0} more nights	Yer pass: {0} more nights
+Press OK to watch	Press OK to watch
+NEW	NEW
+New programs are on their way	New programs be on their way
+Special programs from the TaterPeeler team	Special programs from the TaterPeeler crew
+The first programs are coming soon	The first programs be comin' soon
+7 nights for {0} TaterCoins	7 nights fer {0} TaterCoins
+{0} program to watch	{0} program to watch
+{0} programs to watch	{0} programs to watch
+You have {0} TaterCoins	Ye have {0} TaterCoins
+Earn TaterCoins in Fries, then come back	Earn TaterCoins in Fries, then come back
+Press OK again to pay	Press OK again to pay
+Press OK to get the pass	Press OK to get the pass
+Input: TaterTV	Input: TaterTV

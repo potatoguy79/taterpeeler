@@ -1406,3 +1406,159 @@ Rinse it: hold the click on the sink and rub	冲洗：按住水槽并来回搓
 Rinse it: hold on the sink and rub	冲洗：按住水槽并来回搓
 Clean! Onto the board with it	洗干净了！放到砧板上
 Onto the board	放到砧板上
+# 4.2: TaterCorner
+Emergency shotgun	应急霰弹枪
+Clean!	干净了！
+Scrubbing	正在刷洗
+The shift waits while you watch TV	看电视时班次会暂停
+Click a station to walk over and use it. W A S D walk, drag to look around	点击一个工作台，走过去使用它。W A S D 走路，拖动环顾
+Tap a station to walk over and use it. Slide on the left to walk, drag to look	点按一个工作台，走过去使用它。在左边滑动走路，拖动环顾
+Cameras	监控
+Open all night	通宵营业
+Your shift starts at 11:00 PM	你的班从晚上 11 点开始
+Pull into the glowing spot and stop	开进发光的车位停下
+Drive to work: park in the glowing spot by the door	开车去上班：停在门边发光的车位
+W A S D or the arrow keys	W A S D 或方向键
+Brake	刹车
+Gas	油门
+11:00 PM	晚上 11:00
+Skip the drive	跳过开车
+That's not what they asked for: throw it away	这不是他们点的：扔掉
+Add {0}	加{0}
+Put it in the bag	放进袋子
+Scoop a portion of fries	盛一份薯条
+Lift the fries out	把薯条捞出来
+The fries have gone cold: refry them	薯条凉了：再炸一遍
+The fries are frying	薯条正在炸
+Throw out the burnt fries	把炸焦的薯条扔掉
+Drop fries in the fryer	把薯条放进油锅
+Take the potato out of the microwave	把土豆从微波炉里拿出来
+The potato is cooking	土豆正在加热
+Put the clean potato in the microwave	把洗干净的土豆放进微波炉
+Scrubbing the potato	正在刷洗土豆
+Scrub the potato in the sink	在水槽里刷洗土豆
+Take a potato to the sink	把一个土豆拿到水槽
+Fries all over the floor! Get the broom from the supply closet	满地都是薯条！去杂物间拿扫帚
+Sweep up the fries: hold the click on them and rub	扫薯条：在上面按住鼠标来回擦
+Sweep up the fries: hold on them and rub	扫薯条：在上面按住来回擦
+Something's wrong with this guy. Take the emergency shotgun off the wall	这家伙不对劲。把墙上的应急霰弹枪拿下来
+Point it at his car	对准他的车
+They're paying	他们在付钱
+Lift the fries out before they burn	趁还没焦把薯条捞出来
+They drove off without paying: report their plate at the camera	他们没付钱就开走了：在监控上举报车牌
+Get ahead: drop fries in the fryer	先准备：把薯条放进油锅
+A car is pulling up	有车开过来了
+That's the last car	这是最后一辆车
+Waiting for the next car	等待下一辆车
+That's not on the order: throw it away	订单上没有这个：扔掉
+Add {0} to the bag	把{0}放进袋子
+Hand the bag out of the window	从窗口把袋子递出去
+Still frying: give them a moment	还在炸：稍等一下
+Not with a shotgun in your hands.	拿着霰弹枪可不行。
+Fries in the oil	薯条下锅
+Back in the oil	重新下锅
+Fries out: in the dump	薯条出锅：放到沥油台
+Your hands are full: bag that first	你手里拿满了：先把那个装袋
+No fries here yet: drop some in the fryer	还没有薯条：先放一些进油锅
+No fries here yet: they're still in the fryer	还没有薯条：还在油锅里
+A portion of fries	一份薯条
+Scrub the one in the sink first	先把水槽里那个刷干净
+Potato in the sink	水槽里有土豆
+Nothing in the sink: take a potato from the crate	水槽是空的：从箱子里拿一个土豆
+Into the microwave	放进微波炉
+Scrub the potato in the sink first	先在水槽里刷洗土豆
+Empty: wash a potato in the sink first	空的：先在水槽里洗一个土豆
+Nothing in your hands to bag yet	手里没有能装袋的东西
+In the bag	在袋子里
+He doesn't want food. He's got mustard.	他不想要吃的。他拿着芥末。
+He's gone.	他走了。
+The order isn't finished yet. Use the window again to hand it out anyway	订单还没做完。再用一次窗口也可以照样递出去
+Nothing in the bag yet: make the order first	袋子里还没东西：先把订单做好
+Nothing in your hands to put it on	手里没有能放上去的东西
+Refry the cold fries	把凉掉的薯条再炸一遍
+Drop fries in	放薯条
+Frying...	在炸...
+Scoop a portion	盛一份
+Empty	空
+Take one to the sink	拿一个到水槽
+Scrubbing...	刷洗中...
+Scrub the potato	刷洗土豆
+Put it in the microwave	放进微波炉
+Take the potato out	拿出土豆
+Cooking...	加热中...
+Put the potato in	放进土豆
+Bag what you're holding	把手里的装袋
+Nothing to bag	没有可装袋的
+Hand out the bag	递出袋子
+Nobody there	没有人
+Throw away what you're holding	扔掉手里的东西
+Empty the bag	清空袋子
+Watch the cameras	看监控
+Put some on	加一点
+Nothing to put it on	没东西可以加
+Add one to the bag	往袋子里加一个
+Pick up the remote	拿起遥控器
+Take the shotgun	拿起霰弹枪
+Emergency use only	仅限紧急情况
+Hold the click and rub to sweep	按住鼠标来回擦来扫地
+Hold and rub to sweep	按住来回擦来扫地
+NIGHT SHIFT · 11:00 PM TO 7:00 AM	夜班 · 晚上 11 点到早上 7 点
+Cars pull up to the window and order	车开到窗口点餐
+Make it: the Next step says what, the signs say where	做好它：下一步告诉你做什么，招牌告诉你在哪儿
+Bag it with their sauces and hand it out	连同酱料装袋递出去
+No clock until your first order's out	第一单送出前不计时
+Clock in	打卡上班
+Practice	练习
+No clock	不计时
+Open all night. Someone has to be.	通宵营业。总得有人在。
+PAUSED	已暂停
+Click a station to walk over and use it. W A S D walk, drag to look, E uses what's in the middle, C is the cameras.	点击一个工作台，走过去使用它。W A S D 走路，拖动环顾，E 使用画面中间的东西，C 打开监控。
+Tap a station to walk over and use it. Slide on the left to walk yourself, drag to look around.	点按一个工作台，走过去使用它。在左边滑动自己走，拖动环顾。
+PRACTICE OVER	练习结束
+CLOCKED OUT	下班打卡
+TONIGHT'S TAKE	今晚的收入
+car served	辆车已服务
+cars served	辆车已服务
+perfect order	份完美订单
+perfect orders	份完美订单
+lost to drive-offs	被逃单损失
+tips	小费
+DRIVE-THRU	得来速
+KITCHEN	厨房
+PARKING LOT	停车场
+The shift waits while you watch	你看的时候班次会暂停
+Previous	上一个
+Back to work	回去工作
+{0} served	已服务 {0}
+MEANWHILE	同时
+NEXT STEP	下一步
+In your hands: {0}	你手里：{0}
+Drive-off!	逃单了！
+Wrong order	订单错了
+Perfect order!	完美订单！
+Order complete	订单完成
+They didn't pay. Report their plate at the camera	他们没付钱。在监控上举报车牌
+You put the shotgun back on the wall.	你把霰弹枪挂回墙上了。
+Emergency use only.	仅限紧急情况。
+Point it at his car.	对准他的车。
+Special programs, for TaterCoins	用 TaterCoins 看的特别节目
+Can't reach TaterTV right now	现在连不上 TaterTV
+No programs yet. Check back soon	还没有节目。过段时间再来看看
+Not enough TaterCoins yet	TaterCoins 还不够
+Welcome to TaterTV+	欢迎来到 TaterTV+
+Now showing: {0}	正在播放：{0}
+Your pass: {0} more night	你的通行证：还剩 {0} 晚
+Your pass: {0} more nights	你的通行证：还剩 {0} 晚
+Press OK to watch	按 OK 观看
+NEW	新
+New programs are on their way	新节目正在路上
+Special programs from the TaterPeeler team	TaterPeeler 团队的特别节目
+The first programs are coming soon	第一批节目马上就来
+7 nights for {0} TaterCoins	{0} TaterCoins 看 7 晚
+{0} program to watch	{0} 个节目可看
+{0} programs to watch	{0} 个节目可看
+You have {0} TaterCoins	你有 {0} TaterCoins
+Earn TaterCoins in Fries, then come back	去薯条里赚 TaterCoins 再回来
+Press OK again to pay	再按一次 OK 付款
+Press OK to get the pass	按 OK 购买通行证
+Input: TaterTV	信号源：TaterTV
