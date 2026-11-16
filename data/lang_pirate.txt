@@ -1599,3 +1599,51 @@ Radio off	Radio off
 Turn on the radio	Turn on the radio
 Next song	Next shanty
 Turn off the radio	Turn off the radio
+
+# 4.2: invites; TaterCorner 1.0
+1v1	1v1
+Private lobby	Secret hideout
+Public lobby	Open tavern
+Just the two of you: it starts when they join	Just ye two: it starts when they come aboard
+Up to 6 friends, with a code and typed chat	Up to 6 mateys, with a secret code an' chat
+Up to 6, and anyone can join	Up to 6, an' any sailor can join
+Couldn't send the invite. Check your internet	The invite didn't sail. Check yer internet
+{0} isn't taking invites	{0} ain't takin' invites
+That's a lot of invites. Try again in a few minutes	That be a lot o' invites. Try again in a few minutes
+Your Cloud save needs signing in again	Yer Cloud save needs signin' in again
+That player isn't there any more	That sailor be gone
+Couldn't send the invite. Try again	The invite didn't sail. Try again
+Invite sent. {0} is online	Invite sent! {0} be aboard
+Invite sent. {0} will get a notification	Invite sent! {0} will get word by bottle
+Invite sent. {0} isn't online right now	Invite sent. {0} ain't aboard right now
+Turn on Cloud save to invite	Turn on Cloud save to send invites
+Invites come from your Cloud save account, so the other player knows who it's from. Turn it on in Settings, then Cloud save.	Invites come from yer Cloud save account, so the other sailor knows who sent 'em. Turn it on in Settings, then Cloud save.
+Invite {0} to a game	Invite {0} to a game
+Invite {0}	Invite {0}
+Pick a game, and how you'd like to play	Pick a game, an' how ye'd like to play
+To your room: {0}, code {1}	To yer cabin: {0}, code {1}
+GAME	GAME
+HOW	HOW
+Send invite	Send the invite
+{0} invited you	{0} be invitin' ye
+To a 1v1 in {0}	To a duel in {0}
+To their public lobby in {0}	To their open tavern in {0}
+To their private lobby in {0}	To their secret hideout in {0}
+No thanks	Nay, thanks
+Join	Come aboard
+Game invites	Game invites
+Let other players invite you to play	Let other sailors invite ye to play
+Couldn't save that. Check your internet	Couldn't stow that. Check yer internet
+Back to TaterPeeler	Back to TaterPeeler
+Version	Version
+Beta	Beta
+Shifts worked {0}  ·  Best night {1}	Watches stood {0}  ·  Best night {1}
+Shifts worked {0}	Watches stood {0}
+Your first night. The 11 PM shift starts when you're ready	Yer first night. The 11 PM watch starts when ye be ready
+Enter to start  ·  Esc to leave	Enter to start  ·  Esc to abandon ship
+NIGHT SHIFT  ·  DRIVE-THRU	NIGHT WATCH  ·  DRIVE-THRU
+TIME	TIME
+TILL	COFFER
+SERVED	SERVED
+MODE	MODE
+NEXT	NEXT

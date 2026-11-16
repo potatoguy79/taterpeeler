@@ -1599,3 +1599,51 @@ Radio off	Rádio desligado
 Turn on the radio	Ligar o rádio
 Next song	Próxima música
 Turn off the radio	Desligar o rádio
+
+# 4.2: invites; TaterCorner 1.0
+1v1	1v1
+Private lobby	Sala privada
+Public lobby	Sala pública
+Just the two of you: it starts when they join	Só vocês dois: começa quando entrar
+Up to 6 friends, with a code and typed chat	Até 6 amigos, com código e chat escrito
+Up to 6, and anyone can join	Até 6, e qualquer um pode entrar
+Couldn't send the invite. Check your internet	Não foi possível enviar o convite. Verifique sua internet
+{0} isn't taking invites	{0} não está aceitando convites
+That's a lot of invites. Try again in a few minutes	São muitos convites. Tente de novo em alguns minutos
+Your Cloud save needs signing in again	Faça login de novo no salvamento na nuvem
+That player isn't there any more	Esse jogador não está mais lá
+Couldn't send the invite. Try again	Não foi possível enviar o convite. Tente de novo
+Invite sent. {0} is online	Convite enviado. {0} está online
+Invite sent. {0} will get a notification	Convite enviado. {0} vai receber uma notificação
+Invite sent. {0} isn't online right now	Convite enviado. {0} não está online agora
+Turn on Cloud save to invite	Ative o salvamento na nuvem para convidar
+Invites come from your Cloud save account, so the other player knows who it's from. Turn it on in Settings, then Cloud save.	Os convites vêm da sua conta de salvamento na nuvem, para o outro jogador saber de quem é. Ative em Configurações, Salvamento na nuvem.
+Invite {0} to a game	Convidar {0} para jogar
+Invite {0}	Convidar {0}
+Pick a game, and how you'd like to play	Escolha um jogo e como quer jogar
+To your room: {0}, code {1}	Para sua sala: {0}, código {1}
+GAME	JOGO
+HOW	COMO
+Send invite	Enviar convite
+{0} invited you	{0} convidou você
+To a 1v1 in {0}	Para um 1v1 em {0}
+To their public lobby in {0}	Para a sala pública de {0}
+To their private lobby in {0}	Para a sala privada de {0}
+No thanks	Não, obrigado
+Join	Entrar
+Game invites	Convites para jogar
+Let other players invite you to play	Deixe outros jogadores convidarem você
+Couldn't save that. Check your internet	Não foi possível salvar. Verifique sua internet
+Back to TaterPeeler	Voltar ao TaterPeeler
+Version	Versão
+Beta	Beta
+Shifts worked {0}  ·  Best night {1}	Turnos: {0}  ·  Melhor noite: {1}
+Shifts worked {0}	Turnos: {0}
+Your first night. The 11 PM shift starts when you're ready	Sua primeira noite. O turno das 23h começa quando você estiver pronto
+Enter to start  ·  Esc to leave	Enter para começar  ·  Esc para sair
+NIGHT SHIFT  ·  DRIVE-THRU	TURNO DA NOITE  ·  DRIVE-THRU
+TIME	HORA
+TILL	CAIXA
+SERVED	ATENDIDOS
+MODE	MODO
+NEXT	PRÓXIMO

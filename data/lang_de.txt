@@ -1599,3 +1599,51 @@ Radio off	Radio aus
 Turn on the radio	Radio einschalten
 Next song	Nächstes Lied
 Turn off the radio	Radio ausschalten
+
+# 4.2: invites; TaterCorner 1.0
+1v1	1v1
+Private lobby	Private Lobby
+Public lobby	Öffentliche Lobby
+Just the two of you: it starts when they join	Nur ihr zwei: Es geht los, sobald sie beitreten
+Up to 6 friends, with a code and typed chat	Bis zu 6 Freunde, mit Code und Chat
+Up to 6, and anyone can join	Bis zu 6, und jeder kann beitreten
+Couldn't send the invite. Check your internet	Einladung nicht gesendet. Prüfe dein Internet
+{0} isn't taking invites	{0} nimmt keine Einladungen an
+That's a lot of invites. Try again in a few minutes	Das sind viele Einladungen. Versuch es in ein paar Minuten nochmal
+Your Cloud save needs signing in again	Deine Cloud-Speicherung muss neu angemeldet werden
+That player isn't there any more	Diesen Spieler gibt es nicht mehr
+Couldn't send the invite. Try again	Einladung nicht gesendet. Versuch es nochmal
+Invite sent. {0} is online	Einladung gesendet. {0} ist online
+Invite sent. {0} will get a notification	Einladung gesendet. {0} bekommt eine Benachrichtigung
+Invite sent. {0} isn't online right now	Einladung gesendet. {0} ist gerade nicht online
+Turn on Cloud save to invite	Schalte die Cloud-Speicherung ein, um einzuladen
+Invites come from your Cloud save account, so the other player knows who it's from. Turn it on in Settings, then Cloud save.	Einladungen kommen von deinem Cloud-Konto, damit der andere weiß, von wem sie ist. Schalte es in den Einstellungen unter Cloud-Speicherung ein.
+Invite {0} to a game	{0} zu einem Spiel einladen
+Invite {0}	{0} einladen
+Pick a game, and how you'd like to play	Wähle ein Spiel und wie ihr spielen wollt
+To your room: {0}, code {1}	In deinen Raum: {0}, Code {1}
+GAME	SPIEL
+HOW	WIE
+Send invite	Einladung senden
+{0} invited you	{0} hat dich eingeladen
+To a 1v1 in {0}	Zu einem 1v1 in {0}
+To their public lobby in {0}	In die öffentliche Lobby in {0}
+To their private lobby in {0}	In die private Lobby in {0}
+No thanks	Nein, danke
+Join	Beitreten
+Game invites	Spieleinladungen
+Let other players invite you to play	Andere Spieler dürfen dich einladen
+Couldn't save that. Check your internet	Konnte nicht gespeichert werden. Prüfe dein Internet
+Back to TaterPeeler	Zurück zu TaterPeeler
+Version	Version
+Beta	Beta
+Shifts worked {0}  ·  Best night {1}	Schichten: {0}  ·  Beste Nacht: {1}
+Shifts worked {0}	Schichten: {0}
+Your first night. The 11 PM shift starts when you're ready	Deine erste Nacht. Die Schicht um 23 Uhr beginnt, wenn du bereit bist
+Enter to start  ·  Esc to leave	Enter zum Starten  ·  Esc zum Verlassen
+NIGHT SHIFT  ·  DRIVE-THRU	NACHTSCHICHT  ·  DRIVE-IN
+TIME	ZEIT
+TILL	KASSE
+SERVED	BEDIENT
+MODE	MODUS
+NEXT	NÄCHSTES

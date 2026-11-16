@@ -1599,3 +1599,51 @@ Radio off	라디오 꺼짐
 Turn on the radio	라디오 켜기
 Next song	다음 곡
 Turn off the radio	라디오 끄기
+
+# 4.2: invites; TaterCorner 1.0
+1v1	1:1
+Private lobby	비공개 로비
+Public lobby	공개 로비
+Just the two of you: it starts when they join	두 사람만: 상대가 들어오면 시작해요
+Up to 6 friends, with a code and typed chat	친구 최대 6명, 코드와 채팅
+Up to 6, and anyone can join	최대 6명, 누구나 참여 가능
+Couldn't send the invite. Check your internet	초대를 보내지 못했어요. 인터넷을 확인하세요
+{0} isn't taking invites	{0} 님은 초대를 받지 않아요
+That's a lot of invites. Try again in a few minutes	초대를 너무 많이 보냈어요. 몇 분 뒤에 다시 해 보세요
+Your Cloud save needs signing in again	클라우드 저장에 다시 로그인해야 해요
+That player isn't there any more	그 플레이어는 더 이상 없어요
+Couldn't send the invite. Try again	초대를 보내지 못했어요. 다시 해 보세요
+Invite sent. {0} is online	초대를 보냈어요. {0} 님은 온라인이에요
+Invite sent. {0} will get a notification	초대를 보냈어요. {0} 님에게 알림이 가요
+Invite sent. {0} isn't online right now	초대를 보냈어요. {0} 님은 지금 오프라인이에요
+Turn on Cloud save to invite	초대하려면 클라우드 저장을 켜세요
+Invites come from your Cloud save account, so the other player knows who it's from. Turn it on in Settings, then Cloud save.	초대는 클라우드 저장 계정으로 보내져서 상대가 누가 보냈는지 알 수 있어요. 설정의 클라우드 저장에서 켜세요.
+Invite {0} to a game	{0} 님을 게임에 초대
+Invite {0}	{0} 님 초대
+Pick a game, and how you'd like to play	게임과 플레이 방식을 고르세요
+To your room: {0}, code {1}	내 방으로: {0}, 코드 {1}
+GAME	게임
+HOW	방식
+Send invite	초대 보내기
+{0} invited you	{0} 님이 초대했어요
+To a 1v1 in {0}	{0}에서 1:1
+To their public lobby in {0}	{0} 공개 로비로
+To their private lobby in {0}	{0} 비공개 로비로
+No thanks	괜찮아요
+Join	참여
+Game invites	게임 초대
+Let other players invite you to play	다른 플레이어가 나를 초대할 수 있어요
+Couldn't save that. Check your internet	저장하지 못했어요. 인터넷을 확인하세요
+Back to TaterPeeler	TaterPeeler로 돌아가기
+Version	버전
+Beta	베타
+Shifts worked {0}  ·  Best night {1}	근무 {0}번  ·  최고의 밤 {1}
+Shifts worked {0}	근무 {0}번
+Your first night. The 11 PM shift starts when you're ready	첫날 밤이에요. 밤 11시 근무는 준비되면 시작해요
+Enter to start  ·  Esc to leave	Enter로 시작  ·  Esc로 나가기
+NIGHT SHIFT  ·  DRIVE-THRU	야간 근무  ·  드라이브 스루
+TIME	시간
+TILL	계산대
+SERVED	서빙
+MODE	모드
+NEXT	다음

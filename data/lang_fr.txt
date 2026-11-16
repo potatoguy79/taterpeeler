@@ -1599,3 +1599,51 @@ Radio off	Radio éteinte
 Turn on the radio	Allumer la radio
 Next song	Chanson suivante
 Turn off the radio	Éteindre la radio
+
+# 4.2: invites; TaterCorner 1.0
+1v1	1v1
+Private lobby	Salon privé
+Public lobby	Salon public
+Just the two of you: it starts when they join	Juste vous deux : ça commence dès que l'autre arrive
+Up to 6 friends, with a code and typed chat	Jusqu'à 6 amis, avec un code et le chat écrit
+Up to 6, and anyone can join	Jusqu'à 6, et tout le monde peut venir
+Couldn't send the invite. Check your internet	Invitation non envoyée. Vérifie ta connexion
+{0} isn't taking invites	{0} n'accepte pas les invitations
+That's a lot of invites. Try again in a few minutes	Ça fait beaucoup d'invitations. Réessaie dans quelques minutes
+Your Cloud save needs signing in again	Reconnecte ta sauvegarde cloud
+That player isn't there any more	Ce joueur n'est plus là
+Couldn't send the invite. Try again	Invitation non envoyée. Réessaie
+Invite sent. {0} is online	Invitation envoyée. {0} est en ligne
+Invite sent. {0} will get a notification	Invitation envoyée. {0} va recevoir une notification
+Invite sent. {0} isn't online right now	Invitation envoyée. {0} n'est pas en ligne
+Turn on Cloud save to invite	Active la sauvegarde cloud pour inviter
+Invites come from your Cloud save account, so the other player knows who it's from. Turn it on in Settings, then Cloud save.	Les invitations viennent de ton compte de sauvegarde cloud, pour que l'autre sache qui l'envoie. Active-la dans Réglages, puis Sauvegarde cloud.
+Invite {0} to a game	Inviter {0} à jouer
+Invite {0}	Inviter {0}
+Pick a game, and how you'd like to play	Choisis un jeu, et comment jouer
+To your room: {0}, code {1}	Dans ton salon : {0}, code {1}
+GAME	JEU
+HOW	COMMENT
+Send invite	Envoyer l'invitation
+{0} invited you	{0} t'a invité
+To a 1v1 in {0}	À un 1v1 dans {0}
+To their public lobby in {0}	Dans son salon public de {0}
+To their private lobby in {0}	Dans son salon privé de {0}
+No thanks	Non merci
+Join	Rejoindre
+Game invites	Invitations à jouer
+Let other players invite you to play	Laisse les autres joueurs t'inviter
+Couldn't save that. Check your internet	Impossible d'enregistrer. Vérifie ta connexion
+Back to TaterPeeler	Retour à TaterPeeler
+Version	Version
+Beta	Bêta
+Shifts worked {0}  ·  Best night {1}	Services : {0}  ·  Meilleure nuit : {1}
+Shifts worked {0}	Services : {0}
+Your first night. The 11 PM shift starts when you're ready	Ta première nuit. Le service de 23 h commence quand tu es prêt
+Enter to start  ·  Esc to leave	Entrée pour commencer  ·  Échap pour quitter
+NIGHT SHIFT  ·  DRIVE-THRU	SERVICE DE NUIT  ·  DRIVE
+TIME	HEURE
+TILL	CAISSE
+SERVED	SERVIS
+MODE	MODE
+NEXT	SUIVANT

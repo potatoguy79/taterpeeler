@@ -1599,3 +1599,51 @@ Radio off	收音机已关
 Turn on the radio	打开收音机
 Next song	下一首
 Turn off the radio	关掉收音机
+
+# 4.2: invites; TaterCorner 1.0
+1v1	1对1
+Private lobby	私人房间
+Public lobby	公开房间
+Just the two of you: it starts when they join	只有你们两个：对方加入就开始
+Up to 6 friends, with a code and typed chat	最多6位好友，有房间码和文字聊天
+Up to 6, and anyone can join	最多6人，谁都能加入
+Couldn't send the invite. Check your internet	邀请没发出去。请检查网络
+{0} isn't taking invites	{0}不接受邀请
+That's a lot of invites. Try again in a few minutes	邀请太多了。过几分钟再试
+Your Cloud save needs signing in again	云存档需要重新登录
+That player isn't there any more	那位玩家已经不在了
+Couldn't send the invite. Try again	邀请没发出去。再试一次
+Invite sent. {0} is online	邀请已发送。{0}在线
+Invite sent. {0} will get a notification	邀请已发送。{0}会收到通知
+Invite sent. {0} isn't online right now	邀请已发送。{0}现在不在线
+Turn on Cloud save to invite	打开云存档才能邀请
+Invites come from your Cloud save account, so the other player knows who it's from. Turn it on in Settings, then Cloud save.	邀请来自你的云存档账号，这样对方知道是谁发的。在设置的云存档里打开它。
+Invite {0} to a game	邀请{0}一起玩
+Invite {0}	邀请{0}
+Pick a game, and how you'd like to play	选个游戏，再选怎么玩
+To your room: {0}, code {1}	到你的房间：{0}，房间码 {1}
+GAME	游戏
+HOW	方式
+Send invite	发送邀请
+{0} invited you	{0}邀请了你
+To a 1v1 in {0}	来{0}的1对1
+To their public lobby in {0}	来{0}的公开房间
+To their private lobby in {0}	来{0}的私人房间
+No thanks	不了，谢谢
+Join	加入
+Game invites	游戏邀请
+Let other players invite you to play	允许其他玩家邀请你
+Couldn't save that. Check your internet	没能保存。请检查网络
+Back to TaterPeeler	返回 TaterPeeler
+Version	版本
+Beta	测试版
+Shifts worked {0}  ·  Best night {1}	值班 {0} 次  ·  最佳一晚 {1}
+Shifts worked {0}	值班 {0} 次
+Your first night. The 11 PM shift starts when you're ready	你的第一个夜晚。晚上11点的班，准备好就开始
+Enter to start  ·  Esc to leave	回车开始  ·  Esc 离开
+NIGHT SHIFT  ·  DRIVE-THRU	夜班  ·  得来速
+TIME	时间
+TILL	收银
+SERVED	已服务
+MODE	模式
+NEXT	下一步

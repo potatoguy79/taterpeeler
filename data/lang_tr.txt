@@ -1599,3 +1599,51 @@ Radio off	Radyo kapalı
 Turn on the radio	Radyoyu aç
 Next song	Sonraki şarkı
 Turn off the radio	Radyoyu kapat
+
+# 4.2: invites; TaterCorner 1.0
+1v1	1v1
+Private lobby	Özel lobi
+Public lobby	Herkese açık lobi
+Just the two of you: it starts when they join	Sadece ikiniz: katılınca başlar
+Up to 6 friends, with a code and typed chat	En fazla 6 arkadaş, kod ve yazılı sohbet
+Up to 6, and anyone can join	En fazla 6, herkes katılabilir
+Couldn't send the invite. Check your internet	Davet gönderilemedi. İnternetini kontrol et
+{0} isn't taking invites	{0} davet kabul etmiyor
+That's a lot of invites. Try again in a few minutes	Çok fazla davet. Birkaç dakika sonra tekrar dene
+Your Cloud save needs signing in again	Bulut kaydına tekrar giriş yapmalısın
+That player isn't there any more	O oyuncu artık yok
+Couldn't send the invite. Try again	Davet gönderilemedi. Tekrar dene
+Invite sent. {0} is online	Davet gönderildi. {0} çevrimiçi
+Invite sent. {0} will get a notification	Davet gönderildi. {0} bildirim alacak
+Invite sent. {0} isn't online right now	Davet gönderildi. {0} şu an çevrimiçi değil
+Turn on Cloud save to invite	Davet etmek için bulut kaydını aç
+Invites come from your Cloud save account, so the other player knows who it's from. Turn it on in Settings, then Cloud save.	Davetler bulut kaydı hesabından gelir, böylece diğer oyuncu kimden geldiğini bilir. Ayarlar'da Bulut kaydı'ndan aç.
+Invite {0} to a game	{0} adlı oyuncuyu oyuna davet et
+Invite {0}	{0} adlı oyuncuyu davet et
+Pick a game, and how you'd like to play	Bir oyun ve nasıl oynayacağını seç
+To your room: {0}, code {1}	Odana: {0}, kod {1}
+GAME	OYUN
+HOW	NASIL
+Send invite	Davet gönder
+{0} invited you	{0} seni davet etti
+To a 1v1 in {0}	{0} oyununda 1v1
+To their public lobby in {0}	{0} oyunundaki herkese açık lobisine
+To their private lobby in {0}	{0} oyunundaki özel lobisine
+No thanks	Hayır, teşekkürler
+Join	Katıl
+Game invites	Oyun davetleri
+Let other players invite you to play	Diğer oyuncular seni davet edebilsin
+Couldn't save that. Check your internet	Kaydedilemedi. İnternetini kontrol et
+Back to TaterPeeler	TaterPeeler'a dön
+Version	Sürüm
+Beta	Beta
+Shifts worked {0}  ·  Best night {1}	Vardiya: {0}  ·  En iyi gece: {1}
+Shifts worked {0}	Vardiya: {0}
+Your first night. The 11 PM shift starts when you're ready	İlk gecen. Saat 23.00 vardiyası hazır olduğunda başlar
+Enter to start  ·  Esc to leave	Başlamak için Enter  ·  Çıkmak için Esc
+NIGHT SHIFT  ·  DRIVE-THRU	GECE VARDİYASI  ·  ARABAYA SERVİS
+TIME	SAAT
+TILL	KASA
+SERVED	SERVİS
+MODE	MOD
+NEXT	SIRADAKİ

@@ -1599,3 +1599,51 @@ Radio off	ラジオ オフ
 Turn on the radio	ラジオをつける
 Next song	次の曲
 Turn off the radio	ラジオを消す
+
+# 4.2: invites; TaterCorner 1.0
+1v1	1対1
+Private lobby	プライベートロビー
+Public lobby	公開ロビー
+Just the two of you: it starts when they join	二人だけ。相手が入ったら始まります
+Up to 6 friends, with a code and typed chat	最大6人の友だち。コードと文字チャット付き
+Up to 6, and anyone can join	最大6人。だれでも参加できます
+Couldn't send the invite. Check your internet	招待を送れませんでした。ネット接続を確認してね
+{0} isn't taking invites	{0}は招待を受け付けていません
+That's a lot of invites. Try again in a few minutes	招待が多すぎます。数分後にもう一度どうぞ
+Your Cloud save needs signing in again	クラウドセーブにもう一度サインインしてね
+That player isn't there any more	そのプレイヤーはもういません
+Couldn't send the invite. Try again	招待を送れませんでした。もう一度どうぞ
+Invite sent. {0} is online	招待を送りました。{0}はオンラインです
+Invite sent. {0} will get a notification	招待を送りました。{0}に通知が届きます
+Invite sent. {0} isn't online right now	招待を送りました。{0}は今オンラインではありません
+Turn on Cloud save to invite	招待するにはクラウドセーブをオンにしてね
+Invites come from your Cloud save account, so the other player knows who it's from. Turn it on in Settings, then Cloud save.	招待はクラウドセーブのアカウントから送られるので、相手にだれからかわかります。設定のクラウドセーブでオンにしてね。
+Invite {0} to a game	{0}をゲームに招待
+Invite {0}	{0}を招待
+Pick a game, and how you'd like to play	ゲームと遊び方を選んでね
+To your room: {0}, code {1}	あなたのルームへ：{0}、コード {1}
+GAME	ゲーム
+HOW	遊び方
+Send invite	招待を送る
+{0} invited you	{0}から招待が届きました
+To a 1v1 in {0}	{0}で1対1
+To their public lobby in {0}	{0}の公開ロビーへ
+To their private lobby in {0}	{0}のプライベートロビーへ
+No thanks	やめておく
+Join	参加する
+Game invites	ゲームの招待
+Let other players invite you to play	ほかのプレイヤーから招待を受け取る
+Couldn't save that. Check your internet	保存できませんでした。ネット接続を確認してね
+Back to TaterPeeler	TaterPeelerにもどる
+Version	バージョン
+Beta	ベータ
+Shifts worked {0}  ·  Best night {1}	シフト {0}回  ·  最高の夜 {1}
+Shifts worked {0}	シフト {0}回
+Your first night. The 11 PM shift starts when you're ready	はじめての夜。午後11時のシフトは準備ができたら始まります
+Enter to start  ·  Esc to leave	Enterで開始  ·  Escで終了
+NIGHT SHIFT  ·  DRIVE-THRU	夜勤  ·  ドライブスルー
+TIME	時刻
+TILL	レジ
+SERVED	提供
+MODE	モード
+NEXT	つぎ

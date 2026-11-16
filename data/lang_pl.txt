@@ -1622,3 +1622,51 @@ Radio off	Radio wyłączone
 Turn on the radio	Włącz radio
 Next song	Następna piosenka
 Turn off the radio	Wyłącz radio
+
+# 4.2: invites; TaterCorner 1.0
+1v1	1v1
+Private lobby	Prywatne lobby
+Public lobby	Publiczne lobby
+Just the two of you: it starts when they join	Tylko wy dwoje: start, gdy dołączy
+Up to 6 friends, with a code and typed chat	Do 6 znajomych, z kodem i czatem
+Up to 6, and anyone can join	Do 6 osób, każdy może dołączyć
+Couldn't send the invite. Check your internet	Nie wysłano zaproszenia. Sprawdź internet
+{0} isn't taking invites	{0} nie przyjmuje zaproszeń
+That's a lot of invites. Try again in a few minutes	To dużo zaproszeń. Spróbuj za kilka minut
+Your Cloud save needs signing in again	Zaloguj się ponownie do zapisu w chmurze
+That player isn't there any more	Tego gracza już nie ma
+Couldn't send the invite. Try again	Nie wysłano zaproszenia. Spróbuj ponownie
+Invite sent. {0} is online	Wysłano zaproszenie. {0} jest online
+Invite sent. {0} will get a notification	Wysłano zaproszenie. {0} dostanie powiadomienie
+Invite sent. {0} isn't online right now	Wysłano zaproszenie. {0} nie jest teraz online
+Turn on Cloud save to invite	Włącz zapis w chmurze, aby zapraszać
+Invites come from your Cloud save account, so the other player knows who it's from. Turn it on in Settings, then Cloud save.	Zaproszenia wysyła twoje konto zapisu w chmurze, więc drugi gracz wie, od kogo są. Włącz je w Ustawieniach, w Zapisie w chmurze.
+Invite {0} to a game	Zaproś {0} do gry
+Invite {0}	Zaproś {0}
+Pick a game, and how you'd like to play	Wybierz grę i sposób gry
+To your room: {0}, code {1}	Do twojego pokoju: {0}, kod {1}
+GAME	GRA
+HOW	JAK
+Send invite	Wyślij zaproszenie
+{0} invited you	{0} zaprasza cię
+To a 1v1 in {0}	Na 1v1 w {0}
+To their public lobby in {0}	Do publicznego lobby w {0}
+To their private lobby in {0}	Do prywatnego lobby w {0}
+No thanks	Nie, dzięki
+Join	Dołącz
+Game invites	Zaproszenia do gry
+Let other players invite you to play	Pozwól innym graczom cię zapraszać
+Couldn't save that. Check your internet	Nie udało się zapisać. Sprawdź internet
+Back to TaterPeeler	Wróć do TaterPeeler
+Version	Wersja
+Beta	Beta
+Shifts worked {0}  ·  Best night {1}	Zmiany: {0}  ·  Najlepsza noc: {1}
+Shifts worked {0}	Zmiany: {0}
+Your first night. The 11 PM shift starts when you're ready	Twoja pierwsza noc. Zmiana o 23:00 zacznie się, gdy będziesz gotowy
+Enter to start  ·  Esc to leave	Enter, aby zacząć  ·  Esc, aby wyjść
+NIGHT SHIFT  ·  DRIVE-THRU	NOCNA ZMIANA  ·  DRIVE-THRU
+TIME	CZAS
+TILL	KASA
+SERVED	OBSŁUŻONE
+MODE	TRYB
+NEXT	DALEJ
