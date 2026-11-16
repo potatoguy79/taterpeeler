@@ -1182,12 +1182,16 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
   }
   function guard(raw) {
     const g = {};
+    /* 1.0.4 (TaterCorner) / 4.1: a trap skips every function's way out, so the C stack pointer stayed where the trap
+       left it: each crash kept a few KB of stack for good, until a later, harmless call ran off the end (an "out of
+       bounds" crash in whatever was deepest, like the admin page's JSON). Put it back after any crash */
+    const SP = raw.__stack_pointer && typeof raw.__stack_pointer.value === 'number' ? raw.__stack_pointer : null;
     for (const k of Object.keys(raw)) {
       const f = raw[k];
       if (typeof f !== 'function') { g[k] = f; continue; }
       g[k] = k === 'tp_frame'
-        ? function () { try { const r = f.apply(null, arguments); if (crashRun > 0) crashRun--; return r; } catch (e) { crashed(k, e); return 0; } }
-        : function () { try { return f.apply(null, arguments); } catch (e) { crashed(k, e); return 0; } };
+        ? function () { const sp = SP ? SP.value : 0; try { const r = f.apply(null, arguments); if (crashRun > 0) crashRun--; return r; } catch (e) { if (SP) SP.value = sp; crashed(k, e); return 0; } }
+        : function () { const sp = SP ? SP.value : 0; try { return f.apply(null, arguments); } catch (e) { if (SP) SP.value = sp; crashed(k, e); return 0; } };
     }
     return g;
   }
