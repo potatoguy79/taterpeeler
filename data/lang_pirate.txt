@@ -1647,3 +1647,4 @@ TILL	COFFER
 SERVED	SERVED
 MODE	MODE
 NEXT	NEXT
+Tap anywhere for sound	Tap anywhere fer sound

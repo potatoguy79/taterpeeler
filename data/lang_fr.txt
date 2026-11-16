@@ -1647,3 +1647,4 @@ TILL	CAISSE
 SERVED	SERVIS
 MODE	MODE
 NEXT	SUIVANT
+Tap anywhere for sound	Touche n'importe où pour le son

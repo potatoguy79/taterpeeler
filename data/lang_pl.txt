@@ -1670,3 +1670,4 @@ TILL	KASA
 SERVED	OBSŁUŻONE
 MODE	TRYB
 NEXT	DALEJ
+Tap anywhere for sound	Dotknij gdziekolwiek, aby włączyć dźwięk

@@ -1647,3 +1647,4 @@ TILL	계산대
 SERVED	서빙
 MODE	모드
 NEXT	다음
+Tap anywhere for sound	아무 곳이나 탭하면 소리가 나요

@@ -1647,3 +1647,4 @@ TILL	KASA
 SERVED	SERVİS
 MODE	MOD
 NEXT	SIRADAKİ
+Tap anywhere for sound	Ses için herhangi bir yere dokun

@@ -1647,3 +1647,4 @@ TILL	レジ
 SERVED	提供
 MODE	モード
 NEXT	つぎ
+Tap anywhere for sound	どこかをタップすると音が出ます

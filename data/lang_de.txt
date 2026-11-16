@@ -1647,3 +1647,4 @@ TILL	KASSE
 SERVED	BEDIENT
 MODE	MODUS
 NEXT	NÄCHSTES
+Tap anywhere for sound	Irgendwo tippen für Ton

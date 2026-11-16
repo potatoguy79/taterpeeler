@@ -1647,3 +1647,4 @@ TILL	CAIXA
 SERVED	ATENDIDOS
 MODE	MODO
 NEXT	PRÓXIMO
+Tap anywhere for sound	Toque em qualquer lugar para ter som

@@ -428,6 +428,19 @@
     return true;
   }
   const tvVids = [];   /* 4.0: TaterTV's videos */
+  /* 1.0.2: the TV's video players, made ready inside a tap: Safari plays a video with sound only if it was started by a
+     tap, and the TV starts its video a frame later. A player that has been started once inside a tap may play later */
+  const vidPool = [];
+  function vidPlayer() {
+    for (const v of vidPool) if (!v.tpBusy) { v.tpBusy = true; return v; }
+    const v = document.createElement('video'); v.playsInline = true; v.setAttribute('playsinline', ''); v.tpBusy = true; vidPool.push(v); return v;
+  }
+  function vidBless() {   /* (in a tap: every free player is started once, so it may play later; a muted one gets its sound) */
+    while (vidPool.length < 2) { const v = document.createElement('video'); v.playsInline = true; v.setAttribute('playsinline', ''); vidPool.push(v); }
+    for (const v of vidPool) if (!v.tpBlessed && !v.tpBusy) { v.tpBlessed = true; try { const pr = v.play(); if (pr) pr.catch(() => {}); } catch (e) {} }
+    for (const o of tvVids) if (o && o.needSound) { o.needSound = false; o.v.muted = false; o.v.play().catch(() => {}); }
+  }
+  const tvThumbs = {}; let thumbBusy = 0;   /* 1.0.2: TaterTube's thumbnails: a picture from a second in */
   let tvPicked = null;   /* 4.2: the video chosen in Admin, until it's uploaded */
   const loops = {};
   function ensureAudio() {
@@ -455,6 +468,7 @@
     }
     unlocked = true;
     if (musicWanted && !musicStarted) music.play().then(() => { musicStarted = true; }).catch(() => {});
+    try { vidBless(); } catch (e) {}
   }
   /* keep listening: iOS only counts some gestures, and it suspends audio again after backgrounding */
   ['pointerdown', 'pointerup', 'touchstart', 'touchend', 'mousedown', 'keydown'].forEach(ev => window.addEventListener(ev, unlockAudio, { passive: true, capture: true }));
@@ -866,12 +880,46 @@
     /* 4.0: TaterTV's videos: a <video> each, its picture copied into a texture when it moves on */
     plat_video_open: p => {
       try {
-        const v = document.createElement('video');
-        v.src = str(p); v.playsInline = true; v.setAttribute('playsinline', ''); v.preload = 'auto'; v.crossOrigin = 'anonymous';
-        const id = tvVids.length; tvVids.push({ v, tex: 0, t: -1 });
-        v.play().catch(() => {});
+        const v = vidPlayer();
+        v.crossOrigin = 'anonymous'; v.preload = 'auto'; v.muted = false; v.src = str(p);
+        const o = { v, tex: 0, t: -1, needSound: false }, id = tvVids.length; tvVids.push(o);
+        /* (the browser won't play it with sound yet: it plays without, and its sound comes on with the next tap) */
+        v.play().catch(() => { if (tvVids[id] !== o) return; v.muted = true; o.needSound = true; v.play().catch(() => {}); });
         return id;
       } catch (e) { return -1; }
+    },
+    plat_video_muted: id => { const o = tvVids[id]; return o && o.needSound ? 1 : 0; },
+    /* 1.0.2: a video's thumbnail: its picture a second in (made once, two at a time); 0 until it's ready */
+    plat_video_thumb: (p, wp, hp) => {
+      const url = str(p); let t = tvThumbs[url];
+      if (!t) {
+        if (thumbBusy >= 2) return 0;
+        t = tvThumbs[url] = { tex: 0, w: 0, h: 0 }; thumbBusy++;
+        const v = document.createElement('video'); v.muted = true; v.playsInline = true; v.setAttribute('playsinline', ''); v.crossOrigin = 'anonymous'; v.preload = 'auto';
+        let done = false;
+        const grab = () => {
+          if (done || v.readyState < 2 || !v.videoWidth) return;
+          done = true; thumbBusy--;
+          try {
+            const g = gl.createTexture(); gl.bindTexture(gl.TEXTURE_2D, g);
+            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR); gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE); gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+            gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, false); gl.pixelStorei(gl.UNPACK_PREMULTIPLY_ALPHA_WEBGL, false);
+            gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGB, gl.RGB, gl.UNSIGNED_BYTE, v);
+            t.tex = add(objs.tex, g); t.w = v.videoWidth; t.h = v.videoHeight;
+          } catch (e) {}
+          v.pause(); v.removeAttribute('src'); try { v.load(); } catch (e) {}
+        };
+        v.addEventListener('loadedmetadata', () => { try { v.currentTime = Math.min(1, (v.duration || 2) / 3); } catch (e) {} });
+        v.addEventListener('seeked', grab);
+        v.addEventListener('error', () => { if (!done) { done = true; thumbBusy--; t.tex = -1; } });
+        setTimeout(() => { if (!done) { const pr = v.play(); if (pr) pr.then(() => setTimeout(() => { v.pause(); grab(); }, 250)).catch(() => {}); } }, 4000);   /* (a browser that won't seek a video it hasn't played) */
+        v.src = url;
+        return 0;
+      }
+      if (t.tex <= 0) return 0;
+      views(); if (wp) i32[wp >> 2] = t.w; if (hp) i32[hp >> 2] = t.h;
+      return t.tex;
     },
     plat_video_ctl: (id, cmd, val) => {
       const o = tvVids[id]; if (!o) return;
@@ -880,7 +928,7 @@
       else if (cmd === 1) v.pause();
       else if (cmd === 2) { try { v.currentTime = val; } catch (e) {} }
       else if (cmd === 3) v.volume = Math.max(0, Math.min(1, val));
-      else if (cmd === 4) { v.pause(); v.removeAttribute('src'); try { v.load(); } catch (e) {} if (o.tex) { gl.deleteTexture(objs.tex[o.tex]); objs.tex[o.tex] = null; } tvVids[id] = null; }
+      else if (cmd === 4) { v.pause(); v.removeAttribute('src'); try { v.load(); } catch (e) {} v.muted = false; v.tpBusy = false; if (o.tex) { gl.deleteTexture(objs.tex[o.tex]); objs.tex[o.tex] = null; } tvVids[id] = null; }
     },
     plat_video_info: (id, what) => {
       const o = tvVids[id]; if (!o) return 0;

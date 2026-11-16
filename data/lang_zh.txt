@@ -1647,3 +1647,4 @@ TILL	收银
 SERVED	已服务
 MODE	模式
 NEXT	下一步
+Tap anywhere for sound	点击任意位置开启声音

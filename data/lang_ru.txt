@@ -1670,3 +1670,4 @@ TILL	КАССА
 SERVED	ОБСЛУЖЕНО
 MODE	РЕЖИМ
 NEXT	ДАЛЕЕ
+Tap anywhere for sound	Нажми куда угодно, чтобы включить звук

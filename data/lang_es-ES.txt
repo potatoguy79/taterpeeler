@@ -1647,3 +1647,4 @@ TILL	CAJA
 SERVED	SERVIDOS
 MODE	MODO
 NEXT	SIGUIENTE
+Tap anywhere for sound	Toca en cualquier sitio para el sonido
