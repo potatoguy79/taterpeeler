@@ -47,6 +47,12 @@ Joseph Sardin and Denis Chardonnet, BigSoundBank
 [3D people]
 Microsoft Rocketbox avatars (MIT)
 
+[3D cars]
+"Generic passenger car pack" by Comrade1280 (CC BY 4.0)
+
+[3D props]
+"Remington 870 (PBR|GR)" by tris.blend (CC BY 4.0)
+
 [Turkey gobble]
 Jonathon Jongsma, xeno-canto (CC BY-SA 3.0)
 
