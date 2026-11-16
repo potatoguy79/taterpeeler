@@ -491,6 +491,7 @@
     bindAttribLocation: (p, i, n) => gl.bindAttribLocation(objs.prog[p], i, str(n)),
     bindBuffer: (t, b) => gl.bindBuffer(t, objs.buf[b]),
     bindTexture: (t, x) => gl.bindTexture(t, objs.tex[x]),
+    blendColor: (r, g, b, a) => gl.blendColor(r, g, b, a),
     blendFunc: (a, b) => gl.blendFunc(a, b),
     blendFuncSeparate: (a, b, c, d) => gl.blendFuncSeparate(a, b, c, d),
     bufferData: (t, size, ptr, usage) => { if (!ptr) gl.bufferData(t, size, usage); else { views(); gl.bufferData(t, u8.subarray(ptr, ptr + size), usage); } },
