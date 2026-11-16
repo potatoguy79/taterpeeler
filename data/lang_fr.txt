@@ -1666,3 +1666,25 @@ Playing it now	En cours de lecture
 Night-time music	Musique de nuit
 TaterCorner's music	Musique de TaterCorner
 Plays on the menu instead	Joue sur le menu à la place
+
+# 4.2: TaterMaster
+Hot potato	Patate chaude
+Round {0}	Manche {0}
+{0} left	Encore {0}
+You	Toi
+It's yours! Peel 3 strips	À toi ! Épluche 3 lanières
+Drag across the potato to peel a strip	Fais glisser sur la patate pour éplucher une lanière
+Swipe across the potato to peel a strip	Glisse sur la patate pour éplucher une lanière
+Peel {0} strips, then it's passed on	Épluche {0} lanières, puis elle passe au suivant
+The music stopped!	La musique s'est arrêtée !
+Peel it, pass it. Don't be holding it when the music stops.	Épluche-la, passe-la. Ne l'aie pas en main quand la musique s'arrête.
+You're out. Watching the rest	Tu es éliminé. Tu regardes la suite
+You're the TaterMaster!	Tu es le TaterMaster !
+{0} is the TaterMaster	{0} est le TaterMaster
+Last potato standing. Wins: {0}	La dernière patate debout. Victoires : {0}
+Better luck next time. Wins: {0}	Plus de chance la prochaine fois. Victoires : {0}
+The game goes on for everyone else	La partie continue pour les autres
+Last one standing	Le dernier debout
+Pass the potato. The last one standing wins. Bots fill the empty seats	Passe la patate. Le dernier debout gagne. Des robots prennent les places libres
+outlasted	devancés
+Last potato standing!	La dernière patate debout !

@@ -1666,3 +1666,25 @@ Playing it now	Çalıyor
 Night-time music	Gece müziği
 TaterCorner's music	TaterCorner müziği
 Plays on the menu instead	Bunun yerine menüde çalar
+
+# 4.2: TaterMaster
+Hot potato	Sıcak patates
+Round {0}	{0}. tur
+{0} left	{0} kaldı
+You	Sen
+It's yours! Peel 3 strips	Sıra sende! 3 şerit soy
+Drag across the potato to peel a strip	Bir şerit soymak için patatesin üzerinde sürükle
+Swipe across the potato to peel a strip	Bir şerit soymak için patatesin üzerinde kaydır
+Peel {0} strips, then it's passed on	{0} şerit soy, sonra sıradakine geçer
+The music stopped!	Müzik durdu!
+Peel it, pass it. Don't be holding it when the music stops.	Soy, ilet. Müzik durduğunda elinde olmasın.
+You're out. Watching the rest	Elendin. Gerisini izliyorsun
+You're the TaterMaster!	TaterMaster sensin!
+{0} is the TaterMaster	TaterMaster: {0}
+Last potato standing. Wins: {0}	Ayakta kalan son patates. Galibiyet: {0}
+Better luck next time. Wins: {0}	Bir dahaki sefere. Galibiyet: {0}
+The game goes on for everyone else	Oyun diğerleri için devam ediyor
+Last one standing	Ayakta kalan son
+Pass the potato. The last one standing wins. Bots fill the empty seats	Patatesi ilet. Ayakta kalan son kişi kazanır. Boş yerleri botlar doldurur
+outlasted	geride bırakıldı
+Last potato standing!	Ayakta kalan son patates!

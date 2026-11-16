@@ -1666,3 +1666,25 @@ Playing it now	正在播放
 Night-time music	夜间音乐
 TaterCorner's music	TaterCorner 的音乐
 Plays on the menu instead	改在菜单里播放
+
+# 4.2: TaterMaster
+Hot potato	烫手山芋
+Round {0}	第 {0} 轮
+{0} left	还剩 {0}
+You	你
+It's yours! Peel 3 strips	轮到你了！削 3 条
+Drag across the potato to peel a strip	在土豆上拖动来削一条
+Swipe across the potato to peel a strip	在土豆上划动来削一条
+Peel {0} strips, then it's passed on	削 {0} 条，然后传给下一个
+The music stopped!	音乐停了！
+Peel it, pass it. Don't be holding it when the music stops.	削一削，传下去。音乐停下时别拿着它。
+You're out. Watching the rest	你出局了，观看剩下的比赛
+You're the TaterMaster!	你就是 TaterMaster！
+{0} is the TaterMaster	{0} 是 TaterMaster
+Last potato standing. Wins: {0}	最后的土豆。胜场：{0}
+Better luck next time. Wins: {0}	下次好运。胜场：{0}
+The game goes on for everyone else	其他人的游戏会继续
+Last one standing	最后的幸存者
+Pass the potato. The last one standing wins. Bots fill the empty seats	传土豆。最后留下的人获胜。空座位由机器人补上
+outlasted	人被淘汰
+Last potato standing!	最后的土豆！

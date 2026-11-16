@@ -1689,3 +1689,25 @@ Playing it now	Уже играет
 Night-time music	Ночная музыка
 TaterCorner's music	Музыка TaterCorner
 Plays on the menu instead	Играет в меню вместо обычной
+
+# 4.2: TaterMaster
+Hot potato	Горячая картошка
+Round {0}	Раунд {0}
+{0} left	Осталось {0}
+You	Ты
+It's yours! Peel 3 strips	Твоя очередь! Срежь 3 полоски
+Drag across the potato to peel a strip	Проведи по картошке, чтобы срезать полоску
+Swipe across the potato to peel a strip	Проведи пальцем по картошке, чтобы срезать полоску
+Peel {0} strips, then it's passed on	Срежь {0} полоски, и она уйдёт дальше
+The music stopped!	Музыка остановилась!
+Peel it, pass it. Don't be holding it when the music stops.	Срежь и передай. Не держи её, когда музыка остановится.
+You're out. Watching the rest	Ты выбыл. Смотришь дальше
+You're the TaterMaster!	Ты TaterMaster!
+{0} is the TaterMaster	{0} — TaterMaster
+Last potato standing. Wins: {0}	Последняя картошка. Побед: {0}
+Better luck next time. Wins: {0}	Повезёт в следующий раз. Побед: {0}
+The game goes on for everyone else	Для остальных игра продолжается
+Last one standing	Последний выживший
+Pass the potato. The last one standing wins. Bots fill the empty seats	Передавай картошку. Побеждает последний. Пустые места займут боты
+outlasted	пережил
+Last potato standing!	Последняя картошка!

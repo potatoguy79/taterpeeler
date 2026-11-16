@@ -1666,3 +1666,25 @@ Playing it now	Läuft gerade
 Night-time music	Nachtmusik
 TaterCorner's music	Musik von TaterCorner
 Plays on the menu instead	Läuft stattdessen im Menü
+
+# 4.2: TaterMaster
+Hot potato	Heiße Kartoffel
+Round {0}	Runde {0}
+{0} left	noch {0}
+You	Du
+It's yours! Peel 3 strips	Du bist dran! Schäl 3 Streifen
+Drag across the potato to peel a strip	Zieh über die Kartoffel, um einen Streifen zu schälen
+Swipe across the potato to peel a strip	Wisch über die Kartoffel, um einen Streifen zu schälen
+Peel {0} strips, then it's passed on	Schäl {0} Streifen, dann geht sie weiter
+The music stopped!	Die Musik ist aus!
+Peel it, pass it. Don't be holding it when the music stops.	Schälen, weitergeben. Halt sie nicht, wenn die Musik stoppt.
+You're out. Watching the rest	Du bist raus. Du schaust dem Rest zu
+You're the TaterMaster!	Du bist der TaterMaster!
+{0} is the TaterMaster	{0} ist der TaterMaster
+Last potato standing. Wins: {0}	Die letzte Kartoffel. Siege: {0}
+Better luck next time. Wins: {0}	Nächstes Mal klappt's. Siege: {0}
+The game goes on for everyone else	Für alle anderen geht das Spiel weiter
+Last one standing	Wer übrig bleibt
+Pass the potato. The last one standing wins. Bots fill the empty seats	Gib die Kartoffel weiter. Wer übrig bleibt, gewinnt. Bots füllen die leeren Plätze
+outlasted	überlebt
+Last potato standing!	Die letzte Kartoffel!

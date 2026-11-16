@@ -1666,3 +1666,25 @@ Playing it now	재생 중
 Night-time music	밤 음악
 TaterCorner's music	TaterCorner 음악
 Plays on the menu instead	대신 메뉴에서 재생돼요
+
+# 4.2: TaterMaster
+Hot potato	뜨거운 감자
+Round {0}	{0}라운드
+{0} left	{0}명 남음
+You	나
+It's yours! Peel 3 strips	네 차례! 3줄 깎아
+Drag across the potato to peel a strip	감자 위를 드래그해서 한 줄 깎아요
+Swipe across the potato to peel a strip	감자 위를 쓸어서 한 줄 깎아요
+Peel {0} strips, then it's passed on	{0}줄 깎으면 다음 사람에게 넘어가요
+The music stopped!	음악이 멈췄다!
+Peel it, pass it. Don't be holding it when the music stops.	깎고, 넘기고. 음악이 멈출 때 들고 있지 마세요.
+You're out. Watching the rest	탈락했어요. 나머지를 지켜보는 중
+You're the TaterMaster!	네가 TaterMaster야!
+{0} is the TaterMaster	{0}이(가) TaterMaster
+Last potato standing. Wins: {0}	마지막까지 남은 감자. 승리: {0}
+Better luck next time. Wins: {0}	다음엔 잘될 거예요. 승리: {0}
+The game goes on for everyone else	다른 사람들은 계속 게임해요
+Last one standing	마지막 생존자
+Pass the potato. The last one standing wins. Bots fill the empty seats	감자를 넘기세요. 마지막까지 남으면 승리. 빈자리는 봇이 채워요
+outlasted	명보다 오래 버팀
+Last potato standing!	마지막 감자!

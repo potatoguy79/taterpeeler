@@ -1666,3 +1666,25 @@ Playing it now	Tocando agora
 Night-time music	Música noturna
 TaterCorner's music	Música do TaterCorner
 Plays on the menu instead	Toca no menu no lugar
+
+# 4.2: TaterMaster
+Hot potato	Batata quente
+Round {0}	Rodada {0}
+{0} left	Restam {0}
+You	Você
+It's yours! Peel 3 strips	É sua! Descasque 3 tiras
+Drag across the potato to peel a strip	Arraste sobre a batata para descascar uma tira
+Swipe across the potato to peel a strip	Deslize sobre a batata para descascar uma tira
+Peel {0} strips, then it's passed on	Descasque {0} tiras e ela passa adiante
+The music stopped!	A música parou!
+Peel it, pass it. Don't be holding it when the music stops.	Descasque, passe adiante. Não esteja com ela quando a música parar.
+You're out. Watching the rest	Você saiu. Assistindo o resto
+You're the TaterMaster!	Você é o TaterMaster!
+{0} is the TaterMaster	{0} é o TaterMaster
+Last potato standing. Wins: {0}	A última batata de pé. Vitórias: {0}
+Better luck next time. Wins: {0}	Mais sorte na próxima. Vitórias: {0}
+The game goes on for everyone else	O jogo continua para os outros
+Last one standing	O último de pé
+Pass the potato. The last one standing wins. Bots fill the empty seats	Passe a batata. O último de pé vence. Bots ocupam os lugares vazios
+outlasted	superados
+Last potato standing!	A última batata de pé!

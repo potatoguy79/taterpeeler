@@ -1666,3 +1666,25 @@ Playing it now	再生中
 Night-time music	夜の音楽
 TaterCorner's music	TaterCornerの音楽
 Plays on the menu instead	メニューでかわりに流れます
+
+# 4.2: TaterMaster
+Hot potato	ホットポテト
+Round {0}	ラウンド {0}
+{0} left	残り {0}
+You	あなた
+It's yours! Peel 3 strips	きみの番！3本むいて
+Drag across the potato to peel a strip	ポテトの上をドラッグして1本むこう
+Swipe across the potato to peel a strip	ポテトの上をスワイプして1本むこう
+Peel {0} strips, then it's passed on	{0}本むいたら次へ回ります
+The music stopped!	音楽が止まった！
+Peel it, pass it. Don't be holding it when the music stops.	むいて、回して。音楽が止まったとき持っていないように。
+You're out. Watching the rest	脱落。残りを観戦中
+You're the TaterMaster!	きみがTaterMasterだ！
+{0} is the TaterMaster	{0}がTaterMaster
+Last potato standing. Wins: {0}	最後まで残ったポテト。勝利数：{0}
+Better luck next time. Wins: {0}	次はがんばろう。勝利数：{0}
+The game goes on for everyone else	ほかのみんなのゲームは続きます
+Last one standing	最後の1人
+Pass the potato. The last one standing wins. Bots fill the empty seats	ポテトを回そう。最後の1人が勝ち。空いた席はボットが入ります
+outlasted	人に勝ち残り
+Last potato standing!	最後のポテト！

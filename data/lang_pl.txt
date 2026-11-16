@@ -1689,3 +1689,25 @@ Playing it now	Gra teraz
 Night-time music	Nocna muzyka
 TaterCorner's music	Muzyka z TaterCorner
 Plays on the menu instead	Gra w menu zamiast tamtej
+
+# 4.2: TaterMaster
+Hot potato	Gorący ziemniak
+Round {0}	Runda {0}
+{0} left	Zostało {0}
+You	Ty
+It's yours! Peel 3 strips	Twoja kolej! Obierz 3 paski
+Drag across the potato to peel a strip	Przeciągnij po ziemniaku, by obrać pasek
+Swipe across the potato to peel a strip	Przesuń po ziemniaku, by obrać pasek
+Peel {0} strips, then it's passed on	Obierz {0} paski, potem idzie dalej
+The music stopped!	Muzyka ucichła!
+Peel it, pass it. Don't be holding it when the music stops.	Obierz, podaj dalej. Nie trzymaj go, gdy muzyka ucichnie.
+You're out. Watching the rest	Odpadasz. Oglądasz resztę
+You're the TaterMaster!	Jesteś TaterMasterem!
+{0} is the TaterMaster	{0} jest TaterMasterem
+Last potato standing. Wins: {0}	Ostatni ziemniak na placu. Wygrane: {0}
+Better luck next time. Wins: {0}	Następnym razem się uda. Wygrane: {0}
+The game goes on for everyone else	Dla reszty gra trwa dalej
+Last one standing	Ostatni na placu
+Pass the potato. The last one standing wins. Bots fill the empty seats	Podawaj ziemniaka. Wygrywa ostatni na placu. Puste miejsca zajmą boty
+outlasted	przetrwanych
+Last potato standing!	Ostatni ziemniak!

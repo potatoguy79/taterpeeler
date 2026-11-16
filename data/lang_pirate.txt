@@ -1666,3 +1666,25 @@ Playing it now	Playin' now
 Night-time music	Midnight shanty
 TaterCorner's music	TaterCorner's shanty
 Plays on the menu instead	Plays on the menu instead
+
+# 4.2: TaterMaster
+Hot potato	Hot spud
+Round {0}	Round {0}
+{0} left	{0} left
+You	Ye
+It's yours! Peel 3 strips	It be yers! Peel 3 strips
+Drag across the potato to peel a strip	Drag 'cross the spud to peel a strip
+Swipe across the potato to peel a strip	Swipe 'cross the spud to peel a strip
+Peel {0} strips, then it's passed on	Peel {0} strips, then pass it on
+The music stopped!	The music be stopped!
+Peel it, pass it. Don't be holding it when the music stops.	Peel it, pass it. Don't be holdin' it when the music stops.
+You're out. Watching the rest	Ye be out. Watchin' the rest
+You're the TaterMaster!	Ye be the TaterMaster!
+{0} is the TaterMaster	{0} be the TaterMaster
+Last potato standing. Wins: {0}	Last spud standin'. Wins: {0}
+Better luck next time. Wins: {0}	Better luck next voyage. Wins: {0}
+The game goes on for everyone else	The game sails on fer the rest
+Last one standing	Last one standin'
+Pass the potato. The last one standing wins. Bots fill the empty seats	Pass the spud. Last one standin' wins. Bots fill the empty seats
+outlasted	outlasted
+Last potato standing!	Last spud standin'!

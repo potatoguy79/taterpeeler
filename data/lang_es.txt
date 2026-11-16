@@ -1666,3 +1666,25 @@ Playing it now	Sonando ahora
 Night-time music	Música nocturna
 TaterCorner's music	Música de TaterCorner
 Plays on the menu instead	Suena en el menú en su lugar
+
+# 4.2: TaterMaster
+Hot potato	Papa caliente
+Round {0}	Ronda {0}
+{0} left	Quedan {0}
+You	Tú
+It's yours! Peel 3 strips	¡Te toca! Pela 3 tiras
+Drag across the potato to peel a strip	Arrastra sobre la papa para pelar una tira
+Swipe across the potato to peel a strip	Desliza sobre la papa para pelar una tira
+Peel {0} strips, then it's passed on	Pela {0} tiras y se pasa
+The music stopped!	¡Paró la música!
+Peel it, pass it. Don't be holding it when the music stops.	Pélala, pásala. Que no la tengas cuando pare la música.
+You're out. Watching the rest	Estás fuera. Viendo el resto
+You're the TaterMaster!	¡Eres el TaterMaster!
+{0} is the TaterMaster	{0} es el TaterMaster
+Last potato standing. Wins: {0}	La última papa en pie. Victorias: {0}
+Better luck next time. Wins: {0}	Más suerte la próxima. Victorias: {0}
+The game goes on for everyone else	El juego sigue para los demás
+Last one standing	El último en pie
+Pass the potato. The last one standing wins. Bots fill the empty seats	Pasa la papa. Gana el último en pie. Los bots ocupan los asientos libres
+outlasted	superados
+Last potato standing!	¡La última papa en pie!
