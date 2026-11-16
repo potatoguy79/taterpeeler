@@ -1173,7 +1173,7 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
     }
     const saveP = putStr(readSave());
     resize();
-    ex.tp_init(quality, extUint ? 1 : 0, saveP);
+    ex.tp_init(quality, (extUint ? 1 : 0) | (gl.getExtension('OES_standard_derivatives') ? 2 : 0), saveP);
     if (new URLSearchParams(location.search).get('icon')) ex.tp_set_flags(new URLSearchParams(location.search).get("dbg") ? 31 : 15);   /* staged scene used for the app icon */
     else if (window.TP_DOWNLOAD_PAGE) ex.tp_set_flags(32);   /* the website shows a Download button on the menu */
     else if (window.TP_PLATFORM === 'android') ex.tp_set_flags(64);   /* the Android app (it says so when online) */
