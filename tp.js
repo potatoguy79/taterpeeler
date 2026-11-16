@@ -970,10 +970,20 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
       if (++perfGood >= 3) { renderScale = Math.min(1, Math.round(renderScale * 1.1 * 100) / 100); perfGood = 0; perf.rs = renderScale; savePerf(); resize(); }
     } else perfGood = 0;
   }
+  /* the size the game should fill. 4.2: in-app browsers (Instagram's, Facebook's, TikTok's) open the page in a sheet
+     that slides up, and can report half the height at first, and then never say when it grows (no resize event):
+     the visual viewport is only trusted when it isn't much smaller than the window (a keyboard that's open, while
+     typing, is the one time it should be) */
+  function viewSize() {
+    const vv = window.visualViewport, de = document.documentElement;
+    const typing = document.activeElement && /^(INPUT|TEXTAREA)$/.test(document.activeElement.tagName);
+    let w = window.innerWidth, h = window.innerHeight;
+    if (vv && vv.scale === 1 && (typing || vv.height >= h * 0.8)) { w = vv.width; h = vv.height; }
+    if (!typing && de && de.clientHeight > h * 1.2) h = de.clientHeight;   /* (the page itself is taller: believe it) */
+    return [Math.max(1, Math.round(w)), Math.max(1, Math.round(h))];
+  }
   function resize() {
-    const vv = window.visualViewport;
-    const cw = Math.max(1, Math.round(vv && vv.scale === 1 ? vv.width : window.innerWidth));
-    const ch = Math.max(1, Math.round(vv && vv.scale === 1 ? vv.height : window.innerHeight));
+    const [cw, ch] = viewSize();
     viewW = cw; viewH = ch;
     canvas.style.width = cw + 'px'; canvas.style.height = ch + 'px';
     const dpr = Math.min(window.devicePixelRatio || 1, 2) * renderScale;
@@ -1064,6 +1074,16 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
     canvas.addEventListener('webglcontextrestored', () => relaunch(), false);
     window.addEventListener('resize', resize);
     if (window.visualViewport) window.visualViewport.addEventListener('resize', resize);
+    /* 4.2: in-app browsers that grow without saying so: watch the page's own size, look again now and then for the
+       first half a minute, and whenever it comes back or is touched */
+    if (window.ResizeObserver) try { new ResizeObserver(() => resize()).observe(document.documentElement); } catch (e) {}
+    const sizeOff = () => { const [w, h] = viewSize(); return w !== viewW || h !== viewH; };
+    let sizeChecks = 0;
+    const sizeWatch = setInterval(() => { if (sizeOff()) resize(); if (++sizeChecks > 120) clearInterval(sizeWatch); }, 250);
+    window.addEventListener('pageshow', () => resize());
+    window.addEventListener('focus', () => { if (sizeOff()) resize(); });
+    document.addEventListener('visibilitychange', () => { if (!document.hidden && sizeOff()) resize(); });
+    canvas.addEventListener('touchstart', () => { if (sizeOff()) resize(); }, { passive: true });
     /* iOS reports the new size a little after it rotates */
     window.addEventListener('orientationchange', () => { resize(); setTimeout(resize, 120); setTimeout(resize, 400); });
     window.addEventListener('blur', () => {
