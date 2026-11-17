@@ -400,7 +400,7 @@
      its address swapped: Safari only lets an element play by itself once a tap has started it, so a second element
      would wait for another tap (the credits' music only started when you tapped). */
   const TRACKS = ['data/music.mp3', 'data/credits_music.mp3' + V, 'data/corner_intro.mp3' + V, 'data/corner_music.mp3' + V, 'data/radio_1.mp3' + V, 'data/radio_2.mp3' + V, 'data/radio_3.mp3' + V];   /* (4.2: 4..6, the kitchen radio) */   /* (4.2: 2, Tater Corner's arrival; 3, its own music) */
-  let musicTrack = 0;
+  let musicTrack = 0, musicFrom = -1;   /* (4.2.1: where the next track starts, 0..1; -1 the start) */
   let musicBase = 0.54, musicFade = 1, musicFadeTimer = 0;   /* 4.2: the settings' volume, and a fade on top of it */
   function musicVolNow() { try { music.volume = Math.max(0, Math.min(1, musicBase * musicFade)); } catch (e) {} }
   function musicFadeTo(v, ms, then) {
@@ -999,6 +999,11 @@
         music.pause(); musicStarted = false;
         const ready = useTrack(t);
         try { music.currentTime = 0; } catch (e) {}
+        const at = musicFrom; musicFrom = -1;
+        if (at > 0) {   /* (once it knows how long it is) */
+          const go = () => { try { if (isFinite(music.duration) && music.duration > 0) music.currentTime = at * music.duration; } catch (e) {} };
+          if (music.readyState >= 1) go(); else music.addEventListener('loadedmetadata', go, { once: true });
+        }
         if (ready && musicWanted && unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {});
         musicFadeTo(1, t >= 3 ? 900 : 300);
       };
@@ -1006,6 +1011,7 @@
       if (musicStarted && !music.paused && (t >= 3 || musicTrack >= 3)) musicFadeTo(0, 650, swap);
       else { musicFade = t >= 3 ? 0 : 1; musicVolNow(); swap(); }
     },
+    plat_music_from: f => { musicFrom = f; },
     plat_music: on => { musicWanted = !!on; if (on) { if (unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {}); } else { music.pause(); musicStarted = false; } },
     plat_cursor: k => {
       if (k === cursorKind) return; cursorKind = k;
