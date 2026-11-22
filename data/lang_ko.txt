@@ -1688,3 +1688,42 @@ Last one standing	마지막 생존자
 Pass the potato. The last one standing wins. Bots fill the empty seats	감자를 넘기세요. 마지막까지 남으면 승리. 빈자리는 봇이 채워요
 outlasted	명보다 오래 버팀
 Last potato standing!	마지막 감자!
+
+# 4.3: staff badges, private messages, last peeled
+Outline mouldy potatoes	곰팡이 감자 테두리
+In TaterSlice, a light green border round the ones not to slice	TaterSlice에서 자르면 안 되는 감자에 연두색 테두리
+MOD	모더
+ADMIN	관리자
+CO-OWNER	공동 소유자
+OWNER	소유자
+Admin	관리자
+Moderators keep TaterPeeler friendly. They look after online games and the leaderboard, and help players out.	모더레이터는 TaterPeeler를 친근하게 유지해요. 온라인 게임과 순위표를 살피고 플레이어를 도와요.
+Admins help run TaterPeeler. They send messages to everyone, look after the leaderboard and keep things fair.	관리자는 TaterPeeler 운영을 도와요. 모두에게 메시지를 보내고, 순위표를 관리하고, 공정하게 지켜요.
+Co-owners run TaterPeeler alongside the Owner, with all of the Owner's tools.	공동 소유자는 소유자와 함께, 소유자의 모든 도구로 TaterPeeler를 운영해요.
+The Owner made TaterPeeler and runs the whole game: every update, event and new feature.	소유자는 TaterPeeler를 만들었고, 모든 업데이트와 이벤트, 새 기능까지 게임 전체를 운영해요.
+TaterPeeler staff will never ask for your Cloud save code.	TaterPeeler 스태프는 절대 클라우드 저장 코드를 묻지 않아요.
+A message from {0} ({1})	{0}({1})의 메시지
+A message from {0}	{0}의 메시지
+{0} answered your message	{0}님이 답장했어요
+Reply	답장
+Send a private message	개인 메시지 보내기
+Only they see it	그 사람만 볼 수 있어요
+A private message to {0}	{0}님에게 개인 메시지
+Sent to {0}	{0}님에게 보냈어요
+Sent to {0}. Only they see it	{0}님에게 보냈어요. 그 사람만 볼 수 있어요
+Your answer to {0} (only they see it)	{0}님에게 보낼 답장 (그 사람만 볼 수 있어요)
+That's 20 private messages today. Try again tomorrow	오늘 개인 메시지 20개를 보냈어요. 내일 다시 해 보세요
+Log in to the admin page again to send it	보내려면 관리 페이지에 다시 로그인하세요
+You can't send messages	메시지를 보낼 수 없어요
+Couldn't send it. Try again	보내지 못했어요. 다시 해 보세요
+Couldn't send your answer. Try again	답장을 보내지 못했어요. 다시 해 보세요
+That's enough answers for today. Try again tomorrow	오늘은 답장을 충분히 보냈어요. 내일 다시 해 보세요
+Peeled just now	방금 깎음
+Peeled {0} minutes ago	{0}분 전에 깎음
+Peeled {0} hour ago	{0}시간 전에 깎음
+Peeled {0} hours ago	{0}시간 전에 깎음
+Peeled {0} day ago	{0}일 전에 깎음
+Peeled {0} days ago	{0}일 전에 깎음
+Peeled {0} months ago	{0}개월 전에 깎음
+{0} answered your idea!	{0}님이 아이디어에 답했어요!
+Play with bots now	지금 봇과 플레이

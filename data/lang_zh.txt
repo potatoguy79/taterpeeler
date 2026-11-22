@@ -1688,3 +1688,42 @@ Last one standing	最后的幸存者
 Pass the potato. The last one standing wins. Bots fill the empty seats	传土豆。最后留下的人获胜。空座位由机器人补上
 outlasted	人被淘汰
 Last potato standing!	最后的土豆！
+
+# 4.3: staff badges, private messages, last peeled
+Outline mouldy potatoes	给发霉土豆加边框
+In TaterSlice, a light green border round the ones not to slice	在 TaterSlice 中，给不能切的土豆加浅绿色边框
+MOD	版主
+ADMIN	管理员
+CO-OWNER	联合所有者
+OWNER	所有者
+Admin	管理员
+Moderators keep TaterPeeler friendly. They look after online games and the leaderboard, and help players out.	版主让 TaterPeeler 保持友好。他们照看在线游戏和排行榜，并帮助玩家。
+Admins help run TaterPeeler. They send messages to everyone, look after the leaderboard and keep things fair.	管理员协助运营 TaterPeeler。他们给所有人发消息，照看排行榜，维护公平。
+Co-owners run TaterPeeler alongside the Owner, with all of the Owner's tools.	联合所有者与所有者一起运营 TaterPeeler，拥有所有者的全部工具。
+The Owner made TaterPeeler and runs the whole game: every update, event and new feature.	所有者制作了 TaterPeeler，并负责整个游戏：每次更新、活动和新功能。
+TaterPeeler staff will never ask for your Cloud save code.	TaterPeeler 工作人员绝不会索要你的云存档代码。
+A message from {0} ({1})	来自 {0}（{1}）的消息
+A message from {0}	来自 {0} 的消息
+{0} answered your message	{0} 回复了你的消息
+Reply	回复
+Send a private message	发私信
+Only they see it	只有对方能看到
+A private message to {0}	给 {0} 的私信
+Sent to {0}	已发送给 {0}
+Sent to {0}. Only they see it	已发送给 {0}，只有对方能看到
+Your answer to {0} (only they see it)	给 {0} 的回复（只有对方能看到）
+That's 20 private messages today. Try again tomorrow	今天已发 20 条私信，明天再试
+Log in to the admin page again to send it	请重新登录管理页面再发送
+You can't send messages	你不能发送消息
+Couldn't send it. Try again	发送失败，请重试
+Couldn't send your answer. Try again	回复发送失败，请重试
+That's enough answers for today. Try again tomorrow	今天的回复已够多，明天再试
+Peeled just now	刚刚削过
+Peeled {0} minutes ago	{0} 分钟前削过
+Peeled {0} hour ago	{0} 小时前削过
+Peeled {0} hours ago	{0} 小时前削过
+Peeled {0} day ago	{0} 天前削过
+Peeled {0} days ago	{0} 天前削过
+Peeled {0} months ago	{0} 个月前削过
+{0} answered your idea!	{0} 回复了你的点子！
+Play with bots now	现在和机器人玩

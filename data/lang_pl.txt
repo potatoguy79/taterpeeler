@@ -1711,3 +1711,42 @@ Last one standing	Ostatni na placu
 Pass the potato. The last one standing wins. Bots fill the empty seats	Podawaj ziemniaka. Wygrywa ostatni na placu. Puste miejsca zajmą boty
 outlasted	przetrwanych
 Last potato standing!	Ostatni ziemniak!
+
+# 4.3: staff badges, private messages, last peeled
+Outline mouldy potatoes	Obrysuj spleśniałe ziemniaki
+In TaterSlice, a light green border round the ones not to slice	W TaterSlice jasnozielona obwódka wokół tych, których nie kroić
+MOD	MOD
+ADMIN	ADMIN
+CO-OWNER	WSPÓŁWŁAŚCICIEL
+OWNER	WŁAŚCICIEL
+Admin	Admin
+Moderators keep TaterPeeler friendly. They look after online games and the leaderboard, and help players out.	Moderatorzy dbają, by w TaterPeeler było miło. Pilnują gier online i rankingu oraz pomagają graczom.
+Admins help run TaterPeeler. They send messages to everyone, look after the leaderboard and keep things fair.	Admini pomagają prowadzić TaterPeeler. Wysyłają wiadomości do wszystkich, pilnują rankingu i dbają o uczciwość.
+Co-owners run TaterPeeler alongside the Owner, with all of the Owner's tools.	Współwłaściciele prowadzą TaterPeeler razem z właścicielem, mając wszystkie jego narzędzia.
+The Owner made TaterPeeler and runs the whole game: every update, event and new feature.	Właściciel stworzył TaterPeeler i prowadzi całą grę: każdą aktualizację, wydarzenie i nowość.
+TaterPeeler staff will never ask for your Cloud save code.	Zespół TaterPeeler nigdy nie poprosi o twój kod zapisu w chmurze.
+A message from {0} ({1})	Wiadomość od {0} ({1})
+A message from {0}	Wiadomość od {0}
+{0} answered your message	{0} odpisał(a) na twoją wiadomość
+Reply	Odpowiedz
+Send a private message	Wyślij prywatną wiadomość
+Only they see it	Zobaczy ją tylko ta osoba
+A private message to {0}	Prywatna wiadomość do {0}
+Sent to {0}	Wysłano do {0}
+Sent to {0}. Only they see it	Wysłano do {0}. Zobaczy to tylko ta osoba
+Your answer to {0} (only they see it)	Twoja odpowiedź do {0} (zobaczy ją tylko ta osoba)
+That's 20 private messages today. Try again tomorrow	Dziś to już 20 prywatnych wiadomości. Spróbuj jutro
+Log in to the admin page again to send it	Zaloguj się ponownie do panelu admina, by wysłać
+You can't send messages	Nie możesz wysyłać wiadomości
+Couldn't send it. Try again	Nie udało się wysłać. Spróbuj ponownie
+Couldn't send your answer. Try again	Nie udało się wysłać odpowiedzi. Spróbuj ponownie
+That's enough answers for today. Try again tomorrow	Dość odpowiedzi na dziś. Spróbuj jutro
+Peeled just now	Obierał(a) przed chwilą
+Peeled {0} minutes ago	Obierał(a) {0} min temu
+Peeled {0} hour ago	Obierał(a) {0} godz. temu
+Peeled {0} hours ago	Obierał(a) {0} godz. temu
+Peeled {0} day ago	Obierał(a) {0} dzień temu
+Peeled {0} days ago	Obierał(a) {0} dni temu
+Peeled {0} months ago	Obierał(a) {0} mies. temu
+{0} answered your idea!	{0} odpowiedział(a) na twój pomysł!
+Play with bots now	Graj teraz z botami

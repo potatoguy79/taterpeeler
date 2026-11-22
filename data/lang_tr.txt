@@ -1688,3 +1688,42 @@ Last one standing	Ayakta kalan son
 Pass the potato. The last one standing wins. Bots fill the empty seats	Patatesi ilet. Ayakta kalan son kişi kazanır. Boş yerleri botlar doldurur
 outlasted	geride bırakıldı
 Last potato standing!	Ayakta kalan son patates!
+
+# 4.3: staff badges, private messages, last peeled
+Outline mouldy potatoes	Küflü patateslerin çevresini çiz
+In TaterSlice, a light green border round the ones not to slice	TaterSlice'ta kesilmemesi gerekenlerin çevresinde açık yeşil bir çizgi
+MOD	MOD
+ADMIN	YÖNETİCİ
+CO-OWNER	ORTAK SAHİP
+OWNER	SAHİP
+Admin	Yönetici
+Moderators keep TaterPeeler friendly. They look after online games and the leaderboard, and help players out.	Moderatörler TaterPeeler'ı dostça tutar. Çevrim içi oyunlara ve sıralamaya göz kulak olur, oyunculara yardım ederler.
+Admins help run TaterPeeler. They send messages to everyone, look after the leaderboard and keep things fair.	Yöneticiler TaterPeeler'ı yönetmeye yardım eder. Herkese mesaj gönderir, sıralamayı izler ve adaleti korurlar.
+Co-owners run TaterPeeler alongside the Owner, with all of the Owner's tools.	Ortak sahipler TaterPeeler'ı sahiple birlikte, onun tüm araçlarıyla yönetir.
+The Owner made TaterPeeler and runs the whole game: every update, event and new feature.	Sahip TaterPeeler'ı yaptı ve tüm oyunu yönetiyor: her güncelleme, etkinlik ve yeni özellik.
+TaterPeeler staff will never ask for your Cloud save code.	TaterPeeler ekibi bulut kaydı kodunu asla sormaz.
+A message from {0} ({1})	{0} ({1}) adlı kişiden mesaj
+A message from {0}	{0} adlı kişiden mesaj
+{0} answered your message	{0} mesajını yanıtladı
+Reply	Yanıtla
+Send a private message	Özel mesaj gönder
+Only they see it	Yalnızca o görür
+A private message to {0}	{0} adlı kişiye özel mesaj
+Sent to {0}	{0} adlı kişiye gönderildi
+Sent to {0}. Only they see it	{0} adlı kişiye gönderildi. Yalnızca o görür
+Your answer to {0} (only they see it)	{0} için yanıtın (yalnızca o görür)
+That's 20 private messages today. Try again tomorrow	Bugün 20 özel mesaj gönderdin. Yarın tekrar dene
+Log in to the admin page again to send it	Göndermek için yönetici sayfasına tekrar gir
+You can't send messages	Mesaj gönderemezsin
+Couldn't send it. Try again	Gönderilemedi. Tekrar dene
+Couldn't send your answer. Try again	Yanıtın gönderilemedi. Tekrar dene
+That's enough answers for today. Try again tomorrow	Bugünlük yeterince yanıt verdin. Yarın tekrar dene
+Peeled just now	Az önce soydu
+Peeled {0} minutes ago	{0} dakika önce soydu
+Peeled {0} hour ago	{0} saat önce soydu
+Peeled {0} hours ago	{0} saat önce soydu
+Peeled {0} day ago	{0} gün önce soydu
+Peeled {0} days ago	{0} gün önce soydu
+Peeled {0} months ago	{0} ay önce soydu
+{0} answered your idea!	{0} fikrini yanıtladı!
+Play with bots now	Şimdi botlarla oyna

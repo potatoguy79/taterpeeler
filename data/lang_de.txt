@@ -1688,3 +1688,42 @@ Last one standing	Wer übrig bleibt
 Pass the potato. The last one standing wins. Bots fill the empty seats	Gib die Kartoffel weiter. Wer übrig bleibt, gewinnt. Bots füllen die leeren Plätze
 outlasted	überlebt
 Last potato standing!	Die letzte Kartoffel!
+
+# 4.3: staff badges, private messages, last peeled
+Outline mouldy potatoes	Schimmelige Kartoffeln umranden
+In TaterSlice, a light green border round the ones not to slice	In TaterSlice ein hellgrüner Rand um die, die du nicht schneiden sollst
+MOD	MOD
+ADMIN	ADMIN
+CO-OWNER	MITINHABER
+OWNER	INHABER
+Admin	Admin
+Moderators keep TaterPeeler friendly. They look after online games and the leaderboard, and help players out.	Moderatoren sorgen dafür, dass TaterPeeler freundlich bleibt. Sie kümmern sich um Online-Spiele und die Bestenliste und helfen Spielern.
+Admins help run TaterPeeler. They send messages to everyone, look after the leaderboard and keep things fair.	Admins helfen, TaterPeeler zu betreiben. Sie schicken Nachrichten an alle, kümmern sich um die Bestenliste und sorgen für Fairness.
+Co-owners run TaterPeeler alongside the Owner, with all of the Owner's tools.	Mitinhaber führen TaterPeeler zusammen mit dem Inhaber, mit allen seinen Werkzeugen.
+The Owner made TaterPeeler and runs the whole game: every update, event and new feature.	Der Inhaber hat TaterPeeler gemacht und leitet das ganze Spiel: jedes Update, jedes Event und jede neue Funktion.
+TaterPeeler staff will never ask for your Cloud save code.	Das TaterPeeler-Team fragt dich nie nach deinem Cloud-Code.
+A message from {0} ({1})	Eine Nachricht von {0} ({1})
+A message from {0}	Eine Nachricht von {0}
+{0} answered your message	{0} hat dir geantwortet
+Reply	Antworten
+Send a private message	Private Nachricht senden
+Only they see it	Nur diese Person sieht sie
+A private message to {0}	Eine private Nachricht an {0}
+Sent to {0}	An {0} gesendet
+Sent to {0}. Only they see it	An {0} gesendet. Nur diese Person sieht es
+Your answer to {0} (only they see it)	Deine Antwort an {0} (nur diese Person sieht sie)
+That's 20 private messages today. Try again tomorrow	Das waren heute 20 private Nachrichten. Versuch es morgen wieder
+Log in to the admin page again to send it	Melde dich erneut auf der Admin-Seite an, um sie zu senden
+You can't send messages	Du kannst keine Nachrichten senden
+Couldn't send it. Try again	Senden hat nicht geklappt. Versuch es nochmal
+Couldn't send your answer. Try again	Deine Antwort konnte nicht gesendet werden. Versuch es nochmal
+That's enough answers for today. Try again tomorrow	Genug Antworten für heute. Versuch es morgen wieder
+Peeled just now	Gerade eben geschält
+Peeled {0} minutes ago	Vor {0} Minuten geschält
+Peeled {0} hour ago	Vor {0} Stunde geschält
+Peeled {0} hours ago	Vor {0} Stunden geschält
+Peeled {0} day ago	Vor {0} Tag geschält
+Peeled {0} days ago	Vor {0} Tagen geschält
+Peeled {0} months ago	Vor {0} Monaten geschält
+{0} answered your idea!	{0} hat auf deine Idee geantwortet!
+Play with bots now	Jetzt mit Bots spielen

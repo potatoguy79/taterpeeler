@@ -1711,3 +1711,42 @@ Last one standing	Последний выживший
 Pass the potato. The last one standing wins. Bots fill the empty seats	Передавай картошку. Побеждает последний. Пустые места займут боты
 outlasted	пережил
 Last potato standing!	Последняя картошка!
+
+# 4.3: staff badges, private messages, last peeled
+Outline mouldy potatoes	Обводить плесневелую картошку
+In TaterSlice, a light green border round the ones not to slice	В TaterSlice светло-зелёная рамка вокруг тех, что резать нельзя
+MOD	МОД
+ADMIN	АДМИН
+CO-OWNER	СОВЛАДЕЛЕЦ
+OWNER	ВЛАДЕЛЕЦ
+Admin	Админ
+Moderators keep TaterPeeler friendly. They look after online games and the leaderboard, and help players out.	Модераторы следят, чтобы в TaterPeeler было дружелюбно. Они присматривают за онлайн-играми и таблицей лидеров и помогают игрокам.
+Admins help run TaterPeeler. They send messages to everyone, look after the leaderboard and keep things fair.	Админы помогают вести TaterPeeler. Они пишут сообщения всем, следят за таблицей лидеров и за честной игрой.
+Co-owners run TaterPeeler alongside the Owner, with all of the Owner's tools.	Совладельцы управляют TaterPeeler вместе с владельцем и пользуются всеми его инструментами.
+The Owner made TaterPeeler and runs the whole game: every update, event and new feature.	Владелец создал TaterPeeler и управляет всей игрой: каждым обновлением, событием и новой функцией.
+TaterPeeler staff will never ask for your Cloud save code.	Команда TaterPeeler никогда не попросит твой код облачного сохранения.
+A message from {0} ({1})	Сообщение от {0} ({1})
+A message from {0}	Сообщение от {0}
+{0} answered your message	{0} ответил(а) на твоё сообщение
+Reply	Ответить
+Send a private message	Написать лично
+Only they see it	Увидит только этот человек
+A private message to {0}	Личное сообщение для {0}
+Sent to {0}	Отправлено: {0}
+Sent to {0}. Only they see it	Отправлено: {0}. Увидит только этот человек
+Your answer to {0} (only they see it)	Твой ответ для {0} (увидит только этот человек)
+That's 20 private messages today. Try again tomorrow	Сегодня уже 20 личных сообщений. Попробуй завтра
+Log in to the admin page again to send it	Войди на страницу админа ещё раз, чтобы отправить
+You can't send messages	Ты не можешь отправлять сообщения
+Couldn't send it. Try again	Не удалось отправить. Попробуй ещё раз
+Couldn't send your answer. Try again	Не удалось отправить ответ. Попробуй ещё раз
+That's enough answers for today. Try again tomorrow	На сегодня ответов достаточно. Попробуй завтра
+Peeled just now	Чистил(а) только что
+Peeled {0} minutes ago	Чистил(а) {0} мин назад
+Peeled {0} hour ago	Чистил(а) {0} ч назад
+Peeled {0} hours ago	Чистил(а) {0} ч назад
+Peeled {0} day ago	Чистил(а) {0} дн. назад
+Peeled {0} days ago	Чистил(а) {0} дн. назад
+Peeled {0} months ago	Чистил(а) {0} мес. назад
+{0} answered your idea!	{0} ответил(а) на твою идею!
+Play with bots now	Играть с ботами сейчас

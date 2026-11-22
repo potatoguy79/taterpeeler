@@ -1688,3 +1688,42 @@ Last one standing	O último de pé
 Pass the potato. The last one standing wins. Bots fill the empty seats	Passe a batata. O último de pé vence. Bots ocupam os lugares vazios
 outlasted	superados
 Last potato standing!	A última batata de pé!
+
+# 4.3: staff badges, private messages, last peeled
+Outline mouldy potatoes	Contornar batatas mofadas
+In TaterSlice, a light green border round the ones not to slice	No TaterSlice, uma borda verde-clara nas que não se deve cortar
+MOD	MOD
+ADMIN	ADMIN
+CO-OWNER	CO-DONO
+OWNER	DONO
+Admin	Admin
+Moderators keep TaterPeeler friendly. They look after online games and the leaderboard, and help players out.	Os moderadores mantêm o TaterPeeler amigável. Cuidam das partidas online e da classificação, e ajudam os jogadores.
+Admins help run TaterPeeler. They send messages to everyone, look after the leaderboard and keep things fair.	Os admins ajudam a cuidar do TaterPeeler. Mandam mensagens para todos, cuidam da classificação e mantêm tudo justo.
+Co-owners run TaterPeeler alongside the Owner, with all of the Owner's tools.	Os co-donos comandam o TaterPeeler junto com o dono, com todas as ferramentas dele.
+The Owner made TaterPeeler and runs the whole game: every update, event and new feature.	O dono criou o TaterPeeler e comanda o jogo todo: cada atualização, evento e novidade.
+TaterPeeler staff will never ask for your Cloud save code.	A equipe do TaterPeeler nunca vai pedir seu código de salvamento na nuvem.
+A message from {0} ({1})	Uma mensagem de {0} ({1})
+A message from {0}	Uma mensagem de {0}
+{0} answered your message	{0} respondeu sua mensagem
+Reply	Responder
+Send a private message	Enviar mensagem privada
+Only they see it	Só essa pessoa vê
+A private message to {0}	Uma mensagem privada para {0}
+Sent to {0}	Enviado para {0}
+Sent to {0}. Only they see it	Enviado para {0}. Só essa pessoa vê
+Your answer to {0} (only they see it)	Sua resposta para {0} (só essa pessoa vê)
+That's 20 private messages today. Try again tomorrow	Já foram 20 mensagens privadas hoje. Tente amanhã
+Log in to the admin page again to send it	Entre de novo na página de admin para enviar
+You can't send messages	Você não pode enviar mensagens
+Couldn't send it. Try again	Não deu para enviar. Tente de novo
+Couldn't send your answer. Try again	Não deu para enviar sua resposta. Tente de novo
+That's enough answers for today. Try again tomorrow	Chega de respostas por hoje. Tente amanhã
+Peeled just now	Descascou agora há pouco
+Peeled {0} minutes ago	Descascou há {0} minutos
+Peeled {0} hour ago	Descascou há {0} hora
+Peeled {0} hours ago	Descascou há {0} horas
+Peeled {0} day ago	Descascou há {0} dia
+Peeled {0} days ago	Descascou há {0} dias
+Peeled {0} months ago	Descascou há {0} meses
+{0} answered your idea!	{0} respondeu sua ideia!
+Play with bots now	Jogar com bots agora

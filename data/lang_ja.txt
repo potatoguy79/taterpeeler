@@ -1688,3 +1688,42 @@ Last one standing	最後の1人
 Pass the potato. The last one standing wins. Bots fill the empty seats	ポテトを回そう。最後の1人が勝ち。空いた席はボットが入ります
 outlasted	人に勝ち残り
 Last potato standing!	最後のポテト！
+
+# 4.3: staff badges, private messages, last peeled
+Outline mouldy potatoes	カビたポテトをふちどり
+In TaterSlice, a light green border round the ones not to slice	TaterSliceで、切ってはいけないポテトを薄緑でふちどり
+MOD	モデ
+ADMIN	管理者
+CO-OWNER	共同オーナー
+OWNER	オーナー
+Admin	管理者
+Moderators keep TaterPeeler friendly. They look after online games and the leaderboard, and help players out.	モデレーターはTaterPeelerを楽しい場所に保ちます。オンライン対戦とランキングを見守り、プレイヤーを助けます。
+Admins help run TaterPeeler. They send messages to everyone, look after the leaderboard and keep things fair.	管理者はTaterPeelerの運営を手伝います。全員へのメッセージ、ランキングの管理、公平さを守ります。
+Co-owners run TaterPeeler alongside the Owner, with all of the Owner's tools.	共同オーナーはオーナーと一緒に、オーナーと同じ道具でTaterPeelerを運営します。
+The Owner made TaterPeeler and runs the whole game: every update, event and new feature.	オーナーはTaterPeelerを作り、アップデート、イベント、新機能まで、ゲーム全体を運営しています。
+TaterPeeler staff will never ask for your Cloud save code.	TaterPeelerのスタッフがクラウドセーブのコードを聞くことはありません。
+A message from {0} ({1})	{0}（{1}）からのメッセージ
+A message from {0}	{0}からのメッセージ
+{0} answered your message	{0}から返信が来ました
+Reply	返信
+Send a private message	個人メッセージを送る
+Only they see it	その人だけが見られます
+A private message to {0}	{0}への個人メッセージ
+Sent to {0}	{0}に送りました
+Sent to {0}. Only they see it	{0}に送りました。その人だけが見られます
+Your answer to {0} (only they see it)	{0}への返信（その人だけが見られます）
+That's 20 private messages today. Try again tomorrow	今日はもう20通送りました。また明日どうぞ
+Log in to the admin page again to send it	送るには管理ページにもう一度ログインしてください
+You can't send messages	メッセージは送れません
+Couldn't send it. Try again	送れませんでした。もう一度どうぞ
+Couldn't send your answer. Try again	返信を送れませんでした。もう一度どうぞ
+That's enough answers for today. Try again tomorrow	今日の返信はここまで。また明日どうぞ
+Peeled just now	たった今むいた
+Peeled {0} minutes ago	{0}分前にむいた
+Peeled {0} hour ago	{0}時間前にむいた
+Peeled {0} hours ago	{0}時間前にむいた
+Peeled {0} day ago	{0}日前にむいた
+Peeled {0} days ago	{0}日前にむいた
+Peeled {0} months ago	{0}か月前にむいた
+{0} answered your idea!	{0}があなたのアイデアに答えました！
+Play with bots now	今すぐボットと遊ぶ
