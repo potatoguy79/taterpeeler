@@ -1806,3 +1806,9 @@ You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one
 Auto peeler: the next potato in {0}	Éplucheur auto : prochaine patate dans {0}
 Auto peeler: off (tap to turn it on)	Éplucheur auto : éteint (touche pour l'allumer)
 The auto peeler peeled a {0}	L'éplucheur auto a épluché une {0}
+
+# 4.3: curly fries
+Curly fries	Frites bouclées
+Turn the spiralizer's crank: round and round (or tap)	Tourne la manivelle du spiraliseur : en rond (ou touche)
+Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	Pique la patate sur un spiraliseur et tourne la manivelle : elle pousse la patate dans la lame et coupe une longue spirale. Casse-la en boucles, saupoudre de paprika et d'ail en poudre, et fais-les frire à 180 °C jusqu'à ce qu'elles soient croustillantes.
+Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	Mets la patate sur un spiraliseur et tourne la manivelle : les boucles tombent sur la planche, prêtes pour la friteuse.

@@ -1806,3 +1806,9 @@ You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one
 Auto peeler: the next potato in {0}	Otomatik soyucu: sonraki patates {0} sonra
 Auto peeler: off (tap to turn it on)	Otomatik soyucu: kapalı (açmak için dokun)
 The auto peeler peeled a {0}	Otomatik soyucu bir {0} soydu
+
+# 4.3: curly fries
+Curly fries	Kıvırcık patates
+Turn the spiralizer's crank: round and round (or tap)	Spiral kesicinin kolunu çevir: döndür döndür (ya da dokun)
+Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	Patatesi spiral kesiciye tak ve kolu çevir: patatesi bıçağa iter ve uzun bir spiral keser. Kıvrımlara böl, toz kırmızı biber ve sarımsak tozu serp, 180 °C'de çıtır olana kadar kızart.
+Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	Patatesi spiral kesiciye tak ve kolu çevir: kıvrımlar tahtaya düşer, kızartmaya hazır.

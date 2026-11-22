@@ -1806,3 +1806,9 @@ You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one
 Auto peeler: the next potato in {0}	Pelador automático: siguiente patata en {0}
 Auto peeler: off (tap to turn it on)	Pelador automático: apagado (toca para encenderlo)
 The auto peeler peeled a {0}	El pelador automático peló una {0}
+
+# 4.3: curly fries
+Curly fries	Patatas rizadas
+Turn the spiralizer's crank: round and round (or tap)	Gira la manivela del espiralizador: vueltas y vueltas (o toca)
+Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	Clava la patata en un espiralizador y gira la manivela: empuja la patata contra la cuchilla y corta una espiral larga. Pártela en rizos, espolvoréalos con pimentón y ajo en polvo y fríelos a 180 °C hasta que estén crujientes.
+Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	Pon la patata en un espiralizador y gira la manivela: los rizos caen sobre la tabla, listos para la freidora.

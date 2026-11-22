@@ -1806,3 +1806,9 @@ You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one
 Auto peeler: the next potato in {0}	自動皮むき機：次のポテトまで {0}
 Auto peeler: off (tap to turn it on)	自動皮むき機：オフ（タップでオン）
 The auto peeler peeled a {0}	自動皮むき機が{0}をむきました
+
+# 4.3: curly fries
+Curly fries	カーリーポテト
+Turn the spiralizer's crank: round and round (or tap)	スパイラルカッターのハンドルを回そう（タップでもOK）
+Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	ジャガイモをスパイラルカッターに刺してハンドルを回すと、刃に押し込まれて長いらせんが1本できます。短く折って、パプリカとガーリックパウダーをまぶし、180 °Cでカリッとするまで揚げます。
+Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	ジャガイモをスパイラルカッターにセットしてハンドルを回すと、くるくるがまな板に落ちて、揚げる準備OK。

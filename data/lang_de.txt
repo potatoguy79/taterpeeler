@@ -1806,3 +1806,9 @@ You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one
 Auto peeler: the next potato in {0}	Auto-Schäler: nächste Kartoffel in {0}
 Auto peeler: off (tap to turn it on)	Auto-Schäler: aus (zum Einschalten tippen)
 The auto peeler peeled a {0}	Der Auto-Schäler hat eine {0} geschält
+
+# 4.3: curly fries
+Curly fries	Curly Fries
+Turn the spiralizer's crank: round and round (or tap)	Dreh die Kurbel des Spiralschneiders: rundherum (oder tippen)
+Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	Steck die Kartoffel auf einen Spiralschneider und dreh die Kurbel: Sie schiebt die Kartoffel in die Klinge und schneidet eine lange Spirale. Brich sie in Locken, bestäube sie mit Paprika und Knoblauchpulver und frittiere sie bei 180 °C knusprig.
+Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	Steck die Kartoffel auf einen Spiralschneider und dreh die Kurbel: Die Locken fallen aufs Brett, bereit für die Fritteuse.
