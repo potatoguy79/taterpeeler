@@ -1727,3 +1727,13 @@ Peeled {0} days ago	Descascou há {0} dias
 Peeled {0} months ago	Descascou há {0} meses
 {0} answered your idea!	{0} respondeu sua ideia!
 Play with bots now	Jogar com bots agora
+
+# 4.3: the World map
+World map	Mapa-múndi
+World	Mundo
+North America	América do Norte
+Europe	Europa
+Map data: Natural Earth	Dados do mapa: Natural Earth
+Loading the map...	Carregando o mapa...
+You've found potatoes from {0} of {1} places	Você achou batatas de {0} de {1} lugares
+Tap a pin to see which potatoes grow there	Toque num alfinete para ver que batatas crescem ali

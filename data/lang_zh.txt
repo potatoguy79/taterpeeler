@@ -1727,3 +1727,13 @@ Peeled {0} days ago	{0} 天前削过
 Peeled {0} months ago	{0} 个月前削过
 {0} answered your idea!	{0} 回复了你的点子！
 Play with bots now	现在和机器人玩
+
+# 4.3: the World map
+World map	世界地图
+World	世界
+North America	北美洲
+Europe	欧洲
+Map data: Natural Earth	地图数据：Natural Earth
+Loading the map...	正在加载地图...
+You've found potatoes from {0} of {1} places	你已找到 {1} 个地方中 {0} 个地方的土豆
+Tap a pin to see which potatoes grow there	点击图钉，看看那里种什么土豆

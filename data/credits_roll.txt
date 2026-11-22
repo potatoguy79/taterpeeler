@@ -41,6 +41,12 @@ Poly Haven textures and models
 [Sound effects]
 Joseph Sardin and Denis Chardonnet, BigSoundBank
 
+[World map]
+Felix Chavez
+
+[Map data]
+Natural Earth (naturalearthdata.com)
+
 [Late night music]
 "Tape Hiss Memories" by BackgroundMusicMaster, Pixabay
 

@@ -1727,3 +1727,13 @@ Peeled {0} days ago	A épluché il y a {0} jours
 Peeled {0} months ago	A épluché il y a {0} mois
 {0} answered your idea!	{0} a répondu à ton idée !
 Play with bots now	Jouer avec des robots
+
+# 4.3: the World map
+World map	Carte du monde
+World	Monde
+North America	Amérique du Nord
+Europe	Europe
+Map data: Natural Earth	Données cartographiques : Natural Earth
+Loading the map...	Chargement de la carte...
+You've found potatoes from {0} of {1} places	Tu as trouvé des patates de {0} lieux sur {1}
+Tap a pin to see which potatoes grow there	Touche une épingle pour voir quelles patates poussent là

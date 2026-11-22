@@ -707,7 +707,7 @@
     plat_texture: (np, wp, hp, flags) => {
       const n = str(np); let im = images[n];
       if (!im && SHARP[n] && images[SHARP[n]]) im = images[SHARP[n]];   /* the sharp one isn't here yet: start on the 1024 */
-      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|balloon|ta_|tc_|tv_|fry_tut|share_)/.test(n)) lazyImage(n); return 0; }
+      if (!im) { if (/^(kitchen_|counter_|potato_mix|font_atlas_|ad\.jpg|leaf|balloon|ta_|tc_|tv_|fry_tut|share_|map_)/.test(n)) lazyImage(n); return 0; }
       const t = gl.createTexture();
       if (SHARP[n] && !images[n]) sharpWait.push([n, t, flags]);
       gl.bindTexture(gl.TEXTURE_2D, t);

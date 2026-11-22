@@ -1750,3 +1750,13 @@ Peeled {0} days ago	Obierał(a) {0} dni temu
 Peeled {0} months ago	Obierał(a) {0} mies. temu
 {0} answered your idea!	{0} odpowiedział(a) na twój pomysł!
 Play with bots now	Graj teraz z botami
+
+# 4.3: the World map
+World map	Mapa świata
+World	Świat
+North America	Ameryka Północna
+Europe	Europa
+Map data: Natural Earth	Dane mapy: Natural Earth
+Loading the map...	Wczytywanie mapy...
+You've found potatoes from {0} of {1} places	Znalazłeś ziemniaki z {0} z {1} miejsc
+Tap a pin to see which potatoes grow there	Dotknij pinezki, by zobaczyć, jakie ziemniaki tam rosną

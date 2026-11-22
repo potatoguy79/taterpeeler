@@ -1727,3 +1727,13 @@ Peeled {0} days ago	{0}일 전에 깎음
 Peeled {0} months ago	{0}개월 전에 깎음
 {0} answered your idea!	{0}님이 아이디어에 답했어요!
 Play with bots now	지금 봇과 플레이
+
+# 4.3: the World map
+World map	세계 지도
+World	세계
+North America	북아메리카
+Europe	유럽
+Map data: Natural Earth	지도 데이터: Natural Earth
+Loading the map...	지도를 불러오는 중...
+You've found potatoes from {0} of {1} places	{1}곳 중 {0}곳의 감자를 찾았어요
+Tap a pin to see which potatoes grow there	핀을 누르면 그곳에서 자라는 감자를 볼 수 있어요

@@ -33,12 +33,13 @@ thanksgiving: auto
 #   off: that mode's button says "Down for maintenance", and tapping it shows a popup with the
 #        message below instead of opening it. (Signed in as the owner, you can still go in.)
 #   on:  the mode works as normal.
-#   👉👉👉  change any of the next five lines  👇
+#   👉👉👉  change any of the next six lines  👇
 peel: on
 rush: on
 fries: on
 taterninja: on
 tatercorner: on
+tatermaster: on
 #
 #   💬  What the maintenance popup says. Write anything after the colon, all on one line.
 #   👉👉👉  change the next line  👇

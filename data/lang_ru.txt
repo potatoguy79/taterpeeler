@@ -1750,3 +1750,13 @@ Peeled {0} days ago	Чистил(а) {0} дн. назад
 Peeled {0} months ago	Чистил(а) {0} мес. назад
 {0} answered your idea!	{0} ответил(а) на твою идею!
 Play with bots now	Играть с ботами сейчас
+
+# 4.3: the World map
+World map	Карта мира
+World	Мир
+North America	Северная Америка
+Europe	Европа
+Map data: Natural Earth	Данные карты: Natural Earth
+Loading the map...	Загружаем карту...
+You've found potatoes from {0} of {1} places	Ты нашёл картошку из {0} мест из {1}
+Tap a pin to see which potatoes grow there	Нажми на метку, чтобы увидеть, какая картошка там растёт

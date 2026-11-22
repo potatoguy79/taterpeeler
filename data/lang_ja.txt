@@ -1727,3 +1727,13 @@ Peeled {0} days ago	{0}日前にむいた
 Peeled {0} months ago	{0}か月前にむいた
 {0} answered your idea!	{0}があなたのアイデアに答えました！
 Play with bots now	今すぐボットと遊ぶ
+
+# 4.3: the World map
+World map	世界地図
+World	世界
+North America	北アメリカ
+Europe	ヨーロッパ
+Map data: Natural Earth	地図データ：Natural Earth
+Loading the map...	地図を読み込み中...
+You've found potatoes from {0} of {1} places	{1}か所中{0}か所のポテトを見つけました
+Tap a pin to see which potatoes grow there	ピンをタップすると、そこで育つポテトがわかります

@@ -1727,3 +1727,13 @@ Peeled {0} days ago	Peeled {0} days ago
 Peeled {0} months ago	Peeled {0} months ago
 {0} answered your idea!	{0} answered yer idea!
 Play with bots now	Play with bots now
+
+# 4.3: the World map
+World map	Map o' the world
+World	World
+North America	North America
+Europe	Europe
+Map data: Natural Earth	Chart data: Natural Earth
+Loading the map...	Unrollin' the chart...
+You've found potatoes from {0} of {1} places	Ye've found spuds from {0} o' {1} places
+Tap a pin to see which potatoes grow there	Tap a pin to see which spuds grow there

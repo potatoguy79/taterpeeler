@@ -1727,3 +1727,13 @@ Peeled {0} days ago	Vor {0} Tagen geschält
 Peeled {0} months ago	Vor {0} Monaten geschält
 {0} answered your idea!	{0} hat auf deine Idee geantwortet!
 Play with bots now	Jetzt mit Bots spielen
+
+# 4.3: the World map
+World map	Weltkarte
+World	Welt
+North America	Nordamerika
+Europe	Europa
+Map data: Natural Earth	Kartendaten: Natural Earth
+Loading the map...	Karte wird geladen...
+You've found potatoes from {0} of {1} places	Du hast Kartoffeln aus {0} von {1} Orten gefunden
+Tap a pin to see which potatoes grow there	Tippe auf eine Nadel, um zu sehen, welche Kartoffeln dort wachsen

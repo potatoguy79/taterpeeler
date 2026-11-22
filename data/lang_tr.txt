@@ -1727,3 +1727,13 @@ Peeled {0} days ago	{0} gün önce soydu
 Peeled {0} months ago	{0} ay önce soydu
 {0} answered your idea!	{0} fikrini yanıtladı!
 Play with bots now	Şimdi botlarla oyna
+
+# 4.3: the World map
+World map	Dünya haritası
+World	Dünya
+North America	Kuzey Amerika
+Europe	Avrupa
+Map data: Natural Earth	Harita verisi: Natural Earth
+Loading the map...	Harita yükleniyor...
+You've found potatoes from {0} of {1} places	{1} yerden {0} tanesinin patateslerini buldun
+Tap a pin to see which potatoes grow there	Orada hangi patateslerin yetiştiğini görmek için bir iğneye dokun
