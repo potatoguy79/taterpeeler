@@ -1863,3 +1863,10 @@ Done for today. A new challenge comes at midnight. Days in a row: {0}	На се�
 Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	Награда: {0} TaterCoins (больше за каждый день подряд). Новое задание появится в полночь.
 Today's challenge	Задание дня
 A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	Каждый день новое задание в меню. Выполни его за TaterCoins, и за каждый день подряд получишь больше.
+
+# 4.3: Rush replays
+Watch replay	Смотреть повтор
+Stop replay	Остановить повтор
+Replay	Повтор
+Rush replays	Повторы Rush
+When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Когда Rush закончится, нажми Смотреть повтор, чтобы увидеть всё заново, каждое движение.

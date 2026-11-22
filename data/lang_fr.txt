@@ -1840,3 +1840,10 @@ Done for today. A new challenge comes at midnight. Days in a row: {0}	Fini pour 
 Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	Récompense : {0} TaterCoins (plus pour chaque jour d'affilée). Un nouveau défi arrive à minuit.
 Today's challenge	Défi du jour
 A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	Un nouveau défi chaque jour, sur le menu. Réussis-le pour des TaterCoins, et plus pour chaque jour d'affilée.
+
+# 4.3: Rush replays
+Watch replay	Revoir la partie
+Stop replay	Arrêter le replay
+Replay	Replay
+Rush replays	Replays de Rush
+When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	À la fin d'un Rush, touche Revoir la partie pour tout revoir, chaque coup de lame.

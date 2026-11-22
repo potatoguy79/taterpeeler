@@ -1840,3 +1840,10 @@ Done for today. A new challenge comes at midnight. Days in a row: {0}	今天完�
 Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	奖励：{0} TaterCoins（连续越多奖励越多）。午夜会有新挑战。
 Today's challenge	今日挑战
 A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	菜单上每天都有新挑战。完成可得 TaterCoins，连续天数越多奖励越多。
+
+# 4.3: Rush replays
+Watch replay	观看回放
+Stop replay	停止回放
+Replay	回放
+Rush replays	Rush 回放
+When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Rush 结束后，点「观看回放」就能把每一下都重看一遍。

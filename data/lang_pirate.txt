@@ -1840,3 +1840,10 @@ Done for today. A new challenge comes at midnight. Days in a row: {0}	Done fer t
 Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	Reward: {0} TaterCoins (more fer every day runnin'). A new challenge comes at midnight.
 Today's challenge	Today's challenge
 A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	A new challenge every day, on the menu. Do it fer TaterCoins, an' more fer every day runnin'.
+
+# 4.3: Rush replays
+Watch replay	Watch it again
+Stop replay	Stop the replay
+Replay	Replay
+Rush replays	Rush replays
+When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	When a Rush be over, tap Watch it again to see the whole thing, every stroke.

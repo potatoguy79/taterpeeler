@@ -1840,3 +1840,10 @@ Done for today. A new challenge comes at midnight. Days in a row: {0}	今日は�
 Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	ごほうび：{0} TaterCoins（連続日数で増えます）。真夜中に新しいチャレンジが来ます。
 Today's challenge	今日のチャレンジ
 A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	メニューに毎日新しいチャレンジ。クリアするとTaterCoinsがもらえて、連続日数で増えます。
+
+# 4.3: Rush replays
+Watch replay	リプレイを見る
+Stop replay	リプレイを止める
+Replay	リプレイ
+Rush replays	Rushのリプレイ
+When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Rushが終わったら「リプレイを見る」で、ひと削りずつ全部見直せます。

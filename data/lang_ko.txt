@@ -1840,3 +1840,10 @@ Done for today. A new challenge comes at midnight. Days in a row: {0}	오늘은 
 Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	보상: {0} TaterCoins (연속으로 할수록 더 많이). 자정에 새 도전이 와요.
 Today's challenge	오늘의 도전
 A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	메뉴에 매일 새 도전이 나와요. 완료하면 TaterCoins를 받고, 연속으로 할수록 더 받아요.
+
+# 4.3: Rush replays
+Watch replay	리플레이 보기
+Stop replay	리플레이 멈추기
+Replay	리플레이
+Rush replays	Rush 리플레이
+When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Rush가 끝나면 리플레이 보기를 눌러 한 번 한 번 전부 다시 볼 수 있어요.

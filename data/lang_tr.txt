@@ -1840,3 +1840,10 @@ Done for today. A new challenge comes at midnight. Days in a row: {0}	Bugünlük
 Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	Ödül: {0} TaterCoins (üst üste her gün için daha fazla). Gece yarısı yeni görev gelir.
 Today's challenge	Günün görevi
 A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	Menüde her gün yeni bir görev. Tamamla, TaterCoins kazan; üst üste her gün için daha fazla.
+
+# 4.3: Rush replays
+Watch replay	Tekrarı izle
+Stop replay	Tekrarı durdur
+Replay	Tekrar
+Rush replays	Rush tekrarları
+When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Bir Rush bittiğinde, her hareketiyle baştan izlemek için Tekrarı izle'ye dokun.
