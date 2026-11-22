@@ -1812,3 +1812,15 @@ Curly fries	Curly Fries
 Turn the spiralizer's crank: round and round (or tap)	Dreh die Kurbel des Spiralschneiders: rundherum (oder tippen)
 Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	Steck die Kartoffel auf einen Spiralschneider und dreh die Kurbel: Sie schiebt die Kartoffel in die Klinge und schneidet eine lange Spirale. Brich sie in Locken, bestäube sie mit Paprika und Knoblauchpulver und frittiere sie bei 180 °C knusprig.
 Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	Steck die Kartoffel auf einen Spiralschneider und dreh die Kurbel: Die Locken fallen aufs Brett, bereit für die Fritteuse.
+
+# 4.3: the auto peeler, equipped
+You've peeled 1,000 potatoes, so you can use an auto peeler. Equip it in the Collection: it peels one potato a minute while the game's open, up to 100, then it needs 15 minutes to cool down.	Du hast 1.000 Kartoffeln geschält, also kannst du einen automatischen Schäler benutzen. Rüste ihn in der Sammlung aus: Er schält eine Kartoffel pro Minute, solange das Spiel offen ist, bis zu 100, dann muss er 15 Minuten abkühlen.
+The auto peeler peeled 100 and needs to cool down	Der Auto-Schäler hat 100 geschält und muss abkühlen
+Auto peeler: cooling down ({0})	Auto-Schäler: kühlt ab ({0})
+Auto peeler	Auto-Schäler
+Unlocks at 1,000 potatoes ({0} so far)	Ab 1.000 Kartoffeln ({0} bisher)
+Equipped: one potato a minute ({0} of 100)	Ausgerüstet: eine Kartoffel pro Minute ({0} von 100)
+Cooling down: ready in {0}	Kühlt ab: bereit in {0}
+One potato a minute while the game's open, up to 100	Eine Kartoffel pro Minute, solange das Spiel offen ist, bis zu 100
+Equip	Ausrüsten
+Unequip	Ablegen

@@ -1812,3 +1812,15 @@ Curly fries	Papas rizadas
 Turn the spiralizer's crank: round and round (or tap)	Gira la manivela del espiralizador: vueltas y vueltas (o toca)
 Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	Clava la papa en un espiralizador y gira la manivela: empuja la papa contra la cuchilla y corta una espiral larga. Pártela en rizos, espolvoréalos con pimentón y ajo en polvo y fríelos a 180 °C hasta que estén crujientes.
 Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	Pon la papa en un espiralizador y gira la manivela: los rizos caen sobre la tabla, listos para la freidora.
+
+# 4.3: the auto peeler, equipped
+You've peeled 1,000 potatoes, so you can use an auto peeler. Equip it in the Collection: it peels one potato a minute while the game's open, up to 100, then it needs 15 minutes to cool down.	Pelaste 1000 papas, así que puedes usar un pelador automático. Equípalo en la Colección: pela una papa por minuto mientras el juego está abierto, hasta 100, y luego necesita 15 minutos para enfriarse.
+The auto peeler peeled 100 and needs to cool down	El pelador automático peló 100 y necesita enfriarse
+Auto peeler: cooling down ({0})	Pelador automático: enfriándose ({0})
+Auto peeler	Pelador automático
+Unlocks at 1,000 potatoes ({0} so far)	Se desbloquea con 1000 papas (llevas {0})
+Equipped: one potato a minute ({0} of 100)	Equipado: una papa por minuto ({0} de 100)
+Cooling down: ready in {0}	Enfriándose: lista en {0}
+One potato a minute while the game's open, up to 100	Una papa por minuto mientras el juego está abierto, hasta 100
+Equip	Equipar
+Unequip	Quitar

@@ -1812,3 +1812,15 @@ Curly fries	螺旋薯条
 Turn the spiralizer's crank: round and round (or tap)	转动螺旋切丝器的摇柄：一圈又一圈（或点击）
 Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	把土豆插到螺旋切丝器上，转动摇柄：它会把土豆推向刀片，切出一条长长的螺旋。掰成小段，撒上红椒粉和蒜粉，用 180 °C 炸到酥脆。
 Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	把土豆装上螺旋切丝器，转动摇柄：卷卷的薯条落到砧板上，可以下锅了。
+
+# 4.3: the auto peeler, equipped
+You've peeled 1,000 potatoes, so you can use an auto peeler. Equip it in the Collection: it peels one potato a minute while the game's open, up to 100, then it needs 15 minutes to cool down.	你已经削了 1,000 个土豆，可以使用自动削皮机了。在收藏里装备它：游戏开着时每分钟削一个，最多 100 个，之后需要冷却 15 分钟。
+The auto peeler peeled 100 and needs to cool down	自动削皮机已削 100 个，需要冷却
+Auto peeler: cooling down ({0})	自动削皮机：冷却中（{0}）
+Auto peeler	自动削皮机
+Unlocks at 1,000 potatoes ({0} so far)	削到 1,000 个土豆解锁（目前 {0}）
+Equipped: one potato a minute ({0} of 100)	已装备：每分钟一个（{0}/100）
+Cooling down: ready in {0}	冷却中：{0} 后可用
+One potato a minute while the game's open, up to 100	游戏开着时每分钟一个，最多 100 个
+Equip	装备
+Unequip	卸下

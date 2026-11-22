@@ -1835,3 +1835,15 @@ Curly fries	Frytki spiralki
 Turn the spiralizer's crank: round and round (or tap)	Kręć korbką spiralizera: w kółko (albo dotknij)
 Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	Nabij ziemniaka na spiralizer i kręć korbką: wpycha ziemniaka w ostrze i tnie jedną długą spiralę. Połam ją na loczki, oprósz papryką i czosnkiem granulowanym i smaż w 180 °C, aż będą chrupiące.
 Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	Załóż ziemniaka na spiralizer i kręć korbką: loczki spadają na deskę, gotowe do frytkownicy.
+
+# 4.3: the auto peeler, equipped
+You've peeled 1,000 potatoes, so you can use an auto peeler. Equip it in the Collection: it peels one potato a minute while the game's open, up to 100, then it needs 15 minutes to cool down.	Obrałeś 1000 ziemniaków, więc możesz używać automatycznej obieraczki. Wyposaż ją w Kolekcji: obiera jednego ziemniaka na minutę, gdy gra jest otwarta, do 100, a potem musi stygnąć 15 minut.
+The auto peeler peeled 100 and needs to cool down	Auto obieraczka obrała 100 i musi ostygnąć
+Auto peeler: cooling down ({0})	Auto obieraczka: stygnie ({0})
+Auto peeler	Auto obieraczka
+Unlocks at 1,000 potatoes ({0} so far)	Odblokowanie przy 1000 ziemniakach (na razie {0})
+Equipped: one potato a minute ({0} of 100)	Wyposażona: jeden ziemniak na minutę ({0} z 100)
+Cooling down: ready in {0}	Stygnie: gotowa za {0}
+One potato a minute while the game's open, up to 100	Jeden ziemniak na minutę, gdy gra jest otwarta, do 100
+Equip	Wyposaż
+Unequip	Zdejmij

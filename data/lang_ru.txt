@@ -1835,3 +1835,15 @@ Curly fries	Картофель спиральками
 Turn the spiralizer's crank: round and round (or tap)	Крути ручку спирализатора по кругу (или нажимай)
 Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	Насади картошку на спирализатор и крути ручку: он подаёт картошку на лезвие и режет одну длинную спираль. Разломай её на завитки, посыпь паприкой и чесночным порошком и обжарь при 180 °C до хруста.
 Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	Насади картошку на спирализатор и крути ручку: завитки падают на доску, готовые к фритюру.
+
+# 4.3: the auto peeler, equipped
+You've peeled 1,000 potatoes, so you can use an auto peeler. Equip it in the Collection: it peels one potato a minute while the game's open, up to 100, then it needs 15 minutes to cool down.	Ты почистил 1000 картофелин, так что можешь пользоваться автоматической чистилкой. Надень её в Коллекции: она чистит одну картошку в минуту, пока игра открыта, до 100 штук, а потом ей нужно 15 минут остыть.
+The auto peeler peeled 100 and needs to cool down	Авточистилка почистила 100 и должна остыть
+Auto peeler: cooling down ({0})	Авточистилка: остывает ({0})
+Auto peeler	Авточистилка
+Unlocks at 1,000 potatoes ({0} so far)	Откроется на 1000 картофелин (пока {0})
+Equipped: one potato a minute ({0} of 100)	Надета: одна картошка в минуту ({0} из 100)
+Cooling down: ready in {0}	Остывает: будет готова через {0}
+One potato a minute while the game's open, up to 100	Одна картошка в минуту, пока игра открыта, до 100
+Equip	Надеть
+Unequip	Снять

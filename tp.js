@@ -827,6 +827,7 @@
       const n = Math.min(b.length, cap - 1); u8.set(b.subarray(0, n), op); u8[op + n] = 0;
     },
     plat_utc_offset: () => -new Date().getTimezoneOffset(),
+    plat_unix: () => Date.now() / 1000,
     plat_today: () => { const m = /[?&]today=(\d{8})/.exec(location.search); if (m) return +m[1]; const d = new Date(); return d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate(); },
     plat_old_web: () => /[?&]oldweb=1/.test(location.search) ? 1 : 0,   /* only old iPads say yes; ?oldweb=1 shows it here */
     plat_random: () => { try { return crypto.getRandomValues(new Uint32Array(1))[0]; } catch (e) { return (Math.random() * 4294967296) >>> 0; } },

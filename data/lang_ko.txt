@@ -1812,3 +1812,15 @@ Curly fries	컬리 프라이
 Turn the spiralizer's crank: round and round (or tap)	스파이럴 커터 손잡이를 빙글빙글 돌려요 (또는 탭)
 Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	감자를 스파이럴 커터에 꽂고 손잡이를 돌리면 감자가 칼날로 밀려 들어가 긴 나선 하나로 잘려요. 짧게 끊어서 파프리카와 마늘 가루를 뿌리고 180 °C에서 바삭하게 튀겨요.
 Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	감자를 스파이럴 커터에 끼우고 손잡이를 돌리면 꼬불꼬불한 감자가 도마에 떨어져 튀길 준비 끝.
+
+# 4.3: the auto peeler, equipped
+You've peeled 1,000 potatoes, so you can use an auto peeler. Equip it in the Collection: it peels one potato a minute while the game's open, up to 100, then it needs 15 minutes to cool down.	감자 1,000개를 벗겨서 자동 껍질 벗기개를 쓸 수 있어요. 컬렉션에서 장착하면 게임이 켜져 있는 동안 1분에 하나씩 100개까지 벗기고, 그 뒤엔 15분 동안 식혀야 해요.
+The auto peeler peeled 100 and needs to cool down	자동 껍질 벗기개가 100개를 벗겨서 식혀야 해요
+Auto peeler: cooling down ({0})	자동 껍질 벗기개: 식는 중 ({0})
+Auto peeler	자동 껍질 벗기개
+Unlocks at 1,000 potatoes ({0} so far)	감자 1,000개에 열려요 (지금까지 {0})
+Equipped: one potato a minute ({0} of 100)	장착 중: 1분에 하나 ({0}/100)
+Cooling down: ready in {0}	식는 중: {0} 후 사용 가능
+One potato a minute while the game's open, up to 100	게임이 켜져 있는 동안 1분에 하나, 100개까지
+Equip	장착
+Unequip	해제

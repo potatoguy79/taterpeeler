@@ -1812,3 +1812,15 @@ Curly fries	Curly fries
 Turn the spiralizer's crank: round and round (or tap)	Turn the spiralizer's crank: round an' round (or tap)
 Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	Push the spud onto a spiralizer an' turn the crank: it feeds the spud into the blade an' cuts one long spiral. Break it into curls, dust 'em with paprika an' garlic powder, an' fry 'em at 180 °C till crisp.
 Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	Put the spud on a spiralizer an' turn the crank: the curls drop onto the board, ready fer the fryer.
+
+# 4.3: the auto peeler, equipped
+You've peeled 1,000 potatoes, so you can use an auto peeler. Equip it in the Collection: it peels one potato a minute while the game's open, up to 100, then it needs 15 minutes to cool down.	Ye've peeled 1,000 spuds, so ye can use an auto peeler. Equip it in the Collection: it peels one spud a minute while the game be open, up to 100, then it needs 15 minutes to cool down.
+The auto peeler peeled 100 and needs to cool down	The auto peeler peeled 100 an' needs to cool down
+Auto peeler: cooling down ({0})	Auto peeler: coolin' down ({0})
+Auto peeler	Auto peeler
+Unlocks at 1,000 potatoes ({0} so far)	Yours at 1,000 spuds ({0} so far)
+Equipped: one potato a minute ({0} of 100)	Equipped: one spud a minute ({0} o' 100)
+Cooling down: ready in {0}	Coolin' down: ready in {0}
+One potato a minute while the game's open, up to 100	One spud a minute while the game be open, up to 100
+Equip	Equip
+Unequip	Unequip

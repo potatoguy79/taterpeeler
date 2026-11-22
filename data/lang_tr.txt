@@ -1812,3 +1812,15 @@ Curly fries	Kıvırcık patates
 Turn the spiralizer's crank: round and round (or tap)	Spiral kesicinin kolunu çevir: döndür döndür (ya da dokun)
 Push the potato onto a spiralizer and turn the crank: it feeds the potato into the blade and cuts one long spiral. Break it into curls, dust them with paprika and garlic powder, and fry them at 180 °C until crisp.	Patatesi spiral kesiciye tak ve kolu çevir: patatesi bıçağa iter ve uzun bir spiral keser. Kıvrımlara böl, toz kırmızı biber ve sarımsak tozu serp, 180 °C'de çıtır olana kadar kızart.
 Put the potato on a spiralizer and turn the crank: the curls drop onto the board, ready for the fryer.	Patatesi spiral kesiciye tak ve kolu çevir: kıvrımlar tahtaya düşer, kızartmaya hazır.
+
+# 4.3: the auto peeler, equipped
+You've peeled 1,000 potatoes, so you can use an auto peeler. Equip it in the Collection: it peels one potato a minute while the game's open, up to 100, then it needs 15 minutes to cool down.	1.000 patates soydun, artık otomatik soyucu kullanabilirsin. Koleksiyon'da kuşan: oyun açıkken dakikada bir patates soyar, 100'e kadar, sonra 15 dakika soğuması gerekir.
+The auto peeler peeled 100 and needs to cool down	Otomatik soyucu 100 soydu, soğuması gerekiyor
+Auto peeler: cooling down ({0})	Otomatik soyucu: soğuyor ({0})
+Auto peeler	Otomatik soyucu
+Unlocks at 1,000 potatoes ({0} so far)	1.000 patateste açılır (şimdiye kadar {0})
+Equipped: one potato a minute ({0} of 100)	Kuşanıldı: dakikada bir patates ({0}/100)
+Cooling down: ready in {0}	Soğuyor: {0} sonra hazır
+One potato a minute while the game's open, up to 100	Oyun açıkken dakikada bir patates, 100'e kadar
+Equip	Kuşan
+Unequip	Çıkar
