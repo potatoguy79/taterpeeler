@@ -1781,3 +1781,21 @@ Use a crinkle cutter, a knife with a wavy blade, for every cut: the planks, then
 Use a crinkle cutter or a mandoline's waffle blade. Cut a thin round, turn the potato a quarter turn, then cut the next one. The waves on each side cross and leave little holes. Fry them once at 180 °C until golden.	Tırtıklı bıçak ya da mandolinin waffle bıçağını kullan. İnce bir yuvarlak kes, patatesi çeyrek tur çevir, sonra bir sonrakini kes. İki yüzün dalgaları kesişip küçük delikler bırakır. 180 °C'de altın rengi olana kadar bir kez kızart.
 Kinds of fries	Patates çeşitleri
 The fry station has shoestring, steak, crinkle-cut and waffle fries now, each cut the real way: crinkle cuts with a wavy knife, and waffles turned a quarter between slices. Tap How they're made to see how to make them at home.	Kızartma tezgâhında artık ince, kalın, tırtıklı ve waffle patatesler var, her biri gerçek usulle kesiliyor: tırtıklılar dalgalı bıçakla, waffle'lar dilimler arasında çeyrek tur çevrilerek. Evde nasıl yapılacağını görmek için Nasıl yapılır'a dokun.
+
+# 4.3: TaterMaster: the emergency light, what falls
+Peel it, pass it. Don't be holding it when the light comes on.	Soy, uzat. Işık yandığında elinde olmasın.
+A sink!	Bir lavabo!
+A piano!	Bir piyano!
+A fridge!	Bir buzdolabı!
+An anvil!	Bir örs!
+A bathtub!	Bir küvet!
+A safe!	Bir kasa!
+A washing machine!	Bir çamaşır makinesi!
+A toilet!	Bir klozet!
+A vending machine!	Bir otomat!
+A sofa!	Bir kanepe!
+A giant rubber duck!	Dev bir lastik ördek!
+A bowling ball!	Bir bovling topu!
+A grandfather clock!	Bir dede saati!
+An old TV!	Eski bir televizyon!
+A crate of potatoes!	Bir kasa patates!

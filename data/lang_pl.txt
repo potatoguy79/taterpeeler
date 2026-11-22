@@ -1804,3 +1804,21 @@ Use a crinkle cutter, a knife with a wavy blade, for every cut: the planks, then
 Use a crinkle cutter or a mandoline's waffle blade. Cut a thin round, turn the potato a quarter turn, then cut the next one. The waves on each side cross and leave little holes. Fry them once at 180 °C until golden.	Użyj noża do karbowania albo ostrza waflowego w mandolinie. Odkrój cienki krążek, obróć ziemniaka o ćwierć obrotu i odkrój następny. Fale z obu stron się krzyżują i zostawiają małe dziurki. Smaż raz w 180 °C, aż będą złote.
 Kinds of fries	Rodzaje frytek
 The fry station has shoestring, steak, crinkle-cut and waffle fries now, each cut the real way: crinkle cuts with a wavy knife, and waffles turned a quarter between slices. Tap How they're made to see how to make them at home.	Przy frytkownicy są teraz frytki słomkowe, grube, karbowane i waflowe, każde krojone jak naprawdę: karbowane nożem z falistym ostrzem, a waflowe z obrotem o ćwierć między plastrami. Dotknij Jak się je robi, by zobaczyć, jak zrobić je w domu.
+
+# 4.3: TaterMaster: the emergency light, what falls
+Peel it, pass it. Don't be holding it when the light comes on.	Obierz, podaj dalej. Nie trzymaj go, gdy zapali się światło.
+A sink!	Zlew!
+A piano!	Pianino!
+A fridge!	Lodówka!
+An anvil!	Kowadło!
+A bathtub!	Wanna!
+A safe!	Sejf!
+A washing machine!	Pralka!
+A toilet!	Sedes!
+A vending machine!	Automat z napojami!
+A sofa!	Kanapa!
+A giant rubber duck!	Wielka gumowa kaczka!
+A bowling ball!	Kula do kręgli!
+A grandfather clock!	Zegar stojący!
+An old TV!	Stary telewizor!
+A crate of potatoes!	Skrzynka ziemniaków!

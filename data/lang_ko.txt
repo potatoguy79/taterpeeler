@@ -1781,3 +1781,21 @@ Use a crinkle cutter, a knife with a wavy blade, for every cut: the planks, then
 Use a crinkle cutter or a mandoline's waffle blade. Cut a thin round, turn the potato a quarter turn, then cut the next one. The waves on each side cross and leave little holes. Fry them once at 180 °C until golden.	크링클 칼이나 채칼의 와플 날을 써요. 얇게 한 장 썰고, 감자를 4분의 1 돌린 다음 다음 장을 썰어요. 양면의 물결이 엇갈리면서 작은 구멍이 생겨요. 180 °C에서 노릇해질 때까지 한 번 튀겨요.
 Kinds of fries	감자튀김 종류
 The fry station has shoestring, steak, crinkle-cut and waffle fries now, each cut the real way: crinkle cuts with a wavy knife, and waffles turned a quarter between slices. Tap How they're made to see how to make them at home.	튀김 코너에 슈스트링, 스테이크, 크링클 컷, 와플 감자튀김이 생겼어요. 모두 진짜 방법대로 썰어요: 크링클은 물결 칼로, 와플은 한 장마다 4분의 1씩 돌려서요. 만드는 법을 누르면 집에서 만드는 법을 볼 수 있어요.
+
+# 4.3: TaterMaster: the emergency light, what falls
+Peel it, pass it. Don't be holding it when the light comes on.	벗기고 넘겨요. 불이 켜질 때 들고 있으면 안 돼요.
+A sink!	싱크대!
+A piano!	피아노!
+A fridge!	냉장고!
+An anvil!	모루!
+A bathtub!	욕조!
+A safe!	금고!
+A washing machine!	세탁기!
+A toilet!	변기!
+A vending machine!	자판기!
+A sofa!	소파!
+A giant rubber duck!	거대한 고무 오리!
+A bowling ball!	볼링공!
+A grandfather clock!	괘종시계!
+An old TV!	옛날 TV!
+A crate of potatoes!	감자 상자!

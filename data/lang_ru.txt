@@ -1804,3 +1804,21 @@ Use a crinkle cutter, a knife with a wavy blade, for every cut: the planks, then
 Use a crinkle cutter or a mandoline's waffle blade. Cut a thin round, turn the potato a quarter turn, then cut the next one. The waves on each side cross and leave little holes. Fry them once at 180 °C until golden.	Возьми рифлёный нож или вафельное лезвие мандолины. Отрежь тонкий кружок, поверни картошку на четверть оборота и отрежь следующий. Волны с двух сторон перекрещиваются и оставляют маленькие дырочки. Обжарь один раз при 180 °C до золотистого цвета.
 Kinds of fries	Виды картошки фри
 The fry station has shoestring, steak, crinkle-cut and waffle fries now, each cut the real way: crinkle cuts with a wavy knife, and waffles turned a quarter between slices. Tap How they're made to see how to make them at home.	У фритюрницы теперь есть соломка, толстый, рифлёный и вафельный картофель, и каждый режется по-настоящему: рифлёный волнистым ножом, а вафельный с поворотом на четверть между кружками. Нажми Как их делают, чтобы узнать, как приготовить их дома.
+
+# 4.3: TaterMaster: the emergency light, what falls
+Peel it, pass it. Don't be holding it when the light comes on.	Почисти и передай. Не держи её, когда загорится свет.
+A sink!	Раковина!
+A piano!	Пианино!
+A fridge!	Холодильник!
+An anvil!	Наковальня!
+A bathtub!	Ванна!
+A safe!	Сейф!
+A washing machine!	Стиральная машина!
+A toilet!	Унитаз!
+A vending machine!	Торговый автомат!
+A sofa!	Диван!
+A giant rubber duck!	Огромная резиновая уточка!
+A bowling ball!	Шар для боулинга!
+A grandfather clock!	Напольные часы!
+An old TV!	Старый телевизор!
+A crate of potatoes!	Ящик картошки!

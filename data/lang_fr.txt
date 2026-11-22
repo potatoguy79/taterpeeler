@@ -1781,3 +1781,21 @@ Use a crinkle cutter, a knife with a wavy blade, for every cut: the planks, then
 Use a crinkle cutter or a mandoline's waffle blade. Cut a thin round, turn the potato a quarter turn, then cut the next one. The waves on each side cross and leave little holes. Fry them once at 180 °C until golden.	Utilise un couteau à onduler ou la lame gaufrée d'une mandoline. Coupe une fine rondelle, tourne la patate d'un quart de tour, puis coupe la suivante. Les vagues de chaque face se croisent et laissent de petits trous. Fais-les frire une fois à 180 °C jusqu'à ce qu'elles soient dorées.
 Kinds of fries	Sortes de frites
 The fry station has shoestring, steak, crinkle-cut and waffle fries now, each cut the real way: crinkle cuts with a wavy knife, and waffles turned a quarter between slices. Tap How they're made to see how to make them at home.	La friteuse a maintenant des frites allumettes, épaisses, ondulées et gaufrées, chacune coupée pour de vrai : les ondulées au couteau à onduler, les gaufrées en tournant d'un quart entre les rondelles. Touche Comment on les fait pour voir comment les faire chez toi.
+
+# 4.3: TaterMaster: the emergency light, what falls
+Peel it, pass it. Don't be holding it when the light comes on.	Épluche-la, passe-la. Ne la tiens pas quand la lumière s'allume.
+A sink!	Un évier !
+A piano!	Un piano !
+A fridge!	Un frigo !
+An anvil!	Une enclume !
+A bathtub!	Une baignoire !
+A safe!	Un coffre-fort !
+A washing machine!	Une machine à laver !
+A toilet!	Des toilettes !
+A vending machine!	Un distributeur !
+A sofa!	Un canapé !
+A giant rubber duck!	Un canard en caoutchouc géant !
+A bowling ball!	Une boule de bowling !
+A grandfather clock!	Une horloge comtoise !
+An old TV!	Une vieille télé !
+A crate of potatoes!	Une caisse de patates !

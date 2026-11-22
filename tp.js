@@ -675,6 +675,20 @@
     try { field.focus(); } catch (e) {}
   }
 
+  /* 4.3: a TV (LG webOS, Samsung Tizen, and the like) or a PlayStation's browser */
+  const TV = /Web0S|webOS|Tizen|SMART-TV|SmartTV|NetCast|HbbTV|BRAVIA|VIDAA|PlayStation|AFT[A-Z]|CrKey|Android TV|GoogleTV/i.test(navigator.userAgent || '');
+  /* 4.3: a key, as the game knows it. Older TV browsers (LG webOS, Samsung Tizen) and the PlayStation's leave e.key
+     empty or "Unidentified", or call OK something else ("Accept", "Select"): the key's code says what it is */
+  const KEYMAP = { Escape: 27, Esc: 27, ArrowLeft: 37, Left: 37, ArrowUp: 38, Up: 38, ArrowRight: 39, Right: 39, ArrowDown: 40, Down: 40,
+                   Enter: 13, Accept: 13, Select: 13, OK: 13, Ok: 13 };
+  function keyOf(e) {
+    if (e.key && KEYMAP[e.key]) return KEYMAP[e.key];
+    if (e.key && e.key.length === 1) return e.key.charCodeAt(0);
+    const c = e.keyCode || e.which || 0;
+    if (c === 13 || c === 27 || (c >= 37 && c <= 40)) return c;
+    if (c === 29443 || c === 65376) return 13;   /* (some Samsung and other TV remotes' OK) */
+    return 0;
+  }
   /* 4.0: game controllers (the Gamepad API): the first one connected, every frame, into the game */
   let padWas = false;
   function pollPads() {
@@ -682,12 +696,26 @@
     let gp = null;
     try { for (const g of navigator.getGamepads()) if (g && g.connected) { gp = g; break; } } catch (e) { return; }
     if (!gp) { if (padWas) { ex.tp_pad(0, 0, 0, 0, 0); padWas = false; } return; }
-    const B = i => !!(gp.buttons[i] && gp.buttons[i].pressed);
-    let b = 0;
-    if (B(0)) b |= 1; if (B(1)) b |= 2; if (B(2)) b |= 4; if (B(3)) b |= 8; if (B(4)) b |= 16; if (B(5)) b |= 32;
-    if (B(8)) b |= 64; if (B(9)) b |= 128; if (B(12)) b |= 256; if (B(13)) b |= 512; if (B(14)) b |= 1024; if (B(15)) b |= 2048;
+    const P = i => !!(gp.buttons[i] && gp.buttons[i].pressed);
     const a = gp.axes || [];
-    ex.tp_pad(a[0] || 0, a[1] || 0, a[2] || 0, a[3] || 0, b); padWas = true;
+    /* 4.3: PlayStation controllers (DualShock 4, DualSense). With the standard layout (Chrome, Safari, Edge) Cross is
+       button 0, Circle 1, Square 2, Triangle 3, Share/Create 8, Options 9, the PS button 16, the touchpad 17. Without it
+       (Firefox, some older browsers) they come in as Square 0, Cross 1, Circle 2, Triangle 3, Share 8, Options 9, PS 12,
+       touchpad 13, the right stick on axes 2 and 5, and the d-pad as a hat on axis 9 */
+    const sony = /054c|sony|dualshock|dualsense|wireless controller|playstation/i.test(gp.id || '');
+    let B = P, rx = a[2] || 0, ry = a[3] || 0, hat = -1;
+    if (gp.mapping !== 'standard' && sony) {
+      const M = [1, 2, 0, 3, 4, 5, 6, 7, 8, 9, 10, 11, -1, -1, -1, -1, 12, 13];
+      B = i => M[i] >= 0 && P(M[i]);
+      ry = a[5] || 0;
+      if (a.length > 9 && a[9] >= -1.01 && a[9] <= 1.01) hat = Math.round((a[9] + 1) * 3.5);   /* 0 up, 1 up-right, ... 7 up-left */
+    }
+    let b = 0;
+    if (B(0) || B(17)) b |= 1; if (B(1)) b |= 2; if (B(2)) b |= 4; if (B(3)) b |= 8; if (B(4)) b |= 16; if (B(5)) b |= 32;   /* (the touchpad: as Cross) */
+    if (B(8)) b |= 64; if (B(9) || B(16)) b |= 128;   /* (the PS button: as Options, pause) */
+    if (B(12) || hat === 7 || hat === 0 || hat === 1) b |= 256; if (B(13) || hat === 3 || hat === 4 || hat === 5) b |= 512;
+    if (B(14) || hat === 5 || hat === 6 || hat === 7) b |= 1024; if (B(15) || hat === 1 || hat === 2 || hat === 3) b |= 2048;
+    ex.tp_pad(a[0] || 0, a[1] || 0, rx, ry, b); padWas = true;
   }
   let cursorKind = -1;
   const envImports = {
@@ -1120,14 +1148,12 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
       if (textBox) return;   /* typing in the text box */
       /* 4.0: TV remotes: OK is Enter; their Back button (webOS 461, Tizen 10009, others GoBack) goes back */
       if (e.key === 'GoBack' || e.key === 'BrowserBack' || e.keyCode === 461 || e.keyCode === 10009) { e.preventDefault(); ex.tp_back(); return; }
-      const map = { Escape: 27, ArrowLeft: 37, ArrowUp: 38, ArrowRight: 39, ArrowDown: 40, Enter: 13 };
-      let k = map[e.key] || (e.key && e.key.length === 1 ? e.key.charCodeAt(0) : 0);
+      const k = keyOf(e);
       if (k) { ex.tp_key(k, 1); if ((k >= 37 && k <= 40) || k === 13) e.preventDefault(); }
     });
     window.addEventListener('keyup', e => {   /* 4.0: TaterCorner walks while a key is held */
       if (textBox) return;
-      const map = { Escape: 27, ArrowLeft: 37, ArrowUp: 38, ArrowRight: 39, ArrowDown: 40, Enter: 13 };
-      let k = map[e.key] || (e.key && e.key.length === 1 ? e.key.charCodeAt(0) : 0);
+      const k = keyOf(e);
       if (k) ex.tp_key(k, 0);
     });
     window.addEventListener('blur', () => { try { ex.tp_key(-1, 0); } catch (e) {} });
@@ -1251,8 +1277,9 @@ const RS_FIXED = (() => { const v = +(new URLSearchParams(location.search).get('
     resize();
     ex.tp_init(quality, (extUint ? 1 : 0) | (gl.getExtension('OES_standard_derivatives') ? 2 : 0), saveP);
     if (new URLSearchParams(location.search).get('icon')) ex.tp_set_flags(new URLSearchParams(location.search).get("dbg") ? 31 : 15);   /* staged scene used for the app icon */
-    else if (window.TP_DOWNLOAD_PAGE) ex.tp_set_flags(32);   /* the website shows a Download button on the menu */
-    else if (window.TP_PLATFORM === 'android') ex.tp_set_flags(64);   /* the Android app (it says so when online) */
+    else if (window.TP_DOWNLOAD_PAGE) ex.tp_set_flags(32 | (TV ? 1024 : 0));   /* the website shows a Download button on the menu */
+    else if (window.TP_PLATFORM === 'android') ex.tp_set_flags(64 | (TV ? 1024 : 0));   /* the Android app (it says so when online) */
+    else if (TV) ex.tp_set_flags(1024);   /* 4.3: a TV or a PlayStation: a tap (OK, in pointer mode) peels */
     /* Android's Back button asks this: 1 = handled, 0 = close the app */
     window.tpBack = () => { if (textBox) { textBox.cancel(); return 1; } return ex.tp_back ? ex.tp_back() : 1; };
     resize();
