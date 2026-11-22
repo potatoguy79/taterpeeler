@@ -1873,3 +1873,16 @@ Couldn't do that. Try again	Impossible pour l'instant. Réessaie
 Asked {0}. They'll see it in their game	Demande envoyée à {0}. Il la verra dans son jeu
 You and {0} are friends now	{0} et toi êtes amis maintenant
 {0} isn't on your friends list now	{0} n'est plus dans ta liste d'amis
+
+# 4.3: the World map you can move
+Latin America	Amérique latine
+Asia	Asie
+Drag to move, scroll to zoom	Glisse pour déplacer, fais défiler pour zoomer
+Drag to move, pinch to zoom	Glisse pour déplacer, pince pour zoomer
+Show me one I haven't found	Montre-m'en une que je n'ai pas
+{0} potato, {1} found	{0} patate, {1} trouvée
+{0} potatoes, {1} found	{0} patates, {1} trouvées
+
+# 4.3: the World map you can move
+The World map	La carte du monde
+Drag it around and zoom in close (pinch, scroll or tap + and -). Pins close together gather into bubbles, and Show me one I haven't found takes you to a place you haven't found a potato from yet.	Fais-la glisser et zoome de près (pince, fais défiler ou touche + et -). Les épingles proches se regroupent en bulles, et Montre-m'en une que je n'ai pas t'emmène vers un endroit dont tu n'as pas encore de patate.

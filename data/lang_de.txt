@@ -1873,3 +1873,16 @@ Couldn't do that. Try again	Das hat nicht geklappt. Versuch es nochmal
 Asked {0}. They'll see it in their game	{0} wurde gefragt. Die Anfrage erscheint im Spiel
 You and {0} are friends now	Du und {0} seid jetzt Freunde
 {0} isn't on your friends list now	{0} ist jetzt nicht mehr in deiner Freundesliste
+
+# 4.3: the World map you can move
+Latin America	Lateinamerika
+Asia	Asien
+Drag to move, scroll to zoom	Ziehen zum Verschieben, scrollen zum Zoomen
+Drag to move, pinch to zoom	Ziehen zum Verschieben, mit zwei Fingern zoomen
+Show me one I haven't found	Zeig mir eine, die ich noch nicht habe
+{0} potato, {1} found	{0} Kartoffel, {1} gefunden
+{0} potatoes, {1} found	{0} Kartoffeln, {1} gefunden
+
+# 4.3: the World map you can move
+The World map	Die Weltkarte
+Drag it around and zoom in close (pinch, scroll or tap + and -). Pins close together gather into bubbles, and Show me one I haven't found takes you to a place you haven't found a potato from yet.	Zieh sie herum und zoom ganz nah heran (mit zwei Fingern, Scrollen oder + und -). Nahe Pins sammeln sich in Blasen, und „Zeig mir eine, die ich noch nicht habe“ bringt dich zu einem Ort, von dem du noch keine Kartoffel hast.

@@ -1873,3 +1873,16 @@ Couldn't do that. Try again	하지 못했어요. 다시 해 보세요
 Asked {0}. They'll see it in their game	{0}님에게 요청했어요. 상대 게임에 표시돼요
 You and {0} are friends now	이제 {0}님과 친구예요
 {0} isn't on your friends list now	{0}님은 이제 친구 목록에 없어요
+
+# 4.3: the World map you can move
+Latin America	라틴아메리카
+Asia	아시아
+Drag to move, scroll to zoom	드래그로 이동, 스크롤로 확대
+Drag to move, pinch to zoom	드래그로 이동, 두 손가락으로 확대
+Show me one I haven't found	아직 못 찾은 곳 보여 줘
+{0} potato, {1} found	감자 {0}종, {1}종 발견
+{0} potatoes, {1} found	감자 {0}종, {1}종 발견
+
+# 4.3: the World map you can move
+The World map	세계 지도
+Drag it around and zoom in close (pinch, scroll or tap + and -). Pins close together gather into bubbles, and Show me one I haven't found takes you to a place you haven't found a potato from yet.	드래그로 움직이고 가까이 확대할 수 있어요(두 손가락, 스크롤, + 와 -). 가까운 핀은 거품으로 모이고, '아직 못 찾은 곳 보여 줘'를 누르면 아직 감자를 못 찾은 곳으로 데려가요.

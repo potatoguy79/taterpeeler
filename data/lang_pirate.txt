@@ -1873,3 +1873,16 @@ Couldn't do that. Try again	Couldn't do that. Try again
 Asked {0}. They'll see it in their game	Asked {0}. They'll see it in their game
 You and {0} are friends now	Ye and {0} be mateys now
 {0} isn't on your friends list now	{0} ain't on yer mateys list now
+
+# 4.3: the World map you can move
+Latin America	Latin America
+Asia	Asia
+Drag to move, scroll to zoom	Drag to move, scroll to zoom
+Drag to move, pinch to zoom	Drag to move, pinch to zoom
+Show me one I haven't found	Show me one I ain't found
+{0} potato, {1} found	{0} spud, {1} found
+{0} potatoes, {1} found	{0} spuds, {1} found
+
+# 4.3: the World map you can move
+The World map	The map o' the world
+Drag it around and zoom in close (pinch, scroll or tap + and -). Pins close together gather into bubbles, and Show me one I haven't found takes you to a place you haven't found a potato from yet.	Drag it about an' zoom in close (pinch, scroll or tap + an' -). Pins close together gather into bubbles, an' Show me one I ain't found takes ye to a place ye ain't found a spud from yet.

@@ -1873,3 +1873,16 @@ Couldn't do that. Try again	Yapılamadı. Tekrar dene
 Asked {0}. They'll see it in their game	{0} kişisine soruldu. Kendi oyununda görecek
 You and {0} are friends now	Sen ve {0} artık arkadaşsınız
 {0} isn't on your friends list now	{0} artık arkadaş listende değil
+
+# 4.3: the World map you can move
+Latin America	Latin Amerika
+Asia	Asya
+Drag to move, scroll to zoom	Taşımak için sürükle, yakınlaştırmak için kaydır
+Drag to move, pinch to zoom	Taşımak için sürükle, yakınlaştırmak için iki parmak kullan
+Show me one I haven't found	Bulmadığım birini göster
+{0} potato, {1} found	{0} patates, {1} bulundu
+{0} potatoes, {1} found	{0} patates, {1} bulundu
+
+# 4.3: the World map you can move
+The World map	Dünya haritası
+Drag it around and zoom in close (pinch, scroll or tap + and -). Pins close together gather into bubbles, and Show me one I haven't found takes you to a place you haven't found a potato from yet.	Sürükleyip yakınlaştır (iki parmak, kaydırma ya da + ve -). Yakın iğneler baloncuklarda toplanır; Bulmadığım birini göster seni henüz patates bulmadığın bir yere götürür.

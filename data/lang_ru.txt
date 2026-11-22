@@ -1896,3 +1896,16 @@ Couldn't do that. Try again	Не получилось. Попробуй ещё �
 Asked {0}. They'll see it in their game	Заявка для {0} отправлена. Она появится в его игре
 You and {0} are friends now	Теперь вы с {0} друзья
 {0} isn't on your friends list now	{0} больше нет в твоём списке друзей
+
+# 4.3: the World map you can move
+Latin America	Латинская Америка
+Asia	Азия
+Drag to move, scroll to zoom	Перетаскивай, чтобы двигать, прокручивай для масштаба
+Drag to move, pinch to zoom	Перетаскивай, чтобы двигать, своди пальцы для масштаба
+Show me one I haven't found	Покажи то, что я ещё не нашёл
+{0} potato, {1} found	{0} картофелина, найдено {1}
+{0} potatoes, {1} found	Картофелин: {0}, найдено {1}
+
+# 4.3: the World map you can move
+The World map	Карта мира
+Drag it around and zoom in close (pinch, scroll or tap + and -). Pins close together gather into bubbles, and Show me one I haven't found takes you to a place you haven't found a potato from yet.	Двигай её и приближай (щипком, прокруткой или кнопками + и -). Близкие булавки собираются в пузыри, а «Покажи то, что я ещё не нашёл» переносит туда, откуда у тебя ещё нет картошки.
