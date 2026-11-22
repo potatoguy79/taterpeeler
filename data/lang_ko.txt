@@ -1799,3 +1799,10 @@ A bowling ball!	볼링공!
 A grandfather clock!	괘종시계!
 An old TV!	옛날 TV!
 A crate of potatoes!	감자 상자!
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	자동 껍질 벗기개 잠금 해제!
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	감자 1,000개를 벗겨서 자동 껍질 벗기개를 받았어요. 느려요: 게임이 켜져 있는 동안 1분에 감자 하나씩 벗겨서 컬렉션에 넣어요. 메뉴에서 누르면 끄거나 켤 수 있어요.
+Auto peeler: the next potato in {0}	자동 껍질 벗기개: 다음 감자까지 {0}
+Auto peeler: off (tap to turn it on)	자동 껍질 벗기개: 꺼짐 (누르면 켜져요)
+The auto peeler peeled a {0}	자동 껍질 벗기개가 {0}을(를) 벗겼어요

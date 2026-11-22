@@ -1799,3 +1799,10 @@ A bowling ball!	Une boule de bowling !
 A grandfather clock!	Une horloge comtoise !
 An old TV!	Une vieille télé !
 A crate of potatoes!	Une caisse de patates !
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	Éplucheur automatique débloqué !
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	Tu as épluché 1 000 patates, alors tu gagnes un éplucheur automatique. Il est lent : il épluche une patate par minute tant que le jeu est ouvert, directement dans ta collection. Touche-le dans le menu pour l'éteindre ou l'allumer.
+Auto peeler: the next potato in {0}	Éplucheur auto : prochaine patate dans {0}
+Auto peeler: off (tap to turn it on)	Éplucheur auto : éteint (touche pour l'allumer)
+The auto peeler peeled a {0}	L'éplucheur auto a épluché une {0}

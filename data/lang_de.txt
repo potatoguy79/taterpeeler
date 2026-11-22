@@ -1799,3 +1799,10 @@ A bowling ball!	Eine Bowlingkugel!
 A grandfather clock!	Eine Standuhr!
 An old TV!	Ein alter Fernseher!
 A crate of potatoes!	Eine Kiste Kartoffeln!
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	Automatischer Schäler freigeschaltet!
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	Du hast 1.000 Kartoffeln geschält, also bekommst du einen automatischen Schäler. Er ist langsam: Er schält eine Kartoffel pro Minute, solange das Spiel offen ist, direkt in deine Sammlung. Tippe im Menü darauf, um ihn aus- oder einzuschalten.
+Auto peeler: the next potato in {0}	Auto-Schäler: nächste Kartoffel in {0}
+Auto peeler: off (tap to turn it on)	Auto-Schäler: aus (zum Einschalten tippen)
+The auto peeler peeled a {0}	Der Auto-Schäler hat eine {0} geschält

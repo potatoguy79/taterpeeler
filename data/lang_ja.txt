@@ -1799,3 +1799,10 @@ A bowling ball!	ボウリングの球！
 A grandfather clock!	大きな振り子時計！
 An old TV!	古いテレビ！
 A crate of potatoes!	ポテトの木箱！
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	自動皮むき機をゲット！
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	ポテトを1,000個むいたので、自動皮むき機がもらえます。ゆっくりで、ゲームを開いている間に1分に1個むいてコレクションに入れます。メニューでタップするとオン・オフできます。
+Auto peeler: the next potato in {0}	自動皮むき機：次のポテトまで {0}
+Auto peeler: off (tap to turn it on)	自動皮むき機：オフ（タップでオン）
+The auto peeler peeled a {0}	自動皮むき機が{0}をむきました

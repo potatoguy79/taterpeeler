@@ -1822,3 +1822,10 @@ A bowling ball!	Шар для боулинга!
 A grandfather clock!	Напольные часы!
 An old TV!	Старый телевизор!
 A crate of potatoes!	Ящик картошки!
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	Автоматическая чистилка открыта!
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	Ты почистил 1000 картофелин, так что получаешь автоматическую чистилку. Она медленная: чистит одну картошку в минуту, пока игра открыта, прямо в коллекцию. Нажми на неё в меню, чтобы выключить или включить.
+Auto peeler: the next potato in {0}	Авточистилка: следующая картошка через {0}
+Auto peeler: off (tap to turn it on)	Авточистилка: выключена (нажми, чтобы включить)
+The auto peeler peeled a {0}	Авточистилка почистила: {0}

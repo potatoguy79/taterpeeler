@@ -1799,3 +1799,10 @@ A bowling ball!	¡Una bola de bolos!
 A grandfather clock!	¡Un reloj de pie!
 An old TV!	¡Una tele vieja!
 A crate of potatoes!	¡Una caja de patatas!
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	¡Pelador automático desbloqueado!
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	Has pelado 1000 patatas, así que te llevas un pelador automático. Es lento: pela una patata por minuto mientras el juego está abierto, directa a tu colección. Tócalo en el menú para apagarlo o encenderlo.
+Auto peeler: the next potato in {0}	Pelador automático: siguiente patata en {0}
+Auto peeler: off (tap to turn it on)	Pelador automático: apagado (toca para encenderlo)
+The auto peeler peeled a {0}	El pelador automático peló una {0}

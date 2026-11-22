@@ -1799,3 +1799,10 @@ A bowling ball!	A cannonball!
 A grandfather clock!	A grandfather clock!
 An old TV!	An old picture box!
 A crate of potatoes!	A crate o' spuds!
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	Auto peeler be yours!
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	Ye've peeled 1,000 spuds, so ye get an auto peeler. 'Tis slow: it peels one spud a minute while the game be open, into yer collection. Tap it on the menu to turn it off or on.
+Auto peeler: the next potato in {0}	Auto peeler: the next spud in {0}
+Auto peeler: off (tap to turn it on)	Auto peeler: off (tap to turn it on)
+The auto peeler peeled a {0}	The auto peeler peeled a {0}

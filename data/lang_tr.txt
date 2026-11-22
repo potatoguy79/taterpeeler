@@ -1799,3 +1799,10 @@ A bowling ball!	Bir bovling topu!
 A grandfather clock!	Bir dede saati!
 An old TV!	Eski bir televizyon!
 A crate of potatoes!	Bir kasa patates!
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	Otomatik soyucu açıldı!
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	1.000 patates soydun, bu yüzden otomatik soyucu kazandın. Yavaştır: oyun açıkken dakikada bir patates soyup koleksiyonuna ekler. Kapatmak ya da açmak için menüde ona dokun.
+Auto peeler: the next potato in {0}	Otomatik soyucu: sonraki patates {0} sonra
+Auto peeler: off (tap to turn it on)	Otomatik soyucu: kapalı (açmak için dokun)
+The auto peeler peeled a {0}	Otomatik soyucu bir {0} soydu

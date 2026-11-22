@@ -1799,3 +1799,10 @@ A bowling ball!	保龄球！
 A grandfather clock!	落地钟！
 An old TV!	老电视！
 A crate of potatoes!	一箱土豆！
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	解锁自动削皮机！
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	你已经削了 1,000 个土豆，所以获得了一台自动削皮机。它很慢：游戏开着的时候每分钟削一个土豆，放进你的收藏。在菜单里点它可以关掉或打开。
+Auto peeler: the next potato in {0}	自动削皮机：下一个土豆 {0} 后
+Auto peeler: off (tap to turn it on)	自动削皮机：已关闭（点击打开）
+The auto peeler peeled a {0}	自动削皮机削好了一个{0}

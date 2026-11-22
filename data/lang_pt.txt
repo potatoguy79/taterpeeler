@@ -1799,3 +1799,10 @@ A bowling ball!	Uma bola de boliche!
 A grandfather clock!	Um relógio de pêndulo!
 An old TV!	Uma TV velha!
 A crate of potatoes!	Uma caixa de batatas!
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	Descascador automático desbloqueado!
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	Você descascou 1.000 batatas, então ganhou um descascador automático. Ele é lento: descasca uma batata por minuto enquanto o jogo está aberto, direto na sua coleção. Toque nele no menu para desligar ou ligar.
+Auto peeler: the next potato in {0}	Descascador automático: próxima batata em {0}
+Auto peeler: off (tap to turn it on)	Descascador automático: desligado (toque para ligar)
+The auto peeler peeled a {0}	O descascador automático descascou uma {0}

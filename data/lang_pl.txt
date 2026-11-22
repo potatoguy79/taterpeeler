@@ -1822,3 +1822,10 @@ A bowling ball!	Kula do kręgli!
 A grandfather clock!	Zegar stojący!
 An old TV!	Stary telewizor!
 A crate of potatoes!	Skrzynka ziemniaków!
+
+# 4.3: the auto peeler
+Auto peeler unlocked!	Odblokowano automatyczną obieraczkę!
+You've peeled 1,000 potatoes, so you get an auto peeler. It's slow: it peels one potato a minute while the game's open, into your collection. Tap it on the menu to turn it off or on.	Obrałeś 1000 ziemniaków, więc dostajesz automatyczną obieraczkę. Jest powolna: obiera jednego ziemniaka na minutę, gdy gra jest otwarta, prosto do kolekcji. Dotknij jej w menu, by ją wyłączyć lub włączyć.
+Auto peeler: the next potato in {0}	Auto obieraczka: następny ziemniak za {0}
+Auto peeler: off (tap to turn it on)	Auto obieraczka: wyłączona (dotknij, by włączyć)
+The auto peeler peeled a {0}	Auto obieraczka obrała: {0}
