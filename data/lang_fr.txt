@@ -1756,3 +1756,28 @@ A new setting outlines mouldy potatoes in light green, so they're easier to spot
 You can keep chatting after you're out of a game.	Tu peux continuer à discuter après avoir été éliminé.
 The original iPad	Le premier iPad
 The game runs a lot smoother on the original iPad.	Le jeu tourne beaucoup plus en douceur sur le premier iPad.
+
+# 4.3: kinds of fries, how they're made
+Classic	Classiques
+Steak fries	Frites épaisses
+Crinkle cut	Frites ondulées
+Waffle fries	Frites gaufrées
+How they're made	Comment on les fait
+Slice it into thin planks (about 5 mm)	Coupe-la en tranches fines (environ 5 mm)
+Slice it into thick planks (about 2 cm)	Coupe-la en tranches épaisses (environ 2 cm)
+Crinkle-cut it into planks	Coupe-la en tranches au couteau à onduler
+Crinkle-cut thin rounds: it turns a quarter after each	Coupe de fines rondelles au couteau à onduler : elle tourne d'un quart après chacune
+Slice the stack into thin fries	Coupe la pile en frites fines
+Slice the stack into thick fries	Coupe la pile en grosses frites
+Crinkle-cut the stack into fries	Coupe la pile en frites au couteau à onduler
+The next potato gets cut that way	La prochaine patate sera coupée comme ça
+Cut these	Couper celles-ci
+Cutting these	En cours
+Every kind starts the same way: wash the potatoes, and after they're cut, rinse off the starch in cold water so they crisp up. Dry them well before they go in the oil.	Toutes commencent pareil : lave les patates et, une fois coupées, rince l'amidon à l'eau froide pour qu'elles deviennent croustillantes. Sèche-les bien avant de les mettre dans l'huile.
+Peel the potato and slice it into planks about 1 cm thick. Stack them and slice the stack into sticks. Soak them in cold water for half an hour, dry them well, fry them at 160 °C for about 5 minutes, let them rest, then fry them again at 190 °C until they're golden. Salt them straight away.	Épluche la patate et coupe-la en tranches d'environ 1 cm. Empile-les et coupe la pile en bâtonnets. Laisse-les tremper une demi-heure dans l'eau froide, sèche-les bien, fais-les frire à 160 °C environ 5 minutes, laisse-les reposer, puis refais-les frire à 190 °C jusqu'à ce qu'elles soient dorées. Sale-les tout de suite.
+Cut them the same way, only thin: planks about 5 mm thick, then sticks just as thin. A mandoline keeps them even. They cook fast: one fry at 180 °C for 2 to 3 minutes, until crisp all the way through.	Coupe-les pareil, mais fines : des tranches d'environ 5 mm, puis des bâtonnets tout aussi fins. Une mandoline les garde réguliers. Elles cuisent vite : une seule friture à 180 °C pendant 2 à 3 minutes, jusqu'à ce qu'elles soient croustillantes à cœur.
+Cut them thick, about 2 cm, so the inside stays soft like a baked potato. Leave the skin on if you like. Fry them low first, at 150 °C, until they're soft, then finish them hot at 190 °C.	Coupe-les épaisses, environ 2 cm, pour que l'intérieur reste fondant comme une pomme de terre au four. Garde la peau si tu veux. Fais-les d'abord frire doucement à 150 °C jusqu'à ce qu'elles soient tendres, puis termine à 190 °C.
+Use a crinkle cutter, a knife with a wavy blade, for every cut: the planks, then the sticks. The ridges make more crispy edges, and they hold on to salt and ketchup.	Utilise un couteau à onduler, à lame en vagues, pour chaque coupe : les tranches, puis les bâtonnets. Les sillons font plus de bords croustillants et retiennent le sel et le ketchup.
+Use a crinkle cutter or a mandoline's waffle blade. Cut a thin round, turn the potato a quarter turn, then cut the next one. The waves on each side cross and leave little holes. Fry them once at 180 °C until golden.	Utilise un couteau à onduler ou la lame gaufrée d'une mandoline. Coupe une fine rondelle, tourne la patate d'un quart de tour, puis coupe la suivante. Les vagues de chaque face se croisent et laissent de petits trous. Fais-les frire une fois à 180 °C jusqu'à ce qu'elles soient dorées.
+Kinds of fries	Sortes de frites
+The fry station has shoestring, steak, crinkle-cut and waffle fries now, each cut the real way: crinkle cuts with a wavy knife, and waffles turned a quarter between slices. Tap How they're made to see how to make them at home.	La friteuse a maintenant des frites allumettes, épaisses, ondulées et gaufrées, chacune coupée pour de vrai : les ondulées au couteau à onduler, les gaufrées en tournant d'un quart entre les rondelles. Touche Comment on les fait pour voir comment les faire chez toi.

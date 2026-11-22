@@ -1756,3 +1756,28 @@ A new setting outlines mouldy potatoes in light green, so they're easier to spot
 You can keep chatting after you're out of a game.	Puedes seguir chateando después de quedar eliminado.
 The original iPad	El iPad original
 The game runs a lot smoother on the original iPad.	El juego corre mucho más fluido en el iPad original.
+
+# 4.3: kinds of fries, how they're made
+Classic	Clásicas
+Steak fries	Papas gruesas
+Crinkle cut	Onduladas
+Waffle fries	Papas waffle
+How they're made	Cómo se hacen
+Slice it into thin planks (about 5 mm)	Córtala en láminas delgadas (unos 5 mm)
+Slice it into thick planks (about 2 cm)	Córtala en láminas gruesas (unos 2 cm)
+Crinkle-cut it into planks	Córtala en láminas con el cuchillo ondulado
+Crinkle-cut thin rounds: it turns a quarter after each	Corta rodajas delgadas con el cuchillo ondulado: gira un cuarto tras cada corte
+Slice the stack into thin fries	Corta la pila en papas delgadas
+Slice the stack into thick fries	Corta la pila en papas gruesas
+Crinkle-cut the stack into fries	Corta la pila en papas con el cuchillo ondulado
+The next potato gets cut that way	La próxima papa se cortará así
+Cut these	Cortar estas
+Cutting these	Cortando estas
+Every kind starts the same way: wash the potatoes, and after they're cut, rinse off the starch in cold water so they crisp up. Dry them well before they go in the oil.	Todas empiezan igual: lava las papas y, después de cortarlas, quítales el almidón en agua fría para que queden crujientes. Sécalas bien antes de echarlas al aceite.
+Peel the potato and slice it into planks about 1 cm thick. Stack them and slice the stack into sticks. Soak them in cold water for half an hour, dry them well, fry them at 160 °C for about 5 minutes, let them rest, then fry them again at 190 °C until they're golden. Salt them straight away.	Pela la papa y córtala en láminas de 1 cm. Apílalas y corta la pila en bastones. Déjalos en agua fría media hora, sécalos bien, fríelos a 160 °C unos 5 minutos, déjalos reposar y fríelos otra vez a 190 °C hasta que estén dorados. Sálalos enseguida.
+Cut them the same way, only thin: planks about 5 mm thick, then sticks just as thin. A mandoline keeps them even. They cook fast: one fry at 180 °C for 2 to 3 minutes, until crisp all the way through.	Córtalas igual pero delgadas: láminas de unos 5 mm y luego bastones igual de delgados. Con una mandolina quedan parejas. Se hacen rápido: una sola fritura a 180 °C de 2 a 3 minutos, hasta que estén crujientes del todo.
+Cut them thick, about 2 cm, so the inside stays soft like a baked potato. Leave the skin on if you like. Fry them low first, at 150 °C, until they're soft, then finish them hot at 190 °C.	Córtalas gruesas, de unos 2 cm, para que por dentro queden suaves como una papa al horno. Puedes dejarles la cáscara. Fríelas primero suave, a 150 °C, hasta que estén suaves, y termínalas fuerte a 190 °C.
+Use a crinkle cutter, a knife with a wavy blade, for every cut: the planks, then the sticks. The ridges make more crispy edges, and they hold on to salt and ketchup.	Usa un cuchillo ondulado, de hoja con ondas, para cada corte: primero las láminas y luego los bastones. Las ondas dan más bordes crujientes y retienen la sal y la cátsup.
+Use a crinkle cutter or a mandoline's waffle blade. Cut a thin round, turn the potato a quarter turn, then cut the next one. The waves on each side cross and leave little holes. Fry them once at 180 °C until golden.	Usa un cuchillo ondulado o la cuchilla waffle de una mandolina. Corta una rodaja delgada, gira la papa un cuarto de vuelta y corta la siguiente. Las ondas de cada lado se cruzan y dejan agujeritos. Fríelas una vez a 180 °C hasta que estén doradas.
+Kinds of fries	Tipos de papas fritas
+The fry station has shoestring, steak, crinkle-cut and waffle fries now, each cut the real way: crinkle cuts with a wavy knife, and waffles turned a quarter between slices. Tap How they're made to see how to make them at home.	La freidora ahora tiene papas paja, gruesas, onduladas y waffle, cada una cortada como de verdad: las onduladas con cuchillo ondulado y las waffle girando un cuarto entre rodajas. Toca Cómo se hacen para ver cómo hacerlas en casa.

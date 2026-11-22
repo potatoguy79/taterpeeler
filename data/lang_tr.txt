@@ -1756,3 +1756,28 @@ A new setting outlines mouldy potatoes in light green, so they're easier to spot
 You can keep chatting after you're out of a game.	Oyundan elendikten sonra da sohbet etmeye devam edebilirsin.
 The original iPad	İlk iPad
 The game runs a lot smoother on the original iPad.	Oyun ilk iPad'de çok daha akıcı çalışıyor.
+
+# 4.3: kinds of fries, how they're made
+Classic	Klasik
+Steak fries	Kalın patates
+Crinkle cut	Tırtıklı
+Waffle fries	Waffle patates
+How they're made	Nasıl yapılır
+Slice it into thin planks (about 5 mm)	İnce dilimlere kes (yaklaşık 5 mm)
+Slice it into thick planks (about 2 cm)	Kalın dilimlere kes (yaklaşık 2 cm)
+Crinkle-cut it into planks	Tırtıklı bıçakla dilimlere kes
+Crinkle-cut thin rounds: it turns a quarter after each	Tırtıklı bıçakla ince yuvarlaklar kes: her birinden sonra çeyrek tur döner
+Slice the stack into thin fries	Yığını ince patateslere kes
+Slice the stack into thick fries	Yığını kalın patateslere kes
+Crinkle-cut the stack into fries	Yığını tırtıklı bıçakla patateslere kes
+The next potato gets cut that way	Sonraki patates böyle kesilecek
+Cut these	Bunları kes
+Cutting these	Bunlar kesiliyor
+Every kind starts the same way: wash the potatoes, and after they're cut, rinse off the starch in cold water so they crisp up. Dry them well before they go in the oil.	Her çeşit aynı başlar: patatesleri yıka, kestikten sonra çıtır olsunlar diye nişastayı soğuk suyla durula. Yağa girmeden önce iyice kurula.
+Peel the potato and slice it into planks about 1 cm thick. Stack them and slice the stack into sticks. Soak them in cold water for half an hour, dry them well, fry them at 160 °C for about 5 minutes, let them rest, then fry them again at 190 °C until they're golden. Salt them straight away.	Patatesi soy ve yaklaşık 1 cm kalınlığında dilimlere kes. Üst üste koy ve yığını çubuklara kes. Yarım saat soğuk suda beklet, iyice kurula, 160 °C'de yaklaşık 5 dakika kızart, dinlendir, sonra altın rengi olana kadar 190 °C'de tekrar kızart. Hemen tuzla.
+Cut them the same way, only thin: planks about 5 mm thick, then sticks just as thin. A mandoline keeps them even. They cook fast: one fry at 180 °C for 2 to 3 minutes, until crisp all the way through.	Aynı şekilde kes, sadece ince: yaklaşık 5 mm dilimler, sonra aynı incelikte çubuklar. Mandolin hepsini eşit tutar. Çabuk pişerler: 180 °C'de 2-3 dakika, tamamen çıtır olana kadar tek seferde kızart.
+Cut them thick, about 2 cm, so the inside stays soft like a baked potato. Leave the skin on if you like. Fry them low first, at 150 °C, until they're soft, then finish them hot at 190 °C.	Kalın kes, yaklaşık 2 cm, böylece içi fırın patates gibi yumuşak kalır. İstersen kabuğunu bırak. Önce 150 °C'de yumuşayana kadar kızart, sonra 190 °C'de yüksek ateşte bitir.
+Use a crinkle cutter, a knife with a wavy blade, for every cut: the planks, then the sticks. The ridges make more crispy edges, and they hold on to salt and ketchup.	Her kesim için tırtıklı bıçak kullan, dalgalı ağızlı bir bıçak: önce dilimler, sonra çubuklar. Tırtıklar daha çok çıtır kenar yapar, tuzu ve ketçapı tutar.
+Use a crinkle cutter or a mandoline's waffle blade. Cut a thin round, turn the potato a quarter turn, then cut the next one. The waves on each side cross and leave little holes. Fry them once at 180 °C until golden.	Tırtıklı bıçak ya da mandolinin waffle bıçağını kullan. İnce bir yuvarlak kes, patatesi çeyrek tur çevir, sonra bir sonrakini kes. İki yüzün dalgaları kesişip küçük delikler bırakır. 180 °C'de altın rengi olana kadar bir kez kızart.
+Kinds of fries	Patates çeşitleri
+The fry station has shoestring, steak, crinkle-cut and waffle fries now, each cut the real way: crinkle cuts with a wavy knife, and waffles turned a quarter between slices. Tap How they're made to see how to make them at home.	Kızartma tezgâhında artık ince, kalın, tırtıklı ve waffle patatesler var, her biri gerçek usulle kesiliyor: tırtıklılar dalgalı bıçakla, waffle'lar dilimler arasında çeyrek tur çevrilerek. Evde nasıl yapılacağını görmek için Nasıl yapılır'a dokun.

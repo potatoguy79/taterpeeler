@@ -1756,3 +1756,28 @@ A new setting outlines mouldy potatoes in light green, so they're easier to spot
 You can keep chatting after you're out of a game.	게임에서 탈락한 뒤에도 계속 채팅할 수 있어요.
 The original iPad	1세대 iPad
 The game runs a lot smoother on the original iPad.	1세대 iPad에서 훨씬 부드럽게 돌아가요.
+
+# 4.3: kinds of fries, how they're made
+Classic	클래식
+Steak fries	스테이크 프라이
+Crinkle cut	크링클 컷
+Waffle fries	와플 감자튀김
+How they're made	만드는 법
+Slice it into thin planks (about 5 mm)	얇은 판으로 썰어요 (약 5mm)
+Slice it into thick planks (about 2 cm)	두꺼운 판으로 썰어요 (약 2cm)
+Crinkle-cut it into planks	물결 칼로 판처럼 썰어요
+Crinkle-cut thin rounds: it turns a quarter after each	물결 칼로 얇게 둥글게 썰어요: 썰 때마다 4분의 1 돌아가요
+Slice the stack into thin fries	쌓은 걸 가는 감자튀김으로 썰어요
+Slice the stack into thick fries	쌓은 걸 두꺼운 감자튀김으로 썰어요
+Crinkle-cut the stack into fries	쌓은 걸 물결 칼로 감자튀김처럼 썰어요
+The next potato gets cut that way	다음 감자부터 그렇게 썰어요
+Cut these	이걸로 썰기
+Cutting these	이걸로 써는 중
+Every kind starts the same way: wash the potatoes, and after they're cut, rinse off the starch in cold water so they crisp up. Dry them well before they go in the oil.	모두 시작은 같아요: 감자를 씻고, 썬 다음 찬물에 전분을 헹궈 내야 바삭해져요. 기름에 넣기 전에 물기를 잘 닦아요.
+Peel the potato and slice it into planks about 1 cm thick. Stack them and slice the stack into sticks. Soak them in cold water for half an hour, dry them well, fry them at 160 °C for about 5 minutes, let them rest, then fry them again at 190 °C until they're golden. Salt them straight away.	감자 껍질을 벗기고 약 1cm 두께 판으로 썰어요. 겹쳐서 막대 모양으로 썰어요. 찬물에 30분 담갔다가 물기를 잘 닦고, 160 °C에서 5분쯤 튀긴 뒤 잠시 두었다가 190 °C에서 노릇해질 때까지 한 번 더 튀겨요. 바로 소금을 뿌려요.
+Cut them the same way, only thin: planks about 5 mm thick, then sticks just as thin. A mandoline keeps them even. They cook fast: one fry at 180 °C for 2 to 3 minutes, until crisp all the way through.	같은 방법으로 썰되 가늘게: 약 5mm 판으로 썬 다음 똑같이 가는 막대로 썰어요. 채칼을 쓰면 고르게 돼요. 빨리 익어요: 180 °C에서 2~3분, 속까지 바삭해질 때까지 한 번만 튀겨요.
+Cut them thick, about 2 cm, so the inside stays soft like a baked potato. Leave the skin on if you like. Fry them low first, at 150 °C, until they're soft, then finish them hot at 190 °C.	약 2cm로 두껍게 썰면 속이 구운 감자처럼 부드러워요. 껍질은 남겨도 돼요. 먼저 150 °C에서 부드러워질 때까지 튀기고, 마지막에 190 °C에서 뜨겁게 마무리해요.
+Use a crinkle cutter, a knife with a wavy blade, for every cut: the planks, then the sticks. The ridges make more crispy edges, and they hold on to salt and ketchup.	모든 칼질에 물결 모양 날의 크링클 칼을 써요: 먼저 판으로, 다음엔 막대로. 물결 덕분에 바삭한 모서리가 늘고 소금과 케첩이 잘 묻어요.
+Use a crinkle cutter or a mandoline's waffle blade. Cut a thin round, turn the potato a quarter turn, then cut the next one. The waves on each side cross and leave little holes. Fry them once at 180 °C until golden.	크링클 칼이나 채칼의 와플 날을 써요. 얇게 한 장 썰고, 감자를 4분의 1 돌린 다음 다음 장을 썰어요. 양면의 물결이 엇갈리면서 작은 구멍이 생겨요. 180 °C에서 노릇해질 때까지 한 번 튀겨요.
+Kinds of fries	감자튀김 종류
+The fry station has shoestring, steak, crinkle-cut and waffle fries now, each cut the real way: crinkle cuts with a wavy knife, and waffles turned a quarter between slices. Tap How they're made to see how to make them at home.	튀김 코너에 슈스트링, 스테이크, 크링클 컷, 와플 감자튀김이 생겼어요. 모두 진짜 방법대로 썰어요: 크링클은 물결 칼로, 와플은 한 장마다 4분의 1씩 돌려서요. 만드는 법을 누르면 집에서 만드는 법을 볼 수 있어요.
