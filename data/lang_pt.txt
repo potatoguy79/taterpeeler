@@ -1737,3 +1737,22 @@ Map data: Natural Earth	Dados do mapa: Natural Earth
 Loading the map...	Carregando o mapa...
 You've found potatoes from {0} of {1} places	Você achou batatas de {0} de {1} lugares
 Tap a pin to see which potatoes grow there	Toque num alfinete para ver que batatas crescem ali
+
+# 4.3: what's new
+Update 4.3 is now out! Here's what's new!	A atualização 4.3 chegou! Veja o que há de novo!
+Here's what's new in 4.3. Thanks for playing!	Veja o que há de novo na 4.3. Obrigado por jogar!
+Where potatoes grow	Onde as batatas crescem
+Every potato's page has a real map of where it grows now, and the Collection has a World map with a pin for every place. Tap a pin to see which potatoes grow there. An idea by Felix Chavez.	A página de cada batata agora tem um mapa de verdade de onde ela cresce, e a Coleção tem um mapa-múndi com um alfinete em cada lugar. Toque num alfinete para ver que batatas crescem ali. Uma ideia de Felix Chavez.
+Leaderboard badges	Distintivos no placar
+Staff have a small badge next to their name on the leaderboard. Tap it to see what it means.	A equipe tem um pequeno distintivo ao lado do nome no placar. Toque nele para ver o que significa.
+Last peeled	Último descasque
+The leaderboard shows when everyone last peeled.	O placar mostra quando cada um descascou pela última vez.
+Answers to your ideas	Respostas às suas ideias
+When your idea gets an answer, it reaches you on every device your Cloud save is on, and it says who answered.	Quando sua ideia recebe uma resposta, ela chega em todos os aparelhos onde está seu salvamento na nuvem, e diz quem respondeu.
+Messages	Mensagens
+Staff can send you a private message now, and you can answer it.	Agora a equipe pode te mandar uma mensagem privada, e você pode responder.
+TaterSlice	TaterSlice
+A new setting outlines mouldy potatoes in light green, so they're easier to spot. It's off unless you turn it on.	Uma nova configuração contorna as batatas mofadas de verde-claro, para ficar mais fácil de ver. Fica desligada até você ligar.
+You can keep chatting after you're out of a game.	Você pode continuar conversando depois de sair do jogo.
+The original iPad	O primeiro iPad
+The game runs a lot smoother on the original iPad.	O jogo roda muito mais liso no primeiro iPad.

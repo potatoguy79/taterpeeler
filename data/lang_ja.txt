@@ -1737,3 +1737,22 @@ Map data: Natural Earth	地図データ：Natural Earth
 Loading the map...	地図を読み込み中...
 You've found potatoes from {0} of {1} places	{1}か所中{0}か所のポテトを見つけました
 Tap a pin to see which potatoes grow there	ピンをタップすると、そこで育つポテトがわかります
+
+# 4.3: what's new
+Update 4.3 is now out! Here's what's new!	アップデート4.3が登場！新しくなったところはこちら！
+Here's what's new in 4.3. Thanks for playing!	4.3の新しいところです。遊んでくれてありがとう！
+Where potatoes grow	ポテトが育つ場所
+Every potato's page has a real map of where it grows now, and the Collection has a World map with a pin for every place. Tap a pin to see which potatoes grow there. An idea by Felix Chavez.	どのポテトのページにも、育つ場所の本物の地図がつきました。コレクションには、場所ごとにピンが立った世界地図もあります。ピンをタップすると、そこで育つポテトがわかります。Felix Chavez さんのアイデアです。
+Leaderboard badges	ランキングのバッジ
+Staff have a small badge next to their name on the leaderboard. Tap it to see what it means.	スタッフはランキングの名前の横に小さなバッジがつきます。タップすると意味がわかります。
+Last peeled	最後に皮むき
+The leaderboard shows when everyone last peeled.	ランキングに、みんなが最後に皮をむいた時が出ます。
+Answers to your ideas	アイデアへの返事
+When your idea gets an answer, it reaches you on every device your Cloud save is on, and it says who answered.	アイデアに返事が来ると、クラウドセーブがあるすべての端末に届き、誰が答えたかもわかります。
+Messages	メッセージ
+Staff can send you a private message now, and you can answer it.	スタッフから個人メッセージが届くようになり、返事もできます。
+TaterSlice	TaterSlice
+A new setting outlines mouldy potatoes in light green, so they're easier to spot. It's off unless you turn it on.	新しい設定で、カビたポテトを薄い緑で縁取りして見つけやすくできます。オンにするまではオフです。
+You can keep chatting after you're out of a game.	ゲームで脱落したあともチャットを続けられます。
+The original iPad	初代iPad
+The game runs a lot smoother on the original iPad.	初代iPadでずっとなめらかに動くようになりました。

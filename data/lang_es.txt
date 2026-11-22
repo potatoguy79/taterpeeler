@@ -1737,3 +1737,22 @@ Map data: Natural Earth	Datos del mapa: Natural Earth
 Loading the map...	Cargando el mapa...
 You've found potatoes from {0} of {1} places	Has encontrado papas de {0} de {1} lugares
 Tap a pin to see which potatoes grow there	Toca un marcador para ver qué papas crecen allí
+
+# 4.3: what's new
+Update 4.3 is now out! Here's what's new!	¡Ya salió la actualización 4.3! ¡Esto es lo nuevo!
+Here's what's new in 4.3. Thanks for playing!	Esto es lo nuevo en la 4.3. ¡Gracias por jugar!
+Where potatoes grow	Dónde crecen las papas
+Every potato's page has a real map of where it grows now, and the Collection has a World map with a pin for every place. Tap a pin to see which potatoes grow there. An idea by Felix Chavez.	La página de cada papa tiene ahora un mapa real de dónde crece, y la Colección tiene un mapa del mundo con un marcador en cada lugar. Toca un marcador para ver qué papas crecen allí. Una idea de Felix Chavez.
+Leaderboard badges	Insignias en la clasificación
+Staff have a small badge next to their name on the leaderboard. Tap it to see what it means.	El equipo tiene una pequeña insignia junto a su nombre en la clasificación. Tócala para ver qué significa.
+Last peeled	Último pelado
+The leaderboard shows when everyone last peeled.	La clasificación muestra cuándo peló cada uno por última vez.
+Answers to your ideas	Respuestas a tus ideas
+When your idea gets an answer, it reaches you on every device your Cloud save is on, and it says who answered.	Cuando tu idea recibe una respuesta, te llega en todos los dispositivos donde está tu guardado en la nube, y dice quién respondió.
+Messages	Mensajes
+Staff can send you a private message now, and you can answer it.	Ahora el equipo puede enviarte un mensaje privado, y puedes responderlo.
+TaterSlice	TaterSlice
+A new setting outlines mouldy potatoes in light green, so they're easier to spot. It's off unless you turn it on.	Un nuevo ajuste marca las papas con moho con un borde verde claro, para verlas mejor. Está desactivado hasta que lo actives.
+You can keep chatting after you're out of a game.	Puedes seguir chateando después de quedar eliminado.
+The original iPad	El iPad original
+The game runs a lot smoother on the original iPad.	El juego corre mucho más fluido en el iPad original.

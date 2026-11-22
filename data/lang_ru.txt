@@ -1760,3 +1760,22 @@ Map data: Natural Earth	Данные карты: Natural Earth
 Loading the map...	Загружаем карту...
 You've found potatoes from {0} of {1} places	Ты нашёл картошку из {0} мест из {1}
 Tap a pin to see which potatoes grow there	Нажми на метку, чтобы увидеть, какая картошка там растёт
+
+# 4.3: what's new
+Update 4.3 is now out! Here's what's new!	Вышло обновление 4.3! Вот что нового!
+Here's what's new in 4.3. Thanks for playing!	Вот что нового в 4.3. Спасибо, что играешь!
+Where potatoes grow	Где растёт картошка
+Every potato's page has a real map of where it grows now, and the Collection has a World map with a pin for every place. Tap a pin to see which potatoes grow there. An idea by Felix Chavez.	На странице каждой картошки теперь есть настоящая карта, где она растёт, а в Коллекции — карта мира с меткой в каждом месте. Нажми на метку, чтобы увидеть, какая картошка там растёт. Идея Felix Chavez.
+Leaderboard badges	Значки в таблице лидеров
+Staff have a small badge next to their name on the leaderboard. Tap it to see what it means.	У команды рядом с именем в таблице лидеров есть маленький значок. Нажми на него, чтобы узнать, что он значит.
+Last peeled	Последняя чистка
+The leaderboard shows when everyone last peeled.	Таблица лидеров показывает, когда каждый чистил в последний раз.
+Answers to your ideas	Ответы на твои идеи
+When your idea gets an answer, it reaches you on every device your Cloud save is on, and it says who answered.	Когда на твою идею отвечают, ответ приходит на все устройства с твоим облачным сохранением, и там видно, кто ответил.
+Messages	Сообщения
+Staff can send you a private message now, and you can answer it.	Теперь команда может прислать тебе личное сообщение, и ты можешь на него ответить.
+TaterSlice	TaterSlice
+A new setting outlines mouldy potatoes in light green, so they're easier to spot. It's off unless you turn it on.	Новая настройка обводит плесневую картошку светло-зелёным, чтобы её было легче заметить. Она выключена, пока ты её не включишь.
+You can keep chatting after you're out of a game.	Можно продолжать общаться в чате после того, как ты выбыл.
+The original iPad	Первый iPad
+The game runs a lot smoother on the original iPad.	На первом iPad игра работает намного плавнее.

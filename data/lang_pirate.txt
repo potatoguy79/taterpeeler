@@ -1737,3 +1737,22 @@ Map data: Natural Earth	Chart data: Natural Earth
 Loading the map...	Unrollin' the chart...
 You've found potatoes from {0} of {1} places	Ye've found spuds from {0} o' {1} places
 Tap a pin to see which potatoes grow there	Tap a pin to see which spuds grow there
+
+# 4.3: what's new
+Update 4.3 is now out! Here's what's new!	Update 4.3 be here! Here's what be new!
+Here's what's new in 4.3. Thanks for playing!	Here's what be new in 4.3. Thank ye fer playin'!
+Where potatoes grow	Where the spuds grow
+Every potato's page has a real map of where it grows now, and the Collection has a World map with a pin for every place. Tap a pin to see which potatoes grow there. An idea by Felix Chavez.	Every spud's page has a real chart o' where it grows now, an' the Collection has a map o' the world with a pin fer every place. Tap a pin to see which spuds grow there. An idea by Felix Chavez.
+Leaderboard badges	Badges on the leaderboard
+Staff have a small badge next to their name on the leaderboard. Tap it to see what it means.	The crew have a wee badge by their name on the leaderboard. Tap it to see what it means.
+Last peeled	Last peeled
+The leaderboard shows when everyone last peeled.	The leaderboard shows when every hand last peeled.
+Answers to your ideas	Answers to yer ideas
+When your idea gets an answer, it reaches you on every device your Cloud save is on, and it says who answered.	When yer idea gets an answer, it finds ye on every device yer Cloud save be on, an' it says who answered.
+Messages	Messages
+Staff can send you a private message now, and you can answer it.	The crew can send ye a private message now, an' ye can answer it.
+TaterSlice	TaterSlice
+A new setting outlines mouldy potatoes in light green, so they're easier to spot. It's off unless you turn it on.	A new settin' outlines mouldy spuds in light green, so they be easier to spot. 'Tis off unless ye turn it on.
+You can keep chatting after you're out of a game.	Ye can keep chattin' after ye be out o' a game.
+The original iPad	The first iPad
+The game runs a lot smoother on the original iPad.	The game sails a lot smoother on the first iPad.

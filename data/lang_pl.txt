@@ -1760,3 +1760,22 @@ Map data: Natural Earth	Dane mapy: Natural Earth
 Loading the map...	Wczytywanie mapy...
 You've found potatoes from {0} of {1} places	Znalazłeś ziemniaki z {0} z {1} miejsc
 Tap a pin to see which potatoes grow there	Dotknij pinezki, by zobaczyć, jakie ziemniaki tam rosną
+
+# 4.3: what's new
+Update 4.3 is now out! Here's what's new!	Aktualizacja 4.3 już jest! Oto co nowego!
+Here's what's new in 4.3. Thanks for playing!	Oto co nowego w 4.3. Dzięki za grę!
+Where potatoes grow	Gdzie rosną ziemniaki
+Every potato's page has a real map of where it grows now, and the Collection has a World map with a pin for every place. Tap a pin to see which potatoes grow there. An idea by Felix Chavez.	Strona każdego ziemniaka ma teraz prawdziwą mapę miejsca, gdzie rośnie, a Kolekcja ma mapę świata z pinezką w każdym miejscu. Dotknij pinezki, by zobaczyć, jakie ziemniaki tam rosną. Pomysł Felixa Chaveza.
+Leaderboard badges	Odznaki w rankingu
+Staff have a small badge next to their name on the leaderboard. Tap it to see what it means.	Ekipa ma w rankingu małą odznakę obok nazwy. Dotknij jej, by zobaczyć, co oznacza.
+Last peeled	Ostatnio obierał
+The leaderboard shows when everyone last peeled.	Ranking pokazuje, kiedy każdy ostatnio obierał.
+Answers to your ideas	Odpowiedzi na twoje pomysły
+When your idea gets an answer, it reaches you on every device your Cloud save is on, and it says who answered.	Gdy twój pomysł dostanie odpowiedź, dotrze do ciebie na każdym urządzeniu z twoim zapisem w chmurze i pokaże, kto odpowiedział.
+Messages	Wiadomości
+Staff can send you a private message now, and you can answer it.	Ekipa może teraz wysłać ci prywatną wiadomość, a ty możesz na nią odpowiedzieć.
+TaterSlice	TaterSlice
+A new setting outlines mouldy potatoes in light green, so they're easier to spot. It's off unless you turn it on.	Nowe ustawienie obrysowuje spleśniałe ziemniaki jasnozieloną ramką, żeby łatwiej je dostrzec. Jest wyłączone, dopóki go nie włączysz.
+You can keep chatting after you're out of a game.	Możesz dalej czatować po odpadnięciu z gry.
+The original iPad	Pierwszy iPad
+The game runs a lot smoother on the original iPad.	Gra działa dużo płynniej na pierwszym iPadzie.

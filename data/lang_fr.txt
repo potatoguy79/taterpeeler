@@ -1737,3 +1737,22 @@ Map data: Natural Earth	Données cartographiques : Natural Earth
 Loading the map...	Chargement de la carte...
 You've found potatoes from {0} of {1} places	Tu as trouvé des patates de {0} lieux sur {1}
 Tap a pin to see which potatoes grow there	Touche une épingle pour voir quelles patates poussent là
+
+# 4.3: what's new
+Update 4.3 is now out! Here's what's new!	La mise à jour 4.3 est sortie ! Voici les nouveautés !
+Here's what's new in 4.3. Thanks for playing!	Voici les nouveautés de la 4.3. Merci de jouer !
+Where potatoes grow	Où poussent les patates
+Every potato's page has a real map of where it grows now, and the Collection has a World map with a pin for every place. Tap a pin to see which potatoes grow there. An idea by Felix Chavez.	La page de chaque patate a maintenant une vraie carte de l'endroit où elle pousse, et la Collection a une carte du monde avec une épingle pour chaque lieu. Touche une épingle pour voir quelles patates poussent là. Une idée de Felix Chavez.
+Leaderboard badges	Badges du classement
+Staff have a small badge next to their name on the leaderboard. Tap it to see what it means.	L'équipe a un petit badge à côté de son nom dans le classement. Touche-le pour voir ce qu'il veut dire.
+Last peeled	Dernier épluchage
+The leaderboard shows when everyone last peeled.	Le classement montre quand chacun a épluché pour la dernière fois.
+Answers to your ideas	Réponses à tes idées
+When your idea gets an answer, it reaches you on every device your Cloud save is on, and it says who answered.	Quand ton idée reçoit une réponse, elle t'arrive sur tous les appareils où se trouve ta sauvegarde cloud, et elle dit qui a répondu.
+Messages	Messages
+Staff can send you a private message now, and you can answer it.	L'équipe peut maintenant t'envoyer un message privé, et tu peux y répondre.
+TaterSlice	TaterSlice
+A new setting outlines mouldy potatoes in light green, so they're easier to spot. It's off unless you turn it on.	Un nouveau réglage entoure les patates moisies en vert clair, pour mieux les repérer. Il est désactivé tant que tu ne l'actives pas.
+You can keep chatting after you're out of a game.	Tu peux continuer à discuter après avoir été éliminé.
+The original iPad	Le premier iPad
+The game runs a lot smoother on the original iPad.	Le jeu tourne beaucoup plus en douceur sur le premier iPad.

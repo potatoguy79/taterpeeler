@@ -1737,3 +1737,22 @@ Map data: Natural Earth	Kartendaten: Natural Earth
 Loading the map...	Karte wird geladen...
 You've found potatoes from {0} of {1} places	Du hast Kartoffeln aus {0} von {1} Orten gefunden
 Tap a pin to see which potatoes grow there	Tippe auf eine Nadel, um zu sehen, welche Kartoffeln dort wachsen
+
+# 4.3: what's new
+Update 4.3 is now out! Here's what's new!	Update 4.3 ist da! Das ist neu!
+Here's what's new in 4.3. Thanks for playing!	Das ist neu in 4.3. Danke fürs Spielen!
+Where potatoes grow	Wo Kartoffeln wachsen
+Every potato's page has a real map of where it grows now, and the Collection has a World map with a pin for every place. Tap a pin to see which potatoes grow there. An idea by Felix Chavez.	Auf der Seite jeder Kartoffel gibt es jetzt eine echte Karte, wo sie wächst, und in der Sammlung eine Weltkarte mit einer Nadel für jeden Ort. Tippe auf eine Nadel, um zu sehen, welche Kartoffeln dort wachsen. Eine Idee von Felix Chavez.
+Leaderboard badges	Abzeichen in der Bestenliste
+Staff have a small badge next to their name on the leaderboard. Tap it to see what it means.	Das Team hat in der Bestenliste ein kleines Abzeichen neben dem Namen. Tippe darauf, um zu sehen, was es bedeutet.
+Last peeled	Zuletzt geschält
+The leaderboard shows when everyone last peeled.	Die Bestenliste zeigt, wann jeder zuletzt geschält hat.
+Answers to your ideas	Antworten auf deine Ideen
+When your idea gets an answer, it reaches you on every device your Cloud save is on, and it says who answered.	Wenn deine Idee eine Antwort bekommt, kommt sie auf jedem Gerät an, auf dem dein Cloud-Speicher ist, und es steht dabei, wer geantwortet hat.
+Messages	Nachrichten
+Staff can send you a private message now, and you can answer it.	Das Team kann dir jetzt eine private Nachricht schicken, und du kannst darauf antworten.
+TaterSlice	TaterSlice
+A new setting outlines mouldy potatoes in light green, so they're easier to spot. It's off unless you turn it on.	Eine neue Einstellung umrandet schimmlige Kartoffeln hellgrün, damit man sie leichter sieht. Sie ist aus, bis du sie einschaltest.
+You can keep chatting after you're out of a game.	Du kannst weiterchatten, nachdem du aus einem Spiel raus bist.
+The original iPad	Das erste iPad
+The game runs a lot smoother on the original iPad.	Das Spiel läuft auf dem ersten iPad viel flüssiger.

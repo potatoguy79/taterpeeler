@@ -1737,3 +1737,22 @@ Map data: Natural Earth	地图数据：Natural Earth
 Loading the map...	正在加载地图...
 You've found potatoes from {0} of {1} places	你已找到 {1} 个地方中 {0} 个地方的土豆
 Tap a pin to see which potatoes grow there	点击图钉，看看那里种什么土豆
+
+# 4.3: what's new
+Update 4.3 is now out! Here's what's new!	4.3 版更新来啦！看看有什么新内容！
+Here's what's new in 4.3. Thanks for playing!	这是 4.3 的新内容。感谢游玩！
+Where potatoes grow	土豆长在哪里
+Every potato's page has a real map of where it grows now, and the Collection has a World map with a pin for every place. Tap a pin to see which potatoes grow there. An idea by Felix Chavez.	现在每种土豆的页面都有一张真实地图，显示它长在哪里；收藏里还有一张世界地图，每个地方都有一个图钉。点击图钉，看看那里种什么土豆。这是 Felix Chavez 的点子。
+Leaderboard badges	排行榜徽章
+Staff have a small badge next to their name on the leaderboard. Tap it to see what it means.	工作人员在排行榜上的名字旁边有一个小徽章。点击它就能看到含义。
+Last peeled	上次削皮
+The leaderboard shows when everyone last peeled.	排行榜会显示每个人上次削皮的时间。
+Answers to your ideas	对你的点子的回复
+When your idea gets an answer, it reaches you on every device your Cloud save is on, and it says who answered.	当你的点子收到回复时，你的云存档所在的每台设备都会收到，还会显示是谁回复的。
+Messages	消息
+Staff can send you a private message now, and you can answer it.	现在工作人员可以给你发私信，你也可以回复。
+TaterSlice	TaterSlice
+A new setting outlines mouldy potatoes in light green, so they're easier to spot. It's off unless you turn it on.	新设置会用浅绿色描出发霉的土豆，更容易发现。打开之前它是关着的。
+You can keep chatting after you're out of a game.	出局之后也可以继续聊天。
+The original iPad	初代 iPad
+The game runs a lot smoother on the original iPad.	游戏在初代 iPad 上流畅多了。

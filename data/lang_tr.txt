@@ -1737,3 +1737,22 @@ Map data: Natural Earth	Harita verisi: Natural Earth
 Loading the map...	Harita yükleniyor...
 You've found potatoes from {0} of {1} places	{1} yerden {0} tanesinin patateslerini buldun
 Tap a pin to see which potatoes grow there	Orada hangi patateslerin yetiştiğini görmek için bir iğneye dokun
+
+# 4.3: what's new
+Update 4.3 is now out! Here's what's new!	4.3 güncellemesi çıktı! İşte yenilikler!
+Here's what's new in 4.3. Thanks for playing!	4.3'teki yenilikler burada. Oynadığın için teşekkürler!
+Where potatoes grow	Patatesler nerede yetişir
+Every potato's page has a real map of where it grows now, and the Collection has a World map with a pin for every place. Tap a pin to see which potatoes grow there. An idea by Felix Chavez.	Artık her patatesin sayfasında nerede yetiştiğini gösteren gerçek bir harita var, Koleksiyon'da da her yer için iğnesi olan bir dünya haritası var. Orada hangi patateslerin yetiştiğini görmek için bir iğneye dokun. Felix Chavez'in fikri.
+Leaderboard badges	Sıralama rozetleri
+Staff have a small badge next to their name on the leaderboard. Tap it to see what it means.	Ekibin sıralamada isminin yanında küçük bir rozeti var. Ne anlama geldiğini görmek için ona dokun.
+Last peeled	Son soyma
+The leaderboard shows when everyone last peeled.	Sıralama, herkesin en son ne zaman soyduğunu gösteriyor.
+Answers to your ideas	Fikirlerine cevaplar
+When your idea gets an answer, it reaches you on every device your Cloud save is on, and it says who answered.	Fikrin bir cevap aldığında, Bulut kaydının olduğu her cihazda sana ulaşır ve kimin cevap verdiğini söyler.
+Messages	Mesajlar
+Staff can send you a private message now, and you can answer it.	Ekip artık sana özel mesaj gönderebiliyor ve sen de cevap verebiliyorsun.
+TaterSlice	TaterSlice
+A new setting outlines mouldy potatoes in light green, so they're easier to spot. It's off unless you turn it on.	Yeni bir ayar küflü patateslerin etrafını açık yeşille çiziyor, böylece daha kolay fark ediliyorlar. Sen açana kadar kapalı.
+You can keep chatting after you're out of a game.	Oyundan elendikten sonra da sohbet etmeye devam edebilirsin.
+The original iPad	İlk iPad
+The game runs a lot smoother on the original iPad.	Oyun ilk iPad'de çok daha akıcı çalışıyor.
