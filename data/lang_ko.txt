@@ -1847,3 +1847,29 @@ Stop replay	리플레이 멈추기
 Replay	리플레이
 Rush replays	Rush 리플레이
 When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Rush가 끝나면 리플레이 보기를 눌러 한 번 한 번 전부 다시 볼 수 있어요.
+
+# 4.3: friends, this week
+Everyone	전체
+This week	이번 주
+Friends	친구
+Potatoes peeled since Monday. A new week starts every Monday.	월요일부터 벗긴 감자 수. 매주 월요일에 새로운 주가 시작돼요.
+Save your progress to the cloud to have friends.	친구를 만들려면 진행 상황을 클라우드에 저장하세요.
+To add a friend: tap anyone on the Everyone board, then Add friend on their portfolio.	친구 추가: 전체 순위에서 누군가를 누르고, 그 사람의 포트폴리오에서 친구 추가를 누르세요.
+Friend requests	친구 요청
+Accept	수락
+{0} wants to be your friend	{0}님이 친구가 되고 싶어 해요
+Friends have a board of their own on the Online page, with all your numbers side by side.	친구끼리는 온라인 페이지에 전용 순위가 있어서, 서로의 기록을 나란히 볼 수 있어요.
+Add friend	친구 추가
+Cancel request	요청 취소
+Asked. Waiting for them to say yes	요청함. 수락을 기다리는 중
+They asked to be your friend	친구 요청을 보냈어요
+Remove friend	친구 삭제
+You're friends	친구예요
+Remove from your friends?	친구에서 삭제할까요?
+You can be friends again any time.	언제든 다시 친구가 될 수 있어요.
+That's a lot of friends! Remove some first	친구가 너무 많아요! 먼저 몇 명 삭제하세요
+That's a lot at once. Try again in a bit	한 번에 너무 많아요. 잠시 후 다시 해 보세요
+Couldn't do that. Try again	하지 못했어요. 다시 해 보세요
+Asked {0}. They'll see it in their game	{0}님에게 요청했어요. 상대 게임에 표시돼요
+You and {0} are friends now	이제 {0}님과 친구예요
+{0} isn't on your friends list now	{0}님은 이제 친구 목록에 없어요

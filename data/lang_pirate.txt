@@ -1847,3 +1847,29 @@ Stop replay	Stop the replay
 Replay	Replay
 Rush replays	Rush replays
 When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	When a Rush be over, tap Watch it again to see the whole thing, every stroke.
+
+# 4.3: friends, this week
+Everyone	Every hand
+This week	This week
+Friends	Mateys
+Potatoes peeled since Monday. A new week starts every Monday.	Spuds peeled since Monday. A new week starts every Monday.
+Save your progress to the cloud to have friends.	Stow yer progress in the clouds to have mateys.
+To add a friend: tap anyone on the Everyone board, then Add friend on their portfolio.	To add a matey: tap anyone on the Every hand board, then Add matey on their portfolio.
+Friend requests	Matey requests
+Accept	Aye
+{0} wants to be your friend	{0} wants to be yer matey
+Friends have a board of their own on the Online page, with all your numbers side by side.	Mateys have a board o' their own on the Online page, with all yer numbers side by side.
+Add friend	Add matey
+Cancel request	Cancel request
+Asked. Waiting for them to say yes	Asked. Waitin' fer an aye
+They asked to be your friend	They asked to be yer matey
+Remove friend	Remove matey
+You're friends	Ye be mateys
+Remove from your friends?	Remove from yer mateys?
+You can be friends again any time.	Ye can be mateys again any time.
+That's a lot of friends! Remove some first	That be a lot o' mateys! Remove some first
+That's a lot at once. Try again in a bit	That be a lot at once. Try again in a bit
+Couldn't do that. Try again	Couldn't do that. Try again
+Asked {0}. They'll see it in their game	Asked {0}. They'll see it in their game
+You and {0} are friends now	Ye and {0} be mateys now
+{0} isn't on your friends list now	{0} ain't on yer mateys list now

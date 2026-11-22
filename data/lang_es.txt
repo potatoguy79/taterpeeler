@@ -1847,3 +1847,29 @@ Stop replay	Detener repetición
 Replay	Repetición
 Rush replays	Repeticiones de Rush
 When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Al terminar un Rush, toca Ver repetición para verlo entero otra vez, cada pasada.
+
+# 4.3: friends, this week
+Everyone	Todos
+This week	Esta semana
+Friends	Amigos
+Potatoes peeled since Monday. A new week starts every Monday.	Papas peladas desde el lunes. Cada lunes empieza una semana nueva.
+Save your progress to the cloud to have friends.	Guarda tu progreso en la nube para tener amigos.
+To add a friend: tap anyone on the Everyone board, then Add friend on their portfolio.	Para agregar un amigo: toca a alguien en la lista Todos y luego Agregar amigo en su perfil.
+Friend requests	Solicitudes de amistad
+Accept	Aceptar
+{0} wants to be your friend	{0} quiere ser tu amigo
+Friends have a board of their own on the Online page, with all your numbers side by side.	Los amigos tienen su propia tabla en la página En línea, con todos sus números lado a lado.
+Add friend	Agregar amigo
+Cancel request	Cancelar solicitud
+Asked. Waiting for them to say yes	Solicitado. Esperando a que diga que sí
+They asked to be your friend	Te pidió ser tu amigo
+Remove friend	Quitar amigo
+You're friends	Son amigos
+Remove from your friends?	¿Quitar de tus amigos?
+You can be friends again any time.	Pueden volver a ser amigos cuando quieran.
+That's a lot of friends! Remove some first	¡Son muchos amigos! Quita algunos primero
+That's a lot at once. Try again in a bit	Eso es mucho de una vez. Inténtalo en un rato
+Couldn't do that. Try again	No se pudo. Inténtalo de nuevo
+Asked {0}. They'll see it in their game	Le preguntaste a {0}. Lo verá en su juego
+You and {0} are friends now	{0} y tú ya son amigos
+{0} isn't on your friends list now	{0} ya no está en tu lista de amigos

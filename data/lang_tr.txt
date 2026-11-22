@@ -1847,3 +1847,29 @@ Stop replay	Tekrarı durdur
 Replay	Tekrar
 Rush replays	Rush tekrarları
 When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Bir Rush bittiğinde, her hareketiyle baştan izlemek için Tekrarı izle'ye dokun.
+
+# 4.3: friends, this week
+Everyone	Herkes
+This week	Bu hafta
+Friends	Arkadaşlar
+Potatoes peeled since Monday. A new week starts every Monday.	Pazartesiden beri soyulan patatesler. Her pazartesi yeni hafta başlar.
+Save your progress to the cloud to have friends.	Arkadaş edinmek için ilerlemeni buluta kaydet.
+To add a friend: tap anyone on the Everyone board, then Add friend on their portfolio.	Arkadaş eklemek için: Herkes listesinde birine dokun, sonra portföyünde Arkadaş ekle'ye dokun.
+Friend requests	Arkadaşlık istekleri
+Accept	Kabul et
+{0} wants to be your friend	{0} arkadaşın olmak istiyor
+Friends have a board of their own on the Online page, with all your numbers side by side.	Arkadaşların Çevrimiçi sayfasında kendi listesi var; tüm sayılarınız yan yana.
+Add friend	Arkadaş ekle
+Cancel request	İsteği iptal et
+Asked. Waiting for them to say yes	İstendi. Evet demesi bekleniyor
+They asked to be your friend	Arkadaşın olmak istiyor
+Remove friend	Arkadaşlıktan çıkar
+You're friends	Arkadaşsınız
+Remove from your friends?	Arkadaşlarından çıkarılsın mı?
+You can be friends again any time.	İstediğiniz zaman yeniden arkadaş olabilirsiniz.
+That's a lot of friends! Remove some first	Çok fazla arkadaş! Önce birkaçını çıkar
+That's a lot at once. Try again in a bit	Bir seferde çok fazla. Biraz sonra tekrar dene
+Couldn't do that. Try again	Yapılamadı. Tekrar dene
+Asked {0}. They'll see it in their game	{0} kişisine soruldu. Kendi oyununda görecek
+You and {0} are friends now	Sen ve {0} artık arkadaşsınız
+{0} isn't on your friends list now	{0} artık arkadaş listende değil

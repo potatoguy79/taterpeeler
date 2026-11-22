@@ -1847,3 +1847,29 @@ Stop replay	リプレイを止める
 Replay	リプレイ
 Rush replays	Rushのリプレイ
 When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Rushが終わったら「リプレイを見る」で、ひと削りずつ全部見直せます。
+
+# 4.3: friends, this week
+Everyone	みんな
+This week	今週
+Friends	フレンド
+Potatoes peeled since Monday. A new week starts every Monday.	月曜日からむいたポテトの数。毎週月曜日に新しい週が始まります。
+Save your progress to the cloud to have friends.	フレンドを作るには、進行状況をクラウドに保存してください。
+To add a friend: tap anyone on the Everyone board, then Add friend on their portfolio.	フレンドを追加するには：「みんな」のランキングで誰かをタップし、その人のポートフォリオで「フレンドに追加」。
+Friend requests	フレンド申請
+Accept	承認
+{0} wants to be your friend	{0}さんがフレンドになりたがっています
+Friends have a board of their own on the Online page, with all your numbers side by side.	フレンドはオンラインページに専用のランキングがあり、みんなの記録を並べて見られます。
+Add friend	フレンドに追加
+Cancel request	申請を取り消す
+Asked. Waiting for them to say yes	申請済み。返事を待っています
+They asked to be your friend	フレンド申請が来ています
+Remove friend	フレンドから外す
+You're friends	フレンドです
+Remove from your friends?	フレンドから外しますか？
+You can be friends again any time.	いつでもまたフレンドになれます。
+That's a lot of friends! Remove some first	フレンドが多すぎます！先に何人か外してください
+That's a lot at once. Try again in a bit	一度に多すぎます。少ししてからもう一度
+Couldn't do that. Try again	できませんでした。もう一度試してください
+Asked {0}. They'll see it in their game	{0}さんに申請しました。相手のゲームに表示されます
+You and {0} are friends now	{0}さんとフレンドになりました
+{0} isn't on your friends list now	{0}さんはフレンドリストから外れました

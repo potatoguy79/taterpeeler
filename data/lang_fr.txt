@@ -1847,3 +1847,29 @@ Stop replay	Arrêter le replay
 Replay	Replay
 Rush replays	Replays de Rush
 When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	À la fin d'un Rush, touche Revoir la partie pour tout revoir, chaque coup de lame.
+
+# 4.3: friends, this week
+Everyone	Tout le monde
+This week	Cette semaine
+Friends	Amis
+Potatoes peeled since Monday. A new week starts every Monday.	Patates épluchées depuis lundi. Une nouvelle semaine commence chaque lundi.
+Save your progress to the cloud to have friends.	Sauvegarde ta progression dans le cloud pour avoir des amis.
+To add a friend: tap anyone on the Everyone board, then Add friend on their portfolio.	Pour ajouter un ami : touche quelqu'un dans le classement Tout le monde, puis Ajouter en ami sur son portfolio.
+Friend requests	Demandes d'ami
+Accept	Accepter
+{0} wants to be your friend	{0} veut être ton ami
+Friends have a board of their own on the Online page, with all your numbers side by side.	Les amis ont leur propre classement sur la page En ligne, avec tous vos chiffres côte à côte.
+Add friend	Ajouter en ami
+Cancel request	Annuler la demande
+Asked. Waiting for them to say yes	Demandé. En attente de sa réponse
+They asked to be your friend	Veut être ton ami
+Remove friend	Retirer des amis
+You're friends	Vous êtes amis
+Remove from your friends?	Retirer de tes amis ?
+You can be friends again any time.	Vous pourrez redevenir amis quand vous voulez.
+That's a lot of friends! Remove some first	Ça fait beaucoup d'amis ! Retires-en d'abord
+That's a lot at once. Try again in a bit	Ça fait beaucoup d'un coup. Réessaie dans un moment
+Couldn't do that. Try again	Impossible pour l'instant. Réessaie
+Asked {0}. They'll see it in their game	Demande envoyée à {0}. Il la verra dans son jeu
+You and {0} are friends now	{0} et toi êtes amis maintenant
+{0} isn't on your friends list now	{0} n'est plus dans ta liste d'amis

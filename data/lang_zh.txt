@@ -1847,3 +1847,29 @@ Stop replay	停止回放
 Replay	回放
 Rush replays	Rush 回放
 When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Rush 结束后，点「观看回放」就能把每一下都重看一遍。
+
+# 4.3: friends, this week
+Everyone	所有人
+This week	本周
+Friends	好友
+Potatoes peeled since Monday. A new week starts every Monday.	从周一起削的土豆。每周一开始新的一周。
+Save your progress to the cloud to have friends.	把进度保存到云端才能加好友。
+To add a friend: tap anyone on the Everyone board, then Add friend on their portfolio.	添加好友：在「所有人」榜单上点任何人，然后在对方的主页点「加好友」。
+Friend requests	好友请求
+Accept	接受
+{0} wants to be your friend	{0} 想加你为好友
+Friends have a board of their own on the Online page, with all your numbers side by side.	好友在「在线」页面有专属榜单，大家的数据并排显示。
+Add friend	加好友
+Cancel request	取消请求
+Asked. Waiting for them to say yes	已申请，等待对方同意
+They asked to be your friend	对方想加你为好友
+Remove friend	删除好友
+You're friends	你们是好友
+Remove from your friends?	从好友中删除？
+You can be friends again any time.	随时可以再次成为好友。
+That's a lot of friends! Remove some first	好友太多了！先删除一些
+That's a lot at once. Try again in a bit	一次太多了，稍后再试
+Couldn't do that. Try again	没能完成，请再试一次
+Asked {0}. They'll see it in their game	已向 {0} 发送请求，对方会在游戏里看到
+You and {0} are friends now	你和 {0} 现在是好友了
+{0} isn't on your friends list now	{0} 已不在你的好友列表中

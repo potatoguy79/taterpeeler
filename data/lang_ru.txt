@@ -1870,3 +1870,29 @@ Stop replay	Остановить повтор
 Replay	Повтор
 Rush replays	Повторы Rush
 When a Rush is over, tap Watch replay to see the whole thing again, every stroke.	Когда Rush закончится, нажми Смотреть повтор, чтобы увидеть всё заново, каждое движение.
+
+# 4.3: friends, this week
+Everyone	Все
+This week	Эта неделя
+Friends	Друзья
+Potatoes peeled since Monday. A new week starts every Monday.	Картофелины, почищенные с понедельника. Каждый понедельник начинается новая неделя.
+Save your progress to the cloud to have friends.	Сохрани прогресс в облаке, чтобы заводить друзей.
+To add a friend: tap anyone on the Everyone board, then Add friend on their portfolio.	Чтобы добавить друга: нажми на кого-нибудь в таблице «Все», затем «Добавить в друзья» в его портфолио.
+Friend requests	Заявки в друзья
+Accept	Принять
+{0} wants to be your friend	{0} хочет с тобой дружить
+Friends have a board of their own on the Online page, with all your numbers side by side.	У друзей своя таблица на странице «Онлайн», где все ваши результаты рядом.
+Add friend	Добавить в друзья
+Cancel request	Отменить заявку
+Asked. Waiting for them to say yes	Заявка отправлена. Ждём ответа
+They asked to be your friend	Хочет с тобой дружить
+Remove friend	Удалить из друзей
+You're friends	Вы друзья
+Remove from your friends?	Удалить из друзей?
+You can be friends again any time.	Можно снова подружиться в любое время.
+That's a lot of friends! Remove some first	Слишком много друзей! Сначала удали кого-нибудь
+That's a lot at once. Try again in a bit	Слишком много за раз. Попробуй чуть позже
+Couldn't do that. Try again	Не получилось. Попробуй ещё раз
+Asked {0}. They'll see it in their game	Заявка для {0} отправлена. Она появится в его игре
+You and {0} are friends now	Теперь вы с {0} друзья
+{0} isn't on your friends list now	{0} больше нет в твоём списке друзей
