@@ -1824,3 +1824,19 @@ Cooling down: ready in {0}	Coolin' down: ready in {0}
 One potato a minute while the game's open, up to 100	One spud a minute while the game be open, up to 100
 Equip	Equip
 Unequip	Unequip
+
+# 4.3: the daily challenge
+Peel {0} potatoes	Peel {0} spuds
+Peel {0} {1} potatoes	Peel {0} {1} spuds
+Score {0} in one Rush	Score {0} in one Rush
+Fry {0} fries	Fry {0} fries
+Peel a potato in under {0} seconds	Peel a spud in under {0} seconds
+Today's challenge done! +{0} TaterCoins	Today's challenge done! +{0} TaterCoins
+Today's challenge: done ({0} days in a row)	Today's challenge: done ({0} days runnin')
+Today's challenge: done	Today's challenge: done
+Today: {0}	Today: {0}
+Today: {0} ({1})	Today: {0} ({1})
+Done for today. A new challenge comes at midnight. Days in a row: {0}	Done fer today. A new challenge comes at midnight. Days runnin': {0}
+Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	Reward: {0} TaterCoins (more fer every day runnin'). A new challenge comes at midnight.
+Today's challenge	Today's challenge
+A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	A new challenge every day, on the menu. Do it fer TaterCoins, an' more fer every day runnin'.

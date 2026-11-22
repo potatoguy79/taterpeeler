@@ -1824,3 +1824,19 @@ Cooling down: ready in {0}	Soğuyor: {0} sonra hazır
 One potato a minute while the game's open, up to 100	Oyun açıkken dakikada bir patates, 100'e kadar
 Equip	Kuşan
 Unequip	Çıkar
+
+# 4.3: the daily challenge
+Peel {0} potatoes	{0} patates soy
+Peel {0} {1} potatoes	{0} tane {1} patatesi soy
+Score {0} in one Rush	Tek bir Rush'ta {0} puan yap
+Fry {0} fries	{0} patates kızart
+Peel a potato in under {0} seconds	Bir patatesi {0} saniyeden kısa sürede soy
+Today's challenge done! +{0} TaterCoins	Günün görevi tamam! +{0} TaterCoins
+Today's challenge: done ({0} days in a row)	Günün görevi: tamam ({0} gün üst üste)
+Today's challenge: done	Günün görevi: tamam
+Today: {0}	Bugün: {0}
+Today: {0} ({1})	Bugün: {0} ({1})
+Done for today. A new challenge comes at midnight. Days in a row: {0}	Bugünlük tamam. Gece yarısı yeni görev gelir. Üst üste gün: {0}
+Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	Ödül: {0} TaterCoins (üst üste her gün için daha fazla). Gece yarısı yeni görev gelir.
+Today's challenge	Günün görevi
+A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	Menüde her gün yeni bir görev. Tamamla, TaterCoins kazan; üst üste her gün için daha fazla.

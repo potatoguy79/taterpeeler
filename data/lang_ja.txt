@@ -1824,3 +1824,19 @@ Cooling down: ready in {0}	クールダウン中：あと {0}
 One potato a minute while the game's open, up to 100	ゲームを開いている間1分に1個、100個まで
 Equip	装備
 Unequip	外す
+
+# 4.3: the daily challenge
+Peel {0} potatoes	ポテトを{0}個むく
+Peel {0} {1} potatoes	{1}を{0}個むく
+Score {0} in one Rush	1回のRushで{0}点
+Fry {0} fries	ポテトを{0}本揚げる
+Peel a potato in under {0} seconds	{0}秒以内にポテトを1個むく
+Today's challenge done! +{0} TaterCoins	今日のチャレンジ達成！ +{0} TaterCoins
+Today's challenge: done ({0} days in a row)	今日のチャレンジ：達成（{0}日連続）
+Today's challenge: done	今日のチャレンジ：達成
+Today: {0}	今日：{0}
+Today: {0} ({1})	今日：{0}（{1}）
+Done for today. A new challenge comes at midnight. Days in a row: {0}	今日はクリア。真夜中に新しいチャレンジが来ます。連続日数：{0}
+Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	ごほうび：{0} TaterCoins（連続日数で増えます）。真夜中に新しいチャレンジが来ます。
+Today's challenge	今日のチャレンジ
+A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	メニューに毎日新しいチャレンジ。クリアするとTaterCoinsがもらえて、連続日数で増えます。

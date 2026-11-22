@@ -1824,3 +1824,19 @@ Cooling down: ready in {0}	식는 중: {0} 후 사용 가능
 One potato a minute while the game's open, up to 100	게임이 켜져 있는 동안 1분에 하나, 100개까지
 Equip	장착
 Unequip	해제
+
+# 4.3: the daily challenge
+Peel {0} potatoes	감자 {0}개 벗기기
+Peel {0} {1} potatoes	{1} 감자 {0}개 벗기기
+Score {0} in one Rush	한 번의 Rush에서 {0}점
+Fry {0} fries	감자튀김 {0}개 튀기기
+Peel a potato in under {0} seconds	감자 하나를 {0}초 안에 벗기기
+Today's challenge done! +{0} TaterCoins	오늘의 도전 완료! +{0} TaterCoins
+Today's challenge: done ({0} days in a row)	오늘의 도전: 완료 ({0}일 연속)
+Today's challenge: done	오늘의 도전: 완료
+Today: {0}	오늘: {0}
+Today: {0} ({1})	오늘: {0} ({1})
+Done for today. A new challenge comes at midnight. Days in a row: {0}	오늘은 끝! 자정에 새 도전이 와요. 연속: {0}일
+Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	보상: {0} TaterCoins (연속으로 할수록 더 많이). 자정에 새 도전이 와요.
+Today's challenge	오늘의 도전
+A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	메뉴에 매일 새 도전이 나와요. 완료하면 TaterCoins를 받고, 연속으로 할수록 더 받아요.

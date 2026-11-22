@@ -1847,3 +1847,19 @@ Cooling down: ready in {0}	Остывает: будет готова через 
 One potato a minute while the game's open, up to 100	Одна картошка в минуту, пока игра открыта, до 100
 Equip	Надеть
 Unequip	Снять
+
+# 4.3: the daily challenge
+Peel {0} potatoes	Почисти {0} картофелин
+Peel {0} {1} potatoes	Почисти {0} картофелин сорта {1}
+Score {0} in one Rush	Набери {0} за один Rush
+Fry {0} fries	Пожарь {0} брусочков картошки
+Peel a potato in under {0} seconds	Почисти картошку меньше чем за {0} секунд
+Today's challenge done! +{0} TaterCoins	Задание дня выполнено! +{0} TaterCoins
+Today's challenge: done ({0} days in a row)	Задание дня: выполнено ({0} дней подряд)
+Today's challenge: done	Задание дня: выполнено
+Today: {0}	Сегодня: {0}
+Today: {0} ({1})	Сегодня: {0} ({1})
+Done for today. A new challenge comes at midnight. Days in a row: {0}	На сегодня всё. Новое задание появится в полночь. Дней подряд: {0}
+Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	Награда: {0} TaterCoins (больше за каждый день подряд). Новое задание появится в полночь.
+Today's challenge	Задание дня
+A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	Каждый день новое задание в меню. Выполни его за TaterCoins, и за каждый день подряд получишь больше.

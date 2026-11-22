@@ -1847,3 +1847,19 @@ Cooling down: ready in {0}	Stygnie: gotowa za {0}
 One potato a minute while the game's open, up to 100	Jeden ziemniak na minutę, gdy gra jest otwarta, do 100
 Equip	Wyposaż
 Unequip	Zdejmij
+
+# 4.3: the daily challenge
+Peel {0} potatoes	Obierz {0} ziemniaków
+Peel {0} {1} potatoes	Obierz {0} ziemniaków odmiany {1}
+Score {0} in one Rush	Zdobądź {0} w jednym Rushu
+Fry {0} fries	Usmaż {0} frytek
+Peel a potato in under {0} seconds	Obierz ziemniaka w mniej niż {0} sekund
+Today's challenge done! +{0} TaterCoins	Wyzwanie dnia zaliczone! +{0} TaterCoins
+Today's challenge: done ({0} days in a row)	Wyzwanie dnia: zaliczone ({0} dni z rzędu)
+Today's challenge: done	Wyzwanie dnia: zaliczone
+Today: {0}	Dziś: {0}
+Today: {0} ({1})	Dziś: {0} ({1})
+Done for today. A new challenge comes at midnight. Days in a row: {0}	Na dziś gotowe. O północy przyjdzie nowe wyzwanie. Dni z rzędu: {0}
+Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	Nagroda: {0} TaterCoins (więcej za każdy dzień z rzędu). O północy przyjdzie nowe wyzwanie.
+Today's challenge	Wyzwanie dnia
+A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	Codziennie nowe wyzwanie w menu. Zalicz je za TaterCoins, a za każdy dzień z rzędu dostaniesz więcej.

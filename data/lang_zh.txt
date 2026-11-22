@@ -1824,3 +1824,19 @@ Cooling down: ready in {0}	冷却中：{0} 后可用
 One potato a minute while the game's open, up to 100	游戏开着时每分钟一个，最多 100 个
 Equip	装备
 Unequip	卸下
+
+# 4.3: the daily challenge
+Peel {0} potatoes	削 {0} 个土豆
+Peel {0} {1} potatoes	削 {0} 个{1}土豆
+Score {0} in one Rush	在一局 Rush 中得 {0} 分
+Fry {0} fries	炸 {0} 根薯条
+Peel a potato in under {0} seconds	在 {0} 秒内削完一个土豆
+Today's challenge done! +{0} TaterCoins	今日挑战完成！+{0} TaterCoins
+Today's challenge: done ({0} days in a row)	今日挑战：已完成（连续 {0} 天）
+Today's challenge: done	今日挑战：已完成
+Today: {0}	今日：{0}
+Today: {0} ({1})	今日：{0}（{1}）
+Done for today. A new challenge comes at midnight. Days in a row: {0}	今天完成了。午夜会有新挑战。连续天数：{0}
+Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	奖励：{0} TaterCoins（连续越多奖励越多）。午夜会有新挑战。
+Today's challenge	今日挑战
+A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	菜单上每天都有新挑战。完成可得 TaterCoins，连续天数越多奖励越多。

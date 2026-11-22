@@ -1824,3 +1824,19 @@ Cooling down: ready in {0}	Esfriando: pronto em {0}
 One potato a minute while the game's open, up to 100	Uma batata por minuto com o jogo aberto, até 100
 Equip	Equipar
 Unequip	Remover
+
+# 4.3: the daily challenge
+Peel {0} potatoes	Descasque {0} batatas
+Peel {0} {1} potatoes	Descasque {0} batatas {1}
+Score {0} in one Rush	Faça {0} em um Rush
+Fry {0} fries	Frite {0} batatas fritas
+Peel a potato in under {0} seconds	Descasque uma batata em menos de {0} segundos
+Today's challenge done! +{0} TaterCoins	Desafio do dia concluído! +{0} TaterCoins
+Today's challenge: done ({0} days in a row)	Desafio do dia: feito ({0} dias seguidos)
+Today's challenge: done	Desafio do dia: feito
+Today: {0}	Hoje: {0}
+Today: {0} ({1})	Hoje: {0} ({1})
+Done for today. A new challenge comes at midnight. Days in a row: {0}	Feito por hoje. Um novo desafio chega à meia-noite. Dias seguidos: {0}
+Reward: {0} TaterCoins (more for every day in a row). A new challenge comes at midnight.	Prêmio: {0} TaterCoins (mais a cada dia seguido). Um novo desafio chega à meia-noite.
+Today's challenge	Desafio do dia
+A new challenge every day, on the menu. Do it for TaterCoins, and more for every day in a row.	Um desafio novo todo dia, no menu. Cumpra para ganhar TaterCoins, e mais a cada dia seguido.
