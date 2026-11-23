@@ -1956,3 +1956,5 @@ On TaterMaster's menu, phones buzz on the beat	W menu TaterMastera telefony wibr
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	Ulepszenia budki z frytkami
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Wydawaj TaterCoins na stanowisko frytek: gorętsza frytkownica, tablica z cenami, słoik na napiwki, minutnik dzwoniący, gdy frytki są złote, i złota solniczka. Dotknij Ulepszenia przy frytkownicy.
+Press OK to peel a strip	Naciśnij OK, aby obrać pasek
+Point at the potato and press OK to peel it	Wskaż ziemniaka i naciśnij OK, aby go obrać

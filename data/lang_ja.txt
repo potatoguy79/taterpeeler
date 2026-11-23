@@ -1933,3 +1933,5 @@ On TaterMaster's menu, phones buzz on the beat	TaterMasterのメニューでス�
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	フライ屋台のアップグレード
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	TaterCoinsでフライ場をパワーアップ：高温フライヤー、メニューボード、チップ入れ、きつね色で鳴るタイマー、金の塩入れ。フライ場で「アップグレード」をタップ。
+Press OK to peel a strip	OKを押して皮をむこう
+Point at the potato and press OK to peel it	ジャガイモを指してOKを押すと皮がむけます

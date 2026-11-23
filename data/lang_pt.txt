@@ -1933,3 +1933,5 @@ On TaterMaster's menu, phones buzz on the beat	No menu do TaterMaster, os celula
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	Melhorias da barraca de fritas
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Gaste TaterCoins na estação de fritura: fritadeira mais quente, quadro de preços, pote de gorjetas, um timer que toca quando as fritas ficam douradas e um saleiro dourado. Toque em Melhorias na fritadeira.
+Press OK to peel a strip	Aperte OK para descascar uma tira
+Point at the potato and press OK to peel it	Aponte para a batata e aperte OK para descascá-la

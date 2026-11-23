@@ -1956,3 +1956,5 @@ On TaterMaster's menu, phones buzz on the beat	В меню TaterMaster теле�
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	Улучшения палатки фри
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Трать TaterCoins на станцию фри: фритюрница погорячее, доска с ценами, банка для чаевых, таймер, который звенит, когда фри золотистая, и золотая солонка. Нажми «Улучшения» у фритюрницы.
+Press OK to peel a strip	Нажми OK, чтобы срезать полоску
+Point at the potato and press OK to peel it	Наведи на картошку и нажми OK, чтобы почистить

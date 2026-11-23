@@ -51,6 +51,7 @@
     lefts: { en: 'about # s left', zh: '还剩约 # 秒', es: 'faltan unos # s', 'es-ES': 'faltan unos # s', ru: 'осталось ~# с', pt: 'faltam uns # s', de: 'noch etwa # s', ja: '残り約 # 秒', fr: 'encore ~# s', ko: '약 #초 남음', pl: 'jeszcze ok. # s', tr: 'yaklaşık # sn kaldı', pirate: 'about # ticks left' },
     leftm: { en: 'about # min left', zh: '还剩约 # 分钟', es: 'faltan unos # min', 'es-ES': 'faltan unos # min', ru: 'осталось ~# мин', pt: 'faltam uns # min', de: 'noch etwa # Min.', ja: '残り約 # 分', fr: 'encore ~# min', ko: '약 #분 남음', pl: 'jeszcze ok. # min', tr: 'yaklaşık # dk kaldı', pirate: 'about # turns o\' the glass left' },
     nowebgl: { en: 'TaterPeeler needs WebGL, which this browser has turned off. Please try another browser.' },
+    noconsole: { en: 'This console\'s browser can\'t run 3D games, so TaterPeeler can\'t start here. Play it on a phone, tablet or computer.' },
     failed: { en: 'TaterPeeler could not load its files. Reload the page to try again. If this persists try using the web app or website.' }
   };
   function W(k) { const w = WORDS[k]; return (w && (w[LANG] || w.en)) || ''; }
@@ -70,10 +71,14 @@
   let autoQ = (tinyScreen || cores <= 2 || devMem <= 1) ? 0 : (cores <= 4 && devMem <= 2) ? 1 : 2;
   if (typeof perf.q === 'number') autoQ = Math.min(autoQ, perf.q);
   const quality = qp === null ? autoQ : Math.max(0, Math.min(2, parseInt(qp, 10) || 0));
-  const gl = canvas.getContext('webgl', { antialias: quality >= 1, alpha: false, depth: true, stencil: false, powerPreference: 'high-performance' })
-          || canvas.getContext('experimental-webgl', { antialias: quality >= 1, alpha: false });
+  const tryGl = (t, o) => { try { return canvas.getContext(t, o); } catch (e) { return null; } };
+  const gl = tryGl('webgl', { antialias: quality >= 1, alpha: false, depth: true, stencil: false, powerPreference: 'high-performance' })
+          || tryGl('experimental-webgl', { antialias: quality >= 1, alpha: false })
+          || tryGl('webgl') || tryGl('experimental-webgl') || tryGl('webgl2');   /* (4.3: browsers that won't take the options, or have only the newer one) */
   if (!gl) {
-    loader.querySelector('.msg').textContent = 'TaterPeeler needs WebGL, which this browser has turned off. Please try another browser.';
+    const consoleUA = /PlayStation|Xbox|Nintendo/i.test(navigator.userAgent || '');
+    loader.querySelector('.msg').textContent = W(consoleUA ? 'noconsole' : 'nowebgl');
+    const sb = loader.querySelector('.msg-sub'); if (sb) sb.style.display = 'none';   /* (not "a few minutes": it won't) */
     return;
   }
   const extUint = gl.getExtension('OES_element_index_uint');

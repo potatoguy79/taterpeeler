@@ -1933,3 +1933,5 @@ On TaterMaster's menu, phones buzz on the beat	Im TaterMaster-Menü vibrieren Ha
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	Pommesbude verbessern
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Gib TaterCoins für die Frittierstation aus: eine heißere Fritteuse, eine Preistafel, ein Trinkgeldglas, ein Timer, der klingelt, wenn die Pommes goldbraun sind, und ein goldener Salzstreuer. Tippe an der Frittierstation auf Verbesserungen.
+Press OK to peel a strip	Drücke OK, um einen Streifen zu schälen
+Point at the potato and press OK to peel it	Zeig auf die Kartoffel und drücke OK, um sie zu schälen

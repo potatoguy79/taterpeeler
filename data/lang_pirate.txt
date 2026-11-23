@@ -1933,3 +1933,5 @@ On TaterMaster's menu, phones buzz on the beat	On TaterMaster's menu, phones buz
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	Fry stand upgrades
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, an' a golden salt shaker. Tap Upgrades at the fry station.
+Press OK to peel a strip	Press OK to peel a strip
+Point at the potato and press OK to peel it	Point at the spud an' press OK to peel it

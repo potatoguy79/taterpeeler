@@ -1933,3 +1933,5 @@ On TaterMaster's menu, phones buzz on the beat	TaterMaster 메뉴에서 휴대�
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	감자튀김 가게 업그레이드
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	TaterCoins로 튀김 코너를 업그레이드하세요: 더 뜨거운 튀김기, 가격판, 팁 항아리, 노릇해지면 울리는 타이머, 황금 소금통. 튀김 코너에서 업그레이드를 누르세요.
+Press OK to peel a strip	OK를 눌러 한 줄 깎으세요
+Point at the potato and press OK to peel it	감자를 가리키고 OK를 눌러 깎으세요

@@ -1933,3 +1933,5 @@ On TaterMaster's menu, phones buzz on the beat	在 TaterMaster 菜单里，手�
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	薯条摊升级
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	用 TaterCoins 升级炸薯条台：更热的炸锅、价目板、小费罐、薯条变金黄时会响的计时器，还有金色盐瓶。在炸薯条台点「升级」。
+Press OK to peel a strip	按 OK 削下一条皮
+Point at the potato and press OK to peel it	指向土豆并按 OK 削皮

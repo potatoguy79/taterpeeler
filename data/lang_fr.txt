@@ -1933,3 +1933,5 @@ On TaterMaster's menu, phones buzz on the beat	Dans le menu de TaterMaster, les 
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	Améliorations du stand de frites
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Dépense tes TaterCoins pour la friteuse : une friteuse plus chaude, un tableau des prix, un pot à pourboires, un minuteur qui sonne quand les frites sont dorées et une salière dorée. Touche Améliorations à la friteuse.
+Press OK to peel a strip	Appuie sur OK pour éplucher une bande
+Point at the potato and press OK to peel it	Vise la pomme de terre et appuie sur OK pour l'éplucher

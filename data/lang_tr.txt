@@ -1933,3 +1933,5 @@ On TaterMaster's menu, phones buzz on the beat	TaterMaster menüsünde telefonla
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	Patates tezgâhı geliştirmeleri
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	TaterCoins'lerini kızartma istasyonuna harca: daha sıcak fritöz, fiyat panosu, bahşiş kavanozu, patatesler altın rengine dönünce çalan zamanlayıcı ve altın tuzluk. Kızartma istasyonunda Geliştirmeler'e dokun.
+Press OK to peel a strip	Bir şerit soymak için OK'a bas
+Point at the potato and press OK to peel it	Patatese doğrult ve soymak için OK'a bas

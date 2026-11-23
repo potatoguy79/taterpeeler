@@ -1933,3 +1933,5 @@ On TaterMaster's menu, phones buzz on the beat	En el menú de TaterMaster, los m
 # 4.3: watching, the fry stand, vibration
 Fry stand upgrades	Mejoras del puesto de patatas
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Gasta TaterCoins en la freidora: una freidora más caliente, un tablero de precios, un bote de propinas, un temporizador que suena cuando las patatas se doran y un salero dorado. Toca Mejoras en la freidora.
+Press OK to peel a strip	Pulsa OK para pelar una tira
+Point at the potato and press OK to peel it	Apunta a la patata y pulsa OK para pelarla
