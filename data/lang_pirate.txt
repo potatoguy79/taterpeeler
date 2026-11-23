@@ -1886,3 +1886,9 @@ Show me one I haven't found	Show me one I ain't found
 # 4.3: the World map you can move
 The World map	The map o' the world
 Drag it around and zoom in close (pinch, scroll or tap + and -). Pins close together gather into bubbles, and Show me one I haven't found takes you to a place you haven't found a potato from yet.	Drag it about an' zoom in close (pinch, scroll or tap + an' -). Pins close together gather into bubbles, an' Show me one I ain't found takes ye to a place ye ain't found a spud from yet.
+
+# 4.3: TaterMaster's own menu
+Play	Play
+HOT POTATO  ·  LAST ONE STANDING	HOT SPUD  ·  LAST ONE STANDIN'
+Games played {0}  ·  Wins {1}	Games played {0}  ·  Wins {1}
+Enter to play  ·  Esc to leave	Enter to play  ·  Esc to leave

@@ -1886,3 +1886,9 @@ Show me one I haven't found	Bulmadığım birini göster
 # 4.3: the World map you can move
 The World map	Dünya haritası
 Drag it around and zoom in close (pinch, scroll or tap + and -). Pins close together gather into bubbles, and Show me one I haven't found takes you to a place you haven't found a potato from yet.	Sürükleyip yakınlaştır (iki parmak, kaydırma ya da + ve -). Yakın iğneler baloncuklarda toplanır; Bulmadığım birini göster seni henüz patates bulmadığın bir yere götürür.
+
+# 4.3: TaterMaster's own menu
+Play	Oyna
+HOT POTATO  ·  LAST ONE STANDING	SICAK PATATES  ·  AYAKTA KALAN SON KİŞİ
+Games played {0}  ·  Wins {1}	Oynanan {0}  ·  Galibiyet {1}
+Enter to play  ·  Esc to leave	Oynamak için Enter  ·  Çıkmak için Esc

@@ -1886,3 +1886,9 @@ Show me one I haven't found	Montre-m'en une que je n'ai pas
 # 4.3: the World map you can move
 The World map	La carte du monde
 Drag it around and zoom in close (pinch, scroll or tap + and -). Pins close together gather into bubbles, and Show me one I haven't found takes you to a place you haven't found a potato from yet.	Fais-la glisser et zoome de près (pince, fais défiler ou touche + et -). Les épingles proches se regroupent en bulles, et Montre-m'en une que je n'ai pas t'emmène vers un endroit dont tu n'as pas encore de patate.
+
+# 4.3: TaterMaster's own menu
+Play	Jouer
+HOT POTATO  ·  LAST ONE STANDING	PATATE CHAUDE  ·  LE DERNIER DEBOUT
+Games played {0}  ·  Wins {1}	Parties jouées {0}  ·  Victoires {1}
+Enter to play  ·  Esc to leave	Entrée pour jouer  ·  Échap pour quitter

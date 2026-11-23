@@ -1886,3 +1886,9 @@ Show me one I haven't found	Muéstrame una que no tenga
 # 4.3: the World map you can move
 The World map	El mapa del mundo
 Drag it around and zoom in close (pinch, scroll or tap + and -). Pins close together gather into bubbles, and Show me one I haven't found takes you to a place you haven't found a potato from yet.	Arrástralo y acércate mucho (pellizca, desplaza o toca + y -). Los pines cercanos se juntan en burbujas, y Muéstrame una que no tenga te lleva a un lugar del que aún no tienes papas.
+
+# 4.3: TaterMaster's own menu
+Play	Jugar
+HOT POTATO  ·  LAST ONE STANDING	PAPA CALIENTE  ·  EL ÚLTIMO EN PIE
+Games played {0}  ·  Wins {1}	Partidas {0}  ·  Victorias {1}
+Enter to play  ·  Esc to leave	Enter para jugar  ·  Esc para salir
