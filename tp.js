@@ -1042,7 +1042,14 @@
     },
     plat_music_from: f => { musicFrom = f; },
     plat_buzz: ms => { try { if (navigator.vibrate && unlocked) navigator.vibrate(ms); } catch (e) {} },   /* 4.3 (Android: yes; iPhone's Safari has none) */
-    plat_music_time: () => { try { return musicStarted && !music.paused ? music.currentTime : -1; } catch (e) { return -1; } },   /* 4.3 */
+    plat_music_time: () => {   /* 4.3: what you're hearing right now (the time the player's at, less how long the sound takes to come out) */
+      try {
+        if (!musicStarted || music.paused) return -1;
+        let lat = actx ? (actx.outputLatency || actx.baseLatency || 0.03) : 0.03;
+        lat = Math.max(0, Math.min(0.3, lat));
+        return Math.max(0, music.currentTime - lat);
+      } catch (e) { return -1; }
+    },
     plat_music: on => { musicWanted = !!on; if (on) { if (unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {}); } else { music.pause(); musicStarted = false; } },
     plat_cursor: k => {
       if (k === cursorKind) return; cursorKind = k;
