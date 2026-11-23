@@ -1935,3 +1935,32 @@ Fry stand upgrades	薯条摊升级
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	用 TaterCoins 升级炸薯条台：更热的炸锅、价目板、小费罐、薯条变金黄时会响的计时器，还有金色盐瓶。在炸薯条台点「升级」。
 Press OK to peel a strip	按 OK 削下一条皮
 Point at the potato and press OK to peel it	指向土豆并按 OK 削皮
+Hurry up!	快点！
+Ha ha!	哈哈！
+Oops!	哎呀！
+Good game	打得好
+Uh oh	糟糕
+Strips per pass	每次传递的削皮条数
+How fast the light comes on	灯亮起的快慢
+Slow	慢
+Normal	正常
+Fast	快
+Sudden death	突然死亡
+When two are left: one strip each, and the light comes on sooner	剩两人时：每人一条，灯也亮得更早
+{0} strips per pass	每次 {0} 条
+The light comes on fast	灯亮得快
+The light comes on slowly	灯亮得慢
+A golden potato! TaterCoins for every strip	金土豆！每条皮都有 TaterCoins
+A tiny one	一个小不点
+A slippery one: thinner strips	滑溜溜的：皮更细
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	削 1 条，然后传下去
+It's yours! Peel 1 strip	轮到你了！削 1 条
+It's yours! Peel {0} strips	轮到你了！削 {0} 条
+TaterMaster wins	TaterMaster 胜场
+TaterMaster games won online.	在线赢得的 TaterMaster 局数。
+TaterMaster games won online since Monday. A new week starts every Monday.	自周一以来在线赢得的 TaterMaster 局数。每周一重新开始。
+Build {0}	版本号 {0}
+See every fix	查看所有修复
+Every fix	所有修复
+Everything that's been fixed or added, down to the smallest thing. The newest first.	所有修复和新增的内容，再小也算。最新的在前。（列表为英文）

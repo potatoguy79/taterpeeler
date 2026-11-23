@@ -1935,3 +1935,32 @@ Fry stand upgrades	Mejoras del puesto de papas
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Gasta TaterCoins en la freidora: una freidora más caliente, un tablero de precios, un bote de propinas, un temporizador que suena cuando las papas se doran y un salero dorado. Toca Mejoras en la freidora.
 Press OK to peel a strip	Presiona OK para pelar una tira
 Point at the potato and press OK to peel it	Apunta a la papa y presiona OK para pelarla
+Hurry up!	¡Apúrate!
+Ha ha!	¡Ja, ja!
+Oops!	¡Uy!
+Good game	Buena partida
+Uh oh	Ay, ay
+Strips per pass	Tiras por pase
+How fast the light comes on	Qué tan rápido se enciende la luz
+Slow	Lento
+Normal	Normal
+Fast	Rápido
+Sudden death	Muerte súbita
+When two are left: one strip each, and the light comes on sooner	Cuando quedan dos: una tira cada uno y la luz se enciende antes
+{0} strips per pass	{0} tiras por pase
+The light comes on fast	La luz se enciende rápido
+The light comes on slowly	La luz se enciende despacio
+A golden potato! TaterCoins for every strip	¡Una papa dorada! TaterCoins por cada tira
+A tiny one	Una diminuta
+A slippery one: thinner strips	Una resbaladiza: tiras más finas
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	Pela 1 tira y se pasa
+It's yours! Peel 1 strip	¡Es tuya! Pela 1 tira
+It's yours! Peel {0} strips	¡Es tuya! Pela {0} tiras
+TaterMaster wins	victorias en TaterMaster
+TaterMaster games won online.	Partidas de TaterMaster ganadas en línea.
+TaterMaster games won online since Monday. A new week starts every Monday.	Partidas de TaterMaster ganadas en línea desde el lunes. Cada lunes empieza una semana nueva.
+Build {0}	Compilación {0}
+See every fix	Ver todos los arreglos
+Every fix	Todos los arreglos
+Everything that's been fixed or added, down to the smallest thing. The newest first.	Todo lo que se ha arreglado o agregado, hasta lo más pequeño. Lo más nuevo primero. (La lista está en inglés.)

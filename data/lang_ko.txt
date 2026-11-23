@@ -1935,3 +1935,32 @@ Fry stand upgrades	감자튀김 가게 업그레이드
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	TaterCoins로 튀김 코너를 업그레이드하세요: 더 뜨거운 튀김기, 가격판, 팁 항아리, 노릇해지면 울리는 타이머, 황금 소금통. 튀김 코너에서 업그레이드를 누르세요.
 Press OK to peel a strip	OK를 눌러 한 줄 깎으세요
 Point at the potato and press OK to peel it	감자를 가리키고 OK를 눌러 깎으세요
+Hurry up!	서둘러!
+Ha ha!	하하!
+Oops!	앗!
+Good game	좋은 게임
+Uh oh	어어
+Strips per pass	넘기기 전 껍질 수
+How fast the light comes on	불이 켜지는 속도
+Slow	느리게
+Normal	보통
+Fast	빠르게
+Sudden death	서든 데스
+When two are left: one strip each, and the light comes on sooner	둘만 남으면: 한 줄씩, 불도 더 빨리 켜져요
+{0} strips per pass	넘기기 전 {0}줄
+The light comes on fast	불이 빨리 켜짐
+The light comes on slowly	불이 천천히 켜짐
+A golden potato! TaterCoins for every strip	황금 감자! 한 줄마다 TaterCoins
+A tiny one	아주 작은 감자
+A slippery one: thinner strips	미끄러운 감자: 껍질이 얇게 깎여요
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	한 줄 깎으면 넘어가요
+It's yours! Peel 1 strip	네 차례! 한 줄 깎아
+It's yours! Peel {0} strips	네 차례! {0}줄 깎아
+TaterMaster wins	TaterMaster 승리
+TaterMaster games won online.	온라인에서 이긴 TaterMaster 게임.
+TaterMaster games won online since Monday. A new week starts every Monday.	월요일부터 온라인에서 이긴 TaterMaster 게임. 매주 월요일에 새로 시작해요.
+Build {0}	빌드 {0}
+See every fix	모든 수정 사항 보기
+Every fix	모든 수정 사항
+Everything that's been fixed or added, down to the smallest thing. The newest first.	고치거나 추가한 모든 것, 아주 작은 것까지. 최신순. (목록은 영어예요.)

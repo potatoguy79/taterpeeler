@@ -1935,3 +1935,32 @@ Fry stand upgrades	Améliorations du stand de frites
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Dépense tes TaterCoins pour la friteuse : une friteuse plus chaude, un tableau des prix, un pot à pourboires, un minuteur qui sonne quand les frites sont dorées et une salière dorée. Touche Améliorations à la friteuse.
 Press OK to peel a strip	Appuie sur OK pour éplucher une bande
 Point at the potato and press OK to peel it	Vise la pomme de terre et appuie sur OK pour l'éplucher
+Hurry up!	Dépêche-toi !
+Ha ha!	Ha ha !
+Oops!	Oups !
+Good game	Bien joué
+Uh oh	Oh oh
+Strips per pass	Bandes par passe
+How fast the light comes on	Vitesse d'allumage de la lumière
+Slow	Lent
+Normal	Normal
+Fast	Rapide
+Sudden death	Mort subite
+When two are left: one strip each, and the light comes on sooner	Quand il en reste deux : une bande chacun, et la lumière s'allume plus tôt
+{0} strips per pass	{0} bandes par passe
+The light comes on fast	La lumière s'allume vite
+The light comes on slowly	La lumière s'allume lentement
+A golden potato! TaterCoins for every strip	Une pomme de terre dorée ! Des TaterCoins à chaque bande
+A tiny one	Une toute petite
+A slippery one: thinner strips	Une glissante : des bandes plus fines
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	Épluche 1 bande, puis elle passe
+It's yours! Peel 1 strip	À toi ! Épluche 1 bande
+It's yours! Peel {0} strips	À toi ! Épluche {0} bandes
+TaterMaster wins	victoires TaterMaster
+TaterMaster games won online.	Parties de TaterMaster gagnées en ligne.
+TaterMaster games won online since Monday. A new week starts every Monday.	Parties de TaterMaster gagnées en ligne depuis lundi. Une nouvelle semaine commence chaque lundi.
+Build {0}	Build {0}
+See every fix	Voir chaque correction
+Every fix	Toutes les corrections
+Everything that's been fixed or added, down to the smallest thing. The newest first.	Tout ce qui a été corrigé ou ajouté, jusqu'au moindre détail. Le plus récent d'abord. (La liste est en anglais.)

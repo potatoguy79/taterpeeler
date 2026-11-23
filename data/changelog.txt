@@ -1,0 +1,214 @@
+# TaterPeeler: every fix, build by build (Settings > the build number). The newest first.
+# "== 45 | Nov 23, 2026" starts a build; each "- " line is one thing. Every publish adds a build here, even for one small fix.
+
+== 45 | Nov 23, 2026
+- Settings: the build number is at the bottom now. Tap it to see this list of every fix.
+- TaterMaster: quick emotes. Tap the speech bubble at the top right and pick Nice!, Hurry up!, Ha ha!, Oops!, Good game or Uh oh. Everyone at the table sees it over your head.
+- TaterMaster: against bots, a bot sometimes answers your emote.
+- TaterMaster: room rules for the host: strips per pass (2, 3, 4 or 5), how fast the light comes on (slow, normal, fast) and sudden death.
+- TaterMaster: sudden death means that when two are left, it's one strip each and the light comes on sooner.
+- TaterMaster: everyone else in the room sees the host's rules under the match.
+- TaterMaster: special hot potatoes now and then (never in the first round): a tiny one, a slippery one that peels in thinner strips, and a rare golden one.
+- TaterMaster: every strip you peel off a golden potato pays 5 TaterCoins.
+- TaterMaster: the banner says when a round's potato is special.
+- TaterMaster: "Peel 3 strips" and the strip marks follow the room's rules (and say "1 strip" in sudden death).
+- Leaderboard: a TaterMaster board (games won online), all time and for this week.
+- Leaderboard: This week has Potatoes and TaterMaster to pick from.
+- Portfolios: a TaterMaster wins tile. On someone else's portfolio, yours shows under it.
+- A game only counts toward the TaterMaster board when there are at least two players in the room, and only once per game.
+
+== 44 | Nov 23, 2026
+- TaterMaster online: you can see the other players peeling the hot potato now (their strips come off on your screen too, with the curls and the sound).
+- TaterMaster online: people watching a game see the host's strokes as well.
+- TaterMaster: the end of a game plays the TaterMaster menu music from just before its beat drop, not the credits song.
+- TaterMaster: its music stops when you leave a room (Done, Back to the room, New opponent, or the room closing).
+- TV remotes (Samsung Tizen, LG): pointing at the potato and pressing OK peels a stroke. The stroke could start while the click was still being handled, and then nothing peeled.
+- TV remotes: in TaterMaster, OK on your turn peels a whole strip (three passes it on).
+- TV remotes: the hints say "Press OK" on TVs, not "Drag".
+- TV remotes: a highlighted button still gets OK first in TaterMaster.
+- PlayStation, Xbox and Nintendo browsers: a clear message that their browser can't run 3D games, instead of a loading message that never finished.
+- Browsers that refuse the game's graphics options now get a few more ways to start before giving up.
+
+== 43 | Nov 22, 2026
+- TaterMaster menu: the speaker's woofer moves exactly with the bass (no lag, every punch caught, the device's sound delay allowed for).
+- TaterMaster menu: the vibration lands on the real beats.
+
+== 42 | Nov 22, 2026
+- Online: watch games that are on right now (Online > Playing now).
+- The fry stand: upgrades bought with TaterCoins (a hotter fryer, a price board, a tip jar, a timer, a golden salt shaker).
+- Settings: a switch to turn off vibrating with the music.
+- The World map: close-ups with no seams between the map pieces.
+
+== 41 | Nov 22, 2026
+- TaterMaster menu: the speaker's woofer looks real (a smooth rubber surround, the cone, the dust cap).
+
+== 40 | Nov 22, 2026
+- TaterMaster: its own music, one track in the game and one on its menu.
+- TaterMaster: the game's music starts at a different good point each time, so it never sounds cut off.
+- TaterMaster menu: a speaker on the table whose drivers move with the beat.
+- TaterMaster menu: the phone vibrates on the beat where it can.
+- TaterMaster menu: calmer, with the "Hot potato" line gone.
+- TaterMaster menu: the anvil falls much less often.
+
+== 39 | Nov 22, 2026
+- TaterMaster: its own menu at the table.
+- TaterMaster menu: now and then an anvil falls and smashes the table (it comes back).
+
+== 38 | Nov 22, 2026
+- The World map: drag it, zoom it, sharper close-ups, and pin bubbles you can tap.
+
+== 37 | Nov 22, 2026
+- Friends: add someone from their portfolio. They're asked in their game and can say yes or no.
+- Leaderboard: This week (potatoes since Monday) and Friends.
+
+== 36 | Nov 22, 2026
+- TaterMaster: every falling object rebuilt with much more detail.
+
+== 35 | Nov 22, 2026
+- Rush: Watch replay on the results card plays your Rush again, every stroke. Nothing in a replay counts.
+
+== 34 | Nov 22, 2026
+- The daily challenge: a new one every day on the menu, with TaterCoins (more for days in a row).
+
+== 33 | Nov 22, 2026
+- TaterMaster: a much more detailed washing machine (panel, display, dial, chrome door, clothes in the drum).
+- TaterMaster: a much more detailed crate of potatoes (slats, nails, hand holes, burlap, a label, real potatoes in it).
+
+== 32 | Nov 22, 2026
+- The auto peeler is off until you equip it in the Collection.
+- The auto peeler stops after 100 potatoes and needs 15 minutes to cool down.
+
+== 31 | Nov 22, 2026
+- Curly fries: a spiralizer you crank (drag round in circles, or tap). The curls drop onto the board.
+- Curly fries are in How they're made and What's new.
+
+== 30 | Nov 22, 2026
+- The auto peeler at 1,000 potatoes peeled (one potato a minute).
+- TaterMaster: no words on screen when something falls.
+
+== 29 | Nov 22, 2026
+- TaterMaster: an emergency light instead of the music stopping, and no more pistol.
+- TaterMaster: fifteen different things that can fall.
+- TaterMaster: a lit bulb over the table.
+- TV remotes: OK peels on LG and Samsung TVs.
+- PlayStation controllers work (DualShock 4 and DualSense).
+
+== 28 | Nov 21, 2026
+- Kinds of fries: shoestring, steak, crinkle cut (with a wavy knife) and waffle fries (turned a quarter between slices).
+- How they're made: how each kind of fries is made for real, in every language.
+
+== 27 | Nov 21, 2026
+- The version number on the main screen, in the update popup and in What's new, in every language.
+
+== 26 | Nov 21, 2026
+- TaterCorner isn't offered on the original iPad.
+
+== 25 | Nov 21, 2026
+- TaterMaster runs far lighter on the original iPad.
+- Online TaterMaster: no vs bar at the top.
+
+== 24 | Nov 21, 2026
+- The World map: where every potato grows, on real maps (an idea by Felix Chavez).
+- Online: you can keep chatting after you're out of a game.
+- The owner's Events tab brought up to date.
+- A maintenance switch for TaterMaster.
+
+== 23 | Nov 21, 2026
+- Staff badges you can tap.
+- Private messages from staff, with replies.
+- The leaderboard shows when each player last peeled.
+- Answers to your ideas reach every device your Cloud save is on.
+- TaterSlice can outline mouldy potatoes in light green (a setting, off unless you turn it on).
+
+== 22 | Nov 17, 2026
+- Website: the sitemap's formatting fixed.
+
+== 21 | Nov 17, 2026
+- Website: a sitemap for search engines.
+
+== 20 | Nov 17, 2026
+- Website: the verification tag's formatting fixed.
+
+== 19 | Nov 17, 2026
+- Website: Google site verification.
+
+== 18 | Nov 17, 2026
+- Website: the last update date in the README.
+
+== 17 | Nov 16, 2026
+- TaterMaster: the credits' song joins its music, and each round starts somewhere new in the song.
+
+== 16 | Nov 16, 2026
+- TaterMaster: dark and tense (one lamp, green felt, film grain).
+- TaterMaster: invited friends can join, and bots play while you wait.
+
+== 15 | Nov 16, 2026
+- TaterCorner 1.0.5: Tape Hiss Memories is its music (and the menu's, if you pick it).
+- The three cards on the menu once more.
+- Head in the Clouds fixed.
+- TaterMaster beta: online rooms.
+
+== 14 | Nov 16, 2026
+- TaterMaster (beta): hot potato for four, with bots.
+
+== 13 | Nov 16, 2026
+- A smoother live view of the other player in online matches.
+- Three quick cards on the menu: Cloud save, the new menu music, and sorry for the pop-ups.
+- A menu music setting.
+
+== 12 | Nov 16, 2026
+- TaterCorner 1.0.4: the main game's colours (loading, title, shift).
+- TaterCorner: lamp reflections fixed.
+- A crash no longer leaves the game unstable.
+
+== 11 | Nov 16, 2026
+- TaterCorner 1.0.2: drive straight away after Start.
+- TaterCorner: real LED lights in the parking lot.
+- The credits go at your own pace.
+- TaterTube thumbnails.
+- TaterTube: featured and sound fixed.
+- TaterCorner: a faster world.
+
+== 10 | Nov 16, 2026
+- Website: the version number and the last update times.
+
+== 9 | Nov 16, 2026
+- Invite players to a game from their portfolio (1v1, a private room or a public one).
+- Notifications for invites when you're away.
+
+== 8 | Nov 16, 2026
+- TaterCorner 1.0.1: a real building outside (walls all round, a roof with its units, the back, the sign by the road).
+
+== 7 | Nov 15, 2026
+- TaterCorner 1.0.0: a real 3D world (forest, a distant town, roads, traffic, a night sky).
+- TaterCorner: a title screen and a new look in your shift.
+- TaterCorner: the music and radio fixed.
+
+== 6 | Nov 15, 2026
+- TaterCorner: drivers sit lower so their heads stay inside every car.
+
+== 5 | Nov 15, 2026
+- TaterTV home in the Apple TV style.
+- Green online dots on the leaderboard.
+
+== 4 | Nov 15, 2026
+- The birthday event turned off.
+
+== 3 | Nov 15, 2026
+- TaterCorner: lamp posts at their real size with lit lanterns.
+- TaterCorner: the building's sides, back and roof, and land and trees behind it.
+- TaterCorner: the hood filters, the closet rack and the TV's logo fixed.
+- TaterCorner: a working register (live screen, ring up, drawer, receipt).
+- TaterCorner: a working light switch.
+- TaterCorner: a kitchen radio with Dalterino's songs.
+- TaterCorner: its own music.
+
+== 2 | Nov 15, 2026
+- TaterCorner: the supply closet surprise in 3D (glowing eyes in the dark).
+
+== 1 | Nov 15, 2026
+- TaterCorner in every language (its text, the clock-in card and the station signs).
+- TaterCorner: the order as a thermal slip on the rail.
+- TaterCorner: richer food colours.
+- TaterCorner: a shake and a hop when a topping goes on, and the bag bobs as things go in.
+- TaterCorner: the lighter room's steel and counters matched.

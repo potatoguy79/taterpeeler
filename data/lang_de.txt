@@ -1935,3 +1935,32 @@ Fry stand upgrades	Pommesbude verbessern
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Gib TaterCoins für die Frittierstation aus: eine heißere Fritteuse, eine Preistafel, ein Trinkgeldglas, ein Timer, der klingelt, wenn die Pommes goldbraun sind, und ein goldener Salzstreuer. Tippe an der Frittierstation auf Verbesserungen.
 Press OK to peel a strip	Drücke OK, um einen Streifen zu schälen
 Point at the potato and press OK to peel it	Zeig auf die Kartoffel und drücke OK, um sie zu schälen
+Hurry up!	Beeil dich!
+Ha ha!	Haha!
+Oops!	Hoppla!
+Good game	Gutes Spiel
+Uh oh	Oh oh
+Strips per pass	Streifen pro Weitergabe
+How fast the light comes on	Wie schnell das Licht angeht
+Slow	Langsam
+Normal	Normal
+Fast	Schnell
+Sudden death	Sudden Death
+When two are left: one strip each, and the light comes on sooner	Wenn nur noch zwei übrig sind: je ein Streifen, und das Licht geht früher an
+{0} strips per pass	{0} Streifen pro Weitergabe
+The light comes on fast	Das Licht geht schnell an
+The light comes on slowly	Das Licht geht langsam an
+A golden potato! TaterCoins for every strip	Eine goldene Kartoffel! TaterCoins für jeden Streifen
+A tiny one	Eine winzige
+A slippery one: thinner strips	Eine rutschige: dünnere Streifen
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	Schäle 1 Streifen, dann wird sie weitergegeben
+It's yours! Peel 1 strip	Sie gehört dir! Schäle 1 Streifen
+It's yours! Peel {0} strips	Sie gehört dir! Schäle {0} Streifen
+TaterMaster wins	TaterMaster-Siege
+TaterMaster games won online.	Online gewonnene TaterMaster-Spiele.
+TaterMaster games won online since Monday. A new week starts every Monday.	Seit Montag online gewonnene TaterMaster-Spiele. Jeden Montag beginnt eine neue Woche.
+Build {0}	Build {0}
+See every fix	Alle Korrekturen ansehen
+Every fix	Alle Korrekturen
+Everything that's been fixed or added, down to the smallest thing. The newest first.	Alles, was korrigiert oder hinzugefügt wurde, bis ins kleinste Detail. Das Neueste zuerst. (Die Liste ist auf Englisch.)

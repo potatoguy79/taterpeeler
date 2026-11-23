@@ -1958,3 +1958,32 @@ Fry stand upgrades	Ulepszenia budki z frytkami
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Wydawaj TaterCoins na stanowisko frytek: gorętsza frytkownica, tablica z cenami, słoik na napiwki, minutnik dzwoniący, gdy frytki są złote, i złota solniczka. Dotknij Ulepszenia przy frytkownicy.
 Press OK to peel a strip	Naciśnij OK, aby obrać pasek
 Point at the potato and press OK to peel it	Wskaż ziemniaka i naciśnij OK, aby go obrać
+Hurry up!	Pospiesz się!
+Ha ha!	Ha ha!
+Oops!	Ups!
+Good game	Dobra gra
+Uh oh	Oj oj
+Strips per pass	Paski na podanie
+How fast the light comes on	Jak szybko zapala się światło
+Slow	Wolno
+Normal	Normalnie
+Fast	Szybko
+Sudden death	Nagła śmierć
+When two are left: one strip each, and the light comes on sooner	Gdy zostanie dwóch: po jednym pasku, a światło zapala się szybciej
+{0} strips per pass	{0} paski na podanie
+The light comes on fast	Światło zapala się szybko
+The light comes on slowly	Światło zapala się powoli
+A golden potato! TaterCoins for every strip	Złoty ziemniak! TaterCoins za każdy pasek
+A tiny one	Malutki
+A slippery one: thinner strips	Śliski: cieńsze paski
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	Obierz 1 pasek, potem idzie dalej
+It's yours! Peel 1 strip	Twój! Obierz 1 pasek
+It's yours! Peel {0} strips	Twój! Obierz {0} paski
+TaterMaster wins	wygrane TaterMaster
+TaterMaster games won online.	Gry TaterMaster wygrane online.
+TaterMaster games won online since Monday. A new week starts every Monday.	Gry TaterMaster wygrane online od poniedziałku. Nowy tydzień zaczyna się w każdy poniedziałek.
+Build {0}	Kompilacja {0}
+See every fix	Zobacz wszystkie poprawki
+Every fix	Wszystkie poprawki
+Everything that's been fixed or added, down to the smallest thing. The newest first.	Wszystko, co poprawiono lub dodano, aż do najmniejszej rzeczy. Najnowsze najpierw. (Lista jest po angielsku.)

@@ -728,12 +728,12 @@
     logmsg: p => console.log('[TaterPeeler]', str(p)),
     plat_file: (np, sp) => {
       const n = str(np); let f = filePtrs[n];
-      if (!f && files[n] && /^(lang_|font_|credits|candle|disco|turkey|potato_l1|tc_)/.test(n)) {   /* arrived since: copy it in */
+      if (!f && files[n] && /^(lang_|font_|credits|changelog|candle|disco|turkey|potato_l1|tc_)/.test(n)) {   /* arrived since: copy it in */
         const d = files[n]; const p = ex.tp_malloc(d.length); views(); u8.set(d, p);
         f = filePtrs[n] = { ptr: p, size: d.length };
       }
       views();
-      if (!f) { if (/^(lang_|font_|candle|disco|turkey|credits_roll|potato_l1|tc_|tv_)/.test(n)) lazyFile(n); if (sp) i32[sp >> 2] = 0; return 0; }
+      if (!f) { if (/^(lang_|font_|candle|disco|turkey|credits_roll|changelog|potato_l1|tc_|tv_)/.test(n)) lazyFile(n); if (sp) i32[sp >> 2] = 0; return 0; }
       if (sp) i32[sp >> 2] = f.size;
       return f.ptr;
     },

@@ -1935,3 +1935,32 @@ Fry stand upgrades	フライ屋台のアップグレード
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	TaterCoinsでフライ場をパワーアップ：高温フライヤー、メニューボード、チップ入れ、きつね色で鳴るタイマー、金の塩入れ。フライ場で「アップグレード」をタップ。
 Press OK to peel a strip	OKを押して皮をむこう
 Point at the potato and press OK to peel it	ジャガイモを指してOKを押すと皮がむけます
+Hurry up!	早く！
+Ha ha!	あはは！
+Oops!	おっと！
+Good game	いい試合
+Uh oh	あらら
+Strips per pass	1回で剥く本数
+How fast the light comes on	ライトが点くまでの速さ
+Slow	遅い
+Normal	普通
+Fast	速い
+Sudden death	サドンデス
+When two are left: one strip each, and the light comes on sooner	残り2人になると：1本ずつ、ライトも早く点く
+{0} strips per pass	1回{0}本
+The light comes on fast	ライトがすぐ点く
+The light comes on slowly	ライトがゆっくり点く
+A golden potato! TaterCoins for every strip	金のジャガイモ！1本ごとにTaterCoins
+A tiny one	小さいのが来た
+A slippery one: thinner strips	つるつる：皮が細くなる
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	1本剥いたら次へ回る
+It's yours! Peel 1 strip	君の番！1本剥こう
+It's yours! Peel {0} strips	君の番！{0}本剥こう
+TaterMaster wins	TaterMasterの勝利数
+TaterMaster games won online.	オンラインで勝ったTaterMasterの数。
+TaterMaster games won online since Monday. A new week starts every Monday.	月曜日からオンラインで勝ったTaterMasterの数。毎週月曜日にリセット。
+Build {0}	ビルド {0}
+See every fix	すべての修正を見る
+Every fix	すべての修正
+Everything that's been fixed or added, down to the smallest thing. The newest first.	修正・追加したすべて、どんな小さなことも。新しい順。（一覧は英語です）

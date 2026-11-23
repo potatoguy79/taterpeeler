@@ -1935,3 +1935,32 @@ Fry stand upgrades	Melhorias da barraca de fritas
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Gaste TaterCoins na estação de fritura: fritadeira mais quente, quadro de preços, pote de gorjetas, um timer que toca quando as fritas ficam douradas e um saleiro dourado. Toque em Melhorias na fritadeira.
 Press OK to peel a strip	Aperte OK para descascar uma tira
 Point at the potato and press OK to peel it	Aponte para a batata e aperte OK para descascá-la
+Hurry up!	Anda logo!
+Ha ha!	Ha ha!
+Oops!	Opa!
+Good game	Bom jogo
+Uh oh	Ih
+Strips per pass	Tiras por passe
+How fast the light comes on	Rapidez da luz
+Slow	Devagar
+Normal	Normal
+Fast	Rápido
+Sudden death	Morte súbita
+When two are left: one strip each, and the light comes on sooner	Quando restam dois: uma tira cada, e a luz acende mais cedo
+{0} strips per pass	{0} tiras por passe
+The light comes on fast	A luz acende rápido
+The light comes on slowly	A luz acende devagar
+A golden potato! TaterCoins for every strip	Uma batata dourada! TaterCoins a cada tira
+A tiny one	Uma pequenininha
+A slippery one: thinner strips	Uma escorregadia: tiras mais finas
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	Descasque 1 tira e ela é passada
+It's yours! Peel 1 strip	É sua! Descasque 1 tira
+It's yours! Peel {0} strips	É sua! Descasque {0} tiras
+TaterMaster wins	vitórias no TaterMaster
+TaterMaster games won online.	Partidas de TaterMaster vencidas online.
+TaterMaster games won online since Monday. A new week starts every Monday.	Partidas de TaterMaster vencidas online desde segunda. Uma nova semana começa toda segunda.
+Build {0}	Build {0}
+See every fix	Ver todas as correções
+Every fix	Todas as correções
+Everything that's been fixed or added, down to the smallest thing. The newest first.	Tudo o que foi corrigido ou adicionado, até a menor coisa. O mais novo primeiro. (A lista está em inglês.)

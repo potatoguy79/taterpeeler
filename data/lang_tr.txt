@@ -1935,3 +1935,32 @@ Fry stand upgrades	Patates tezgâhı geliştirmeleri
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	TaterCoins'lerini kızartma istasyonuna harca: daha sıcak fritöz, fiyat panosu, bahşiş kavanozu, patatesler altın rengine dönünce çalan zamanlayıcı ve altın tuzluk. Kızartma istasyonunda Geliştirmeler'e dokun.
 Press OK to peel a strip	Bir şerit soymak için OK'a bas
 Point at the potato and press OK to peel it	Patatese doğrult ve soymak için OK'a bas
+Hurry up!	Acele et!
+Ha ha!	Ha ha!
+Oops!	Hay aksi!
+Good game	İyi oyundu
+Uh oh	Eyvah
+Strips per pass	Pas başına şerit
+How fast the light comes on	Işığın yanma hızı
+Slow	Yavaş
+Normal	Normal
+Fast	Hızlı
+Sudden death	Ani ölüm
+When two are left: one strip each, and the light comes on sooner	İki kişi kalınca: herkese bir şerit, ışık da daha erken yanar
+{0} strips per pass	Pas başına {0} şerit
+The light comes on fast	Işık hızlı yanar
+The light comes on slowly	Işık yavaş yanar
+A golden potato! TaterCoins for every strip	Altın patates! Her şeride TaterCoins
+A tiny one	Minicik bir tane
+A slippery one: thinner strips	Kaygan bir tane: daha ince şeritler
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	1 şerit soy, sonra devredilir
+It's yours! Peel 1 strip	Sende! 1 şerit soy
+It's yours! Peel {0} strips	Sende! {0} şerit soy
+TaterMaster wins	TaterMaster galibiyeti
+TaterMaster games won online.	Çevrim içi kazanılan TaterMaster oyunları.
+TaterMaster games won online since Monday. A new week starts every Monday.	Pazartesiden beri çevrim içi kazanılan TaterMaster oyunları. Her pazartesi yeni hafta başlar.
+Build {0}	Derleme {0}
+See every fix	Tüm düzeltmeleri gör
+Every fix	Tüm düzeltmeler
+Everything that's been fixed or added, down to the smallest thing. The newest first.	Düzeltilen ya da eklenen her şey, en küçüğüne kadar. En yenisi önce. (Liste İngilizce.)

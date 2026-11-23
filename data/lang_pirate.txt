@@ -1935,3 +1935,32 @@ Fry stand upgrades	Fry stand upgrades
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, an' a golden salt shaker. Tap Upgrades at the fry station.
 Press OK to peel a strip	Press OK to peel a strip
 Point at the potato and press OK to peel it	Point at the spud an' press OK to peel it
+Hurry up!	Make haste!
+Ha ha!	Har har!
+Oops!	Blimey!
+Good game	Good game
+Uh oh	Uh oh
+Strips per pass	Strips per pass
+How fast the light comes on	How fast the light comes on
+Slow	Slow
+Normal	Normal
+Fast	Fast
+Sudden death	Sudden death
+When two are left: one strip each, and the light comes on sooner	When two be left: one strip each, an' the light comes on sooner
+{0} strips per pass	{0} strips per pass
+The light comes on fast	The light comes on fast
+The light comes on slowly	The light comes on slowly
+A golden potato! TaterCoins for every strip	A golden spud! TaterCoins fer every strip
+A tiny one	A wee one
+A slippery one: thinner strips	A slippery one: thinner strips
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	Peel 1 strip, then 'tis passed on
+It's yours! Peel 1 strip	'Tis yers! Peel 1 strip
+It's yours! Peel {0} strips	'Tis yers! Peel {0} strips
+TaterMaster wins	TaterMaster wins
+TaterMaster games won online.	TaterMaster games won online.
+TaterMaster games won online since Monday. A new week starts every Monday.	TaterMaster games won online since Monday. A new week starts every Monday.
+Build {0}	Build {0}
+See every fix	See every fix
+Every fix	Every fix
+Everything that's been fixed or added, down to the smallest thing. The newest first.	Everything that's been fixed or added, down to the smallest thing. The newest first.

@@ -1958,3 +1958,32 @@ Fry stand upgrades	Улучшения палатки фри
 Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Трать TaterCoins на станцию фри: фритюрница погорячее, доска с ценами, банка для чаевых, таймер, который звенит, когда фри золотистая, и золотая солонка. Нажми «Улучшения» у фритюрницы.
 Press OK to peel a strip	Нажми OK, чтобы срезать полоску
 Point at the potato and press OK to peel it	Наведи на картошку и нажми OK, чтобы почистить
+Hurry up!	Быстрее!
+Ha ha!	Ха-ха!
+Oops!	Упс!
+Good game	Хорошая игра
+Uh oh	Ой-ой
+Strips per pass	Полосок за ход
+How fast the light comes on	Как быстро загорается свет
+Slow	Медленно
+Normal	Обычно
+Fast	Быстро
+Sudden death	Внезапная смерть
+When two are left: one strip each, and the light comes on sooner	Когда остаются двое: по одной полоске, и свет загорается раньше
+{0} strips per pass	{0} полоски за ход
+The light comes on fast	Свет загорается быстро
+The light comes on slowly	Свет загорается медленно
+A golden potato! TaterCoins for every strip	Золотая картошка! TaterCoins за каждую полоску
+A tiny one	Крошечная
+A slippery one: thinner strips	Скользкая: полоски тоньше
++5 TaterCoins	+5 TaterCoins
+Peel 1 strip, then it's passed on	Срежь 1 полоску, и она уйдёт дальше
+It's yours! Peel 1 strip	Твоя! Срежь 1 полоску
+It's yours! Peel {0} strips	Твоя! Срежь {0} полоски
+TaterMaster wins	побед в TaterMaster
+TaterMaster games won online.	Победы в TaterMaster онлайн.
+TaterMaster games won online since Monday. A new week starts every Monday.	Победы в TaterMaster онлайн с понедельника. Каждый понедельник начинается новая неделя.
+Build {0}	Сборка {0}
+See every fix	Все исправления
+Every fix	Все исправления
+Everything that's been fixed or added, down to the smallest thing. The newest first.	Всё, что исправлено или добавлено, до мелочей. Сначала новое. (Список на английском.)
