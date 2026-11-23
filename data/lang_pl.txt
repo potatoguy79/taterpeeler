@@ -1919,3 +1919,40 @@ Enter to play  ·  Esc to leave	Enter, aby grać  ·  Esc, aby wyjść
 # 4.3: TaterMaster's own menu
 TaterMaster's menu	Menu TaterMastera
 TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster ma teraz własne menu i własną muzykę, grającą z głośnika na stole: patrz, jak głośnik basowy rusza się w rytm (telefony też wibrują). A co jakiś czas, znikąd, kowadło.
+
+# 4.3: watching, the fry stand, vibration
+Playing now	Trwające gry
+No games on right now	Teraz nie ma gier
+Watch	Oglądaj
+{0} player	{0} gracz
+{0} players	{0} graczy
+This game's over	Ta gra się skończyła
+Starting in {0}	Start za {0}
+Final	Wynik końcowy
+Waiting for the next round	Czekamy na następną rundę
+Stop watching	Przestań oglądać
+Watching	Oglądasz
+Fry stand	Budka z frytkami
+Upgrades	Ulepszenia
+Make your fry stand better. Upgrades are yours for good.	Ulepsz swoją budkę z frytkami. Ulepszenia zostają na zawsze.
+Hotter fryer	Gorętsza frytkownica
+Hotter oil: fries cook faster each level (and burn faster, so keep an eye on them)	Gorętszy olej: frytki smażą się szybciej z każdym poziomem (i szybciej przypalają, więc pilnuj ich)
+Price board	Tablica z cenami
+A proper menu board: every batch sells for more (10%, then 20%, then 35%)	Porządna tablica z menu: każda porcja sprzedaje się drożej (10%, potem 20%, potem 35%)
+Tip jar	Słoik na napiwki
+Sometimes a good batch earns a tip on top, more often and bigger each level	Czasem dobra porcja daje napiwek, częściej i większy z każdym poziomem
+Fry timer	Minutnik
+A bell rings the moment the fries turn golden	Dzwonek dzwoni, gdy tylko frytki się zezłocą
+Golden salt shaker	Złota solniczka
+Getting the salt just right is easier	Łatwiej idealnie posolić
+Level {0}: {1} TaterCoins	Poziom {0}: {1} TaterCoins
+Buy: {0} TaterCoins	Kup: {0} TaterCoins
+You need {0} more TaterCoins	Brakuje ci {0} TaterCoins
+A tip! +{0} TaterCoins	Napiwek! +{0} TaterCoins
+Golden! Lift them out	Złote! Wyjmij je
+Vibrate with the music	Wibracje z muzyką
+On TaterMaster's menu, phones buzz on the beat	W menu TaterMastera telefony wibrują w rytm
+
+# 4.3: watching, the fry stand, vibration
+Fry stand upgrades	Ulepszenia budki z frytkami
+Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Wydawaj TaterCoins na stanowisko frytek: gorętsza frytkownica, tablica z cenami, słoik na napiwki, minutnik dzwoniący, gdy frytki są złote, i złota solniczka. Dotknij Ulepszenia przy frytkownicy.

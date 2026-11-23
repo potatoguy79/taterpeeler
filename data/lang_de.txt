@@ -1896,3 +1896,40 @@ Enter to play  ·  Esc to leave	Enter zum Spielen  ·  Esc zum Verlassen
 # 4.3: TaterMaster's own menu
 TaterMaster's menu	TaterMasters Menü
 TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster hat jetzt ein eigenes Menü und eigene Musik, aus einem Lautsprecher auf dem Tisch: Schau, wie sich der Tieftöner im Takt bewegt (Handys vibrieren mit). Und ab und zu kommt aus dem Nichts ein Amboss.
+
+# 4.3: watching, the fry stand, vibration
+Playing now	Läuft gerade
+No games on right now	Gerade läuft kein Spiel
+Watch	Zuschauen
+{0} player	{0} Spieler
+{0} players	{0} Spieler
+This game's over	Dieses Spiel ist vorbei
+Starting in {0}	Startet in {0}
+Final	Endstand
+Waiting for the next round	Warten auf die nächste Runde
+Stop watching	Nicht mehr zuschauen
+Watching	Zuschauen
+Fry stand	Pommesbude
+Upgrades	Verbesserungen
+Make your fry stand better. Upgrades are yours for good.	Mach deine Pommesbude besser. Verbesserungen behältst du für immer.
+Hotter fryer	Heißere Fritteuse
+Hotter oil: fries cook faster each level (and burn faster, so keep an eye on them)	Heißeres Öl: Pommes garen mit jeder Stufe schneller (und verbrennen schneller, also pass auf)
+Price board	Preistafel
+A proper menu board: every batch sells for more (10%, then 20%, then 35%)	Eine richtige Menütafel: Jede Ladung bringt mehr ein (10 %, dann 20 %, dann 35 %)
+Tip jar	Trinkgeldglas
+Sometimes a good batch earns a tip on top, more often and bigger each level	Manchmal bringt eine gute Ladung Trinkgeld, mit jeder Stufe öfter und mehr
+Fry timer	Frittier-Timer
+A bell rings the moment the fries turn golden	Eine Glocke läutet, sobald die Pommes goldbraun sind
+Golden salt shaker	Goldener Salzstreuer
+Getting the salt just right is easier	Genau richtig salzen wird leichter
+Level {0}: {1} TaterCoins	Stufe {0}: {1} TaterCoins
+Buy: {0} TaterCoins	Kaufen: {0} TaterCoins
+You need {0} more TaterCoins	Dir fehlen noch {0} TaterCoins
+A tip! +{0} TaterCoins	Trinkgeld! +{0} TaterCoins
+Golden! Lift them out	Goldbraun! Raus damit
+Vibrate with the music	Im Takt vibrieren
+On TaterMaster's menu, phones buzz on the beat	Im TaterMaster-Menü vibrieren Handys im Takt
+
+# 4.3: watching, the fry stand, vibration
+Fry stand upgrades	Pommesbude verbessern
+Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Gib TaterCoins für die Frittierstation aus: eine heißere Fritteuse, eine Preistafel, ein Trinkgeldglas, ein Timer, der klingelt, wenn die Pommes goldbraun sind, und ein goldener Salzstreuer. Tippe an der Frittierstation auf Verbesserungen.

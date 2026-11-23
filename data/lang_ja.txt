@@ -1896,3 +1896,40 @@ Enter to play  ·  Esc to leave	Enterでプレイ  ·  Escで戻る
 # 4.3: TaterMaster's own menu
 TaterMaster's menu	TaterMasterのメニュー
 TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMasterに専用メニューと専用の音楽ができました。テーブルのスピーカーから流れ、ウーファーがビートに合わせて動きます（スマホも振動します）。そしてときどき、どこからともなく金床が。
+
+# 4.3: watching, the fry stand, vibration
+Playing now	プレイ中
+No games on right now	いまプレイ中のゲームはありません
+Watch	観戦
+{0} player	{0}人
+{0} players	{0}人
+This game's over	このゲームは終わりました
+Starting in {0}	あと{0}で開始
+Final	最終結果
+Waiting for the next round	次のラウンドを待っています
+Stop watching	観戦をやめる
+Watching	観戦中
+Fry stand	フライ屋台
+Upgrades	アップグレード
+Make your fry stand better. Upgrades are yours for good.	フライ屋台をパワーアップ。アップグレードはずっと残ります。
+Hotter fryer	高温フライヤー
+Hotter oil: fries cook faster each level (and burn faster, so keep an eye on them)	油が熱くなり、レベルごとに早く揚がります（焦げるのも早いので注意）
+Price board	メニューボード
+A proper menu board: every batch sells for more (10%, then 20%, then 35%)	本格的なメニューボード：毎回の売り上げがアップ（10％、20％、35％）
+Tip jar	チップ入れ
+Sometimes a good batch earns a tip on top, more often and bigger each level	うまく揚がるとチップがもらえることも。レベルが上がるほど頻繁に、多く
+Fry timer	揚げタイマー
+A bell rings the moment the fries turn golden	フライがきつね色になった瞬間にベルが鳴ります
+Golden salt shaker	金の塩入れ
+Getting the salt just right is easier	塩加減がちょうどよくなりやすい
+Level {0}: {1} TaterCoins	レベル{0}：{1} TaterCoins
+Buy: {0} TaterCoins	購入：{0} TaterCoins
+You need {0} more TaterCoins	あと{0} TaterCoins必要です
+A tip! +{0} TaterCoins	チップ！+{0} TaterCoins
+Golden! Lift them out	きつね色！引き上げて
+Vibrate with the music	音楽に合わせて振動
+On TaterMaster's menu, phones buzz on the beat	TaterMasterのメニューでスマホがビートに合わせて振動
+
+# 4.3: watching, the fry stand, vibration
+Fry stand upgrades	フライ屋台のアップグレード
+Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	TaterCoinsでフライ場をパワーアップ：高温フライヤー、メニューボード、チップ入れ、きつね色で鳴るタイマー、金の塩入れ。フライ場で「アップグレード」をタップ。

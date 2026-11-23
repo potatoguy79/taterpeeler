@@ -1896,3 +1896,40 @@ Enter to play  ·  Esc to leave	Enter to play  ·  Esc to leave
 # 4.3: TaterMaster's own menu
 TaterMaster's menu	TaterMaster's menu
 TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster has its own menu now, an' its own music, playin' from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). An' every so often, out o' nowhere, an anvil.
+
+# 4.3: watching, the fry stand, vibration
+Playing now	Playin' now
+No games on right now	No games on right now
+Watch	Watch
+{0} player	{0} player
+{0} players	{0} players
+This game's over	This game be over
+Starting in {0}	Startin' in {0}
+Final	Final
+Waiting for the next round	Waitin' fer the next round
+Stop watching	Stop watchin'
+Watching	Watchin'
+Fry stand	Fry stand
+Upgrades	Upgrades
+Make your fry stand better. Upgrades are yours for good.	Make yer fry stand better. Upgrades be yers fer good.
+Hotter fryer	Hotter fryer
+Hotter oil: fries cook faster each level (and burn faster, so keep an eye on them)	Hotter oil: fries cook faster each level (an' burn faster, so keep an eye on 'em)
+Price board	Price board
+A proper menu board: every batch sells for more (10%, then 20%, then 35%)	A proper menu board: every batch sells fer more (10%, then 20%, then 35%)
+Tip jar	Tip jar
+Sometimes a good batch earns a tip on top, more often and bigger each level	Sometimes a good batch earns a tip on top, more often an' bigger each level
+Fry timer	Fry timer
+A bell rings the moment the fries turn golden	A bell rings the moment the fries turn golden
+Golden salt shaker	Golden salt shaker
+Getting the salt just right is easier	Gettin' the salt just right be easier
+Level {0}: {1} TaterCoins	Level {0}: {1} TaterCoins
+Buy: {0} TaterCoins	Buy: {0} TaterCoins
+You need {0} more TaterCoins	Ye need {0} more TaterCoins
+A tip! +{0} TaterCoins	A tip! +{0} TaterCoins
+Golden! Lift them out	Golden! Lift 'em out
+Vibrate with the music	Shake with the music
+On TaterMaster's menu, phones buzz on the beat	On TaterMaster's menu, phones buzz on the beat
+
+# 4.3: watching, the fry stand, vibration
+Fry stand upgrades	Fry stand upgrades
+Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, an' a golden salt shaker. Tap Upgrades at the fry station.

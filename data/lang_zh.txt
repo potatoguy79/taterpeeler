@@ -1896,3 +1896,40 @@ Enter to play  ·  Esc to leave	按 Enter 开始  ·  按 Esc 离开
 # 4.3: TaterMaster's own menu
 TaterMaster's menu	TaterMaster 菜单
 TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster 现在有了自己的菜单和音乐，从桌上的音箱里播放：看低音喇叭随节拍跳动（手机也会跟着振动）。还有，时不时会凭空掉下一个铁砧。
+
+# 4.3: watching, the fry stand, vibration
+Playing now	正在进行
+No games on right now	现在没有进行中的游戏
+Watch	观战
+{0} player	{0} 名玩家
+{0} players	{0} 名玩家
+This game's over	这局游戏已结束
+Starting in {0}	{0} 后开始
+Final	最终结果
+Waiting for the next round	等待下一轮
+Stop watching	停止观战
+Watching	观战中
+Fry stand	薯条摊
+Upgrades	升级
+Make your fry stand better. Upgrades are yours for good.	让你的薯条摊更好。升级永久有效。
+Hotter fryer	更热的炸锅
+Hotter oil: fries cook faster each level (and burn faster, so keep an eye on them)	油温更高：每升一级薯条熟得更快（也更容易焦，要盯着点）
+Price board	价目板
+A proper menu board: every batch sells for more (10%, then 20%, then 35%)	像样的菜单板：每一批都卖得更贵（10%，然后 20%，再 35%）
+Tip jar	小费罐
+Sometimes a good batch earns a tip on top, more often and bigger each level	做得好的一批有时会收到小费，每升一级更常见也更多
+Fry timer	油炸计时器
+A bell rings the moment the fries turn golden	薯条一变金黄铃就会响
+Golden salt shaker	金色盐瓶
+Getting the salt just right is easier	更容易把盐撒得刚刚好
+Level {0}: {1} TaterCoins	等级 {0}：{1} TaterCoins
+Buy: {0} TaterCoins	购买：{0} TaterCoins
+You need {0} more TaterCoins	还需要 {0} 个 TaterCoins
+A tip! +{0} TaterCoins	小费！+{0} TaterCoins
+Golden! Lift them out	金黄了！捞出来
+Vibrate with the music	随音乐振动
+On TaterMaster's menu, phones buzz on the beat	在 TaterMaster 菜单里，手机会随节拍振动
+
+# 4.3: watching, the fry stand, vibration
+Fry stand upgrades	薯条摊升级
+Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	用 TaterCoins 升级炸薯条台：更热的炸锅、价目板、小费罐、薯条变金黄时会响的计时器，还有金色盐瓶。在炸薯条台点「升级」。

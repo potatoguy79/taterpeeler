@@ -1896,3 +1896,40 @@ Enter to play  ·  Esc to leave	Oynamak için Enter  ·  Çıkmak için Esc
 # 4.3: TaterMaster's own menu
 TaterMaster's menu	TaterMaster menüsü
 TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster'ın artık kendi menüsü ve müziği var; masadaki hoparlörden çalıyor: woofer'ın ritimle oynamasını izle (telefonlar da titrer). Ve arada bir, birdenbire, bir örs.
+
+# 4.3: watching, the fry stand, vibration
+Playing now	Şu an oynananlar
+No games on right now	Şu an oyun yok
+Watch	İzle
+{0} player	{0} oyuncu
+{0} players	{0} oyuncu
+This game's over	Bu oyun bitti
+Starting in {0}	{0} içinde başlıyor
+Final	Sonuç
+Waiting for the next round	Sonraki tur bekleniyor
+Stop watching	İzlemeyi bırak
+Watching	İzleniyor
+Fry stand	Patates tezgâhı
+Upgrades	Geliştirmeler
+Make your fry stand better. Upgrades are yours for good.	Patates tezgâhını geliştir. Geliştirmeler kalıcıdır.
+Hotter fryer	Daha sıcak fritöz
+Hotter oil: fries cook faster each level (and burn faster, so keep an eye on them)	Daha sıcak yağ: her seviyede patatesler daha hızlı pişer (daha hızlı da yanar, göz kulak ol)
+Price board	Fiyat panosu
+A proper menu board: every batch sells for more (10%, then 20%, then 35%)	Gerçek bir menü panosu: her parti daha pahalıya satılır (%10, sonra %20, sonra %35)
+Tip jar	Bahşiş kavanozu
+Sometimes a good batch earns a tip on top, more often and bigger each level	Bazen iyi bir parti bahşiş kazandırır; her seviyede daha sık ve daha çok
+Fry timer	Kızartma zamanlayıcısı
+A bell rings the moment the fries turn golden	Patatesler altın rengine döndüğü an zil çalar
+Golden salt shaker	Altın tuzluk
+Getting the salt just right is easier	Tuzu tam kıvamında tutturmak kolaylaşır
+Level {0}: {1} TaterCoins	Seviye {0}: {1} TaterCoins
+Buy: {0} TaterCoins	Satın al: {0} TaterCoins
+You need {0} more TaterCoins	{0} TaterCoins daha gerekiyor
+A tip! +{0} TaterCoins	Bahşiş! +{0} TaterCoins
+Golden! Lift them out	Altın rengi! Çıkar
+Vibrate with the music	Müzikle titre
+On TaterMaster's menu, phones buzz on the beat	TaterMaster menüsünde telefonlar ritimle titrer
+
+# 4.3: watching, the fry stand, vibration
+Fry stand upgrades	Patates tezgâhı geliştirmeleri
+Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	TaterCoins'lerini kızartma istasyonuna harca: daha sıcak fritöz, fiyat panosu, bahşiş kavanozu, patatesler altın rengine dönünce çalan zamanlayıcı ve altın tuzluk. Kızartma istasyonunda Geliştirmeler'e dokun.

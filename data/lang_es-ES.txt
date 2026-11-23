@@ -1896,3 +1896,40 @@ Enter to play  ·  Esc to leave	Intro para jugar  ·  Esc para salir
 # 4.3: TaterMaster's own menu
 TaterMaster's menu	El menú de TaterMaster
 TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster tiene ahora su propio menú y su propia música, sonando en un altavoz sobre la mesa: mira cómo se mueve el woofer al ritmo (los móviles vibran también). Y de vez en cuando, de la nada, un yunque.
+
+# 4.3: watching, the fry stand, vibration
+Playing now	Jugando ahora
+No games on right now	Ahora no hay partidas
+Watch	Ver
+{0} player	{0} jugador
+{0} players	{0} jugadores
+This game's over	Esta partida ha terminado
+Starting in {0}	Empieza en {0}
+Final	Final
+Waiting for the next round	Esperando la siguiente ronda
+Stop watching	Dejar de ver
+Watching	Viendo
+Fry stand	Puesto de patatas
+Upgrades	Mejoras
+Make your fry stand better. Upgrades are yours for good.	Mejora tu puesto de patatas. Las mejoras son tuyas para siempre.
+Hotter fryer	Freidora más caliente
+Hotter oil: fries cook faster each level (and burn faster, so keep an eye on them)	Aceite más caliente: las patatas se hacen más rápido en cada nivel (y se queman antes, así que vigílalas)
+Price board	Tablero de precios
+A proper menu board: every batch sells for more (10%, then 20%, then 35%)	Un tablero de menú de verdad: cada tanda se vende por más (10 %, luego 20 %, luego 35 %)
+Tip jar	Bote de propinas
+Sometimes a good batch earns a tip on top, more often and bigger each level	A veces una buena tanda deja propina, más a menudo y más grande en cada nivel
+Fry timer	Temporizador
+A bell rings the moment the fries turn golden	Suena una campana en cuanto las patatas se doran
+Golden salt shaker	Salero dorado
+Getting the salt just right is easier	Es más fácil acertar con la sal
+Level {0}: {1} TaterCoins	Nivel {0}: {1} TaterCoins
+Buy: {0} TaterCoins	Comprar: {0} TaterCoins
+You need {0} more TaterCoins	Te faltan {0} TaterCoins
+A tip! +{0} TaterCoins	¡Propina! +{0} TaterCoins
+Golden! Lift them out	¡Doradas! Sácalas
+Vibrate with the music	Vibrar con la música
+On TaterMaster's menu, phones buzz on the beat	En el menú de TaterMaster, los móviles vibran al ritmo
+
+# 4.3: watching, the fry stand, vibration
+Fry stand upgrades	Mejoras del puesto de patatas
+Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Gasta TaterCoins en la freidora: una freidora más caliente, un tablero de precios, un bote de propinas, un temporizador que suena cuando las patatas se doran y un salero dorado. Toca Mejoras en la freidora.

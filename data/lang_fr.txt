@@ -1896,3 +1896,40 @@ Enter to play  ·  Esc to leave	Entrée pour jouer  ·  Échap pour quitter
 # 4.3: TaterMaster's own menu
 TaterMaster's menu	Le menu de TaterMaster
 TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster a maintenant son propre menu et sa propre musique, qui sort d'une enceinte sur la table : regarde le woofer bouger en rythme (les téléphones vibrent aussi). Et de temps en temps, sorti de nulle part, une enclume.
+
+# 4.3: watching, the fry stand, vibration
+Playing now	En cours
+No games on right now	Aucune partie en cours
+Watch	Regarder
+{0} player	{0} joueur
+{0} players	{0} joueurs
+This game's over	Cette partie est finie
+Starting in {0}	Début dans {0}
+Final	Résultat final
+Waiting for the next round	En attente de la prochaine manche
+Stop watching	Arrêter de regarder
+Watching	Spectateur
+Fry stand	Stand de frites
+Upgrades	Améliorations
+Make your fry stand better. Upgrades are yours for good.	Améliore ton stand de frites. Les améliorations sont à toi pour de bon.
+Hotter fryer	Friteuse plus chaude
+Hotter oil: fries cook faster each level (and burn faster, so keep an eye on them)	Huile plus chaude : les frites cuisent plus vite à chaque niveau (et brûlent plus vite, surveille-les)
+Price board	Tableau des prix
+A proper menu board: every batch sells for more (10%, then 20%, then 35%)	Un vrai tableau de menu : chaque fournée se vend plus cher (10 %, puis 20 %, puis 35 %)
+Tip jar	Pot à pourboires
+Sometimes a good batch earns a tip on top, more often and bigger each level	Parfois une bonne fournée rapporte un pourboire, plus souvent et plus gros à chaque niveau
+Fry timer	Minuteur
+A bell rings the moment the fries turn golden	Une clochette sonne dès que les frites sont dorées
+Golden salt shaker	Salière dorée
+Getting the salt just right is easier	Saler juste comme il faut devient plus facile
+Level {0}: {1} TaterCoins	Niveau {0} : {1} TaterCoins
+Buy: {0} TaterCoins	Acheter : {0} TaterCoins
+You need {0} more TaterCoins	Il te manque {0} TaterCoins
+A tip! +{0} TaterCoins	Un pourboire ! +{0} TaterCoins
+Golden! Lift them out	Dorées ! Sors-les
+Vibrate with the music	Vibrer avec la musique
+On TaterMaster's menu, phones buzz on the beat	Dans le menu de TaterMaster, les téléphones vibrent en rythme
+
+# 4.3: watching, the fry stand, vibration
+Fry stand upgrades	Améliorations du stand de frites
+Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Dépense tes TaterCoins pour la friteuse : une friteuse plus chaude, un tableau des prix, un pot à pourboires, un minuteur qui sonne quand les frites sont dorées et une salière dorée. Touche Améliorations à la friteuse.

@@ -1896,3 +1896,40 @@ Enter to play  ·  Esc to leave	Enter로 시작  ·  Esc로 나가기
 # 4.3: TaterMaster's own menu
 TaterMaster's menu	TaterMaster 메뉴
 TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster에 전용 메뉴와 음악이 생겼어요. 테이블 위 스피커에서 나오고, 우퍼가 비트에 맞춰 움직여요(휴대폰도 진동해요). 그리고 가끔, 난데없이 모루가 떨어져요.
+
+# 4.3: watching, the fry stand, vibration
+Playing now	진행 중
+No games on right now	지금 진행 중인 게임이 없어요
+Watch	관전
+{0} player	{0}명
+{0} players	{0}명
+This game's over	이 게임은 끝났어요
+Starting in {0}	{0}초 후 시작
+Final	최종 결과
+Waiting for the next round	다음 라운드를 기다리는 중
+Stop watching	관전 그만하기
+Watching	관전 중
+Fry stand	감자튀김 가게
+Upgrades	업그레이드
+Make your fry stand better. Upgrades are yours for good.	감자튀김 가게를 더 좋게 만들어요. 업그레이드는 영원히 유지돼요.
+Hotter fryer	더 뜨거운 튀김기
+Hotter oil: fries cook faster each level (and burn faster, so keep an eye on them)	기름이 더 뜨거워져 레벨마다 더 빨리 익어요(더 빨리 타기도 하니 잘 보세요)
+Price board	가격판
+A proper menu board: every batch sells for more (10%, then 20%, then 35%)	제대로 된 메뉴판: 매번 더 비싸게 팔려요(10%, 20%, 35%)
+Tip jar	팁 항아리
+Sometimes a good batch earns a tip on top, more often and bigger each level	잘 만든 감자튀김에 가끔 팁이 붙어요. 레벨마다 더 자주, 더 많이
+Fry timer	튀김 타이머
+A bell rings the moment the fries turn golden	감자튀김이 노릇해지는 순간 벨이 울려요
+Golden salt shaker	황금 소금통
+Getting the salt just right is easier	소금 간 맞추기가 더 쉬워져요
+Level {0}: {1} TaterCoins	레벨 {0}: {1} TaterCoins
+Buy: {0} TaterCoins	구매: {0} TaterCoins
+You need {0} more TaterCoins	TaterCoins가 {0}개 더 필요해요
+A tip! +{0} TaterCoins	팁이에요! +{0} TaterCoins
+Golden! Lift them out	노릇노릇! 건져요
+Vibrate with the music	음악에 맞춰 진동
+On TaterMaster's menu, phones buzz on the beat	TaterMaster 메뉴에서 휴대폰이 비트에 맞춰 진동해요
+
+# 4.3: watching, the fry stand, vibration
+Fry stand upgrades	감자튀김 가게 업그레이드
+Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	TaterCoins로 튀김 코너를 업그레이드하세요: 더 뜨거운 튀김기, 가격판, 팁 항아리, 노릇해지면 울리는 타이머, 황금 소금통. 튀김 코너에서 업그레이드를 누르세요.

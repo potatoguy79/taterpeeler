@@ -1919,3 +1919,40 @@ Enter to play  ·  Esc to leave	Enter — играть  ·  Esc — выйти
 # 4.3: TaterMaster's own menu
 TaterMaster's menu	Меню TaterMaster
 TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	У TaterMaster теперь своё меню и своя музыка, из колонки на столе: смотри, как вуфер двигается в такт (телефоны тоже вибрируют). А иногда, откуда ни возьмись, наковальня.
+
+# 4.3: watching, the fry stand, vibration
+Playing now	Идут сейчас
+No games on right now	Сейчас игр нет
+Watch	Смотреть
+{0} player	{0} игрок
+{0} players	Игроков: {0}
+This game's over	Эта игра закончилась
+Starting in {0}	Начало через {0}
+Final	Итог
+Waiting for the next round	Ждём следующий раунд
+Stop watching	Перестать смотреть
+Watching	Наблюдение
+Fry stand	Палатка с картошкой фри
+Upgrades	Улучшения
+Make your fry stand better. Upgrades are yours for good.	Сделай свою палатку лучше. Улучшения остаются навсегда.
+Hotter fryer	Фритюрница погорячее
+Hotter oil: fries cook faster each level (and burn faster, so keep an eye on them)	Масло горячее: с каждым уровнем фри готовится быстрее (и быстрее подгорает, так что следи)
+Price board	Доска с ценами
+A proper menu board: every batch sells for more (10%, then 20%, then 35%)	Настоящая доска меню: каждая партия продаётся дороже (10%, затем 20%, затем 35%)
+Tip jar	Банка для чаевых
+Sometimes a good batch earns a tip on top, more often and bigger each level	Иногда за удачную партию дают чаевые: с каждым уровнем чаще и больше
+Fry timer	Таймер
+A bell rings the moment the fries turn golden	Колокольчик звенит, как только фри станет золотистой
+Golden salt shaker	Золотая солонка
+Getting the salt just right is easier	Посолить в самый раз станет проще
+Level {0}: {1} TaterCoins	Уровень {0}: {1} TaterCoins
+Buy: {0} TaterCoins	Купить: {0} TaterCoins
+You need {0} more TaterCoins	Не хватает {0} TaterCoins
+A tip! +{0} TaterCoins	Чаевые! +{0} TaterCoins
+Golden! Lift them out	Золотистая! Доставай
+Vibrate with the music	Вибрация в такт музыке
+On TaterMaster's menu, phones buzz on the beat	В меню TaterMaster телефоны вибрируют в такт
+
+# 4.3: watching, the fry stand, vibration
+Fry stand upgrades	Улучшения палатки фри
+Spend TaterCoins on the fry station: a hotter fryer, a price board, a tip jar, a timer that rings when the fries turn golden, and a golden salt shaker. Tap Upgrades at the fry station.	Трать TaterCoins на станцию фри: фритюрница погорячее, доска с ценами, банка для чаевых, таймер, который звенит, когда фри золотистая, и золотая солонка. Нажми «Улучшения» у фритюрницы.
