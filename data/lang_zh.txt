@@ -1892,3 +1892,7 @@ Play	开始
 HOT POTATO  ·  LAST ONE STANDING	烫手土豆  ·  最后的幸存者
 Games played {0}  ·  Wins {1}	已玩 {0} 局  ·  获胜 {1} 次
 Enter to play  ·  Esc to leave	按 Enter 开始  ·  按 Esc 离开
+
+# 4.3: TaterMaster's own menu
+TaterMaster's menu	TaterMaster 菜单
+TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster 现在有了自己的菜单和音乐，从桌上的音箱里播放：看低音喇叭随节拍跳动（手机也会跟着振动）。还有，时不时会凭空掉下一个铁砧。

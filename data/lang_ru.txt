@@ -1915,3 +1915,7 @@ Play	Играть
 HOT POTATO  ·  LAST ONE STANDING	ГОРЯЧАЯ КАРТОШКА  ·  ОСТАНЕТСЯ ОДИН
 Games played {0}  ·  Wins {1}	Сыграно {0}  ·  Побед {1}
 Enter to play  ·  Esc to leave	Enter — играть  ·  Esc — выйти
+
+# 4.3: TaterMaster's own menu
+TaterMaster's menu	Меню TaterMaster
+TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	У TaterMaster теперь своё меню и своя музыка, из колонки на столе: смотри, как вуфер двигается в такт (телефоны тоже вибрируют). А иногда, откуда ни возьмись, наковальня.

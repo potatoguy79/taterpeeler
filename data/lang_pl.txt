@@ -1915,3 +1915,7 @@ Play	Graj
 HOT POTATO  ·  LAST ONE STANDING	GORĄCY ZIEMNIAK  ·  OSTATNI NA POLU
 Games played {0}  ·  Wins {1}	Rozegrane {0}  ·  Wygrane {1}
 Enter to play  ·  Esc to leave	Enter, aby grać  ·  Esc, aby wyjść
+
+# 4.3: TaterMaster's own menu
+TaterMaster's menu	Menu TaterMastera
+TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster ma teraz własne menu i własną muzykę, grającą z głośnika na stole: patrz, jak głośnik basowy rusza się w rytm (telefony też wibrują). A co jakiś czas, znikąd, kowadło.

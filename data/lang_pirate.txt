@@ -1892,3 +1892,7 @@ Play	Play
 HOT POTATO  ·  LAST ONE STANDING	HOT SPUD  ·  LAST ONE STANDIN'
 Games played {0}  ·  Wins {1}	Games played {0}  ·  Wins {1}
 Enter to play  ·  Esc to leave	Enter to play  ·  Esc to leave
+
+# 4.3: TaterMaster's own menu
+TaterMaster's menu	TaterMaster's menu
+TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster has its own menu now, an' its own music, playin' from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). An' every so often, out o' nowhere, an anvil.

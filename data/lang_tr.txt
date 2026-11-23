@@ -1892,3 +1892,7 @@ Play	Oyna
 HOT POTATO  ·  LAST ONE STANDING	SICAK PATATES  ·  AYAKTA KALAN SON KİŞİ
 Games played {0}  ·  Wins {1}	Oynanan {0}  ·  Galibiyet {1}
 Enter to play  ·  Esc to leave	Oynamak için Enter  ·  Çıkmak için Esc
+
+# 4.3: TaterMaster's own menu
+TaterMaster's menu	TaterMaster menüsü
+TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster'ın artık kendi menüsü ve müziği var; masadaki hoparlörden çalıyor: woofer'ın ritimle oynamasını izle (telefonlar da titrer). Ve arada bir, birdenbire, bir örs.

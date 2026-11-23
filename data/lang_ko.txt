@@ -1892,3 +1892,7 @@ Play	플레이
 HOT POTATO  ·  LAST ONE STANDING	뜨거운 감자  ·  최후의 1인
 Games played {0}  ·  Wins {1}	플레이 {0}  ·  승리 {1}
 Enter to play  ·  Esc to leave	Enter로 시작  ·  Esc로 나가기
+
+# 4.3: TaterMaster's own menu
+TaterMaster's menu	TaterMaster 메뉴
+TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster에 전용 메뉴와 음악이 생겼어요. 테이블 위 스피커에서 나오고, 우퍼가 비트에 맞춰 움직여요(휴대폰도 진동해요). 그리고 가끔, 난데없이 모루가 떨어져요.

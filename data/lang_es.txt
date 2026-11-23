@@ -1892,3 +1892,7 @@ Play	Jugar
 HOT POTATO  ·  LAST ONE STANDING	PAPA CALIENTE  ·  EL ÚLTIMO EN PIE
 Games played {0}  ·  Wins {1}	Partidas {0}  ·  Victorias {1}
 Enter to play  ·  Esc to leave	Enter para jugar  ·  Esc para salir
+
+# 4.3: TaterMaster's own menu
+TaterMaster's menu	El menú de TaterMaster
+TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster ahora tiene su propio menú y su propia música, sonando en una bocina sobre la mesa: mira cómo se mueve el woofer al ritmo (los celulares vibran también). Y de vez en cuando, de la nada, un yunque.

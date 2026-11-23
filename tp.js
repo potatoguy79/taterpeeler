@@ -399,7 +399,7 @@
   /* the credits' own music (3.0: the 1,000th potato). It plays in the SAME <audio> element as the game's music, with
      its address swapped: Safari only lets an element play by itself once a tap has started it, so a second element
      would wait for another tap (the credits' music only started when you tapped). */
-  const TRACKS = ['data/music.mp3', 'data/credits_music.mp3' + V, 'data/corner_intro.mp3' + V, 'data/corner_music.mp3' + V, 'data/radio_1.mp3' + V, 'data/radio_2.mp3' + V, 'data/radio_3.mp3' + V];   /* (4.2: 4..6, the kitchen radio) */   /* (4.2: 2, Tater Corner's arrival; 3, its own music) */
+  const TRACKS = ['data/music.mp3', 'data/credits_music.mp3' + V, 'data/corner_intro.mp3' + V, 'data/corner_music.mp3' + V, 'data/radio_1.mp3' + V, 'data/radio_2.mp3' + V, 'data/radio_3.mp3' + V, 'data/master_music.mp3' + V, 'data/master_menu.mp3' + V];   /* (4.2: 4..6, the kitchen radio) (4.3: 7 TaterMaster's music, 8 its menu's) */   /* (4.2: 2, Tater Corner's arrival; 3, its own music) */
   let musicTrack = 0, musicFrom = -1;   /* (4.2.1: where the next track starts, 0..1; -1 the start) */
   let musicBase = 0.54, musicFade = 1, musicFadeTimer = 0;   /* 4.2: the settings' volume, and a fade on top of it */
   function musicVolNow() { try { music.volume = Math.max(0, Math.min(1, musicBase * musicFade)); } catch (e) {} }
@@ -1041,6 +1041,8 @@
       else { musicFade = t >= 3 ? 0 : 1; musicVolNow(); swap(); }
     },
     plat_music_from: f => { musicFrom = f; },
+    plat_buzz: ms => { try { if (navigator.vibrate && unlocked) navigator.vibrate(ms); } catch (e) {} },   /* 4.3 (Android: yes; iPhone's Safari has none) */
+    plat_music_time: () => { try { return musicStarted && !music.paused ? music.currentTime : -1; } catch (e) { return -1; } },   /* 4.3 */
     plat_music: on => { musicWanted = !!on; if (on) { if (unlocked) music.play().then(() => { musicStarted = true; }).catch(() => {}); } else { music.pause(); musicStarted = false; } },
     plat_cursor: k => {
       if (k === cursorKind) return; cursorKind = k;

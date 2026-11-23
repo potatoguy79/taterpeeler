@@ -1892,3 +1892,7 @@ Play	Spielen
 HOT POTATO  ·  LAST ONE STANDING	HEISSE KARTOFFEL  ·  WER ÜBRIG BLEIBT
 Games played {0}  ·  Wins {1}	Gespielt {0}  ·  Siege {1}
 Enter to play  ·  Esc to leave	Enter zum Spielen  ·  Esc zum Verlassen
+
+# 4.3: TaterMaster's own menu
+TaterMaster's menu	TaterMasters Menü
+TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMaster hat jetzt ein eigenes Menü und eigene Musik, aus einem Lautsprecher auf dem Tisch: Schau, wie sich der Tieftöner im Takt bewegt (Handys vibrieren mit). Und ab und zu kommt aus dem Nichts ein Amboss.

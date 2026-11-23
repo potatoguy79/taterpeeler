@@ -1892,3 +1892,7 @@ Play	Jogar
 HOT POTATO  ·  LAST ONE STANDING	BATATA QUENTE  ·  O ÚLTIMO DE PÉ
 Games played {0}  ·  Wins {1}	Partidas {0}  ·  Vitórias {1}
 Enter to play  ·  Esc to leave	Enter para jogar  ·  Esc para sair
+
+# 4.3: TaterMaster's own menu
+TaterMaster's menu	O menu do TaterMaster
+TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	O TaterMaster agora tem seu próprio menu e sua própria música, tocando numa caixa de som na mesa: veja o woofer se mexer no ritmo (os celulares vibram junto). E de vez em quando, do nada, uma bigorna.

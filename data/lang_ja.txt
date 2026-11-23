@@ -1892,3 +1892,7 @@ Play	プレイ
 HOT POTATO  ·  LAST ONE STANDING	ホットポテト  ·  最後の一人まで
 Games played {0}  ·  Wins {1}	プレイ回数 {0}  ·  勝利 {1}
 Enter to play  ·  Esc to leave	Enterでプレイ  ·  Escで戻る
+
+# 4.3: TaterMaster's own menu
+TaterMaster's menu	TaterMasterのメニュー
+TaterMaster has its own menu now, and its own music, playing from a speaker on the table: watch the woofer move with the beat (phones buzz with it too). And every so often, out of nowhere, an anvil.	TaterMasterに専用メニューと専用の音楽ができました。テーブルのスピーカーから流れ、ウーファーがビートに合わせて動きます（スマホも振動します）。そしてときどき、どこからともなく金床が。
