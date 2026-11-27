@@ -25,7 +25,7 @@ birthday: off
 #   (The Turkey Potato, the Thanksgiving kitchen and the banner. Players can also turn it off
 #   for themselves in Settings.)
 #   👉👉👉  change the next line  👇
-thanksgiving: off
+thanksgiving: off now.
 #
 # ----------------------------------------------------------------------------------
 #   🔧  MAINTENANCE   (turn a game mode off for a while)     words you can use:  on  /  off
